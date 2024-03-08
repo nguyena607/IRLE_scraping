@@ -7,33 +7,27 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import WebDriverException, TimeoutException
-import traceback
 import time
 from selenium.webdriver.common.action_chains import ActionChains
+from webdriver_manager.chrome import ChromeDriverManager
+
+from LOCATIONS import LOCATIONS
+from RESTAURANTS import RESTAURANTS
+
 
 # Logging setup
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-
+LOCATIONS = LOCATIONS
+RESTAURANTS = RESTAURANTS
 FILE_PATH = "prices.jsonl"
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
 CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
-LOCATIONS = ["2020 Bancroft Way, Berkeley"]
-RESTAURANTS = ["McDonald", "Jack in the Box", "KFC",  "Wendy", "Burger King", "Taco Bell"]
 
 def setup_driver():
     # Webdriver options
     chrome_options = Options()
-    chrome_options.add_argument("--headless")  # Run in headless mode
-    # chrome_options.add_argument("--disable-gpu")
-    # chrome_options.add_argument("--no-sandbox")
-    # chrome_options.add_argument("--disable-dev-shm-usage")
-    # chrome_options.add_argument(
-    #     "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-    #     "(KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36"
-    # )
     chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3")
 
     
@@ -45,24 +39,25 @@ def find_search_box_and_enter_query(driver, query, restaurant_or_location = "RES
     try:
         # Wait for the search box to become clickable
         if restaurant_or_location == "RESTAURANT":
-            search_box = WebDriverWait(driver, 10).until(
+            search_box = WebDriverWait(driver, 2).until(
                 EC.element_to_be_clickable((By.ID, "search-suggestions-typeahead-input"))
             )
         elif restaurant_or_location == "LOCATION":
             search_box = WebDriverWait(driver, 5).until(
                 EC.element_to_be_clickable((By.ID, "location-typeahead-home-input"))
-                print("found sesarch box")
             )
         search_box.click()
         search_box.clear()
         search_box.send_keys(query)
         search_box.send_keys(Keys.RETURN)
+        time.sleep(2)
         if restaurant_or_location == "LOCATION":     
             # Sometimes using the ActionChains can help perform more complex sequences of actions that may be required
             search_button = WebDriverWait(driver, 10).until(
                 EC.element_to_be_clickable((By.XPATH, "//button[normalize-space()='Search here']"))
             )
             ActionChains(driver).move_to_element(search_button).click(search_button).perform()
+            time.sleep(1)
             logger.info(f"Fisnished inputting address!")
         else:
             logger.info(f"Passed {query} search page!")
@@ -70,39 +65,72 @@ def find_search_box_and_enter_query(driver, query, restaurant_or_location = "RES
         return True
     except:
         return False
+  
 
-def scrape_restaurant_data(driver, restaurant_name):
+def scrape_restaurant_data(driver, restaurant_name, location):
     item_data = {}
-    wait = WebDriverWait(driver, 10)
+    wait = WebDriverWait(driver, 2)
     if find_search_box_and_enter_query(driver, restaurant_name, restaurant_or_location = "RESTAURANT"):
         # Click on the first restaurant result
         first_result = wait.until(EC.element_to_be_clickable((By.XPATH, "//h3[contains(text(), '" + restaurant_name + "')]")))
         first_result.click()
 
-        # Wait for the menu items to load and fetch the top 3 featured items
-        #featured_items = wait.until(EC.presence_of_all_elements_located((By.XPATH, "//div[@data-testid='store-card']")))
-        #for item in featured_items[:3]:  # Get the top 3 featured items
-            #name = item.find_element(By.XPATH, ".//h4").text
-            #price = item.find_element(By.XPATH, ".//div[contains(@class,'item-price')]//span").text
-            #item_data[name] = price
+    try:
+        # Find the script tag that contains the JSON data
+        script = wait.until(EC.presence_of_element_located((By.XPATH, "//script[@type='application/ld+json']")))
+        json_data = json.loads(script.get_attribute('innerHTML'))
+        # Navigate through the JSON structure to extract menu items
+        if 'hasMenu' in json_data:
+            menu_sections = json_data['hasMenu']['hasMenuSection']
+            for section in menu_sections:
+                for item in section['hasMenuItem']:
+                    name = item['name']
+                    price = item['offers']['price']
+                    # Add the item name and price to the item_data dictionary
+                    item_data[name] = price
+                    
+        # Add location data if needed
+        item_data['location'] = location
+    except Exception as e:
+        logger.error(f"Error while scraping data: {e}")
+        
+    return item_data
 
+def update_json_file(location, restaurant, items):
+    try:
+        # Load the existing data
+        with open(FILE_PATH, 'r') as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        data = {}
 
-def main():
-    driver = setup_driver()
-    all_data = {}
+    # Update the location data with the new restaurant information
+    if location not in data:
+        data[location] = {}
+    data[location][restaurant] = items
 
-    for restaurant in RESTAURANTS:
-        logger.info(f"Scraping {restaurant}")
-        driver.get("https://www.ubereats.com")
-        if find_search_box_and_enter_query(driver, LOCATIONS[0], restaurant_or_location = "LOCATION"):
-            all_data[restaurant] = scrape_restaurant_data(driver, restaurant)
-
+    # Write the updated data back to the file
     with open(FILE_PATH, 'w') as f:
-        for restaurant, items in all_data.items():
-            entry = json.dumps({restaurant: items})
-            f.write(f"{entry}\n")
-
-    driver.quit()
+        json.dump(data, f, indent=4)
+        
+def main():
+    
+    for location in LOCATIONS:
+        driver = setup_driver()
+        in_search_page = False
+        for restaurant in RESTAURANTS:
+            logger.info(f"Scraping {restaurant} at {location}")
+            driver.get("https://www.ubereats.com")
+            if not in_search_page:
+                # Go to search page
+                if find_search_box_and_enter_query(driver, location, restaurant_or_location="LOCATION"):
+                    items = scrape_restaurant_data(driver, restaurant, location)
+                    update_json_file(location, restaurant, items)
+                    in_search_page = True
+            else:
+                items = scrape_restaurant_data(driver, restaurant, location)
+                update_json_file(location, restaurant, items)
+        driver.quit()
 
 if __name__ == "__main__":
     main()
