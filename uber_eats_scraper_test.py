@@ -20,7 +20,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-FILE_PATH = "prices.jsonl"
+FILE_PATH = "prices_test.jsonl"
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
 CHROMEDRIVER_PATH = "/Users/sakshikolli/Downloads/chromedriver-mac-x64/chromedriver"
 LOCATIONS = ["2020 Bancroft Way, Berkeley"]
