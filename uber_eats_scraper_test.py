@@ -23,7 +23,8 @@ logger = logging.getLogger(__name__)
 FILE_PATH = "prices_test.jsonl"
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
 CHROMEDRIVER_PATH = "/Users/sakshikolli/Downloads/chromedriver-mac-x64/chromedriver"
-LOCATIONS = ["2020 Bancroft Way, Berkeley"]
+#LOCATIONS = ["2020 Bancroft Way, Berkeley"]
+LOCATIONS = ["455 E Calaveras Blvd, Milpitas"]
 RESTAURANTS = ["McDonald", "Jack in the Box", "KFC",  "Wendy", "Burger King", "Taco Bell"]
 
 def setup_driver():
