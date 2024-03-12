@@ -9,8 +9,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 from selenium.webdriver.common.action_chains import ActionChains
-from webdriver_manager.chrome import ChromeDriverManager
-
 from LOCATIONS import LOCATIONS
 from RESTAURANTS import RESTAURANTS
 
@@ -23,7 +21,7 @@ LOCATIONS = LOCATIONS
 RESTAURANTS = RESTAURANTS
 FILE_PATH = "prices.jsonl"
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
-CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
+CHROMEDRIVER_PATH = "/Users/apple/Downloads/chromedriver-mac-arm64/chromedriver"
 
 def setup_driver():
     # Webdriver options
@@ -39,15 +37,25 @@ def find_search_box_and_enter_query(driver, query, restaurant_or_location = "RES
     try:
         # Wait for the search box to become clickable
         if restaurant_or_location == "RESTAURANT":
-            search_box = WebDriverWait(driver, 2).until(
-                EC.element_to_be_clickable((By.ID, "search-suggestions-typeahead-input"))
-            )
+            search_box_id = "search-suggestions-typeahead-input"
+            wait_time = 2
         elif restaurant_or_location == "LOCATION":
-            search_box = WebDriverWait(driver, 5).until(
-                EC.element_to_be_clickable((By.ID, "location-typeahead-home-input"))
-            )
-        search_box.click()
+            search_box_id = "location-typeahead-home-input"
+            wait_time = 5
+
+        search_box = WebDriverWait(driver, wait_time).until(
+            EC.element_to_be_clickable((By.ID, search_box_id))
+        )
+        
         search_box.clear()
+        search_box.click()
+        
+        length_of_existing_text = len(search_box.get_attribute('value'))  # Get the length of the existing text
+        for _ in range(length_of_existing_text):
+            search_box.send_keys(Keys.BACKSPACE)
+            
+        search_box.click()
+        
         search_box.send_keys(query)
         search_box.send_keys(Keys.RETURN)
         time.sleep(2)
@@ -71,9 +79,13 @@ def scrape_restaurant_data(driver, restaurant_name, location):
     item_data = {}
     wait = WebDriverWait(driver, 2)
     if find_search_box_and_enter_query(driver, restaurant_name, restaurant_or_location = "RESTAURANT"):
-        # Click on the first restaurant result
-        first_result = wait.until(EC.element_to_be_clickable((By.XPATH, "//h3[contains(text(), '" + restaurant_name + "')]")))
-        first_result.click()
+        try:
+            # Click on the first restaurant result
+            first_result = wait.until(EC.element_to_be_clickable((By.XPATH, "//h3[contains(text(), '" + restaurant_name + "')]")))
+            first_result.click()
+        except:
+            logger.info(f"{restaurant_name} not found at {location}.")
+            return
 
     try:
         # Find the script tag that contains the JSON data
@@ -88,9 +100,15 @@ def scrape_restaurant_data(driver, restaurant_name, location):
                     price = item['offers']['price']
                     # Add the item name and price to the item_data dictionary
                     item_data[name] = price
-                    
-        # Add location data if needed
-        item_data['location'] = location
+        full_address = None
+        if "address" in json_data:
+            address = json_data['address']
+            full_address = f"{address['streetAddress']}, {address['addressLocality']}, {address['addressRegion']} {address['postalCode']}, {address['addressCountry']}"
+                                    
+        item_data['location'] = full_address 
+        
+        # Add code to get the calories here!
+        
     except Exception as e:
         logger.error(f"Error while scraping data: {e}")
         
@@ -118,6 +136,7 @@ def main():
     for location in LOCATIONS:
         driver = setup_driver()
         in_search_page = False
+        driver.get("https://www.ubereats.com")
         for restaurant in RESTAURANTS:
             logger.info(f"Scraping {restaurant} at {location}")
             driver.get("https://www.ubereats.com")

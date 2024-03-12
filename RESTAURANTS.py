@@ -1,6 +1,9 @@
 RESTAURANTS = ["McDonald", 
                "Jack in the Box", 
-               "KFC",  
                "Wendy", 
                "Burger King", 
-               "Taco Bell"]
+               "Shake Shack",
+               "Sonic",
+               "Five Guys",
+               "Carls Jr",
+               "The Habit"]
