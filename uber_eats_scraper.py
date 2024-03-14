@@ -1,5 +1,6 @@
 import json
 import logging
+import os
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
@@ -21,7 +22,15 @@ LOCATIONS = LOCATIONS
 RESTAURANTS = RESTAURANTS
 FILE_PATH = "prices.jsonl"
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
-CHROMEDRIVER_PATH = "/Users/apple/Downloads/chromedriver-mac-arm64/chromedriver"
+CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
+
+def clear_existing_data(file_path):
+    try:
+        os.remove(file_path)
+        print(f"Cleared existing data in {file_path}.")
+    except FileNotFoundError:
+        print(f"No existing data file found at {file_path}. Starting fresh.")
+
 
 def setup_driver():
     # Webdriver options
@@ -66,7 +75,7 @@ def find_search_box_and_enter_query(driver, query, restaurant_or_location = "RES
             )
             ActionChains(driver).move_to_element(search_button).click(search_button).perform()
             time.sleep(1)
-            logger.info(f"Fisnished inputting address!")
+            logger.info(f"Finished inputting address!")
         else:
             logger.info(f"Passed {query} search page!")
 
@@ -74,82 +83,160 @@ def find_search_box_and_enter_query(driver, query, restaurant_or_location = "RES
     except:
         return False
   
-
-def scrape_restaurant_data(driver, restaurant_name, location):
+#Scrapes the restaurant data 
+def scrape_restaurant_data(driver):
     item_data = {}
-    wait = WebDriverWait(driver, 2)
-    if find_search_box_and_enter_query(driver, restaurant_name, restaurant_or_location = "RESTAURANT"):
-        try:
-            # Click on the first restaurant result
-            first_result = wait.until(EC.element_to_be_clickable((By.XPATH, "//h3[contains(text(), '" + restaurant_name + "')]")))
-            first_result.click()
-        except:
-            logger.info(f"{restaurant_name} not found at {location}.")
-            return
-
+    wait = WebDriverWait(driver, 10)
     try:
         # Find the script tag that contains the JSON data
         script = wait.until(EC.presence_of_element_located((By.XPATH, "//script[@type='application/ld+json']")))
         json_data = json.loads(script.get_attribute('innerHTML'))
-        # Navigate through the JSON structure to extract menu items
-        if 'hasMenu' in json_data:
-            menu_sections = json_data['hasMenu']['hasMenuSection']
-            for section in menu_sections:
-                for item in section['hasMenuItem']:
-                    name = item['name']
-                    price = item['offers']['price']
-                    # Add the item name and price to the item_data dictionary
-                    item_data[name] = price
+        logger.info("JSON data retrieved successfully.")
+
+        # Initialize variables to store the extracted data
+        menu_items = {}
         full_address = None
+
+        # Extract menu items if available
+        if 'hasMenu' in json_data:
+            logger.info("Found 'hasMenu' in JSON data.")
+            menu_sections = json_data['hasMenu'].get('hasMenuSection', [])
+            for section in menu_sections:
+                for item in section.get('hasMenuItem', []):
+                    name = item.get('name')
+                    price = item.get('offers', {}).get('price')
+                    if name and price:
+                        menu_items[name] = price
+
+        # Extract the full address if available
         if "address" in json_data:
-            address = json_data['address']
-            full_address = f"{address['streetAddress']}, {address['addressLocality']}, {address['addressRegion']} {address['postalCode']}, {address['addressCountry']}"
-                                    
-        item_data['location'] = full_address 
-        
-        # Add code to get the calories here!
-        
+            logger.info("Found 'address' in JSON data.")
+            address_parts = [json_data['address'].get(part) for part in ['streetAddress', 'addressLocality', 'addressRegion', 'postalCode', 'addressCountry']]
+            full_address = ', '.join(filter(None, address_parts))
+
+        # Update item_data with collected information
+        item_data['menu'] = menu_items
+        item_data['location'] = full_address
+
     except Exception as e:
         logger.error(f"Error while scraping data: {e}")
-        
+
     return item_data
 
-def update_json_file(location, restaurant, items):
-    try:
-        # Load the existing data
-        with open(FILE_PATH, 'r') as f:
-            data = json.load(f)
-    except FileNotFoundError:
+# Navigates to and scrapes the top restaurant page.
+def scrape_top_restaurant(driver, location, restaurant):
+    wait = WebDriverWait(driver, 10)
+    if find_search_box_and_enter_query(driver, restaurant, restaurant_or_location="RESTAURANT"):
+        try:
+            first_result = wait.until(EC.element_to_be_clickable((By.XPATH, "//h3[contains(text(), '" + restaurant + "')]")))
+            first_result.click()
+            item_data = scrape_restaurant_data(driver)
+            update_json_file(FILE_PATH, location, restaurant, item_data)
+        except:
+            logger.info(f"{restaurant} not found at {location}.")
+            return
+
+
+def get_carousel_items(driver, restaurant, location):
+    if find_search_box_and_enter_query(driver, restaurant, restaurant_or_location="RESTAURANT"):
+        wait = WebDriverWait(driver, 10)
+        try:
+            # Check for the presence of at least one carousel slide to ensure the carousel exists
+            carousel_exists = wait.until(EC.presence_of_element_located((By.XPATH, "//li[@data-testid='carousel-slide']")))
+            
+            if carousel_exists:
+                carousel_slides = wait.until(EC.presence_of_all_elements_located((By.XPATH, "//li[@data-testid='carousel-slide']")))
+                print(f"Found {len(carousel_slides)} carousel slides.")
+
+                for index in range(len(carousel_slides)):
+                    # Refresh the list of carousel slides to ensure we have the most current elements
+                    carousel_slides = wait.until(EC.presence_of_all_elements_located((By.XPATH, "//li[@data-testid='carousel-slide']")))
+                    slide = carousel_slides[index]
+                    store_card_link = slide.find_element(By.XPATH, ".//a[@data-testid='store-card']")
+                    
+                    href = store_card_link.get_attribute('href')
+                    print(f"Navigating to {href}")
+                    
+                    # Navigate directly to the link
+                    driver.get(href)
+                    
+                    item_data = scrape_restaurant_data(driver)
+                    update_json_file(FILE_PATH, location, restaurant, item_data)
+                    # Navigate back to the carousel page
+                    driver.back()
+
+                    # Wait for the carousel to reappear
+                    wait.until(EC.presence_of_all_elements_located((By.XPATH, "//li[@data-testid='carousel-slide']")))
+                print("Finished visiting all carousel items.")
+            else:
+                print("Carousel not found.")
+        except Exception as e:
+            print("An unexpected error occurred: ", e)    
+        except:
+            logger.info(f"{restaurant} not found at {location}.")
+    else:
+        print("Search box not found or query failed.")
+
+
+#Update JSON File 
+def update_json_file(file_path, location, restaurant, new_data):
+    if os.path.exists(file_path):
+        with open(file_path, 'r') as file:
+            try:
+                data = json.load(file)
+            except json.JSONDecodeError:
+                data = {}
+    else:
         data = {}
 
-    # Update the location data with the new restaurant information
     if location not in data:
         data[location] = {}
-    data[location][restaurant] = items
 
-    # Write the updated data back to the file
-    with open(FILE_PATH, 'w') as f:
-        json.dump(data, f, indent=4)
+    # Check if the restaurant already exists and create a unique key if so
+    base_restaurant_key = restaurant
+    counter = 1
+    restaurant_key = base_restaurant_key
+    while restaurant_key in data[location]:
+        counter += 1
+        restaurant_key = f"{base_restaurant_key}_{counter}"
+
+    # Now use the unique key for the restaurant
+    data[location][restaurant_key] = new_data
+
+    with open(file_path, 'w') as file:
+        json.dump(data, file, indent=4)
+
+    logger.info(f"Data for {restaurant_key} in {location} added to {file_path}.")
+
         
 def main():
-    
+    # First, scrape top restaurants for all locations
     for location in LOCATIONS:
-        driver = setup_driver()
-        in_search_page = False
-        driver.get("https://www.ubereats.com")
         for restaurant in RESTAURANTS:
-            logger.info(f"Scraping {restaurant} at {location}")
-            driver.get("https://www.ubereats.com")
-            if not in_search_page:
-                # Go to search page
+            driver = setup_driver()
+            try:
+                driver.get("https://www.ubereats.com")
+                logger.info(f"Scraping top restaurant data for {restaurant} at {location}")
                 if find_search_box_and_enter_query(driver, location, restaurant_or_location="LOCATION"):
-                    items = scrape_restaurant_data(driver, restaurant, location)
-                    update_json_file(location, restaurant, items)
-                    in_search_page = True
-            else:
-                items = scrape_restaurant_data(driver, restaurant, location)
-                update_json_file(location, restaurant, items)
-        driver.quit()
+                    scrape_top_restaurant(driver, location, restaurant)
+            finally:
+                driver.quit()  
+
+    # After completing top restaurants, start scraping carousel items for all locations
+    for location in LOCATIONS:
+        for restaurant in RESTAURANTS:
+            driver = setup_driver()
+            try:
+                driver.get("https://www.ubereats.com")
+                logger.info(f"Scraping carousel restaurant data for {restaurant} at {location}")
+                if find_search_box_and_enter_query(driver, location, restaurant_or_location="LOCATION"):
+                    get_carousel_items(driver, restaurant,location)
+                else:
+                    logger.error(f"Failed to find search box or enter query for {restaurant} at {location}")
+            finally:
+                driver.quit() 
 
 if __name__ == "__main__":
+    clear_existing_data(FILE_PATH)
     main()
+
