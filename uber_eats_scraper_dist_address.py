@@ -9,6 +9,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
+import re
 from selenium.webdriver.common.action_chains import ActionChains
 from LOCATIONS import LOCATIONS
 from RESTAURANTS import RESTAURANTS
@@ -124,6 +125,11 @@ def scrape_restaurant_data(driver):
             rating = ratings_elem.text
             logger.info(f"Found rating: {rating}")
 
+            no_ratings_elem = info_elems[1]
+            no_ratings_txt = no_ratings_elem.text
+            no_ratings = re.search('(\d{1,3}\+?)', no_ratings_txt).group(1)
+            logger.info(f"Found number of ratings: {no_ratings}")
+
             distance_elem = info_elems[3]  # This will get the fourth element in the list
             distance = distance_elem.text
             logger.info(f"Found distance: {distance}")
@@ -131,12 +137,14 @@ def scrape_restaurant_data(driver):
         else:
             logger.info("Not enough rating elements found")
             rating = None   
-            distance = None  
+            distance = None
+            no_ratings = None
 
         # Update item_data with collected information
         item_data['menu'] = menu_items
         item_data['location'] = full_address
-        item_data['rating'] = rating #make sure you assign the rating text as rating 
+        item_data['rating'] = rating #make sure you assign the rating text as rating
+        item_data['number of ratings'] = no_ratings
         item_data['distance'] = distance
 
     except Exception as e:
