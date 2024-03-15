@@ -22,7 +22,8 @@ LOCATIONS = LOCATIONS
 RESTAURANTS = RESTAURANTS
 FILE_PATH = "prices.jsonl"
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
-CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
+#CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
+CHROMEDRIVER_PATH = "/Users/sakshikolli/Downloads/chromedriver-mac-x64/chromedriver"
 
 def clear_existing_data(file_path):
     try:
@@ -119,7 +120,9 @@ def scrape_restaurant_data(driver):
         # Check if there are at least four bar elements
         if len(info_elems) >= 4:
            
-           #FIND RATINGS HERE (copy the code below but for the FIRST element)
+            ratings_elem = info_elems[0]
+            rating = ratings_elem.text
+            logger.info(f"Found rating: {rating}")
 
             distance_elem = info_elems[3]  # This will get the fourth element in the list
             distance = distance_elem.text
