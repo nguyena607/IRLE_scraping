@@ -1,0 +1,513 @@
+restaurant_name,menu_item,menu_item_price,restaurant_location,inputted_location,restaurant_rating,restaurant_distance
+McDonald,Medium French Fries,4.69,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Big Mac®,6.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,10 pc. Chicken McNuggets®,6.69,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Filet-O-Fish®,6.49,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,2 Cheeseburger Meal,10.99,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,McChicken®,5.29,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Double Cheeseburger,5.29,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Cheeseburger,3.49,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,20 pc. Chicken McNuggets®,8.49,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,10 pc. Chicken McNuggets® Meal,12.19,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Big Mac® Meal,12.59,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Double Quarter Pounder® with Cheese Meal,13.29,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Coke®,2.30,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Straw,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,40 pc. Chicken McNuggets®,16.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,McCrispy™,6.19,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,McCrispy™ Meal,11.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Spoons,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Fork,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Knife,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Coffee Stirrer,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Shamrock Shake®,5.63,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,OREO® McFlurry®,5.29,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Filet-O-Fish® Meal,12.39,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Quarter Pounder® with Cheese Deluxe Meal,12.29,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Quarter Pounder® with Cheese Meal,12.39,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Double Quarter Pounder® with Cheese Deluxe Meal,14.19,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Deluxe McCrispy™ Meal,12.59,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Deluxe Spicy McCrispy™ Meal,12.69,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Spicy McCrispy™ Meal,11.99,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Double Bacon Quarter Pounder® with Cheese Meal,14.69,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Bacon Quarter Pounder® with Cheese Meal,13.69,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,6 pc. Chicken McNuggets®,5.89,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,4 pc. Chicken McNuggets®,4.09,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,6 pc. Chicken McNuggets® Meal,11.19,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,6 pc. Spicy Chicken McNuggets®,5.59,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,6 pc. Spicy Chicken McNuggets® Meal,11.19,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,10 pc. Spicy Chicken McNuggets®,6.49,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,10 pc. Spicy Chicken McNuggets® Meal,12.09,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,20 pc. Spicy Chicken McNuggets®,8.39,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,40 pc. Spicy Chicken McNuggets®,16.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Classic Big Mac® Pack,26.39,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Classic Cheeseburger Pack,20.99,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,13 Cookie Tote,9.99,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,40 pc. Chicken McNuggets® &amp; 2 Large Fries,23.99,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,40 pc. Spicy Chicken McNuggets® &amp; 2 Large Fries,23.99,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Spicy McNugget® Classic Cheeseburger Pack,20.99,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Spicy McNugget® Classic Big Mac® Pack,26.39,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,6 pc. Chicken McNuggets® Happy Meal®,8.19,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Hamburger Happy Meal®,7.09,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,4 pc. Chicken McNugget® Happy Meal®,7.29,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Cheeseburger Happy Meal®,7.69,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,4 pc. Chicken McNuggets® Happy Meal®,7.69,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Caramel Frappé,4.98,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Iced Coffee,3.39,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Mocha Frappé,4.98,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Iced Hazelnut Coffee,3.39,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Premium Roast Coffee,2.09,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Iced French Vanilla Latte,4.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Iced Mocha,4.59,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Vanilla Cappuccino,4.59,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Iced Caramel Mocha,4.59,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Iced Caramel Macchiato,4.69,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium French Vanilla Latte,4.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Iced French Vanilla Coffee,3.39,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Iced Latte,4.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Iced Caramel Latte,4.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Sugar Free Vanilla Cappuccino,4.59,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Iced Sugar Free Vanilla Coffee,3.39,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Iced Caramel Coffee,3.39,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Iced Sugar Free Vanilla Latte,4.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Sugar Free Vanilla Latte,4.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Caramel Latte,4.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Decaf Coffee,2.09,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Hot Tea,1.89,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Premium Hot Chocolate,3.69,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Caramel Hot Chocolate,3.69,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Caramel Macchiato,4.59,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Mocha,4.59,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Caramel Mocha,4.59,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Latte,4.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Hazelnut Latte,4.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Iced Hazelnut Latte,4.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Cappuccino,4.59,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Hazelnut Cappuccino,4.59,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Caramel Cappuccino,4.59,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Americano,3.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Ketchup Packet,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Sweet N Sour Dipping Sauce,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Creamy Ranch Sauce,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Tangy BBQ Dipping Sauce,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Honey Mustard,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Spicy Buffalo,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Syrup,0.29,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Strawberry Preserve,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Hot Mustard Dipping Sauce,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Grape Jam,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Mayonnaise Packet,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Hot Picante Salsa,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Mild Picante Salsa,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Honey Packet,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Salt Packet,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Creamer Packet,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Sugar Packet,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Butter,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Mustard Packet,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Equal Packet,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Pepper Packet,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Splenda Packet,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Savory Chili WcDonald's Sauce,0.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Apple Slices,1.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,3 Half Strips Bacon,2.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Apple Pie,3.19,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Plain Sundae,3.59,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Caramel Sundae,4.29,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Vanilla Shake,5.63,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Chocolate Shake,5.63,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Hot Fudge Sundae,4.29,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Strawberry Shake,5.63,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,OREO® Shamrock McFlurry®,4.89,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,M&amp;M® McFlurry®,5.29,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,1 Cookie,1.69,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,2 Cookies,2.59,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Strawberry &amp; Crème Pie,3.09,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Sprite®,2.30,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Diet Coke®,2.09,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Hi-C® Orange,2.30,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Strawberry Banana Smoothie,4.98,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Dr Pepper®,2.30,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Minute Maid® Orange Juice,3.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Sweet Iced Tea,2.38,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,DASANI® Bottled Water,2.99,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Honest Kids® Organic Apple Juice Drink,2.09,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Mango Pineapple Smoothie,4.98,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Fanta® Orange,2.30,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Frozen Fanta® Wild Cherry,3.39,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Frozen Fanta® Blue Raspberry,3.39,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Unsweetened Iced Tea,2.09,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Frozen Coca-Cola®,3.39,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Chocolate Milk,2.09,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium POWERADE®,2.30,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Diet Dr Pepper®,2.09,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Milk,2.09,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Sweet Tea Lemonade,3.38,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Unsweetened Tea Lemonade,3.09,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Medium Lemonade,3.38,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Deluxe McCrispy™,6.99,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Spicy McCrispy™,6.00,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Deluxe Spicy McCrispy™,7.59,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Quarter Pounder® with Cheese,6.69,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Double Bacon Quarter Pounder® with Cheese,9.69,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Double Quarter Pounder® with Cheese,8.59,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Triple Cheeseburger,5.49,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Bacon Quarter Pounder® with Cheese,8.39,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Quarter Pounder® with Cheese Deluxe,7.09,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Hamburger,2.89,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Double Hamburger,3.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Double Quarter Pounder® with Cheese Deluxe,8.79,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Bacon McDouble®,5.39,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Daily Double®,5.29,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,McDouble®,5.09,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+McDonald,Hot 'N Spicy McChicken®,4.99,"1330 JACKSON ST, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,0.5 mi
+Jack in the Box,Build Your Own Munchie Meal,13.75,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Bacon Ultimate Cheeseburger™,10.49,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Bacon Ultimate Cheeseburger™  Combo,17.35,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large French Fry,5.24,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Jumbo Egg Rolls (3),6.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Stuffed Jalapenos (7),6.74,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Jumbo Jack® Cheeseburger,6.86,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Curly Fry,5.74,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Chicken Nuggets (8),6.11,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Homestyle Ranch Chicken Club Combo,17.35,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Sourdough Jack® Combo,15.85,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Sourdough Jack®,8.99,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,4pc Mozzarella Sticks,4.99,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Oreo® Shake,7.49,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Jack's Spicy Chicken® w/ Cheese Combo,16.48,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Bacon &amp; Swiss Buttery Jack® Combo,15.85,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Jack's Spicy Chicken®,8.99,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Extreme Sausage® Sandwich,6.86,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Meat Lovers Burrito,7.99,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Loaded Tiny Tacos,6.25,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Bacon Double Smashed Jack Combo,18.73,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Bacon Double Smashed Jack,13.74,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Classic Smashed Jack Combo,15.98,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Classic Smashed Jack,9.74,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,6pc Cinnamon Sugar Churro Flavor French Toast Sticks,6.24,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,6pc Classic French Toast Sticks,6.24,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,3pc Cinnamon Sugar Churro Flavor French Toast Sticks,3.13,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,3pc Classic French Toast Sticks,3.74,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Oreo® Cookie Mint Shake,7.49,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Milk Tea w/ Boba,5.30,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Iced Coffee w/ Boba,5.30,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Jumbo Jack® Cheeseburger Combo,13.48,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Ultimate Cheeseburger™ Combo,16.10,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Double Jack® Combo,16.10,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Jumbo Jack®  Combo,12.85,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Classic Buttery Jack® Combo,14.98,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Jack's Spicy Chicken® Combo,15.85,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Crispy Chicken Strips (3) Combo,16.48,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Chicken Nuggets (8) Combo,12.98,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Crispy Chicken Strips (5) Combo,18.98,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Cluck Sandwich Combo,15.48,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Chicken Teriyaki Bowl Combo,15.49,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Grilled Chicken Sandwich Combo,16.48,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Chicken Fajita Pita Combo,15.23,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Meat Lovers Burrito Combo,12.86,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Loaded Breakfast Sandwich Combo,12.86,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Sausage Croissant Combo,11.36,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Jumbo Breakfast Platter w/ Bacon &amp; Sausage Combo,13.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Extreme Sausage® Sandwich Combo,11.86,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Supreme Croissant Combo,11.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Jumbo Breakfast Platter w/ Sausage Combo,13.24,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Ultimate Breakfast Sandwich Combo,12.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Breakfast Jack® Combo,9.49,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Jumbo Breakfast Platter w/ Bacon Combo,13.24,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Sausage Breakfast Jack® Combo,9.86,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Bacon Breakfast Jack® Combo,9.86,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Supreme Sourdough Combo,12.24,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Two Tacos,2.49,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Classic Crispy Jack Wrap,4.11,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Tiny Tacos,5.00,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Spicy Crispy Jack Wrap,4.11,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Onion Rings,5.99,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Jumbo Egg Roll (1),4.99,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Stuffed Jalapenos (3),5.49,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Classic Grilled Jack Wrap,4.11,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Spicy Grilled Jack Wrap,4.11,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Mini Churros (5),4.11,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Cheesecake,4.49,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Chocolate Overload™ Cake,4.36,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Vanilla Shake,7.11,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Strawberry Shake,7.11,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Chocolate Shake,7.11,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Coca-Cola®,4.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Dr Pepper®,4.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Caramel Sweet Cream Iced Coffee,4.11,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Sprite®,4.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Diet Coke®,4.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Fanta®,4.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Mocha Sweet Cream Iced Coffee,4.11,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Barq's® Root Beer,4.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Peace Tea,4.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Simply Orange®,4.49,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Red Bull® Energy Can,4.36,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Dasani® Bottled Water,2.86,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Berry Purple Daze Red Bull Infusion w/ Red Bull® Energy,7.49,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Minute Maid® Lemonade,4.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Minute Maid® Apple Juice,2.74,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Peace Tea Zero Sugar,4.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Vanilla Sweet Cream Iced Coffee,4.11,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large High Mountain Arabica Coffee,3.74,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Milk,3.74,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Red Bull® Energy SugarFree Can,4.36,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Coca-Cola® Zero Sugar,4.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Strawberry Red Daze Red Bull Infusion w/ Red Bull® Energy,7.49,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Diet Dr Pepper®,4.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Minute Maid® Lemonade Zero Sugar,4.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Strawberry Red Daze Red Bull Infusion w/ Red Bull® Sugarfree,7.49,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Berry Purple Daze Red Bull Infusion w/ Red Bull® Sugarfree,7.49,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Black Iced Coffee,3.99,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Large Gold Peak® Iced Tea,4.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Jr. Bacon Cheeseburger,3.99,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Jr. Jumbo Jack® Cheeseburger,3.74,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Ultimate Cheeseburger™,9.24,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Bacon &amp; Swiss Buttery Jack®,8.99,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Jr. Jumbo Jack®,3.49,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Double Jack®,9.24,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Jumbo Jack®,6.24,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Classic Buttery Jack®,8.24,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Chicken Sandwich,2.99,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Chicken Teriyaki Bowl,9.36,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Cluck Sandwich,8.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Homestyle Ranch Chicken Club,10.49,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Crispy Chicken Strips (3),9.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Crispy Chicken Strips (5),12.11,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Jack's Spicy Chicken® w/ Cheese,9.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Chicken Fajita Pita,8.36,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Garden Salad w/ Grilled Chicken,10.24,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Southwest Salad w/ Crispy Chicken,10.36,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Grilled Chicken Sandwich,9.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Garden Salad w/ Crispy Chicken,10.24,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Southwest Salad w/ Grilled Chicken,10.36,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Hash brown,3.74,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Sausage Croissant,6.49,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Supreme Croissant,6.86,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Loaded Breakfast Sandwich,8.11,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Breakfast Jack®,4.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Sausage Breakfast Jack®,4.99,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Ultimate Breakfast Sandwich,7.74,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Jumbo Breakfast Platter Bacon &amp; Sausage,8.74,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Sourdough Breakfast Sandwich,5.49,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Mini Pancakes w/syrup,4.61,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Bacon Breakfast Jack®,4.99,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Jumbo Breakfast Platter w/ Bacon,8.36,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Jumbo Breakfast Platter w/ Sausage,8.36,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Jack in the Box,Supreme Sourdough,7.86,"1826 Webster St, Alameda, CA, 94501, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Wendy,6 PC. Spicy Chicken Nuggets,3.89,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Baconator® Combo,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Dave's Combo,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,French Fries,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,10 PC. Nuggets Combo,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Jr. Bacon Cheeseburger,3.65,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,10 PC. Crispy Chicken Nuggets,6.33,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Chili,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Spicy Chicken Sandwich Combo,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Grilled Chicken Wrap Combo,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Big Bacon Classic® Combo,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Classic Chicken Sandwich Combo,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Asiago Ranch Chicken Club Combo,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Ghost Pepper Ranch Chicken Sandwich Combo,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Loaded Nacho Chicken Combo,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Loaded Nacho Cheeseburger Combo,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Loaded Nacho Double Cheeseburger Combo,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Loaded Nacho Triple Cheeseburger Combo,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Pretzel Baconator® Combo,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Crispy Panko Fish Sandwich Combo,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Baconator®,10.11,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Son of Baconator®,8.41,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Double Stack™,3.65,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Bacon Double Stack,4.14,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Jr. Cheeseburger Deluxe,3.28,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Jr. Cheeseburger,2.92,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Jr. Hamburger,2.43,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Dave's Single®,7.67,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Dave's Double®,9.14,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Dave's Triple®,10.60,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Big Bacon Classic®,8.53,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Big Bacon Classic® Double,9.99,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Big Bacon Classic® Triple,11.46,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Loaded Nacho Single Cheeseburger,8.77,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Loaded Nacho Double Cheeseburger,10.24,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Loaded Nacho Triple Cheeseburger,11.70,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Pretzel Baconator®,11.33,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,6 PC. Crispy Chicken Nuggets,3.89,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Ghost Pepper Ranch Chicken Sandwich,9.38,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Grilled Chicken Wrap,8.16,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,4 PC. Spicy Chicken Nuggets,3.04,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Crispy Chicken Sandwich,2.92,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Crispy Chicken BLT,3.40,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,4 PC. Crispy Chicken Nuggets,3.16,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Classic Chicken Sandwich,8.53,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Spicy Chicken Sandwich,8.53,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Asiago Ranch Classic Chicken Club,8.77,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Crispy Panko Fish Sandwich,5.23,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Loaded Nacho Chicken,9.38,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Parmesan Caesar Salad,9.99,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Cobb Salad,9.99,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Taco Salad,9.99,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Apple Pecan Salad,9.99,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Sour Cream and Chive Baked Potato,3.53,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Bacon Cheese Baked Potato,4.87,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Baconator Fries,3.65,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Chili Cheese Fries,3.65,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Cheese Fries,3.40,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Chili &amp; Cheese Baked Potato,4.87,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Cheese Baked Potato,4.26,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Plain Baked Potato,3.16,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Apple Bites,1.21,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Queso Fries,2.92,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Coca-Cola®,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Strawberry Lemonade,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Blueberry Pomegranate Lemonade,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Diet Coke®,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Pineapple Mango Lemonade,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Sprite®,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Caramel Frosty® Cream Cold Brew,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,All-Natural Lemonade,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Dr Pepper®,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Coca-Cola® Zero Sugar,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Vanilla Frosty® Cream Cold Brew,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Hi-C® Flashin' Fruit Punch®,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Chocolate Frosty® Cream Cold Brew,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Barq's® Root Beer,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Simply Orange® Juice,3.65,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Nestlé® Pure Life® Bottled Water,2.06,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Cold Brew,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Fanta® Orange,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Iced Tea,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Regular Hot Coffee,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Honest Kids® Fruit Punch,1.45,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Diet Dr Pepper®,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Classic Chocolate Frosty®,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Vanilla Frosty®,0.00,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Chocolate Chunk Cookie,2.06,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Sugar Cookie,2.06,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Oatmeal Bar,2.06,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Kids' 4PC Nuggets,6.09,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Kids' Cheeseburger,5.48,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Kids' 4 PC. Spicy Nuggets,6.09,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Wendy,Kids' Hamburger,5.11,"5211 Broadway, Oakland, CA, 94618, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,2.4 mi
+Burger King,Whopper® Meal,13.99,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Family Bundle,24.99,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Bacon King Meal,15.69,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Classic Oreo® Shake,5.39,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,French Fries,3.99,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Double Whopper® Meal,15.19,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,4 Pc. Mozzarella Sticks,3.99,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Double Cheeseburger,3.99,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Whopper®,8.59,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Original Chicken Sandwich Meal,13.79,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Original Chicken Sandwich,8.39,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,8 Pc. Fiery Buffalo Nuggets Meal,8.75,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Fiery Buffalo Royal Crispy Wrap Meal,9.69,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Fiery Big Fish Meal,13.49,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Have-sies™,3.99,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Royal Crispy Wrap Meal,9.69,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Spicy Royal Crispy Wrap  Meal,9.69,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Honey Mustard Royal Crispy Wrap Meal,9.69,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Double Bundle,19.99,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Triple Bundle,24.99,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Royal Four,29.99,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Ultimate Wrap Bundle,24.99,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Impossible™ Whopper®,9.79,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Impossible™ Whopper® Meal,15.19,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Double Whopper®,9.79,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Triple Whopper®,10.89,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Triple Whopper® Meal,16.29,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Bacon King,10.29,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Whopper® Jr.,4.99,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Whopper® Jr. Meal,10.39,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Bacon Double Cheeseburger,4.49,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Bacon Cheeseburger,3.99,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Cheeseburger,3.49,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Cheeseburger Meal,8.39,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Royal Crispy Chicken,8.39,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Royal Crispy Chicken Meal,13.79,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Spicy Royal Crispy Chicken,8.39,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Spicy Royal Crispy Chicken Meal,13.79,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Bacon and Swiss Royal Crispy Chicken,9.79,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Bacon and Swiss Royal Crispy Chicken Meal,15.19,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,4 Pc. Chicken Fries,2.39,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,8 Pc. Fiery Buffalo Nuggets,3.59,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,8 Pc. Chicken Fries,5.74,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,8 Pc. Chicken Fries Meal,10.59,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,12 Pc. Chicken Fries,5.99,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,12 Pc. Chicken Fries Meal,9.89,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,16 Pc. Chicken Nuggets,7.09,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,16 Pc. Chicken Nuggets Meal,12.29,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Fiery Big Fish,8.29,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Big Fish,8.09,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Big Fish Sandwich Meal,13.49,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Fiery Buffalo Royal Crispy Wrap,4.29,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Royal Crispy Wrap,4.29,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Spicy Royal Crispy Wrap,4.29,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Honey Mustard Royal Crispy Wrap,4.29,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,4 Pc. Cheesy Tots®,2.99,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,8 Pc. Cheesy Tots®,3.49,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Onion Rings,3.99,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Soft Drink,3.89,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Chocolate Oreo® Shake,5.39,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Chocolate Shake,5.39,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Vanilla Shake,5.39,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Pure Life® Purified Water,2.09,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Iced Tea,3.89,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Honest Kids® Apple Juice Drink.,2.79,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Frozen Coke®,3.69,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Frozen Fanta® Wild Cherry,3.69,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Simply® Orange Juice,3.39,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Po's Panda Sundae Topped with Oreo®,3.89,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Hershey's® Sundae Pie,3.89,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Soft Serve Cup,2.59,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Double Cheeseburger King Jr Meal,7.39,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Cheeseburger King Jr Meal,7.39,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,4 Pc. Nugget King Jr Meal,6.39,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,6 Pc. Nugget King Jr Meal,6.99,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Burger King,Hamburger King Jr Meal,6.69,"1541 East 12th Street, Oakland, CA, 94606, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.5 ,1.9 mi
+Shake Shack,ShackBurger,9.59,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Fries,5.49,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Chicken Bites,6.99,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Cheeseburger,9.39,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Cheese Fries,6.59,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Bacon Cheeseburger,11.39,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Cookies and Cream Shake,7.59,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Avocado Bacon Chicken,13.89,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,SmokeShack,11.39,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Chicken Shack,11.19,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Bacon Cheese Fries,8.19,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Spicy Korean BBQ Fries,5.99,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Korean BBQ Burger,11.79,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Strawberry Shake,7.59,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Chocolate Shake,7.59,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Sunset Lemonade,5.79,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Korean Style Fried Chicken Sandwich,11.99,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Hamburger,8.99,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Vanilla Shake,7.59,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Avocado Bacon Burger,12.99,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Veggie Shack,11.39,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,'Shroom Burger,11.79,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Shack Stack,15.99,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Grilled Cheese,6.99,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Spicy Korean BBQ Cheese Fries,7.19,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Coffee &amp; Donuts Shake,8.39,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Maple Snickerdoodle Shake,8.39,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Frozen Hot Cocoa Shake,8.19,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Black &amp; White Shake,7.59,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Vanilla &amp; Chocolate Shake,7.59,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Frozen Custard,0.00,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Non-Dairy Chocolate Shake,8.79,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Non-Dairy Chocolate Frozen Custard,6.59,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Hot Dog,5.79,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Yuzu Honey Lemonade,5.79,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Dragonfruit Pomegranate,5.79,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Shack-made Lemonade,5.19,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Fifty/Fifty,5.19,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Organic Iced Tea,4.49,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Fountain Soda,4.49,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Draft Root Beer,4.79,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Organic Apple Juice Drink,4.49,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Shack2O Water,4.49,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Sparkling Shack2O Water,4.49,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
+Shake Shack,Bag O' Bones,10.29,"1954 Telegraph Avenue, Oakland, CA, 94612, US","1 Frank H. Ogawa Plaza, Oakland, CA 94612",4.6 ,0.3 mi
