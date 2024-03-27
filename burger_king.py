@@ -46,7 +46,7 @@ def setup_driver():
 
 def web_scraping_bk():
     driver = setup_driver()
-    location = "3300 Capitol Ave, Fremont, CA 94538"
+    location = "1801 Decoto Road, Union City, CA, 94587, US"
     driver.get("https://www.bk.com/store-locator/service-mode")
 
     search_box = WebDriverWait(driver, 5).until(
@@ -81,12 +81,24 @@ def web_scraping_bk():
     search_box5.click()
     time.sleep(3)
 
-    string = driver.page_source
+
     regex_pattern = r'css-146c3p1 r-17l9mgj r-95zftm r-1i10wst r-oxtfae r-rjixqe r-p1pxzi r-11wrixw r-61z16t r-1mnahxq r-q4m81j">(.*?)<.*?\$(.*?)<.*?>([\d,\s]+)\sCal'
-    result = re.findall(regex_pattern, string)
+
+    string_burgers = driver.page_source
+    result_burgers = re.findall(regex_pattern, string_burgers)
     out_file = open(FILE_PATH, "a")
-    json.dump(result, out_file, indent = 6)
+    json.dump(result_burgers, out_file, indent = 6)
     out_file.close()
 
+    search_box6 = WebDriverWait(driver, 5).until(
+        EC.element_to_be_clickable((By.XPATH, "/html/body/div[1]/div/div/div/div/div[2]/div[1]/div/div/div[1]/div[1]/div/div[5]/h3")))
+    search_box6.click()
+    time.sleep(3)
+
+    string_sides = driver.page_source
+    result_sides = re.findall(regex_pattern, string_sides)
+    out_file = open(FILE_PATH, "a")
+    json.dump(result_sides, out_file, indent = 6)
+    out_file.close()
 
 web_scraping_bk()

@@ -1,52 +1,52 @@
 [
       [
             "Whopper",
-            "8.09",
+            "7.59",
             "670"
       ],
       [
             "Impossible\u2122 Whopper",
-            "8.99",
+            "8.59",
             "630"
       ],
       [
             "Texas Double Whopper",
-            "12.39",
+            "9.89",
             "1,090"
       ],
       [
             "Double Whopper",
-            "9.08",
+            "8.89",
             "920"
       ],
       [
             "Triple Whopper ",
-            "10.09",
+            "9.89",
             "1,170"
       ],
       [
             "Bacon King",
-            "9.89",
+            "8.79",
             "1,200"
       ],
       [
             "BBQ Bacon Whopper Jr.",
-            "7.09",
+            "3.89",
             "390"
       ],
       [
             "Whopper Jr.",
-            "5.59",
+            "3.99",
             "330"
       ],
       [
             "Bacon Double Cheeseburger",
-            "4.99",
+            "4.19",
             "440"
       ],
       [
             "Bacon Cheeseburger",
-            "3.99",
+            "3.29",
             "340"
       ],
       [
@@ -61,12 +61,78 @@
       ],
       [
             "Rodeo Burger",
-            "2.99",
+            "2.49",
             "340"
       ],
       [
             "Hamburger",
-            "1.69",
+            "2.19",
             "250"
+      ]
+][
+      [
+            "Cheesy Tots",
+            "1.49",
+            "170"
+      ],
+      [
+            "Have-sies\u2122",
+            "3.69",
+            "380"
+      ],
+      [
+            "French Fries",
+            "3.69",
+            "370"
+      ],
+      [
+            "Onion Rings",
+            "3.69",
+            "360"
+      ],
+      [
+            "12 Pc. Chicken Fries",
+            "4.99",
+            "340"
+      ],
+      [
+            "8 Pc. Chicken Fries",
+            "4.19",
+            "220"
+      ],
+      [
+            "8 Pc. Fiery Buffalo Nuggets\t",
+            "2.99",
+            "510"
+      ],
+      [
+            "4 Pc. Chicken Fries",
+            "1.99",
+            "110"
+      ],
+      [
+            "16 Pc. Chicken Nuggets",
+            "4.98",
+            "770"
+      ],
+      [
+            "8 Pc. Chicken Nuggets",
+            "2.79",
+            "390"
+      ],
+      [
+            "4 Pc. Chicken Nuggets",
+            "1.79",
+            "190"
+      ],
+      [
+            "Mozzarella Sticks",
+            "2.19",
+            "330"
+      ],
+      [
+            "MOTTS Applesauce",
+            "1.49",
+            "50"
       ]
 ]
