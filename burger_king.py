@@ -249,7 +249,7 @@ for idx, location in enumerate(burger_king_locations):
     else:
         data1 = pd.read_csv('burger_king_prices.csv')
         df = pd.concat([data1, data])
-        df.to_csv('burger_king_prices.csv')
+        df.to_csv('burger_king_prices.csv', index = False)
 
 
 
