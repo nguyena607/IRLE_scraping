@@ -18,7 +18,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-FILE_PATH = "burger_king_prices.csv"
+FILE_PATH = "raw_prices_burgerking_ca_03282024.csv"
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
 #CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
 CHROMEDRIVER_PATH = "/Users/sakshikolli/Downloads/chromedriver-mac-x64/chromedriver"
@@ -246,11 +246,11 @@ for idx, location in enumerate(burger_king_locations):
     data = pd.DataFrame(combined, columns = ['menu_item', 'menu_item_price', 'menu_item_calories'])
     data['restaurant_address'] = location
     if idx == 0:
-        data.to_csv('burger_king_prices.csv', index=False)
+        data.to_csv('raw_prices_burgerking_ca_03282024.csv', index=False)
     else:
-        data1 = pd.read_csv('burger_king_prices.csv')
+        data1 = pd.read_csv('raw_prices_burgerking_ca_03282024.csv')
         df = pd.concat([data1, data])
-        df.to_csv('burger_king_prices.csv', index = False)
+        df.to_csv('raw_prices_burgerking_ca_03282024.csv', index = False)
 
 
 
