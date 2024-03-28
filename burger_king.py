@@ -40,6 +40,7 @@ def setup_driver():
     return driver
 
 burger_king_locations = [
+    '4424 Broadway, Oakland, CA, 94611, US',
     '5701 Christie Avenue, Emeryville, CA, 94608, US',
     '15050 E. 14th Street, San Leandro, CA, 94578, US',
     '849 University Avenue, Berkeley, CA, 94710, US',
@@ -108,7 +109,7 @@ burger_king_locations = [
     '5790 VAN BUREN BOULEVARD, Riverside, CA, 92503, US',
     '3630 Tyler Street, Riverside, CA, 92505, US',
     '205 East Redlands, San Bernardino, CA, 92408, US',
-    '23125 Hemlock Avenue, Moreno Valley, CA, 92557, US',
+    #'23125 Hemlock Avenue, Moreno Valley, CA, 92557, US',
     '24800 Sunnymead Blvd, Moreno Valley, CA, 92553, US',
     '1688 North, Perris, CA, 92571, US',
     '1320 Industrial Park Avenue, Redlands, CA, 92374, US',
@@ -120,8 +121,8 @@ burger_king_locations = [
     '5150 Stockton Blvd., Sacramento, CA, 95820, US',
     '9181 East Stockton Boulevard, Elk Grove, CA, 95624, US',
     '7218 Stockton Boulevard, Sacramento, CA, 95823, US',
-    '935 North Waterman, San Bernardino, CA, 92410, US',
-    '487 West Highland, San Bernardino, CA, 92405, US',
+    #'935 North Waterman, San Bernardino, CA, 92410, US',
+    #'487 West Highland, San Bernardino, CA, 92405, US',
     '503 East Foothill, Rialto, CA, 92376, US',
     '3235 West Little League Drive, San Bernardino, CA, 92407, US',
     '16878 Foothill Boulevard, Fontana, CA, 92335, US',
