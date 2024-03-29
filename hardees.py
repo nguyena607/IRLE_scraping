@@ -18,7 +18,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-FILE_PATH = "raw_prices_hardees_non_ca_03292024.csv"
+FILE_PATH = ""
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
 #CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
 CHROMEDRIVER_PATH = "/Users/sakshikolli/Downloads/chromedriver-mac-x64/chromedriver"
@@ -41,7 +41,7 @@ def setup_driver():
 
 hardees_locations = [
     '6671 Roswell Rd NE, Sandy Springs, GA, 30328, US',
-    '161 Marietta Hwy., Canton, GA, 30114, US',
+    '161 Marietta Hwy, Canton, GA, 30114, US',
     '1097 Highway 92, Acworth, GA, 30102, US',
     '4850 Floyd Road SW, Mableton, GA, 30126, US',
     '125 W Maple St, Cumming, GA, 30040, US',
@@ -136,9 +136,6 @@ hardees_locations = [
     '7003 City Circle Way, Fairview, TN, 37062, US',
     '508 Waldron Rd, La Vergne, TN, 37086, US',
     '1000 Acorn Dr, Nashville, TN, 37210, US',
-    '2425 W Kiest Blvd, Dallas, TX, 75233, US',
-    '6931 Scyene Rd, Dallas, TX, 75227, US',
-    '618 S Westmoreland Rd, Dallas, TX, 75211, US',
     '2450 E Layton Ave, Saint Francis, WI, 53235-6045, US'
 ]
 
@@ -177,7 +174,7 @@ for idx, location in enumerate(hardees_locations):
     data = pd.DataFrame(result_burgers, columns = ['menu_item', 'menu_item_price', 'menu_item_calories'])
     data['restaurant_address'] = location
     if idx == 0:
-        data.to_csv(FILE_PATH, index=False)
+       data.to_csv(FILE_PATH, index=False)
     else:
         data1 = pd.read_csv(FILE_PATH)
         df = pd.concat([data1, data])
