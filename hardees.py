@@ -145,7 +145,6 @@ hardees_locations = [
 for idx, location in enumerate(hardees_locations):
     driver = setup_driver()
     driver.get('https://order.hardees.com/')
-    location = "444 North Jackson Street, South Webster, OH, 45682, US"
 
     search_box = WebDriverWait(driver, 5).until(
         EC.element_to_be_clickable((By.XPATH, "/html/body/app-root/ion-app/ion-router-outlet/app-custom-location-finder/ion-content/div/main/div/div[1]/header/form/div/app-custom-location-search/div/div[2]/input")))
