@@ -1,0 +1,10 @@
+RESTAURANTS = [ "Denny",
+                "Applebee",
+                "Buffalo Wild Wings",
+                "Chili's Grill & Bar",
+                "Outback Steakhouse",
+                "Red Robin",
+                "TGI Fridays",
+                "BJ's Restaurants",
+                "Yard House",
+                "Panera Bread"]
