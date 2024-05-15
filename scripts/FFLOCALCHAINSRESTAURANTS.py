@@ -1,0 +1,13 @@
+RESTAURANTS = [ "Baker's Burgers",
+                "Baker's Drive-Thru",
+                "Barney's Gourmet Hamburgers",
+                "Burger Lounge",
+                "Fred's Burger",
+                "Golden Burger",
+                "Gott's Roadside",
+                "Juicy Burger",
+                "Mooyah Burgers",
+                "Nation's Giant Hamburgers",
+                "Roam Artisan Burgers",
+                "Super Duper Burgers",
+                "Trueburger"]
