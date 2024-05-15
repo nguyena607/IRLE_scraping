@@ -1,4 +1,4 @@
-addresses = [
+LOCATIONS = [
     "1705 Main St, Daphne, AL 36526",
     "710 20th Street N, Birmingham AL 35203",
     "308 Fountain Cir SW, Huntsville, AL 35801",
