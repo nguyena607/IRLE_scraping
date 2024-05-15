@@ -40,8 +40,6 @@ def setup_driver():
     return driver
 
 burger_king_locations = [
-    '659 Government St, Mobile, AL, 36602, US',
-    '1524 6th Avenue S, Birmingham, AL, 35233, US',
     '2700 University Blvd, Birmingham, AL, 35233, US',
     '801 3rd Avenue West, Birmingham, AL, 35204, US',
     '2116 Whitesburg Drive, Huntsville, AL, 35801, US',
