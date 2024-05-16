@@ -18,7 +18,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-FILE_PATH = "raw_prices_carlsjr_non_ca_03302024.csv"
+FILE_PATH = "raw_prices_carlsjr_non_ca_05152024.csv"
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
 #CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
 CHROMEDRIVER_PATH = "/Users/sakshikolli/Downloads/chromedriver-mac-x64/chromedriver"
