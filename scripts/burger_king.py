@@ -40,14 +40,9 @@ def setup_driver():
     return driver
 
 burger_king_locations = [
-    '2700 University Blvd, Birmingham, AL, 35233, US',
     '801 3rd Avenue West, Birmingham, AL, 35204, US',
-    '2116 Whitesburg Drive, Huntsville, AL, 35801, US',
-    '1004 North Memorial Parkway, Huntsville, AL, 35801, US',
-    '308 Jordan Lane, Huntsville, AL, 35805, US',
     '3949 Government Boulevard, Mobile, AL, 36693, US',
     '2915 Saint Stephens Rd, Mobile, AL, 36612, US',
-    '3875 Airport Boulevard, Mobile, AL, 36609, US',
     '7050, Theodore, AL, 36582, US',
     '3004 Airport Boulevard, Mobile, AL, 36606, US',
     '601 MARTIN LUTHER KING BLVD, Savannah, GA, 31401, US',
@@ -56,17 +51,12 @@ burger_king_locations = [
     '11711 Abercorn St., Savannah, GA, 31419, US',
     '415 East Highway 80, Pooler, GA, 31322, US',
     '199 SW Northside Dr, Atlanta, GA, 30313, US',
-    '2230 Salem Road, Conyers, GA, 30013, US',
     '2807 Panola Road, Lithonia, GA, 30035, US',
-    '2773 Evans Mill Rd, Lithonia, GA, 30058, US',
-    '5068 Old National Highway, College Park, GA, 30349, US',
     '8378 W Overland Rd., Boise, ID, 83709, US',
-    '6971 West 38th Street, Indianapolis, IN, 46214, US',
     '6904 Kennedy Ave., Hammond, IN, 46323, US',
     '621 West Chicago Avenue, East Chicago, IN, 46312, US',
     '7938 Calumet Avenue, Munster, IN, 46321, US',
     '1817 Indianapolis Boulevard, Whiting, IN, 46394, US',
-    '6337 Crawfordsville Rd, Speedway, IN, 46224, US',
     '6003 Gateway Drive, Plainfield, IN, 46168, US',
     '410 East Morris Street, Indianapolis, IN, 46225, US',
     '2122 E. 10th Street, Indianapolis, IN, 46201, US',
@@ -81,12 +71,8 @@ burger_king_locations = [
     '1104 North Broadway, Wichita, KS, 67214, US',
     '1909 East Pawnee, Wichita, KS, 67211, US',
     '3500 South Meridian Avenue, Wichita, KS, 67217, US',
-    '451 W. New Circle Road, Lexington, KY, 40511, US',
-    '730 Lane Allen Rd, Lexington, KY, 40504, US',
     '2548 Richmond Road, Lexington, KY, 40517, US',
     '3348 Clays Mill Road, Lexington, KY, 40503, US',
-    '4200 Saron Road, Lexington, KY, 40515, US',
-    '1131 Lexington Road, Georgetown, KY, 40324, US',
     '1434 East Tenth Street, Jeffersonville, IN, 47130, US',
     '3100 Highland Road, Baton Rouge, LA, 70802, US',
     '7638 Perkins Road, Baton Rouge, LA, 70810, US',
@@ -134,7 +120,6 @@ burger_king_locations = [
     '568 West Dekalb Pike, King Of Prussia, PA, 19406, US',
     '409 West Ridge Pike, Conshohocken, PA, 19428, US',
     '1521 Columbus Boulevard, Philadelphia, PA, 19147, US',
-    '1901 Route 286, Pittsburgh, PA, 15239, US',
     '4490 Broadway Boulevard, Monroeville, PA, 15146, US',
     '490 Loucks Road, York, PA, 17404, US',
     '4709 Dorchester Road, N Charleston, SC, 29405, US',
@@ -151,9 +136,7 @@ burger_king_locations = [
     '1371 Saluda Street, Rock Hill, SC, 29730, US',
     '2430 North Cherry Road, Rock Hill, SC, 29732, US',
     '1501 Charlotte Avenue, Nashville, TN, 37203, US',
-    '2119 East 23rd Street, Chattanooga, TN, 37404, US',
     '3401 Amnicola Highway, Chattanooga, TN, 37406, US',
-    '2806 North Broadway, Knoxville, TN, 37917, US',
     '819 Memorial Blvd, Murfreesboro, TN, 37129, US',
     '1661 Middle Tennessee Blvd, Murfreesboro, TN, 37130, US',
     '819 Memorial Blvd, Murfreesboro, TN, 37129, US',
@@ -161,8 +144,6 @@ burger_king_locations = [
     '412 Forks Of The River, Sevierville, TN, 37862, US',
     '1231 Dolly Parton Pkwy, Sevierville, TN, 37862, US',
     '1027 Union Ave, Memphis, TN, 38104, US',
-    '1330 Poplar Avenue, Memphis, TN, 38104, US',
-    '3227 Poplar Ave, Memphis, TN, 38111, US',
     '1911 Mallory Lane, Franklin, TN, 37067, US',
     '7116 Highway 70 South, Nashville, TN, 37221, US',
     '493 Old Hickory Blvd, Brentwood, TN, 37027, US',
@@ -174,7 +155,6 @@ burger_king_locations = [
     '11404 East Northwest Highway, Dallas, TX, 75218, US',
     '3112 E Berry St, Fort Worth, TX, 76119, US',
     '2542 NE 30th Street, Ft. Worth, TX, 76106, US',
-    '2605 Jacksboro Hwy, River Oaks, TX, 76114, US',
     '425 South, El Paso, TX, 79901, US',
     '4639 Irvington, Houston, TX, 77009, US',
     '3009 Collingsworth St, Houston, TX, 77026, US',
@@ -262,7 +242,23 @@ for idx, location in enumerate(burger_king_locations):
     string_sides = driver.page_source
     result_sides = re.findall(regex_pattern, string_sides)
 
-    combined = result_burgers + result_sides
+    search_box7 = WebDriverWait(driver, 5).until(
+        EC.element_to_be_clickable((By.XPATH, "/html/body/div[1]/div/div/div/div/div[2]/div[1]/div/div/div[1]/div[1]/div/div[4]/h3")))
+    search_box7.click()
+    time.sleep(3)
+
+    string_extra = driver.page_source
+    result_extra = re.findall(regex_pattern, string_extra)
+
+    search_box8 = WebDriverWait(driver, 5).until(
+        EC.element_to_be_clickable((By.XPATH, "/html/body/div[1]/div/div/div/div/div[2]/div[1]/div/div/div[1]/div[1]/div/div[6]/h3")))
+    search_box8.click()
+    time.sleep(3)
+
+    string_more_extras = driver.page_source
+    result_more_extras = re.findall(regex_pattern, string_more_extras)
+
+    combined = result_burgers + result_sides + result_extra + result_more_extras
     data = pd.DataFrame(combined, columns = ['menu_item', 'menu_item_price', 'menu_item_calories'])
     data['restaurant_address'] = location
     if idx == 0:
