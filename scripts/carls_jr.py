@@ -18,7 +18,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-FILE_PATH = ""
+FILE_PATH = "raw_prices_carlsjr_ca_05152024.csv"
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
 #CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
 CHROMEDRIVER_PATH = "/Users/sakshikolli/Downloads/chromedriver-mac-x64/chromedriver"
@@ -45,8 +45,6 @@ carls_jr_locations = [
     '1 Hallidie Plaza, San Francisco, CA, 94102, US',
     '20550 Mission Blvd, Hayward, CA, 94541, US',
     '1550 Fitzgerald Drive, Pinole, CA, 94564, US',
-    '5670 Thornton Ave, Newark, CA, 94560, US',
-    '46637 Mission Blvd, Fremont, CA, 94539, US',
     '27467 Hesperian Blvd, Hayward, CA, 94545, US',
     '1101 Branham Ln, San Jose, CA, 95118, US',
     '4595 Century Blvd., Pittsburg, CA, 94565, US',
@@ -54,7 +52,6 @@ carls_jr_locations = [
     '2590 S East Ave, Fresno, CA, 93706, US',
     '5007 E McKinley Ave, Fresno, CA, 93727, US',
     '101 S Union Ave, Bakersfield, CA, 93307, US',
-    '229 West 7th Street, Los Angeles, CA, 90014, US',
     '2320 E 4th St, Los Angeles, CA, 90033, US',
     '3215 N. Broadway, Los Angeles, CA, 90031, US',
     '3005 W 6Th St, Los Angeles, CA, 90020, US',
