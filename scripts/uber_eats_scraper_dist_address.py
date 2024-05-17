@@ -13,7 +13,7 @@ import datetime
 import re
 from selenium.webdriver.common.action_chains import ActionChains
 from NON_CA_LOCATION import LOCATIONS
-from FASTFOODRESTAURANTS import RESTAURANTS
+from FULLSERVICERESTAURANTS import RESTAURANTS
 
 
 # Logging setup
@@ -22,7 +22,7 @@ logger = logging.getLogger(__name__)
 
 LOCATIONS = LOCATIONS
 RESTAURANTS = RESTAURANTS
-FILE_PATH = f"raw_prices_ubereats_nonca_ff_pt3_{datetime.datetime.now().strftime('%m-%d-%Y')}.jsonl"
+FILE_PATH = f"raw_prices_ubereats_nonca_fullserv{datetime.datetime.now().strftime('%m-%d-%Y')}.jsonl"
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
 CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
 #CHROMEDRIVER_PATH = "/Users/sakshikolli/Downloads/chromedriver-mac-x64/chromedriver"
