@@ -18,7 +18,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-FILE_PATH = ""
+FILE_PATH = "raw_prices_hardees_non_ca_05162024.csv"
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
 #CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
 CHROMEDRIVER_PATH = "/Users/sakshikolli/Downloads/chromedriver-mac-x64/chromedriver"
@@ -94,7 +94,6 @@ hardees_locations = [
     '5601, Castle Hayne, NC, 28429, US',
     '100 Vandora Springs Rd., Garner, NC, 27529, US',
     '5601 Creedmoor Rd, Raleigh, NC, 27612, US',
-    '12872 70 Business Highway West, Clayton, NC, 27520, US',
     '5639 Hillsborough St., Raleigh, NC, 27606, US',
     '2020 W Market St, York, PA, 17404, US',
     '820 E Main St, Dallastown, PA, 17313, US',
@@ -123,7 +122,6 @@ hardees_locations = [
     '2919 Tazewell Pike, Knoxville, TN, 37918, US',
     '6760 Clinton Hwy, Knoxville, TN, 37912, US',
     '150 N Cedar Bluff Road, Knoxville, TN, 37923, US',
-    '2105 E Broadway Ave, Maryville, TN, 37804, US',
     '1685 Middle Tennessee Blvd, Murfreesboro, TN, 37130, US',
     '1851 Memorial Blvd, Murfreesboro, TN, 37129, US',
     '2382 Old Fort Pkwy, Murfreesboro, TN, 37128, US',
