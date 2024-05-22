@@ -1,0 +1,149 @@
+,restaurant_name,restaurant_location,menu_item_price mean_non_zero,menu_item_price median_non_zero,menu_item_price std_non_zero,restaurant_rating mean,menu_item count,number_of_ratings first,cheeseburger,fries,specialty_item,hamburger,combo,state,zip,county_name_x,date,uber_eats,post_policy,fast_food,local,county_name_y
+0,Burger King,"100 river oaks cove, georgetown, tx, 78626, us",5.239019607843136,3.99,3.1707222254540186,,51,,2.19,2.69,5.89,2.89,,tx,78626,Williamson,2024-05-16,0,1,1,0,Williamson
+1,Burger King,"1001 east ben white boulevard, austin, tx, 78704, us",5.239019607843136,3.99,3.1707222254540186,,51,,2.19,2.69,5.89,2.89,,tx,78704,Travis,2024-05-16,0,1,1,0,Travis
+2,Burger King,"10205 e. freeway, houston, tx, 77013, us",5.0527450980392175,3.99,3.0711153230026795,,51,,1.89,2.49,5.49,2.59,,tx,77013,Harris,2024-05-16,0,1,1,0,Harris
+3,Burger King,"1027 union ave, memphis, tn, 38104, us",5.023333333333333,3.99,2.9156765236636377,,57,,2.19,3.09,5.59,3.39,,tn,38104,Shelby,2024-05-16,0,1,1,0,Shelby
+4,Burger King,"1075 south state street, orem, ut, 84097, us",6.464107142857148,4.9399999999999995,4.104756290305933,,56,,2.64,4.69,7.99,4.49,,ut,84097,Utah,2024-05-16,0,1,1,0,Utah
+5,Burger King,"1094 federal road, houston, tx, 77015, us",5.0527450980392175,3.99,3.0711153230026795,,51,,1.89,2.49,5.49,2.59,,tx,77015,Harris,2024-05-16,0,1,1,0,Harris
+6,Burger King,"11 west center street, orem, ut, 84057, us",5.424423076923079,3.99,3.29519896297952,,52,,2.29,3.29,5.79,3.29,,ut,84057,Utah,2024-05-16,0,1,1,0,Utah
+7,Burger King,"11001a fuqua, houston, tx, 77089, us",3.15376811594203,2.49,1.6260533722538715,,69,,1.89,2.49,5.49,2.59,,tx,77089,Harris,2024-05-16,0,1,1,0,Harris
+8,Burger King,"1104 north broadway, wichita, ks, 67214, us",5.818571428571429,4.59,3.2816434409407416,,56,,2.59,3.79,6.59,3.79,,ks,67214,Sedgwick,2024-05-16,0,1,1,0,Sedgwick
+9,Burger King,"1107 73rd street, windsor heights, ia, 50324, us",5.784339622641513,3.99,3.716379608448312,,53,,2.49,3.19,5.99,2.99,,ia,50324,Polk,2024-05-16,0,1,1,0,Polk
+10,Burger King,"11404 east northwest highway, dallas, tx, 75218, us",3.471818181818182,2.59,2.0627217302969196,,66,,1.89,2.79,6.19,2.99,,tx,75218,Dallas,2024-05-16,0,1,1,0,Dallas
+11,Burger King,"11711 abercorn st., savannah, ga, 31419, us",3.886153846153844,2.99,2.0300588792580467,,26,,2.39,2.99,5.89,2.99,,ga,31419,Chatham,2024-05-16,0,1,1,0,Chatham
+12,Burger King,"1190 west sunset drive, waukesha, wi, 53189, us",5.714074074074079,4.04,3.7428408296365636,,54,,2.29,3.29,6.89,3.99,,wi,53189,Waukesha,2024-05-16,0,1,1,0,Waukesha
+13,Burger King,"1197 berkshire blvd, reading, pa, 19610, us",5.356037735849059,3.99,3.177511984819308,,53,,2.49,2.89,5.79,3.29,,pa,19610,Berks,2024-05-16,0,1,1,0,Berks
+14,Burger King,"120 brownswitch road, slidell, la, 70458, us",5.110370370370372,3.99,3.0342110836035827,,54,,2.29,2.79,5.39,3.19,,la,70458,St. Tammany,2024-05-16,0,1,1,0,St. Tammany
+15,Burger King,"185 gause blvd., slidell, la, 70458, us",5.110370370370372,3.99,3.0342110836035827,,54,,2.29,2.79,5.39,3.19,,la,70458,St. Tammany,2024-05-16,0,1,1,0,St. Tammany
+16,Burger King,"1200 west club boulevard, durham, nc, 27701, us",5.562916666666667,4.34,3.4316383103490886,,48,,2.19,3.09,6.19,3.79,,nc,27701,Durham,2024-05-16,0,1,1,0,Durham
+17,Burger King,"121 walmart drive, north versailles, pa, 15137, us",5.66924528301887,4.49,3.483565647304715,,53,,2.29,3.09,5.69,3.19,,pa,15137,Allegheny,2024-05-16,0,1,1,0,Allegheny
+18,Burger King,"1212 west main street, lexington, sc, 29072, us",5.035614035087717,3.99,2.9317422025579183,,57,,2.19,3.19,5.39,3.39,,sc,29072,Lexington,2024-05-16,0,1,1,0,Lexington
+19,Burger King,"226 longs pond road, lexington, sc, 29072, us",5.574800000000003,4.99,3.266551845601108,,50,,2.99,3.29,5.89,3.55,,sc,29072,Lexington,2024-05-16,0,1,1,0,Lexington
+20,Burger King,"1231 dolly parton pkwy, sevierville, tn, 37862, us",5.026842105263158,4.19,2.8688057041305006,,57,,2.19,3.49,5.39,3.59,,tn,37862,Sevier,2024-05-16,0,1,1,0,Sevier
+21,Burger King,"412 forks of the river, sevierville, tn, 37862, us",5.026842105263158,4.19,2.8688057041305006,,57,,2.19,3.49,5.39,3.59,,tn,37862,Sevier,2024-05-16,0,1,1,0,Sevier
+22,Burger King,"13200 north ih 35, austin, tx, 78753, us",5.148703703703706,4.050000000000001,3.185176340426996,,54,,1.63,2.88,6.04,3.59,,tx,78753,Travis,2024-05-16,0,1,1,0,Travis
+23,Burger King,"1371 saluda street, rock hill, sc, 29730, us",4.953157894736841,3.89,2.889341063648733,,57,,1.99,3.09,5.39,3.09,,sc,29730,York,2024-05-16,0,1,1,0,York
+24,Burger King,"14 w de renne ave, savannah, ga, 31405, us",3.886153846153844,2.99,2.0300588792580467,,26,,2.39,2.99,5.89,2.99,,ga,31405,Chatham,2024-05-16,0,1,1,0,Chatham
+25,Burger King,"1405 east court avenue, des moines, ia, 50316, us",5.784339622641513,3.99,3.716379608448312,,53,,2.49,3.19,5.99,2.99,,ia,50316,Polk,2024-05-16,0,1,1,0,Polk
+26,Burger King,"1408 lititz pike, lancaster, pa, 17601, us",5.020188679245284,3.99,2.930038631058382,,53,,1.99,2.69,5.69,2.99,,pa,17601,Lancaster,2024-05-16,0,1,1,0,Lancaster
+27,Burger King,"141 north shore boulevard, slidell, la, 70460, us",5.110370370370372,3.99,3.0342110836035827,,54,,2.29,2.79,5.39,3.19,,la,70460,St. Tammany,2024-05-16,0,1,1,0,St. Tammany
+28,Burger King,"1434 east tenth street, jeffersonville, in, 47130, us",3.5319354838709676,2.99,1.666515428448541,,62,,2.19,3.09,5.69,3.59,,in,47130,Clark,2024-05-16,0,1,1,0,Clark
+29,Burger King,"1501 charlotte avenue, nashville, tn, 37203, us",5.0847368421052614,4.19,2.9740645619198007,,57,,2.19,3.29,5.69,3.59,,tn,37203,Davidson,2024-05-16,0,1,1,0,Davidson
+30,Burger King,"1502, west chester, pa, 19382, us",5.995769230769233,5.24,3.45122126999094,,52,,2.39,3.29,6.49,4.29,,pa,19382,Chester,2024-05-16,0,1,1,0,Chester
+31,Burger King,"1521 columbus boulevard, philadelphia, pa, 19147, us",6.0543137254901955,5.09,3.4898150155492176,,51,,2.59,3.79,7.39,4.49,,pa,19147,Philadelphia,2024-05-16,0,1,1,0,Philadelphia
+32,Burger King,"1533 n. peoria, tulsa, ok, 74106, us",5.010000000000002,3.99,2.9610702519590846,,54,,1.99,2.79,5.19,2.79,,ok,74106,Tulsa,2024-05-16,0,1,1,0,Tulsa
+33,Burger King,"1563 n peoria avenue, tulsa, ok, 74106, us",5.010000000000002,3.99,2.9610702519590846,,54,,1.99,2.79,5.19,2.79,,ok,74106,Tulsa,2024-05-16,0,1,1,0,Tulsa
+34,Burger King,"1599 highway 101 south, greer, sc, 29651, us",4.953157894736841,3.89,2.889341063648733,,57,,1.99,3.09,5.39,3.09,,sc,29651,Greenville,2024-05-16,0,1,1,0,Greenville
+35,Burger King,"1601 hwy 55, durham, nc, 27707, us",5.214400000000005,3.74,3.2118139173993265,,50,,2.49,2.7,5.99,2.99,,nc,27707,Durham,2024-05-16,0,1,1,0,Durham
+36,Burger King,"1620 south loop west, houston, tx, 77054, us",5.0527450980392175,3.99,3.0711153230026795,,51,,1.89,2.49,5.49,2.59,,tx,77054,Harris,2024-05-16,0,1,1,0,Harris
+37,Burger King,"1621 middle tennessee boulevard, murfreesboro, tn, 37130, us",5.0847368421052614,4.19,2.9740645619198007,,57,,2.19,3.29,5.69,3.59,,tn,37130,Rutherford,2024-05-16,0,1,1,0,Rutherford
+38,Burger King,"1661 middle tennessee blvd, murfreesboro, tn, 37130, us",5.0847368421052614,4.19,2.9740645619198007,,57,,2.19,3.29,5.69,3.59,,tn,37130,Rutherford,2024-05-16,0,1,1,0,Rutherford
+39,Burger King,"16800 caldwell creek drive, huntersville, nc, 28078, us",4.953157894736841,3.89,2.889341063648733,,57,,1.99,3.09,5.39,3.09,,nc,28078,Mecklenburg,2024-05-16,0,1,1,0,Mecklenburg
+40,Burger King,"1738 w tilghman street, allentown, pa, 18104, us",5.356037735849059,3.99,3.177511984819308,,53,,2.49,2.89,5.79,3.29,,pa,18104,Lehigh,2024-05-16,0,1,1,0,Lehigh
+41,Burger King,"1804 4th street, lubbock, tx, 79415, us",5.430740740740743,3.99,3.457869099685877,,54,,1.89,2.79,6.19,2.99,,tx,79415,Lubbock,2024-05-16,0,1,1,0,Lubbock
+42,Burger King,"1817 indianapolis boulevard, whiting, in, 46394, us",3.894166666666667,2.89,2.092940349258802,,24,,1.99,2.79,5.79,2.79,,in,46394,Lake,2024-05-16,0,1,1,0,Lake
+43,Burger King,"1828 rock quarry road, raleigh, nc, 27610, us",5.3691666666666675,4.09,3.342775688788519,,48,,1.99,2.99,5.79,3.29,,nc,27610,Wake,2024-05-16,0,1,1,0,Wake
+44,Burger King,"1841 south 14th street, milwaukee, wi, 53204, us",5.714074074074079,4.04,3.7428408296365636,,54,,2.29,3.29,6.89,3.99,,wi,53204,Milwaukee,2024-05-16,0,1,1,0,Milwaukee
+45,Burger King,"1909 east pawnee, wichita, ks, 67211, us",5.818571428571429,4.59,3.2816434409407416,,56,,2.59,3.79,6.59,3.79,,ks,67211,Sedgwick,2024-05-16,0,1,1,0,Sedgwick
+46,Burger King,"1911 mallory lane, franklin, tn, 37067, us",3.4520967741935484,2.99,1.7777360893951555,,62,,2.19,3.29,5.69,3.59,,tn,37067,Williamson,2024-05-16,0,1,1,0,Williamson
+47,Burger King,"1958 south 4th street, allentown, pa, 18103, us",5.299259259259262,3.99,3.174975562374225,,54,,2.49,2.89,5.79,3.29,,pa,18103,Lehigh,2024-05-16,0,1,1,0,Lehigh
+48,Burger King,"199 sw northside dr, atlanta, ga, 30313, us",3.9379999999999997,2.99,1.9687803330996576,,25,,2.29,2.79,5.39,3.19,,ga,30313,Fulton,2024-05-16,0,1,1,0,Fulton
+49,Burger King,"2002 50th street, lubbock, tx, 79412, us",5.430740740740743,3.99,3.457869099685877,,54,,1.89,2.79,6.19,2.99,,tx,79412,Lubbock,2024-05-16,0,1,1,0,Lubbock
+50,Burger King,"2022 bluff road, columbia, sc, 29201, us",5.574800000000003,4.99,3.266551845601108,,50,,2.99,3.29,5.89,3.55,,sc,29201,Richland,2024-05-16,0,1,1,0,Richland
+51,Burger King,"205 university avenue, des moines, ia, 50314, us",5.784339622641513,3.99,3.716379608448312,,53,,2.49,3.19,5.99,2.99,,ia,50314,Polk,2024-05-16,0,1,1,0,Polk
+52,Burger King,"2100 clearview parkway, metairie, la, 70001, us",5.110370370370372,3.99,3.0342110836035827,,54,,2.29,2.79,5.39,3.19,,la,70001,Jefferson,2024-05-16,0,1,1,0,Jefferson
+53,Burger King,"2100 peters creek pkwy, winston salem, nc, 27127, us",5.049649122807017,4.19,2.9365130084532267,,57,,2.19,3.09,5.69,3.59,,nc,27127,Forsyth,2024-05-16,0,1,1,0,Forsyth
+54,Burger King,"2122 e. 10th street, indianapolis, in, 46201, us",5.074210526315789,4.19,2.965875479379983,,57,,2.19,3.09,5.69,3.59,,in,46201,Marion,2024-05-16,0,1,1,0,Marion
+55,Burger King,"2216 bush river road, columbia, sc, 29210, us",5.574800000000003,4.99,3.266551845601108,,50,,2.99,3.29,5.89,3.55,,sc,29210,Richland,2024-05-16,0,1,1,0,Richland
+56,Burger King,"2222 m. l. king jr. parkway, des moines, ia, 50310, us",5.784339622641513,3.99,3.716379608448312,,53,,2.49,3.19,5.99,2.99,,ia,50310,Polk,2024-05-16,0,1,1,0,Polk
+57,Burger King,"2241 avent ferry road, raleigh, nc, 27606, us",5.562916666666667,4.34,3.4316383103490886,,48,,2.19,3.09,6.19,3.79,,nc,27606,Wake,2024-05-16,0,1,1,0,Wake
+58,Burger King,"2256 ambassador caffrey pkway, lafayette, la, 70506, us",5.110370370370372,3.99,3.0342110836035827,,54,,2.29,2.79,5.39,3.19,,la,70506,Lafayette,2024-05-16,0,1,1,0,Lafayette
+59,Burger King,"2328 university ave, green bay, wi, 54302, us",6.273636363636363,4.59,3.9350066945242186,,55,,3.09,3.39,7.29,4.29,,wi,54302,Brown,2024-05-16,0,1,1,0,Brown
+60,Burger King,"2414 east expressway 83, mission, tx, 78572, us",5.430740740740743,3.99,3.457869099685877,,54,,1.89,2.79,6.19,2.99,,tx,78572,Hidalgo,2024-05-16,0,1,1,0,Hidalgo
+61,Burger King,"2429 west pinhook road, lafayette, la, 70508, us",5.110370370370372,3.99,3.0342110836035827,,54,,2.29,2.79,5.39,3.19,,la,70508,Lafayette,2024-05-16,0,1,1,0,Lafayette
+62,Burger King,"2430 north cherry road, rock hill, sc, 29732, us",4.953157894736841,3.89,2.889341063648733,,57,,1.99,3.09,5.39,3.09,,sc,29732,York,2024-05-16,0,1,1,0,York
+63,Burger King,"245 bayshore blvd., san francisco, ca, 94124, us",6.273636363636363,4.59,3.9350066945242186,,55,,3.09,3.39,7.29,4.29,,ca,94124,San Francisco,2024-05-16,0,1,1,0,San Francisco
+64,Burger King,"2500 e riverside dr, austin, tx, 78741, us",5.239019607843136,3.99,3.1707222254540186,,51,,2.19,2.69,5.89,2.89,,tx,78741,Travis,2024-05-16,0,1,1,0,Travis
+65,Burger King,"2500 s i h 35, round rock, tx, 78681, us",5.89192307692308,4.99,3.4701745901885874,,52,,2.59,3.99,6.99,4.39,,tx,78681,Williamson,2024-05-16,0,1,1,0,Williamson
+66,Burger King,"2502 east raymond street, indianapolis, in, 46203, us",5.074210526315789,4.19,2.965875479379983,,57,,2.19,3.09,5.69,3.59,,in,46203,Marion,2024-05-16,0,1,1,0,Marion
+67,Burger King,"2509 25th avenue, gulfport, ms, 39501, us",5.242830188679248,3.99,3.1401600592293386,,53,,2.49,2.89,5.79,3.29,,ms,39501,Harrison,2024-05-16,0,1,1,0,Harrison
+68,Burger King,"2542 ne 30th street, ft. worth, tx, 76106, us",3.471818181818182,2.59,2.0627217302969196,,66,,1.89,2.79,6.19,2.99,,tx,76106,Tarrant,2024-05-16,0,1,1,0,Tarrant
+69,Burger King,"2548 richmond road, lexington, ky, 40517, us",3.1434375000000014,2.49,1.670205094769427,,64,,1.99,2.99,5.19,2.79,,ky,40517,Fayette,2024-05-16,0,1,1,0,Fayette
+70,Burger King,"2713 south claiborne st, new orleans, la, 70125, us",5.19740740740741,3.99,3.118632882569128,,54,,2.29,2.79,5.49,3.19,,la,70125,Orleans,2024-05-16,0,1,1,0,Orleans
+71,Burger King,"28 portsmouth ave, stratham, nh, 03885, us",5.764509803921571,4.69,3.3932946068856995,,51,,2.19,3.49,6.59,3.69,,nh,3885,Rockingham,2024-05-16,0,1,1,0,Rockingham
+72,Burger King,"2807 panola road, lithonia, ga, 30035, us",3.843846153846153,2.99,2.0320945558766867,,26,,2.29,2.89,5.89,2.99,,ga,30035,DeKalb,2024-05-16,0,1,1,0,DeKalb
+73,Burger King,"2820 bragg boulevard, fayetteville, nc, 28303, us",4.953157894736841,3.89,2.889341063648733,,57,,1.99,3.09,5.39,3.09,,nc,28303,Cumberland,2024-05-16,0,1,1,0,Cumberland
+74,Burger King,"2862 n. martin luther king dr., milwaukee, wi, 53212, us",5.714074074074079,4.04,3.7428408296365636,,54,,2.29,3.29,6.89,3.99,,wi,53212,Milwaukee,2024-05-16,0,1,1,0,Milwaukee
+75,Burger King,"2900 brownsville road, pittsburgh, pa, 15227, us",5.427884615384618,4.635,3.2735027913762242,,52,,2.09,2.99,5.59,3.19,,pa,15227,Allegheny,2024-05-16,0,1,1,0,Allegheny
+76,Burger King,"2902 richey street, houston, tx, 77017, us",3.14857142857143,2.49,1.6393807940058036,,70,,1.89,2.59,5.49,2.69,,tx,77017,Harris,2024-05-16,0,1,1,0,Harris
+77,Burger King,"2902 two notch road, columbia, sc, 29204, us",5.574800000000003,4.99,3.266551845601108,,50,,2.99,3.29,5.89,3.55,,sc,29204,Richland,2024-05-16,0,1,1,0,Richland
+78,Burger King,"2910 airport boulevard, houston, tx, 77051, us",3.15376811594203,2.49,1.6260533722538715,,69,,1.89,2.49,5.49,2.59,,tx,77051,Harris,2024-05-16,0,1,1,0,Harris
+79,Burger King,"4676 bellfort avenue, houston, tx, 77051, us",5.022692307692308,3.99,3.109583273703194,,52,,1.89,2.59,5.49,2.69,,tx,77051,Harris,2024-05-16,0,1,1,0,Harris
+80,Burger King,"2915 saint stephens rd, mobile, al, 36612, us",3.8899999999999997,2.99,2.0132255022915153,,26,,2.29,2.79,5.49,3.19,,al,36612,Mobile,2024-05-16,0,1,1,0,Mobile
+81,Burger King,"3004 airport boulevard, mobile, al, 36606, us",3.8630769230769224,2.99,1.9665584331531865,,26,,2.29,2.79,5.39,3.19,,al,36606,Mobile,2024-05-16,0,1,1,0,Mobile
+82,Burger King,"3009 collingsworth st, houston, tx, 77026, us",4.986153846153848,3.99,3.078396281936271,,52,,1.89,2.49,5.49,2.59,,tx,77026,Harris,2024-05-16,0,1,1,0,Harris
+83,Burger King,"309 ih 37, corpus christi, tx, 78401, us",4.968846153846155,3.99,3.0342491491979167,,52,,1.99,2.59,5.49,2.69,,tx,78401,Nueces,2024-05-16,0,1,1,0,Nueces
+84,Burger King,"310 east trade street, charlotte, nc, 28202, us",4.917307692307693,3.99,3.007830879160784,,52,,1.99,2.7,6.29,2.9,,nc,28202,Mecklenburg,2024-05-16,0,1,1,0,Mecklenburg
+85,Burger King,"3100 highland road, baton rouge, la, 70802, us",5.110370370370372,3.99,3.0342110836035827,,54,,2.29,2.79,5.39,3.19,,la,70802,East Baton Rouge,2024-05-16,0,1,1,0,East Baton Rouge
+86,Burger King,"3112 e berry st, fort worth, tx, 76119, us",3.471818181818182,2.59,2.0627217302969196,,66,,1.89,2.79,6.19,2.99,,tx,76119,Tarrant,2024-05-16,0,1,1,0,Tarrant
+87,Burger King,"3204 southeast loop 820, forest hill, tx, 76140, us",5.430740740740743,3.99,3.457869099685877,,54,,1.89,2.79,6.19,2.99,,tx,76140,Tarrant,2024-05-16,0,1,1,0,Tarrant
+88,Burger King,"3219 s 27th st, milwaukee, wi, 53215, us",5.714074074074079,4.04,3.7428408296365636,,54,,2.29,3.29,6.89,3.99,,wi,53215,Milwaukee,2024-05-16,0,1,1,0,Milwaukee
+89,Burger King,"3220 library rd., castle shannon, pa, 15234, us",5.381886792452833,4.29,3.2593951612795786,,53,,2.09,2.99,5.59,3.19,,pa,15234,Allegheny,2024-05-16,0,1,1,0,Allegheny
+90,Burger King,"3242 east 11th street, tulsa, ok, 74104, us",5.010000000000002,3.99,2.9610702519590846,,54,,1.99,2.79,5.19,2.79,,ok,74104,Tulsa,2024-05-16,0,1,1,0,Tulsa
+91,Burger King,"3348 clays mill road, lexington, ky, 40503, us",4.888039215686277,3.79,2.840083552766965,,51,,1.99,2.99,5.19,2.79,,ky,40503,Fayette,2024-05-16,0,1,1,0,Fayette
+92,Burger King,"3401 amnicola highway, chattanooga, tn, 37406, us",3.331791044776123,2.49,1.656299530713631,,67,,2.29,2.79,5.49,3.19,,tn,37406,Hamilton,2024-05-16,0,1,1,0,Hamilton
+93,Burger King,"3403 north main street, columbia, sc, 29203, us",5.574800000000003,4.99,3.266551845601108,,50,,2.99,3.29,5.89,3.55,,sc,29203,Richland,2024-05-16,0,1,1,0,Richland
+94,Burger King,"3419 north 5th street highway, reading, pa, 19605, us",5.188245614035087,4.19,3.0503661688779515,,57,,2.29,3.49,6.09,3.59,,pa,19605,Berks,2024-05-16,0,1,1,0,Berks
+95,Burger King,"344 eastern blvd, fayetteville, nc, 28301, us",4.953157894736841,3.89,2.889341063648733,,57,,1.99,3.09,5.39,3.09,,nc,28301,Cumberland,2024-05-16,0,1,1,0,Cumberland
+96,Burger King,"3500 south meridian avenue, wichita, ks, 67217, us",5.818571428571429,4.59,3.2816434409407416,,56,,2.59,3.79,6.59,3.79,,ks,67217,Sedgwick,2024-05-16,0,1,1,0,Sedgwick
+97,Burger King,"3801 moss street, lafayette, la, 70507, us",5.110370370370372,3.99,3.0342110836035827,,54,,2.29,2.79,5.39,3.19,,la,70507,Lafayette,2024-05-16,0,1,1,0,Lafayette
+98,Burger King,"3900 geary boulevard, san francisco, ca, 94118, us",6.548113207547171,4.59,4.105567345990938,,53,,2.79,4.59,7.99,4.19,,ca,94118,San Francisco,2024-05-16,0,1,1,0,San Francisco
+99,Burger King,"3949 government boulevard, mobile, al, 36693, us",3.8630769230769224,2.99,1.9665584331531865,,26,,2.29,2.79,5.39,3.19,,al,36693,Mobile,2024-05-16,0,1,1,0,Mobile
+100,Burger King,"4004 rainbow boulevard, kansas city, ks, 66103, us",5.936428571428573,4.6899999999999995,3.4104861554222037,,56,,2.59,3.79,6.69,3.89,,ks,66103,Wyandotte,2024-05-16,0,1,1,0,Wyandotte
+101,Burger King,"4029, riverdale, ut, 84405, us",5.48980392156863,3.99,3.2937763595379823,,51,,2.29,3.29,5.79,3.29,,ut,84405,Weber,2024-05-16,0,1,1,0,Weber
+102,Burger King,"409 west ridge pike, conshohocken, pa, 19428, us",5.104705882352944,3.79,3.0651503196617065,,51,,2.49,2.99,5.59,2.99,,pa,19428,Montgomery,2024-05-16,0,1,1,0,Montgomery
+103,Burger King,"410 east morris street, indianapolis, in, 46225, us",5.074210526315789,4.19,2.965875479379983,,57,,2.19,3.09,5.69,3.59,,in,46225,Marion,2024-05-16,0,1,1,0,Marion
+104,Burger King,"415 east highway 80, pooler, ga, 31322, us",3.886153846153844,2.99,2.0300588792580467,,26,,2.39,2.99,5.89,2.99,,ga,31322,Chatham,2024-05-16,0,1,1,0,Chatham
+105,Burger King,"4241 augusta rd, garden city, ga, 31408, us",3.886153846153844,2.99,2.0300588792580467,,26,,2.39,2.99,5.89,2.99,,ga,31408,Chatham,2024-05-16,0,1,1,0,Chatham
+106,Burger King,"425 south, el paso, tx, 79901, us",5.267777777777781,4.140000000000001,3.1764566018143348,,54,,2.29,2.79,5.39,2.99,,tx,79901,El Paso,2024-05-16,0,1,1,0,El Paso
+107,Burger King,"4410 sunrise rd, round rock, tx, 78665, us",5.153703703703706,4.050000000000001,3.189182698212644,,54,,1.63,2.88,6.04,3.59,,tx,78665,Williamson,2024-05-16,0,1,1,0,Williamson
+108,Burger King,"4490 broadway boulevard, monroeville, pa, 15146, us",3.4904838709677417,2.99,1.7530171478646739,,62,,2.19,3.29,5.79,3.39,,pa,15146,Allegheny,2024-05-16,0,1,1,0,Allegheny
+109,Burger King,"4520 west commerce, san antonio, tx, 78237, us",3.383548387096775,2.69,1.7335280981321093,,62,,2.19,2.79,5.89,2.79,,tx,78237,Bexar,2024-05-16,0,1,1,0,Bexar
+110,Burger King,"4600 fleur dr, des moines, ia, 50321, us",5.784339622641513,3.99,3.716379608448312,,53,,2.49,3.19,5.99,2.99,,ia,50321,Polk,2024-05-16,0,1,1,0,Polk
+111,Burger King,"4639 irvington, houston, tx, 77009, us",4.986153846153848,3.99,3.078396281936271,,52,,1.89,2.49,5.49,2.59,,tx,77009,Harris,2024-05-16,0,1,1,0,Harris
+112,Burger King,"4701 edgmont ave, brookhaven, pa, 19015, us",5.976538461538464,5.24,3.458769726037205,,52,,2.39,3.29,6.59,4.29,,pa,19015,Delaware,2024-05-16,0,1,1,0,Delaware
+113,Burger King,"4709 dorchester road, n charleston, sc, 29405, us",5.396458333333335,3.99,3.4274446807980077,,48,,1.99,2.7,6.2,3.8,,sc,29405,Charleston,2024-05-16,0,1,1,0,Charleston
+114,Burger King,"490 loucks road, york, pa, 17404, us",5.299259259259262,3.99,3.174975562374225,,54,,2.49,2.89,5.79,3.29,,pa,17404,York,2024-05-16,0,1,1,0,York
+115,Burger King,"493 old hickory blvd, brentwood, tn, 37027, us",3.473064516129032,2.99,1.8142923517926082,,62,,2.19,3.29,5.89,3.69,,tn,37027,Williamson,2024-05-16,0,1,1,0,Williamson
+116,Burger King,"501 macdade blvd, holmes, pa, 19036, us",5.188245614035087,4.19,3.0503661688779515,,57,,2.29,3.49,6.09,3.59,,pa,19036,Delaware,2024-05-16,0,1,1,0,Delaware
+117,Burger King,"501 south king's highway, myrtle beach, sc, 29577, us",5.625625000000002,4.145,3.6379687019051814,,48,,1.99,2.7,6.7,4.3,,sc,29577,Horry,2024-05-16,0,1,1,0,Horry
+118,Burger King,"5301 johnston st, lafayette, la, 70503, us",5.110370370370372,3.99,3.0342110836035827,,54,,2.29,2.79,5.39,3.19,,la,70503,Lafayette,2024-05-16,0,1,1,0,Lafayette
+119,Burger King,"5401 e. university ave, pleasant hill, ia, 50327, us",5.784339622641513,3.99,3.716379608448312,,53,,2.49,3.19,5.99,2.99,,ia,50327,Polk,2024-05-16,0,1,1,0,Polk
+120,Burger King,"568 west dekalb pike, king of prussia, pa, 19406, us",5.104705882352944,3.79,3.0651503196617065,,51,,2.49,2.99,5.59,2.99,,pa,19406,Montgomery,2024-05-16,0,1,1,0,Montgomery
+121,Burger King,"575 east 400 south street, salt lake city, ut, 84102, us",5.48980392156863,3.99,3.2937763595379823,,51,,2.29,3.29,5.79,3.29,,ut,84102,Salt Lake,2024-05-16,0,1,1,0,Salt Lake
+122,Burger King,"6000 rivers ave, north charleston, sc, 29406, us",5.396458333333335,3.99,3.4274446807980077,,48,,1.99,2.7,6.2,3.8,,sc,29406,Charleston,2024-05-16,0,1,1,0,Charleston
+123,Burger King,"6003 gateway drive, plainfield, in, 46168, us",3.8979166666666654,2.99,1.9684659407066765,,24,,1.99,2.99,5.89,4.19,,in,46168,Hendricks,2024-05-16,0,1,1,0,Hendricks
+124,Burger King,"601 martin luther king blvd, savannah, ga, 31401, us",3.886153846153844,2.99,2.0300588792580467,,26,,2.39,2.99,5.89,2.99,,ga,31401,Chatham,2024-05-16,0,1,1,0,Chatham
+125,Burger King,"6029 wade hampton boulevard, taylors, sc, 29687, us",4.953157894736841,3.89,2.889341063648733,,57,,1.99,3.09,5.39,3.09,,sc,29687,Greenville,2024-05-16,0,1,1,0,Greenville
+126,Burger King,"6135 eastex freeway #2, beaumont, tx, 77706, us",5.072352941176471,3.99,3.0484779797596673,,51,,1.89,2.69,5.49,2.69,,tx,77706,Jefferson,2024-05-16,0,1,1,0,Jefferson
+127,Burger King,"6425 phelan boulevard, beaumont, tx, 77706, us",5.072352941176471,3.99,3.0484779797596673,,51,,1.89,2.69,5.49,2.69,,tx,77706,Jefferson,2024-05-16,0,1,1,0,Jefferson
+128,Burger King,"6220 east freeway, houston, tx, 77020, us",5.0527450980392175,3.99,3.0711153230026795,,51,,1.89,2.49,5.49,2.59,,tx,77020,Harris,2024-05-16,0,1,1,0,Harris
+129,Burger King,"623 second street, manchester, nh, 03102, us",5.6765384615384615,3.99,3.688236437343935,,52,,1.99,3.19,6.89,2.99,,nh,3102,Hillsborough,2024-05-16,0,1,1,0,Hillsborough
+130,Burger King,"6904 kennedy ave., hammond, in, 46323, us",4.380000000000001,3.44,2.6112036717545823,,26,,2.29,3.29,6.89,3.99,,in,46323,Lake,2024-05-16,0,1,1,0,Lake
+131,Burger King,"6909 odana road, madison, wi, 53719, us",5.840925925925927,4.34,3.791650314259496,,54,,2.49,3.39,7.09,4.09,,wi,53719,Dane,2024-05-16,0,1,1,0,Dane
+132,Burger King,"696 hanes mall blvd, winston salem, nc, 27103, us",5.049649122807017,4.19,2.9365130084532267,,57,,2.19,3.09,5.69,3.59,,nc,27103,Forsyth,2024-05-16,0,1,1,0,Forsyth
+133,Burger King,"7011 gulf freeway, houston, tx, 77087, us",5.0527450980392175,3.99,3.0711153230026795,,51,,1.89,2.49,5.49,2.59,,tx,77087,Harris,2024-05-16,0,1,1,0,Harris
+134,Burger King,"7050, theodore, al, 36582, us",3.9379999999999997,2.99,1.9687803330996576,,25,,2.29,2.79,5.39,3.19,,al,36582,Mobile,2024-05-16,0,1,1,0,Mobile
+135,Burger King,"7116 highway 70 south, nashville, tn, 37221, us",3.4520967741935484,2.99,1.7777360893951555,,62,,2.19,3.29,5.69,3.59,,tn,37221,Davidson,2024-05-16,0,1,1,0,Davidson
+136,Burger King,"7638 perkins road, baton rouge, la, 70810, us",5.110370370370372,3.99,3.0342110836035827,,54,,2.29,2.79,5.39,3.19,,la,70810,East Baton Rouge,2024-05-16,0,1,1,0,East Baton Rouge
+137,Burger King,"7938 calumet avenue, munster, in, 46321, us",3.7699999999999996,2.79,2.0849940047875433,,25,,1.99,2.69,5.69,2.79,,in,46321,Lake,2024-05-16,0,1,1,0,Lake
+138,Burger King,"7939 east 41 street, south, tulsa, ok, 74145, us",5.010000000000002,3.99,2.9610702519590846,,54,,1.99,2.79,5.19,2.79,,ok,74145,Tulsa,2024-05-16,0,1,1,0,Tulsa
+139,Burger King,"801 3rd avenue west, birmingham, al, 35204, us",3.8323076923076913,2.99,2.0032997926350413,,26,,2.29,2.99,5.89,2.99,,al,35204,Jefferson,2024-05-16,0,1,1,0,Jefferson
+140,Burger King,"803 n. main, layton, ut, 84041, us",6.106666666666668,5.24,3.525614885017976,,42,,1.99,6.19,3.59,,,ut,84041,Davis,2024-05-16,0,1,1,0,Davis
+141,Burger King,"810 north main street, oregon, wi, 53575, us",6.425098039215683,5.39,4.006539444922719,,51,,2.69,3.69,8.19,3.59,,wi,53575,Dane,2024-05-16,0,1,1,0,Dane
+142,Burger King,"8131 pat booker rd, live oak, tx, 78233, us",3.3427142857142838,2.73,1.6847389975292668,,70,,1.63,2.88,6.04,3.59,,tx,78233,Bexar,2024-05-16,0,1,1,0,Bexar
+143,Burger King,"819 memorial blvd, murfreesboro, tn, 37129, us",4.234117647058823,3.29,2.558999414412964,,119,,2.19,3.29,5.69,3.59,,tn,37129,Rutherford,2024-05-16,0,1,1,0,Rutherford
+144,Burger King,"819 south 3rd street, wilmington, nc, 28401, us",5.049649122807017,4.19,2.9365130084532267,,57,,2.19,3.09,5.69,3.59,,nc,28401,New Hanover,2024-05-16,0,1,1,0,New Hanover
+145,Burger King,"8378 w overland rd., boise, id, 83709, us",4.2275,3.29,2.3396603207873286,,24,,2.29,3.29,5.79,3.29,,id,83709,Ada,2024-05-16,0,1,1,0,Ada
+146,Burger King,"85 tunnel road, asheville, nc, 28805, us",4.953157894736841,3.89,2.889341063648733,,57,,1.99,3.09,5.39,3.09,,nc,28805,Buncombe,2024-05-16,0,1,1,0,Buncombe
+147,Burger King,"9009 clinton drive, houston, tx, 77029, us",5.0527450980392175,3.99,3.0711153230026795,,51,,1.89,2.49,5.49,2.59,,tx,77029,Harris,2024-05-16,0,1,1,0,Harris
