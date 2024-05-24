@@ -1,0 +1,25 @@
+,restaurant_name,restaurant_location,menu_item_price mean_non_zero,menu_item_price median_non_zero,menu_item_price std_non_zero,restaurant_rating mean,menu_item count,number_of_ratings first,hamburger,cheeseburger,fries,combo,specialty_item,state,zip,county_name
+0,Big Mouth Burgers,"3392 24th st, san francisco, ca, 94110, us",13.464285714285683,14.95,4.512657934372278,4.366666666666666,210,26,15.95,16.95,4.95,,,ca,94110,San Francisco
+1,Big Mouth Burgers,"851 cherry ave, san bruno, ca, 94066, us",14.185714285714285,15.95,4.366366116260122,4.8,168,30,15.95,16.95,5.25,,,ca,94066,San Mateo
+2,Burger Station,"10361 rockingham drive, sacramento, ca, 95827, us",11.260422535211262,12.93,3.9741337745581378,0.0,142,8,,4.48,,,,ca,95827,Sacramento
+3,Burger Station,"603 saratoga avenue, suite 30, san jose, ca, 95129, us",12.420147058823536,10.99,5.5829878129501695,4.8,136,30,11.99,11.99,8.99,,,ca,95129,Santa Clara
+4,Super Burger,"1132, clovis, ca, 93612, us",8.589452054794524,8.75,4.8301926818287155,0.0,73,1,,,3.5,,,ca,93612,Fresno
+5,Super Burger,"2505 3rd st, ceres, ca, 95307, us",5.388305084745766,4.99,2.4661430481709576,0.0,59,9,2.79,,2.09,,,ca,95307,Stanislaus
+6,Super Burger,"3500 w ball rd, anaheim, ca, 92804, us",9.158629032258057,8.5,5.103593821479232,4.7,248,94,,,5.5,,,ca,92804,Orange
+7,Super Burger,"5831 s santa fe ave, vernon, ca, 90058, us",11.331022727272735,11.99,3.970925596179381,5.0,88,12,,,4.99,,,ca,90058,Los Angeles
+8,Burger Basket,"501 west duarte road, monrovia, ca, 91016, us",7.007428571428572,6.6,4.480333752145284,4.9,105,16,5.35,6.0,4.15,,,ca,91016,Los Angeles
+9,Burger Factory,"1358 w martin luther king jr blvd, los angeles, ca, 90037, us",11.99954022988506,12.5,6.786708935810936,4.4,87,25,9.0,,,,,ca,90037,Los Angeles
+10,Cypress Best Burgers,"3240 n figueroa st, los angeles, ca, 90065, us",11.312222222222218,12.09,4.8181801240917785,4.8,198,126,6.29,7.19,5.59,,,ca,90065,Los Angeles
+11,Gold Star Hamburgers,"1623 s brand blvd, glendale, ca, 91204, us",9.85508196721312,9.69,4.9886450155971245,5.0,122,31,7.29,7.69,4.99,,,ca,91204,Los Angeles
+12,Hook Burger,"1731 n victory pl, burbank, ca, 91504, us",11.496829268292677,11.95,3.7435925350405936,4.8,41,39,11.49,,6.15,,,ca,91504,Los Angeles
+13,Hook Burger,"24369 magic mountain pkwy, valencia, ca, 91355, us",11.627317073170733,11.95,3.830182460399558,5.0,82,14,11.49,,6.15,,,ca,91355,Los Angeles
+14,Burger Palace,"100 e manchester ave, los angeles, ca, 90003, us",8.635106382978723,8.05,4.84976326350956,4.5,282,22,5.2,5.75,3.3,,,ca,90003,Los Angeles
+15,Varsity Burgers,"600 w lincoln ave, anaheim, ca, 92805, us",9.902054794520549,9.25,2.4230406341631543,4.8,219,100+,7.25,7.75,5.75,,,ca,92805,Orange
+16,Burger Boss,"15080 kensington park drive, tustin, ca, 92780, us",10.17857142857143,11.0,4.11427021326445,4.7,58,52,11.0,12.5,8.5,,,ca,92780,Orange
+17,Burger Boss,"27690-b santa margarita pkwy, mission viejo, ca, 92691, us",10.178571428571429,11.0,4.114270213264449,4.7,28,45,11.0,12.5,8.5,,,ca,92691,Orange
+18,P & G Burgers,"190 west valley boulevard, colton, ca, 92324, us",11.03555391432786,10.79,5.462349378659131,4.5,693,50+,5.99,6.99,6.99,,,ca,92324,San Bernardino
+19,R Burgers,"1666 university avenue, riverside, ca, 92507, us",12.959999999999988,12.55,4.418926607169501,4.4,178,47,,10.49,,,,ca,92507,Riverside
+20,R Burgers,"23750 alessandro boulevard suite b, moreno valley, ca, 92553, us",11.968382352941182,12.719999999999999,4.839656225726988,4.8,69,18,10.99,17.99,,,,ca,92553,Riverside
+21,R Burgers,"4890 south motor lane, ontario, ca, 91761, us",12.537125000000009,12.52,4.711190187667548,4.4,81,32,10.99,17.99,,,,ca,91761,San Bernardino
+22,Betty Burgers,"415 trout gulch road, aptos, ca, 95003, us",10.079400000000003,8.99,5.014636740582511,4.6,58,13,13.49,,3.99,,,ca,95003,Santa Cruz
+23,Betty Burgers,"505 seabright ave, santa cruz, ca, 95062, us",8.660144927536237,7.99,5.298367124114237,4.3,138,11,13.49,,3.99,,,ca,95062,Santa Cruz

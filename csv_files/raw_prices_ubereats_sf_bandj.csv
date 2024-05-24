@@ -1,0 +1,24 @@
+,restaurant_name,menu_item,menu_item_price,restaurant_location,inputted_location,restaurant_rating,number_of_ratings,restaurant_distance
+0,B&J,Burger,8.50,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+1,B&J,Double Burger,11.00,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+2,B&J,Grilled Chicken Burger,8.50,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+3,B&J,Hot Link Sandwich,8.00,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+4,B&J,Bacon Sandwich,7.50,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+5,B&J,Rib Eye Steak Sandwich,11.00,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+6,B&J,Ham Sandwich,7.50,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+7,B&J,Sausage Sandwich,7.50,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+8,B&J,Egg Sandwich,6.00,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+9,B&J,Beef Polish Sandwich,8.00,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+10,B&J,Cod Sandwich,9.50,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+11,B&J,French Fries,6.00,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+12,B&J,Chicken Strips,10.00,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+13,B&J,Chicken Wings (6),9.00,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+14,B&J,Mozzarella Sticks (6),8.00,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+15,B&J,Grilled Cheese,3.45,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+16,B&J,Fish and Chips,12.00,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+17,B&J,Chicken Corndog,3.45,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+18,B&J,Jalapeno Popper (6),9.00,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+19,B&J,Fountain Drinks,2.00,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+20,B&J,Can Drinks,0.00,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+21,B&J,OJ,4.00,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi
+22,B&J,Apple Juice,4.00,"6202 3rd St, San Francisco, CA, 94124, US","6202 3rd St, San Francisco, CA 94124",4.6 ,16,0 mi

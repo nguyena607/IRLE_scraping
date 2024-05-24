@@ -1,0 +1,40 @@
+,restaurant_name,restaurant_location,menu_item_price mean_non_zero,menu_item_price median_non_zero,menu_item_price std_non_zero,restaurant_rating mean,menu_item count,number_of_ratings first,specialty_item,cheeseburger,hamburger,fries,combo,state,zip,county_name_x,county_name_y,date,uber_eats,post_policy,fast_food,local
+0,Hardees,"100 vandora springs rd., garner, nc, 27529, us",6.021875,6.29,1.7711903439142276,,16,,5.29,2.59,2.29,,,nc,27529,Wake,Wake,2024-03-29,0,0,1,0
+1,Hardees,"10005 dorchester rd., summerville, sc, 29485, us",7.447857142857143,7.44,1.409793189348953,,14,,5.89,,,,,sc,29485,Dorchester,Dorchester,2024-03-29,0,0,1,0
+2,Hardees,"101 village road ne, leland, nc, 28451, us",6.021875,6.29,1.7711903439142278,,16,,5.29,2.59,2.29,,,nc,28451,Brunswick,Brunswick,2024-03-29,0,0,1,0
+3,Hardees,"11201 oscar rd., louisville, ky, 40241, us",8.247857142857141,8.49,1.791432701066099,,14,,5.49,,,,,ky,40241,Jefferson,Jefferson,2024-03-29,0,0,1,0
+4,Hardees,"125 w maple st, cumming, ga, 30040, us",7.447857142857143,7.44,1.409793189348953,,14,,5.89,,,,,ga,30040,Forsyth,Forsyth,2024-03-29,0,0,1,0
+5,Hardees,"12872 70 business highway west, clayton, nc, 27520, us",6.021875,6.29,1.7711903439142276,,16,,5.29,2.59,2.29,,,nc,27520,Johnston,Johnston,2024-03-29,0,0,1,0
+6,Hardees,"140 dale earnhardt boulevard, kannapolis, nc, 28081, us",6.021875,6.29,1.7711903439142278,,16,,5.29,2.59,2.29,,,nc,28081,Cabarrus,Cabarrus,2024-03-29,0,0,1,0
+7,Hardees,"14101 statesville rd, huntersville, nc, 28078, us",6.604999999999999,6.390000000000001,1.2723698361718578,,14,,5.29,,,,,nc,28078,Mecklenburg,Mecklenburg,2024-03-29,0,0,1,0
+8,Hardees,"1420 floral parkway, wilmington, nc, 28403, us",6.021875,6.29,1.7711903439142278,,16,,5.29,2.59,2.29,,,nc,28403,New Hanover,New Hanover,2024-03-29,0,0,1,0
+9,Hardees,"1520, buford, ga, 30518, us",7.447857142857143,7.44,1.409793189348953,,14,,5.89,,,,,ga,30518,Gwinnett,Gwinnett,2024-03-29,0,0,1,0
+10,Hardees,"1970 s. 17th street, wilmington, nc, 28401, us",6.021875,6.29,1.7711903439142278,,16,,5.29,2.59,2.29,,,nc,28401,New Hanover,New Hanover,2024-03-29,0,0,1,0
+11,Hardees,"2005 whitten road, memphis, tn, 38133, us",6.971333333333334,6.79,1.282834708327183,,15,,6.09,,,,,tn,38133,Shelby,Shelby,2024-03-29,0,0,1,0
+12,Hardees,"201 n, goose creek, sc, 29445, us",7.447857142857143,7.44,1.409793189348953,,14,,5.89,,,,,sc,29445,Berkeley,Berkeley,2024-03-29,0,0,1,0
+13,Hardees,"206 s main st, clover, sc, 29710, us",6.604999999999999,6.390000000000001,1.2723698361718578,,14,,5.29,,,,,sc,29710,York,York,2024-03-29,0,0,1,0
+14,Hardees,"2109 savannah hwy., charleston, sc, 29414, us",7.447857142857143,7.44,1.409793189348953,,14,,5.89,,,,,sc,29414,Charleston,Charleston,2024-03-29,0,0,1,0
+15,Hardees,"2165 mana court, rock hill, sc, 29730, us",6.604999999999999,6.390000000000001,1.2723698361718578,,14,,5.29,,,,,sc,29730,York,York,2024-03-29,0,0,1,0
+16,Hardees,"2450 e layton ave, saint francis, wi, 53235-6045, us",7.844666666666666,7.99,1.5341310968174204,,15,,6.09,,,,,wi,53235,Milwaukee,Milwaukee,2024-03-29,0,0,1,0
+17,Hardees,"2497 hope mills road, fayetteville, nc, 28304, us",6.021875,6.29,1.7711903439142276,,16,,5.29,2.59,2.29,,,nc,28304,Cumberland,Cumberland,2024-03-29,0,0,1,0
+18,Hardees,"2516 bouldercrest drive, atlanta, ga, 30316, us",7.447857142857143,7.44,1.409793189348953,,14,,5.89,,,,,ga,30316,DeKalb,DeKalb,2024-03-29,0,0,1,0
+19,Hardees,"2909 fern valley road, louisville, ky, 40219, us",8.247857142857141,8.49,1.791432701066099,,14,,5.49,,,,,ky,40219,Jefferson,Jefferson,2024-03-29,0,0,1,0
+20,Hardees,"2990 richmond rd, lexington, ky, 40509, us",7.540714285714285,7.49,1.5091173592804612,,14,,5.49,,,,,ky,40509,Fayette,Fayette,2024-03-29,0,0,1,0
+21,Hardees,"3803 morganton road, fayetteville, nc, 28314, us",6.021875,6.29,1.7711903439142276,,16,,5.29,2.59,2.29,,,nc,28314,Cumberland,Cumberland,2024-03-29,0,0,1,0
+22,Hardees,"3912 north duke street, durham, nc, 27704, us",6.021875,6.29,1.7711903439142276,,16,,5.29,2.59,2.29,,,nc,27704,Durham,Durham,2024-03-29,0,0,1,0
+23,Hardees,"4011 s noland rd, independence, mo, 64055, us",7.283571428571428,7.140000000000001,1.2862881655748681,,14,,5.99,,,,,mo,64055,Jackson,Jackson,2024-03-29,0,0,1,0
+24,Hardees,"4201 east w.t.harris blvd, charlotte, nc, 28215, us",6.604999999999999,6.390000000000001,1.2723698361718578,,14,,5.29,,,,,nc,28215,Mecklenburg,Mecklenburg,2024-03-29,0,0,1,0
+25,Hardees,"4260 legion road, hope mills, nc, 28348, us",6.021875,6.29,1.7711903439142276,,16,,5.29,2.59,2.29,,,nc,28348,Cumberland,Cumberland,2024-03-29,0,0,1,0
+26,Hardees,"5201 ashley phosphate rd., north charleston, sc, 29418, us",7.447857142857143,7.44,1.409793189348953,,14,,5.89,,,,,sc,29418,Charleston,Charleston,2024-03-29,0,0,1,0
+27,Hardees,"5259 highway 78, stone mountain, ga, 30087, us",7.447857142857143,7.44,1.409793189348953,,14,,5.89,,,,,ga,30087,DeKalb,DeKalb,2024-03-29,0,0,1,0
+28,Hardees,"5373 e bannister rd., kansas city, mo, 64137, us",7.283571428571428,7.140000000000001,1.2862881655748681,,14,,5.99,,,,,mo,64137,Jackson,Jackson,2024-03-29,0,0,1,0
+29,Hardees,"547 church street north, concord, nc, 28025, us",6.021875,6.29,1.7711903439142278,,16,,5.29,2.59,2.29,,,nc,28025,Cabarrus,Cabarrus,2024-03-29,0,0,1,0
+30,Hardees,"5601 creedmoor rd, raleigh, nc, 27612, us",6.021875,6.29,1.7711903439142276,,16,,5.29,2.59,2.29,,,nc,27612,Wake,Wake,2024-03-29,0,0,1,0
+31,Hardees,"5601, castle hayne, nc, 28429, us",6.021875,6.29,1.7711903439142278,,16,,5.29,2.59,2.29,,,nc,28429,New Hanover,New Hanover,2024-03-29,0,0,1,0
+32,Hardees,"5639 hillsborough st., raleigh, nc, 27606, us",6.021875,6.29,1.7711903439142276,,16,,5.29,2.59,2.29,,,nc,27606,Wake,Wake,2024-03-29,0,0,1,0
+33,Hardees,"6116 farrington road, chapel hill, nc, 27517, us",6.021875,6.29,1.7711903439142276,,16,,5.29,2.59,2.29,,,nc,27517,Chatham,Chatham,2024-03-29,0,0,1,0
+34,Hardees,"6323 independence ave, kansas city, mo, 64125, us",7.283571428571428,7.140000000000001,1.2862881655748681,,14,,5.99,,,,,mo,64125,Jackson,Jackson,2024-03-29,0,0,1,0
+35,Hardees,"7015 hacks cross road, olive branch, ms, 38654, us",6.971333333333334,6.79,1.282834708327183,,15,,6.09,,,,,ms,38654,DeSoto,DeSoto,2024-03-29,0,0,1,0
+36,Hardees,"749 goodman rd west, horn lake, ms, 38637, us",6.971333333333334,6.79,1.282834708327183,,15,,6.09,,,,,ms,38637,DeSoto,DeSoto,2024-03-29,0,0,1,0
+37,Hardees,"8021 state ave, kansas city, ks, 66112, us",7.162142857142858,6.99,1.219052199582168,,14,,5.99,,,,,ks,66112,Wyandotte,Wyandotte,2024-03-29,0,0,1,0
+38,Hardees,"875 gold hill rd, fort mill, sc, 29708, us",6.604999999999999,6.390000000000001,1.2723698361718578,,14,,5.29,,,,,sc,29708,York,York,2024-03-29,0,0,1,0
