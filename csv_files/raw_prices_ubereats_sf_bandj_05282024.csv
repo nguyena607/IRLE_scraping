@@ -1,0 +1,935 @@
+,restaurant_name,menu_item,menu_item_price,restaurant_location,inputted_location,restaurant_rating,number_of_ratings,restaurant_distance
+0,BJ,Brewhouse Sampler,20.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+1,BJ,Bone-In Wings,19.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+2,BJ,Boneless Wings,17.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+3,BJ,BJ's Original Wings,19.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+4,BJ,Avocado Egg Rolls,17.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+5,BJ,Fried Couscous Mac &amp; Cheese Balls,10.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+6,BJ,Garlic Shrimp With Parmesan Toast Appetizer,17.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+7,BJ,Mozzarella Sticks,16.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+8,BJ,Deep Dish Nachos,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+9,BJ,Sliders*,17.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+10,BJ,Sliders With Fries*,18.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+11,BJ,Crispy Calamari,19.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+12,BJ,Chicken Pot Stickers,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+13,BJ,Ahi Poke*,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+14,BJ,BBQ Tri-Tip Sliders*,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+15,BJ,BBQ Tri-Tip Sliders With Fries*,19.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+16,BJ,Spinach And Artichoke Dip,17.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+17,BJ,Big Twist Pretzel With Beer Cheese,11.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+18,BJ,California Club Flatbread,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+19,BJ,Pepperoni Extreme Flatbread,17.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+20,BJ,Sriracha Queso Dip,10.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+21,BJ,Chips &amp; Housemade Guacamole + Salsa,11.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+22,BJ,Bacon Jam Wings,21.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+23,BJ,Honey Sriracha Brussels Sprouts,6.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+24,BJ,Soup And Salad Combo,15.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+25,BJ,Clam Chowder,10.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+26,BJ,House Wedge Salad,7.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+27,BJ,Chicken Tortilla Soup,10.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+28,BJ,House Caesar Salad,7.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+29,BJ,House Salad,7.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+30,BJ,Broccoli Cheddar Soup,10.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+31,BJ,Fresh Mozzarella And Tomato Salad,7.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+32,BJ,Piranha® Pale Ale Chili,10.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+33,BJ,BJ's Brewhouse Classic Pizza,23.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+34,BJ,Spicy Pig Pizza,22.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+35,BJ,Build Your Own Pizza - Mini,14.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+36,BJ,Build Your Own Pizza - Shareable,20.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+37,BJ,Buffalo Chicken Pizza - Shareable,26.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+38,BJ,Pepperoni Extreme Pizza - Mini,17.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+39,BJ,BJ's Favorite Pizza - Shareable,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+40,BJ,Gourmet Five Meat Pizza - Mini,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+41,BJ,Vegetarian Pizza - Mini,17.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+42,BJ,Vegetarian Pizza - Shareable,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+43,BJ,Sweet Pig® Pizza - Shareable,25.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+44,BJ,Barbeque Chicken Pizza - Mini,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+45,BJ,Great White® Pizza - Mini,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+46,BJ,Barbeque Chicken Pizza - Shareable,26.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+47,BJ,Gourmet Five Meat Pizza - Large,38.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+48,BJ,Chicken Bacon Ranch Pizza - Mini,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+49,BJ,Chicken Bacon Ranch Pizza - Shareable,26.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+50,BJ,Build Your Own Pizza - Large,28.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+51,BJ,Pepperoni Extreme Pizza - Shareable,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+52,BJ,Sweet Pig® Pizza - Mini,17.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+53,BJ,Buffalo Chicken Pizza - Mini,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+54,BJ,BJ's Favorite Pizza - Mini,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+55,BJ,BJ's Favorite Pizza - Large,38.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+56,BJ,Great White® Pizza - Shareable,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+57,BJ,Chicken Bacon Ranch Pizza - Large,38.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+58,BJ,BJ's Classic Combo Pizza - Shareable,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+59,BJ,Sweet Pig® Pizza - Large,35.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+60,BJ,Gourmet Five Meat Pizza - Shareable,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+61,BJ,BJ's Classic Combo Pizza - Mini,17.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+62,BJ,Vegetarian Pizza - Large,36.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+63,BJ,Barbeque Chicken Pizza - Large,38.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+64,BJ,Pepperoni Extreme Pizza - Large,37.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+65,BJ,BJ's Classic Combo Pizza - Large,37.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+66,BJ,Great White® Pizza - Large,38.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+67,BJ,Buffalo Chicken Pizza - Large,38.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+68,BJ,Half &amp; Half Deep Dish - Shareable,20.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+69,BJ,Half &amp; Half Deep Dish - Large,28.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+70,BJ,Gluten-Free Thin Crust Cheese Pizza,16.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+71,BJ,Gluten-Free BJ's Classic Combo,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+72,BJ,Gluten-Free Sweet Pig®,25.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+73,BJ,Gluten-Free Barbeque Chicken,26.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+74,BJ,Gluten-Free Pepperoni Extreme,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+75,BJ,Gluten-Free Chicken Bacon Ranch,26.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+76,BJ,Gluten-Free Vegetarian,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+77,BJ,Santa Fe Salad,24.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+78,BJ,Honey-Crisp Chicken Salad,24.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+79,BJ,Tri-Tip Wedge*,25.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+80,BJ,Enlightened Seared Ahi Salad*,24.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+81,BJ,Chicken Caesar Salad,20.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+82,BJ,Enlightened Asian Chopped Salad,22.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+83,BJ,Strawberry Fields Salad With Chicken,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+84,BJ,New Sal's Brewhouse Chicken,27.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+85,BJ,Parmesan-Crusted Chicken,27.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+86,BJ,New New Orleans Jambalaya,28.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+87,BJ,Atlantic Salmon*,28.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+88,BJ,BJ's Brewhouse Blonde® Fish 'N' Chips,26.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+89,BJ,BJ's Brewhouse Bowl With Salmon*,26.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+90,BJ,Spicy Peanut Chicken With Soba Noodles,24.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+91,BJ,BJ's Brewhouse Bowl With Tri-Tip,25.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+92,BJ,Enlightened Cherry Chipotle Glazed Salmon*,28.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+93,BJ,BJ's Brewhouse Bowl With Shrimp,25.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+94,BJ,BJ's Brewhouse Bowl With Chicken,24.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+95,BJ,BJ's Brewhouse Bowl,20.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+96,BJ,Tri-Tip* &amp; Baby Back Ribs,34.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+97,BJ,Tri-Tip* And Grilled Chicken,31.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+98,BJ,Tri-Tip* &amp; Shrimp Scampi,32.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+99,BJ,Slow-Roasted Tri-Tip*,27.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+100,BJ,BJ's Classic Rib-Eye*,37.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+101,BJ,Double Bone-In Pork Chop (Every day after 4 PM),27.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+102,BJ,Filet Mignon*,34.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+103,BJ,Baby Back Pork Ribs - Half,31.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+104,BJ,Baby Back Pork Ribs - Full,36.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+105,BJ,Surf &amp; Turf Stack,34.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+106,BJ,Bacon Cheeseburger*,19.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+107,BJ,BJ's Smokehouse Burger*,19.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+108,BJ,Classic Cheeseburger*,17.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+109,BJ,Hickory Brisket And Bacon Burger*,20.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+110,BJ,Crispy Jalapeno Burger*,19.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+111,BJ,Bacon-Guacamole Deluxe Burger*,20.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+112,BJ,California Chicken Club Sandwich,19.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+113,BJ,BJ's Kickin' Chicken Sandwich,19.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+114,BJ,Enlightened Mediterranean Chicken Pita Tacos,19.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+115,BJ,Brewhouse Philly*,20.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+116,BJ,Mahi-Mahi Or Shrimp Tacos,20.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+117,BJ,Classic Prime Rib Dip*,21.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+118,BJ,BJ's Classic Crispy Chicken Sandwich,18.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+119,BJ,Grilled Chicken Alfredo,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+120,BJ,Deep Dish Ziti,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+121,BJ,Italian Chicken Parmigiana Pasta,26.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+122,BJ,Shrimp Scampi,27.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+123,BJ,Loaded Baked Potato,6.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+124,BJ,Fries,5.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+125,BJ,Loaded Mashed Potatoes,6.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+126,BJ,Broccoli,5.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+127,BJ,Rice Pilaf,5.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+128,BJ,Sweet Potato Fries,6.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+129,BJ,Baked Potato,5.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+130,BJ,White Cheddar Mashed Potatoes,5.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+131,BJ,Asparagus,5.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+132,BJ,Garlic-Roasted Vegetables,5.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+133,BJ,Creamy Couscous Mac &amp; Cheese,6.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+134,BJ,Kids' Mini Pizookie®,3.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+135,BJ,Kids' Create-Your-Own-Pasta,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+136,BJ,Kids' Chicken Tenders,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+137,BJ,Kids' Mac 'N' Cheese,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+138,BJ,Kids' Mini Burgers,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+139,BJ,Kids' Mini Corn Dogs,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+140,BJ,Kids' Boneless Wings With Root Beer BBQ Sauce,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+141,BJ,Kids' Grilled Chicken Breast,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+142,BJ,Kids' Sundae,2.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+143,BJ,Kids' Mini Deep Dish Pizza,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+144,BJ,Pasta Feast,45.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+145,BJ,Parmesan Crusted Chicken &amp; Ribs Bundle,60.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+146,BJ,Wings Feast,55.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+147,BJ,Tri-Tip &amp; Chicken Bundle,55.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+148,BJ,Tri-Tip &amp; Ribs Bundle,65.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+149,BJ,Slow- Roasted Tri-Tip Bundle,65.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+150,BJ,Chicken &amp; Salmon Bundle,60.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+151,BJ,Chicken &amp; Ribs Bundle,60.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+152,BJ,Steaks &amp; Ribs Bundle,80.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+153,BJ,Chocolate Chunk Pizookie®,9.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+154,BJ,Hot Fudge Brownie Pizookie ®,10.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+155,BJ,Salted Caramel Pizookie®,10.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+156,BJ,Strawberry Shortcake Pizookie®,10.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+157,BJ,Cookies 'N' Cream Pizookie®,10.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+158,BJ,White Chocolate Macadamia Nut Pizookie®,9.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+159,BJ,Gluten-Free Chocolate Chip Pizookie®,10.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+160,BJ,Sugar Cookie Pizookie®,9.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+161,BJ,Triple Chocolate Pizookie® Made With Ghirardelli®,10.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+162,BJ,BJ's Handcrafted Root Beer Float,5.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+163,BJ,BJ's Handcrafted Black Cherry Float,5.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+164,BJ,BJ's Handcrafted Vanilla Cream Float,5.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+165,BJ,BJ's Handcrafted Orange Cream Float,5.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+166,BJ,Ice Cream Cup,4.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+167,BJ,BJ's Brewhouse Blonde® - 6-Pack,11.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+168,BJ,BJ's Berry Burst® - 6-Pack,13.55,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+169,BJ,BJ's Committed® Double IPA - 6-Pack,4.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+170,BJ,BJ's Jeremiah Red® - 6-Pack,12.55,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+171,BJ,BJ's Piranha® Pale Ale - 6-Pack,12.55,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+172,BJ,Truly Hard Seltzer Strawberry Lemonade 6-Pack,18.05,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+173,BJ,BJ's Oasis® Amber - 6-Pack,12.55,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+174,BJ,BJ's Hopstorm® IPA - 6-Pack,11.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+175,BJ,Truly Hard Seltzer Wild Berry 6-Pack,18.05,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+176,BJ,BJ's Cureveza Mexican-Style Lager - 6-Pack,4.45,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+177,BJ,Dark Horse Cabernet Sauvignon,10.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+178,BJ,Dark Horse Chardonnay,10.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+179,BJ,Apothic Red Winemaker's Blend,10.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+180,BJ,Ecco Domani Pinot Grigio,10.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+181,BJ,Silver Gate Vineyards Brut,10.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+182,BJ,"Chloe Pinot Grigio, Italy",35.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+183,BJ,"14 Hands Merlot, Washington",20.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+184,BJ,"Seven Daughters Moscato, Italy",20.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+185,BJ,"Joel Gott Sauvignon Blanc, California",35.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+186,BJ,Kendall-Jackson Chardonnay,20.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+187,BJ,"Josh Cellars Cabernet Sauvignon, California",15.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+188,BJ,The Beach By Whispering Angel Rosé,20.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+189,BJ,"La Crema Chardonnay, Monterey County",25.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+190,BJ,"Kim Crawford Sauvignon Blanc, New New Zealand",25.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+191,BJ,"Meiomi Pinot Noir, Sonoma County",25.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+192,BJ,Daou Cabernet Sauvignon,25.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+193,BJ,Strawberry Lemonade 64 Oz,7.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+194,BJ,BJ's Handcrafted Root Beer 64 Oz (Container Not Included),6.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+195,BJ,Lemonade 64 Oz,6.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+196,BJ,Arnold Palmer 64 Oz,6.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+197,BJ,BJ's Handcrafted Orange Cream Soda 64 Oz (Container Not Included),6.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+198,BJ,BJ's Handcrafted Vanilla Cream Soda 64 Oz (Container Not Included),6.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+199,BJ,BJ's Handcrafted Black Cherry Soda 64 Oz (Container Not Included),6.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+200,BJ,Unsweetened Black Iced Tea 64 Oz,4.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+201,BJ,BJ's Root Beer - Single Can,2.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+202,BJ,BJ's Handcrafted Vanilla Cream Soda,2.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+203,BJ,BJ's Ginger Beer - Single Can,2.00,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+204,BJ,BJ's Handcrafted Black Cherry Soda,2.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+205,BJ,BJ's Handcrafted Root Beer,2.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+206,BJ,BJ's Root Beer- 6 Pack,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+207,BJ,BJ's Handcrafted Orange Cream Soda,2.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+208,BJ,BJ's Ginger Beer- 4 Pack,6.95,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+209,BJ,Shirley Temple,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+210,BJ,Dr Pepper,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+211,BJ,Pepsi,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+212,BJ,Diet Pepsi,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+213,BJ,Diet Dr Pepper,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+214,BJ,Starry,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+215,BJ,Mountain Dew,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+216,BJ,Club Soda,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+217,BJ,Strawberry Lemonade,2.75,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+218,BJ,Lemonade,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+219,BJ,Bottled Water,3.65,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+220,BJ,San Pellegrino,4.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+221,BJ,Unsweetened Black Iced Tea,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+222,BJ,Arnold Palmer,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+223,BJ,Sweet Tea,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+224,BJ,Chocolate Milk,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+225,BJ,Milk,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+226,BJ,Hot Chocolate,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+227,BJ,Apple Juice,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+228,BJ,Pineapple Juice,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+229,BJ,Orange Juice,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+230,BJ,Cranberry Juice,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+231,BJ,Grapefruit Juice,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.3 ,1,9.9 mi
+232,BJ,Brewhouse Sampler,21.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+233,BJ,Bone-In Wings,19.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+234,BJ,Boneless Wings,18.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+235,BJ,BJ's Original Wings,19.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+236,BJ,Avocado Egg Rolls,18.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+237,BJ,Fried Couscous Mac &amp; Cheese Balls,11.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+238,BJ,Garlic Shrimp With Parmesan Toast Appetizer,18.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+239,BJ,Mozzarella Sticks,16.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+240,BJ,Deep Dish Nachos,19.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+241,BJ,Sliders*,18.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+242,BJ,Sliders With Fries*,19.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+243,BJ,Crispy Calamari,20.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+244,BJ,Chicken Pot Stickers,18.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+245,BJ,Ahi Poke*,19.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+246,BJ,BBQ Tri-Tip Sliders*,19.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+247,BJ,BBQ Tri-Tip Sliders With Fries*,20.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+248,BJ,Spinach And Artichoke Dip,18.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+249,BJ,Big Twist Pretzel With Beer Cheese,11.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+250,BJ,California Club Flatbread,18.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+251,BJ,Pepperoni Extreme Flatbread,18.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+252,BJ,Sriracha Queso Dip,11.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+253,BJ,Chips &amp; Housemade Guacamole + Salsa,11.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+254,BJ,Bacon Jam Wings,21.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+255,BJ,Honey Sriracha Brussels Sprouts,6.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+256,BJ,Clam Chowder,10.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+257,BJ,House Caesar Salad,7.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+258,BJ,Chicken Tortilla Soup,10.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+259,BJ,House Wedge Salad,7.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+260,BJ,Broccoli Cheddar Soup,10.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+261,BJ,House Salad,7.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+262,BJ,Fresh Mozzarella And Tomato Salad,7.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+263,BJ,Soup And Salad Combo,16.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+264,BJ,Piranha® Pale Ale Chili,11.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+265,BJ,BJ's Brewhouse Classic Pizza,23.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+266,BJ,Spicy Pig Pizza,23.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+267,BJ,Build Your Own Pizza,15.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+268,BJ,BJ's Favorite Pizza - Shareable,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+269,BJ,Build Your Own Pizza - Mini,15.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+270,BJ,Sweet Pig® Pizza - Mini,17.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+271,BJ,Build Your Own Pizza - Shareable,20.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+272,BJ,Pepperoni Extreme Pizza - Shareable,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+273,BJ,Buffalo Chicken Pizza - Shareable,26.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+274,BJ,BJ's Favorite Pizza - Mini,18.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+275,BJ,Vegetarian Pizza - Shareable,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+276,BJ,Barbeque Chicken Pizza - Shareable,26.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+277,BJ,Great White® Pizza - Shareable,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+278,BJ,Vegetarian Pizza - Large,36.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+279,BJ,Sweet Pig® Pizza - Large,35.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+280,BJ,Gourmet Five Meat Pizza - Large,38.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+281,BJ,Gourmet Five Meat Pizza - Shareable,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+282,BJ,Chicken Bacon Ranch Pizza - Shareable,26.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+283,BJ,Build Your Own Pizza - Large,28.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+284,BJ,Sweet Pig® Pizza - Shareable,25.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+285,BJ,Pepperoni Extreme Pizza - Mini,17.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+286,BJ,Pepperoni Extreme Pizza - Large,37.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+287,BJ,BJ's Favorite Pizza - Large,38.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+288,BJ,Great White® Pizza - Large,38.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+289,BJ,Gourmet Five Meat Pizza - Mini,18.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+290,BJ,Vegetarian Pizza - Mini,17.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+291,BJ,Barbeque Chicken Pizza - Large,38.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+292,BJ,BJ's Classic Combo Pizza - Shareable,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+293,BJ,BJ's Classic Combo Pizza - Mini,17.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+294,BJ,Chicken Bacon Ranch Pizza - Mini,18.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+295,BJ,Great White® Pizza - Mini,18.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+296,BJ,Buffalo Chicken Pizza - Mini,18.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+297,BJ,Barbeque Chicken Pizza - Mini,18.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+298,BJ,Buffalo Chicken Pizza - Large,38.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+299,BJ,BJ's Classic Combo Pizza - Large,37.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+300,BJ,Chicken Bacon Ranch Pizza - Large,38.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+301,BJ,Half &amp; Half Deep Dish - Large,28.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+302,BJ,Half &amp; Half Deep Dish - Shareable,20.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+303,BJ,Gluten-Free Thin Crust Cheese Pizza,16.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+304,BJ,Gluten-Free BJ's Classic Combo,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+305,BJ,Gluten-Free Vegetarian,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+306,BJ,Gluten-Free Pepperoni Extreme,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+307,BJ,Gluten-Free Barbeque Chicken,26.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+308,BJ,Gluten-Free Chicken Bacon Ranch,26.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+309,BJ,Gluten-Free Sweet Pig®,25.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+310,BJ,Santa Fe Salad,24.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+311,BJ,Enlightened Asian Chopped Salad,22.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+312,BJ,Honey-Crisp Chicken Salad,24.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+313,BJ,Chicken Caesar Salad,21.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+314,BJ,Tri-Tip Wedge*,25.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+315,BJ,Enlightened Seared Ahi Salad*,24.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+316,BJ,Strawberry Fields Salad With Chicken,19.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+317,BJ,Atlantic Salmon*,29.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+318,BJ,New Sal's Brewhouse Chicken,27.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+319,BJ,Parmesan-Crusted Chicken,29.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+320,BJ,Spicy Peanut Chicken With Soba Noodles,24.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+321,BJ,BJ's Brewhouse Blonde® Fish 'N' Chips,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+322,BJ,New New Orleans Jambalaya,28.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+323,BJ,Enlightened Cherry Chipotle Glazed Salmon*,29.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+324,BJ,BJ's Brewhouse Bowl,20.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+325,BJ,BJ's Brewhouse Bowl With Salmon*,27.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+326,BJ,BJ's Brewhouse Bowl With Shrimp,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+327,BJ,BJ's Brewhouse Bowl With Chicken,24.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+328,BJ,BJ's Brewhouse Bowl With Tri-Tip,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+329,BJ,Tri-Tip* &amp; Baby Back Ribs,35.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+330,BJ,Tri-Tip* And Grilled Chicken,32.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+331,BJ,Tri-Tip* &amp; Shrimp Scampi,33.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+332,BJ,Filet Mignon*,35.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+333,BJ,BJ's Classic Rib-Eye*,37.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+334,BJ,Slow-Roasted Tri-Tip*,28.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+335,BJ,Double Bone-In Pork Chop (Every day after 4 PM),27.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+336,BJ,Baby Back Pork Ribs - Full,36.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+337,BJ,Baby Back Pork Ribs - Half,31.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+338,BJ,Surf &amp; Turf Stack,34.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+339,BJ,Bacon Cheeseburger*,20.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+340,BJ,Classic Cheeseburger*,18.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+341,BJ,Bacon-Guacamole Deluxe Burger*,20.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+342,BJ,Hickory Brisket And Bacon Burger*,21.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+343,BJ,Crispy Jalapeno Burger*,20.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+344,BJ,BJ's Smokehouse Burger*,20.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+345,BJ,Brewhouse Philly*,21.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+346,BJ,BJ's Classic Crispy Chicken Sandwich,19.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+347,BJ,Mahi-Mahi Or Shrimp Tacos,20.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+348,BJ,Enlightened Mediterranean Chicken Pita Tacos,19.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+349,BJ,California Chicken Club Sandwich,20.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+350,BJ,BJ's Kickin' Chicken Sandwich,19.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+351,BJ,Classic Prime Rib Dip*,23.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+352,BJ,Jumbo Spaghetti And Meatballs,25.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+353,BJ,Grilled Chicken Alfredo,28.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+354,BJ,Deep Dish Ziti,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+355,BJ,Shrimp Scampi,28.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+356,BJ,Italian Chicken Parmigiana Pasta,27.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+357,BJ,Fries,5.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+358,BJ,Loaded Baked Potato,6.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+359,BJ,Sweet Potato Fries,6.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+360,BJ,Broccoli,5.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+361,BJ,Loaded Mashed Potatoes,6.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+362,BJ,Rice Pilaf,5.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+363,BJ,Baked Potato,5.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+364,BJ,Creamy Couscous Mac &amp; Cheese,6.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+365,BJ,White Cheddar Mashed Potatoes,5.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+366,BJ,Garlic-Roasted Vegetables,5.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+367,BJ,Asparagus,5.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+368,BJ,Kids' Chicken Tenders,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+369,BJ,Kids' Mini Pizookie®,3.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+370,BJ,Kids' Create-Your-Own-Pasta,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+371,BJ,Kids' Boneless Wings With Root Beer BBQ Sauce,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+372,BJ,Kids' Mac 'N' Cheese,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+373,BJ,Kids' Mini Burgers,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+374,BJ,Kids' Mini Corn Dogs,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+375,BJ,Kids' Grilled Chicken Breast,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+376,BJ,Kids' Sundae,2.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+377,BJ,Kids' Mini Deep Dish Pizza,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+378,BJ,Pasta Feast,45.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+379,BJ,Tri-Tip &amp; Chicken Bundle,55.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+380,BJ,Wings Feast,55.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+381,BJ,Chicken &amp; Salmon Bundle,60.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+382,BJ,Slow- Roasted Tri-Tip Bundle,65.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+383,BJ,Parmesan Crusted Chicken &amp; Ribs Bundle,60.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+384,BJ,Tri-Tip &amp; Ribs Bundle,65.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+385,BJ,Chicken &amp; Ribs Bundle,60.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+386,BJ,Steaks &amp; Ribs Bundle,80.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+387,BJ,Pizookie® Trio,14.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+388,BJ,Chocolate Chunk Pizookie®,10.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+389,BJ,Cookies 'N' Cream Pizookie®,10.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+390,BJ,Salted Caramel Pizookie®,10.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+391,BJ,Hot Fudge Brownie Pizookie ®,10.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+392,BJ,Strawberry Shortcake Pizookie®,10.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+393,BJ,White Chocolate Macadamia Nut Pizookie®,10.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+394,BJ,BJ's Handcrafted Root Beer Float,5.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+395,BJ,Triple Chocolate Pizookie® Made With Ghirardelli®,10.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+396,BJ,Gluten-Free Chocolate Chip Pizookie®,10.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+397,BJ,Sugar Cookie Pizookie®,10.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+398,BJ,BJ's Handcrafted Orange Cream Float,5.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+399,BJ,BJ's Handcrafted Vanilla Cream Float,5.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+400,BJ,BJ's Handcrafted Black Cherry Float,5.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+401,BJ,Ice Cream Cup,4.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+402,BJ,BJ's Committed® Double IPA - 6-Pack,13.55,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+403,BJ,BJ's Piranha® Pale Ale - 6-Pack,12.55,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+404,BJ,BJ's Brewhouse Blonde® - 6-Pack,11.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+405,BJ,BJ's Berry Burst® - 6-Pack,13.55,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+406,BJ,BJ's Oasis® Amber - 6-Pack,12.55,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+407,BJ,BJ's Jeremiah Red® - 6-Pack,12.55,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+408,BJ,Truly Hard Seltzer Strawberry Lemonade 6-Pack,18.05,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+409,BJ,BJ's Hopstorm® IPA - 6-Pack,11.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+410,BJ,BJ's Cureveza Mexican-Style Lager - 6-Pack,13.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+411,BJ,Truly Hard Seltzer Wild Berry 6-Pack,18.05,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+412,BJ,Ecco Domani Pinot Grigio,10.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+413,BJ,Apothic Red Winemaker's Blend,10.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+414,BJ,Dark Horse Cabernet Sauvignon,10.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+415,BJ,Dark Horse Chardonnay,10.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+416,BJ,Silver Gate Vineyards Brut,10.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+417,BJ,"Chloe Pinot Grigio, Italy",35.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+418,BJ,Chateau Ste. Michelle Riesling,15.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+419,BJ,"14 Hands Merlot, Washington",20.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+420,BJ,"Josh Cellars Cabernet Sauvignon, California",15.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+421,BJ,"Seven Daughters Moscato, Italy",20.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+422,BJ,"Joel Gott Sauvignon Blanc, California",35.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+423,BJ,Kendall-Jackson Chardonnay,20.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+424,BJ,The Beach By Whispering Angel Rosé,20.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+425,BJ,"Meiomi Pinot Noir, Sonoma County",25.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+426,BJ,"Kim Crawford Sauvignon Blanc, New New Zealand",25.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+427,BJ,"La Crema Chardonnay, Monterey County",25.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+428,BJ,Daou Cabernet Sauvignon,25.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+429,BJ,Lemonade 64 Oz,6.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+430,BJ,BJ's Handcrafted Black Cherry Soda 64 Oz (Container Not Included),6.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+431,BJ,Strawberry Lemonade 64 Oz,7.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+432,BJ,Unsweetened Black Iced Tea 64 Oz,4.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+433,BJ,BJ's Handcrafted Root Beer 64 Oz (Container Not Included),6.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+434,BJ,Arnold Palmer 64 Oz,6.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+435,BJ,BJ's Handcrafted Orange Cream Soda 64 Oz (Container Not Included),6.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+436,BJ,BJ's Handcrafted Vanilla Cream Soda 64 Oz (Container Not Included),6.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+437,BJ,BJ's Handcrafted Vanilla Cream Soda,2.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+438,BJ,BJ's Root Beer - Single Can,2.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+439,BJ,BJ's Root Beer- 6 Pack,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+440,BJ,BJ's Handcrafted Orange Cream Soda,2.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+441,BJ,BJ's Handcrafted Root Beer,2.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+442,BJ,BJ's Ginger Beer - Single Can,2.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+443,BJ,BJ's Handcrafted Black Cherry Soda,2.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+444,BJ,BJ's Ginger Beer- 4 Pack,6.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+445,BJ,Shirley Temple,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+446,BJ,Dr Pepper,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+447,BJ,Diet Pepsi,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+448,BJ,Pepsi,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+449,BJ,Starry,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+450,BJ,Diet Dr Pepper,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+451,BJ,Mountain Dew,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+452,BJ,Club Soda,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+453,BJ,Strawberry Lemonade,2.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+454,BJ,Lemonade,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+455,BJ,Bottled Water,3.65,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+456,BJ,Arnold Palmer,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+457,BJ,Unsweetened Black Iced Tea,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+458,BJ,Sweet Tea,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+459,BJ,Chocolate Milk,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+460,BJ,Hot Chocolate,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+461,BJ,Milk,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+462,BJ,Apple Juice,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+463,BJ,Grapefruit Juice,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+464,BJ,Cranberry Juice,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+465,BJ,Orange Juice,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+466,BJ,Pineapple Juice,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102",4.5 ,1,16.8 mi
+467,BJ,Brewhouse Sampler,20.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+468,BJ,Bone-In Wings,19.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+469,BJ,Boneless Wings,17.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+470,BJ,BJ's Original Wings,19.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+471,BJ,Avocado Egg Rolls,17.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+472,BJ,Fried Couscous Mac &amp; Cheese Balls,10.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+473,BJ,Garlic Shrimp With Parmesan Toast Appetizer,17.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+474,BJ,Mozzarella Sticks,16.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+475,BJ,Deep Dish Nachos,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+476,BJ,Sliders*,17.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+477,BJ,Sliders With Fries*,18.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+478,BJ,Crispy Calamari,19.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+479,BJ,Chicken Pot Stickers,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+480,BJ,Ahi Poke*,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+481,BJ,BBQ Tri-Tip Sliders*,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+482,BJ,BBQ Tri-Tip Sliders With Fries*,19.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+483,BJ,Spinach And Artichoke Dip,17.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+484,BJ,Big Twist Pretzel With Beer Cheese,11.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+485,BJ,California Club Flatbread,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+486,BJ,Pepperoni Extreme Flatbread,17.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+487,BJ,Sriracha Queso Dip,10.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+488,BJ,Chips &amp; Housemade Guacamole + Salsa,11.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+489,BJ,Bacon Jam Wings,21.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+490,BJ,Honey Sriracha Brussels Sprouts,6.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+491,BJ,Soup And Salad Combo,15.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+492,BJ,Clam Chowder,10.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+493,BJ,House Wedge Salad,7.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+494,BJ,Chicken Tortilla Soup,10.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+495,BJ,House Caesar Salad,7.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+496,BJ,House Salad,7.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+497,BJ,Broccoli Cheddar Soup,10.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+498,BJ,Fresh Mozzarella And Tomato Salad,7.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+499,BJ,Piranha® Pale Ale Chili,10.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+500,BJ,BJ's Brewhouse Classic Pizza,23.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+501,BJ,Spicy Pig Pizza,22.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+502,BJ,Build Your Own Pizza - Mini,14.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+503,BJ,Build Your Own Pizza - Shareable,20.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+504,BJ,Buffalo Chicken Pizza - Shareable,26.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+505,BJ,Pepperoni Extreme Pizza - Mini,17.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+506,BJ,BJ's Favorite Pizza - Shareable,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+507,BJ,Gourmet Five Meat Pizza - Mini,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+508,BJ,Vegetarian Pizza - Mini,17.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+509,BJ,Vegetarian Pizza - Shareable,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+510,BJ,Sweet Pig® Pizza - Shareable,25.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+511,BJ,Barbeque Chicken Pizza - Mini,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+512,BJ,Great White® Pizza - Mini,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+513,BJ,Barbeque Chicken Pizza - Shareable,26.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+514,BJ,Gourmet Five Meat Pizza - Large,38.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+515,BJ,Chicken Bacon Ranch Pizza - Mini,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+516,BJ,Chicken Bacon Ranch Pizza - Shareable,26.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+517,BJ,Build Your Own Pizza - Large,28.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+518,BJ,Pepperoni Extreme Pizza - Shareable,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+519,BJ,Sweet Pig® Pizza - Mini,17.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+520,BJ,Buffalo Chicken Pizza - Mini,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+521,BJ,BJ's Favorite Pizza - Mini,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+522,BJ,BJ's Favorite Pizza - Large,38.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+523,BJ,Great White® Pizza - Shareable,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+524,BJ,Chicken Bacon Ranch Pizza - Large,38.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+525,BJ,BJ's Classic Combo Pizza - Shareable,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+526,BJ,Sweet Pig® Pizza - Large,35.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+527,BJ,Gourmet Five Meat Pizza - Shareable,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+528,BJ,BJ's Classic Combo Pizza - Mini,17.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+529,BJ,Vegetarian Pizza - Large,36.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+530,BJ,Barbeque Chicken Pizza - Large,38.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+531,BJ,Pepperoni Extreme Pizza - Large,37.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+532,BJ,BJ's Classic Combo Pizza - Large,37.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+533,BJ,Great White® Pizza - Large,38.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+534,BJ,Buffalo Chicken Pizza - Large,38.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+535,BJ,Half &amp; Half Deep Dish - Shareable,20.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+536,BJ,Half &amp; Half Deep Dish - Large,28.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+537,BJ,Gluten-Free Thin Crust Cheese Pizza,16.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+538,BJ,Gluten-Free BJ's Classic Combo,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+539,BJ,Gluten-Free Sweet Pig®,25.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+540,BJ,Gluten-Free Barbeque Chicken,26.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+541,BJ,Gluten-Free Pepperoni Extreme,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+542,BJ,Gluten-Free Chicken Bacon Ranch,26.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+543,BJ,Gluten-Free Vegetarian,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+544,BJ,Santa Fe Salad,24.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+545,BJ,Honey-Crisp Chicken Salad,24.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+546,BJ,Tri-Tip Wedge*,25.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+547,BJ,Enlightened Seared Ahi Salad*,24.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+548,BJ,Chicken Caesar Salad,20.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+549,BJ,Enlightened Asian Chopped Salad,22.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+550,BJ,Strawberry Fields Salad With Chicken,18.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+551,BJ,New Sal's Brewhouse Chicken,27.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+552,BJ,Parmesan-Crusted Chicken,27.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+553,BJ,New New Orleans Jambalaya,28.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+554,BJ,Atlantic Salmon*,28.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+555,BJ,BJ's Brewhouse Blonde® Fish 'N' Chips,26.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+556,BJ,BJ's Brewhouse Bowl With Salmon*,26.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+557,BJ,Spicy Peanut Chicken With Soba Noodles,24.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+558,BJ,BJ's Brewhouse Bowl With Tri-Tip,25.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+559,BJ,Enlightened Cherry Chipotle Glazed Salmon*,28.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+560,BJ,BJ's Brewhouse Bowl With Shrimp,25.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+561,BJ,BJ's Brewhouse Bowl With Chicken,24.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+562,BJ,BJ's Brewhouse Bowl,20.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+563,BJ,Tri-Tip* &amp; Baby Back Ribs,34.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+564,BJ,Tri-Tip* And Grilled Chicken,31.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+565,BJ,Tri-Tip* &amp; Shrimp Scampi,32.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+566,BJ,Slow-Roasted Tri-Tip*,27.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+567,BJ,BJ's Classic Rib-Eye*,37.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+568,BJ,Double Bone-In Pork Chop (Every day after 4 PM),27.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+569,BJ,Filet Mignon*,34.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+570,BJ,Baby Back Pork Ribs - Half,31.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+571,BJ,Baby Back Pork Ribs - Full,36.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+572,BJ,Surf &amp; Turf Stack,34.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+573,BJ,Bacon Cheeseburger*,19.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+574,BJ,BJ's Smokehouse Burger*,19.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+575,BJ,Classic Cheeseburger*,17.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+576,BJ,Hickory Brisket And Bacon Burger*,20.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+577,BJ,Crispy Jalapeno Burger*,19.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+578,BJ,Bacon-Guacamole Deluxe Burger*,20.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+579,BJ,California Chicken Club Sandwich,19.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+580,BJ,BJ's Kickin' Chicken Sandwich,19.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+581,BJ,Enlightened Mediterranean Chicken Pita Tacos,19.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+582,BJ,Brewhouse Philly*,20.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+583,BJ,Mahi-Mahi Or Shrimp Tacos,20.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+584,BJ,Classic Prime Rib Dip*,21.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+585,BJ,BJ's Classic Crispy Chicken Sandwich,18.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+586,BJ,Grilled Chicken Alfredo,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+587,BJ,Deep Dish Ziti,26.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+588,BJ,Italian Chicken Parmigiana Pasta,26.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+589,BJ,Shrimp Scampi,27.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+590,BJ,Loaded Baked Potato,6.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+591,BJ,Fries,5.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+592,BJ,Loaded Mashed Potatoes,6.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+593,BJ,Broccoli,5.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+594,BJ,Rice Pilaf,5.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+595,BJ,Sweet Potato Fries,6.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+596,BJ,Baked Potato,5.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+597,BJ,White Cheddar Mashed Potatoes,5.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+598,BJ,Asparagus,5.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+599,BJ,Garlic-Roasted Vegetables,5.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+600,BJ,Creamy Couscous Mac &amp; Cheese,6.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+601,BJ,Kids' Mini Pizookie®,3.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+602,BJ,Kids' Create-Your-Own-Pasta,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+603,BJ,Kids' Chicken Tenders,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+604,BJ,Kids' Mac 'N' Cheese,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+605,BJ,Kids' Mini Burgers,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+606,BJ,Kids' Mini Corn Dogs,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+607,BJ,Kids' Boneless Wings With Root Beer BBQ Sauce,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+608,BJ,Kids' Grilled Chicken Breast,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+609,BJ,Kids' Sundae,2.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+610,BJ,Kids' Mini Deep Dish Pizza,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+611,BJ,Pasta Feast,45.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+612,BJ,Parmesan Crusted Chicken &amp; Ribs Bundle,60.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+613,BJ,Wings Feast,55.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+614,BJ,Tri-Tip &amp; Chicken Bundle,55.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+615,BJ,Tri-Tip &amp; Ribs Bundle,65.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+616,BJ,Slow- Roasted Tri-Tip Bundle,65.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+617,BJ,Chicken &amp; Salmon Bundle,60.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+618,BJ,Chicken &amp; Ribs Bundle,60.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+619,BJ,Steaks &amp; Ribs Bundle,80.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+620,BJ,Chocolate Chunk Pizookie®,9.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+621,BJ,Hot Fudge Brownie Pizookie ®,10.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+622,BJ,Salted Caramel Pizookie®,10.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+623,BJ,Strawberry Shortcake Pizookie®,10.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+624,BJ,Cookies 'N' Cream Pizookie®,10.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+625,BJ,White Chocolate Macadamia Nut Pizookie®,9.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+626,BJ,Gluten-Free Chocolate Chip Pizookie®,10.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+627,BJ,Sugar Cookie Pizookie®,9.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+628,BJ,Triple Chocolate Pizookie® Made With Ghirardelli®,10.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+629,BJ,BJ's Handcrafted Root Beer Float,5.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+630,BJ,BJ's Handcrafted Black Cherry Float,5.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+631,BJ,BJ's Handcrafted Vanilla Cream Float,5.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+632,BJ,BJ's Handcrafted Orange Cream Float,5.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+633,BJ,Ice Cream Cup,4.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+634,BJ,BJ's Brewhouse Blonde® - 6-Pack,11.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+635,BJ,BJ's Berry Burst® - 6-Pack,13.55,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+636,BJ,BJ's Committed® Double IPA - 6-Pack,4.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+637,BJ,BJ's Jeremiah Red® - 6-Pack,12.55,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+638,BJ,BJ's Piranha® Pale Ale - 6-Pack,12.55,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+639,BJ,Truly Hard Seltzer Strawberry Lemonade 6-Pack,18.05,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+640,BJ,BJ's Oasis® Amber - 6-Pack,12.55,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+641,BJ,BJ's Hopstorm® IPA - 6-Pack,11.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+642,BJ,Truly Hard Seltzer Wild Berry 6-Pack,18.05,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+643,BJ,BJ's Cureveza Mexican-Style Lager - 6-Pack,4.45,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+644,BJ,Dark Horse Cabernet Sauvignon,10.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+645,BJ,Dark Horse Chardonnay,10.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+646,BJ,Apothic Red Winemaker's Blend,10.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+647,BJ,Ecco Domani Pinot Grigio,10.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+648,BJ,Silver Gate Vineyards Brut,10.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+649,BJ,"Chloe Pinot Grigio, Italy",35.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+650,BJ,"14 Hands Merlot, Washington",20.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+651,BJ,"Seven Daughters Moscato, Italy",20.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+652,BJ,"Joel Gott Sauvignon Blanc, California",35.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+653,BJ,Kendall-Jackson Chardonnay,20.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+654,BJ,"Josh Cellars Cabernet Sauvignon, California",15.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+655,BJ,The Beach By Whispering Angel Rosé,20.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+656,BJ,"La Crema Chardonnay, Monterey County",25.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+657,BJ,"Kim Crawford Sauvignon Blanc, New New Zealand",25.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+658,BJ,"Meiomi Pinot Noir, Sonoma County",25.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+659,BJ,Daou Cabernet Sauvignon,25.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+660,BJ,Strawberry Lemonade 64 Oz,7.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+661,BJ,BJ's Handcrafted Root Beer 64 Oz (Container Not Included),6.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+662,BJ,Lemonade 64 Oz,6.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+663,BJ,Arnold Palmer 64 Oz,6.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+664,BJ,BJ's Handcrafted Orange Cream Soda 64 Oz (Container Not Included),6.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+665,BJ,BJ's Handcrafted Vanilla Cream Soda 64 Oz (Container Not Included),6.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+666,BJ,BJ's Handcrafted Black Cherry Soda 64 Oz (Container Not Included),6.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+667,BJ,Unsweetened Black Iced Tea 64 Oz,4.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+668,BJ,BJ's Root Beer - Single Can,2.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+669,BJ,BJ's Handcrafted Vanilla Cream Soda,2.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+670,BJ,BJ's Ginger Beer - Single Can,2.00,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+671,BJ,BJ's Handcrafted Black Cherry Soda,2.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+672,BJ,BJ's Handcrafted Root Beer,2.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+673,BJ,BJ's Root Beer- 6 Pack,8.25,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+674,BJ,BJ's Handcrafted Orange Cream Soda,2.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+675,BJ,BJ's Ginger Beer- 4 Pack,6.95,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+676,BJ,Shirley Temple,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+677,BJ,Dr Pepper,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+678,BJ,Pepsi,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+679,BJ,Diet Pepsi,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+680,BJ,Diet Dr Pepper,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+681,BJ,Starry,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+682,BJ,Mountain Dew,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+683,BJ,Club Soda,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+684,BJ,Strawberry Lemonade,2.75,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+685,BJ,Lemonade,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+686,BJ,Bottled Water,3.65,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+687,BJ,San Pellegrino,4.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+688,BJ,Unsweetened Black Iced Tea,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+689,BJ,Arnold Palmer,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+690,BJ,Sweet Tea,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+691,BJ,Chocolate Milk,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+692,BJ,Milk,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+693,BJ,Hot Chocolate,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+694,BJ,Apple Juice,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+695,BJ,Pineapple Juice,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+696,BJ,Orange Juice,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+697,BJ,Cranberry Juice,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+698,BJ,Grapefruit Juice,2.50,"1140 El Camino Real, San Bruno, CA, 94066, US","700 Corbett Ave, San Francisco, CA 94131",4.3 ,1,8.4 mi
+699,BJ,Brewhouse Sampler,21.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+700,BJ,Bone-In Wings,19.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+701,BJ,Boneless Wings,18.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+702,BJ,BJ's Original Wings,19.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+703,BJ,Avocado Egg Rolls,18.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+704,BJ,Fried Couscous Mac &amp; Cheese Balls,11.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+705,BJ,Garlic Shrimp With Parmesan Toast Appetizer,18.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+706,BJ,Mozzarella Sticks,16.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+707,BJ,Deep Dish Nachos,19.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+708,BJ,Sliders*,18.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+709,BJ,Sliders With Fries*,19.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+710,BJ,Crispy Calamari,20.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+711,BJ,Chicken Pot Stickers,18.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+712,BJ,Ahi Poke*,19.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+713,BJ,BBQ Tri-Tip Sliders*,19.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+714,BJ,BBQ Tri-Tip Sliders With Fries*,20.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+715,BJ,Spinach And Artichoke Dip,18.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+716,BJ,Big Twist Pretzel With Beer Cheese,11.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+717,BJ,California Club Flatbread,18.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+718,BJ,Pepperoni Extreme Flatbread,18.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+719,BJ,Sriracha Queso Dip,11.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+720,BJ,Chips &amp; Housemade Guacamole + Salsa,11.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+721,BJ,Bacon Jam Wings,21.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+722,BJ,Honey Sriracha Brussels Sprouts,6.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+723,BJ,Clam Chowder,10.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+724,BJ,House Caesar Salad,7.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+725,BJ,Chicken Tortilla Soup,10.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+726,BJ,House Wedge Salad,7.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+727,BJ,Broccoli Cheddar Soup,10.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+728,BJ,House Salad,7.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+729,BJ,Fresh Mozzarella And Tomato Salad,7.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+730,BJ,Soup And Salad Combo,16.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+731,BJ,Piranha® Pale Ale Chili,11.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+732,BJ,BJ's Brewhouse Classic Pizza,23.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+733,BJ,Spicy Pig Pizza,23.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+734,BJ,Build Your Own Pizza,15.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+735,BJ,BJ's Favorite Pizza - Shareable,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+736,BJ,Build Your Own Pizza - Mini,15.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+737,BJ,Sweet Pig® Pizza - Mini,17.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+738,BJ,Build Your Own Pizza - Shareable,20.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+739,BJ,Pepperoni Extreme Pizza - Shareable,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+740,BJ,Buffalo Chicken Pizza - Shareable,26.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+741,BJ,BJ's Favorite Pizza - Mini,18.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+742,BJ,Vegetarian Pizza - Shareable,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+743,BJ,Barbeque Chicken Pizza - Shareable,26.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+744,BJ,Great White® Pizza - Shareable,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+745,BJ,Vegetarian Pizza - Large,36.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+746,BJ,Sweet Pig® Pizza - Large,35.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+747,BJ,Gourmet Five Meat Pizza - Large,38.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+748,BJ,Gourmet Five Meat Pizza - Shareable,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+749,BJ,Chicken Bacon Ranch Pizza - Shareable,26.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+750,BJ,Build Your Own Pizza - Large,28.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+751,BJ,Sweet Pig® Pizza - Shareable,25.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+752,BJ,Pepperoni Extreme Pizza - Mini,17.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+753,BJ,Pepperoni Extreme Pizza - Large,37.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+754,BJ,BJ's Favorite Pizza - Large,38.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+755,BJ,Great White® Pizza - Large,38.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+756,BJ,Gourmet Five Meat Pizza - Mini,18.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+757,BJ,Vegetarian Pizza - Mini,17.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+758,BJ,Barbeque Chicken Pizza - Large,38.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+759,BJ,BJ's Classic Combo Pizza - Shareable,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+760,BJ,BJ's Classic Combo Pizza - Mini,17.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+761,BJ,Chicken Bacon Ranch Pizza - Mini,18.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+762,BJ,Great White® Pizza - Mini,18.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+763,BJ,Buffalo Chicken Pizza - Mini,18.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+764,BJ,Barbeque Chicken Pizza - Mini,18.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+765,BJ,Buffalo Chicken Pizza - Large,38.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+766,BJ,BJ's Classic Combo Pizza - Large,37.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+767,BJ,Chicken Bacon Ranch Pizza - Large,38.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+768,BJ,Half &amp; Half Deep Dish - Large,28.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+769,BJ,Half &amp; Half Deep Dish - Shareable,20.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+770,BJ,Gluten-Free Thin Crust Cheese Pizza,16.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+771,BJ,Gluten-Free BJ's Classic Combo,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+772,BJ,Gluten-Free Vegetarian,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+773,BJ,Gluten-Free Pepperoni Extreme,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+774,BJ,Gluten-Free Barbeque Chicken,26.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+775,BJ,Gluten-Free Chicken Bacon Ranch,26.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+776,BJ,Gluten-Free Sweet Pig®,25.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+777,BJ,Santa Fe Salad,24.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+778,BJ,Enlightened Asian Chopped Salad,22.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+779,BJ,Honey-Crisp Chicken Salad,24.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+780,BJ,Chicken Caesar Salad,21.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+781,BJ,Tri-Tip Wedge*,25.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+782,BJ,Enlightened Seared Ahi Salad*,24.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+783,BJ,Strawberry Fields Salad With Chicken,19.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+784,BJ,Atlantic Salmon*,29.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+785,BJ,New Sal's Brewhouse Chicken,27.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+786,BJ,Parmesan-Crusted Chicken,29.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+787,BJ,Spicy Peanut Chicken With Soba Noodles,24.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+788,BJ,BJ's Brewhouse Blonde® Fish 'N' Chips,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+789,BJ,New New Orleans Jambalaya,28.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+790,BJ,Enlightened Cherry Chipotle Glazed Salmon*,29.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+791,BJ,BJ's Brewhouse Bowl,20.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+792,BJ,BJ's Brewhouse Bowl With Salmon*,27.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+793,BJ,BJ's Brewhouse Bowl With Shrimp,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+794,BJ,BJ's Brewhouse Bowl With Chicken,24.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+795,BJ,BJ's Brewhouse Bowl With Tri-Tip,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+796,BJ,Tri-Tip* &amp; Baby Back Ribs,35.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+797,BJ,Tri-Tip* And Grilled Chicken,32.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+798,BJ,Tri-Tip* &amp; Shrimp Scampi,33.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+799,BJ,Filet Mignon*,35.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+800,BJ,BJ's Classic Rib-Eye*,37.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+801,BJ,Slow-Roasted Tri-Tip*,28.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+802,BJ,Double Bone-In Pork Chop (Every day after 4 PM),27.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+803,BJ,Baby Back Pork Ribs - Full,36.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+804,BJ,Baby Back Pork Ribs - Half,31.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+805,BJ,Surf &amp; Turf Stack,34.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+806,BJ,Bacon Cheeseburger*,20.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+807,BJ,Classic Cheeseburger*,18.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+808,BJ,Bacon-Guacamole Deluxe Burger*,20.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+809,BJ,Hickory Brisket And Bacon Burger*,21.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+810,BJ,Crispy Jalapeno Burger*,20.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+811,BJ,BJ's Smokehouse Burger*,20.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+812,BJ,Brewhouse Philly*,21.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+813,BJ,BJ's Classic Crispy Chicken Sandwich,19.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+814,BJ,Mahi-Mahi Or Shrimp Tacos,20.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+815,BJ,Enlightened Mediterranean Chicken Pita Tacos,19.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+816,BJ,California Chicken Club Sandwich,20.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+817,BJ,BJ's Kickin' Chicken Sandwich,19.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+818,BJ,Classic Prime Rib Dip*,23.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+819,BJ,Jumbo Spaghetti And Meatballs,25.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+820,BJ,Grilled Chicken Alfredo,28.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+821,BJ,Deep Dish Ziti,26.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+822,BJ,Shrimp Scampi,28.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+823,BJ,Italian Chicken Parmigiana Pasta,27.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+824,BJ,Fries,5.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+825,BJ,Loaded Baked Potato,6.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+826,BJ,Sweet Potato Fries,6.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+827,BJ,Broccoli,5.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+828,BJ,Loaded Mashed Potatoes,6.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+829,BJ,Rice Pilaf,5.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+830,BJ,Baked Potato,5.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+831,BJ,Creamy Couscous Mac &amp; Cheese,6.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+832,BJ,White Cheddar Mashed Potatoes,5.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+833,BJ,Garlic-Roasted Vegetables,5.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+834,BJ,Asparagus,5.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+835,BJ,Kids' Chicken Tenders,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+836,BJ,Kids' Mini Pizookie®,3.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+837,BJ,Kids' Create-Your-Own-Pasta,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+838,BJ,Kids' Boneless Wings With Root Beer BBQ Sauce,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+839,BJ,Kids' Mac 'N' Cheese,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+840,BJ,Kids' Mini Burgers,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+841,BJ,Kids' Mini Corn Dogs,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+842,BJ,Kids' Grilled Chicken Breast,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+843,BJ,Kids' Sundae,2.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+844,BJ,Kids' Mini Deep Dish Pizza,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+845,BJ,Pasta Feast,45.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+846,BJ,Tri-Tip &amp; Chicken Bundle,55.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+847,BJ,Wings Feast,55.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+848,BJ,Chicken &amp; Salmon Bundle,60.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+849,BJ,Slow- Roasted Tri-Tip Bundle,65.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+850,BJ,Parmesan Crusted Chicken &amp; Ribs Bundle,60.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+851,BJ,Tri-Tip &amp; Ribs Bundle,65.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+852,BJ,Chicken &amp; Ribs Bundle,60.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+853,BJ,Steaks &amp; Ribs Bundle,80.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+854,BJ,Pizookie® Trio,14.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+855,BJ,Chocolate Chunk Pizookie®,10.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+856,BJ,Cookies 'N' Cream Pizookie®,10.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+857,BJ,Salted Caramel Pizookie®,10.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+858,BJ,Hot Fudge Brownie Pizookie ®,10.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+859,BJ,Strawberry Shortcake Pizookie®,10.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+860,BJ,White Chocolate Macadamia Nut Pizookie®,10.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+861,BJ,BJ's Handcrafted Root Beer Float,5.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+862,BJ,Triple Chocolate Pizookie® Made With Ghirardelli®,10.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+863,BJ,Gluten-Free Chocolate Chip Pizookie®,10.45,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+864,BJ,Sugar Cookie Pizookie®,10.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+865,BJ,BJ's Handcrafted Orange Cream Float,5.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+866,BJ,BJ's Handcrafted Vanilla Cream Float,5.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+867,BJ,BJ's Handcrafted Black Cherry Float,5.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+868,BJ,Ice Cream Cup,4.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+869,BJ,BJ's Committed® Double IPA - 6-Pack,13.55,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+870,BJ,BJ's Piranha® Pale Ale - 6-Pack,12.55,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+871,BJ,BJ's Brewhouse Blonde® - 6-Pack,11.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+872,BJ,BJ's Berry Burst® - 6-Pack,13.55,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+873,BJ,BJ's Oasis® Amber - 6-Pack,12.55,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+874,BJ,BJ's Jeremiah Red® - 6-Pack,12.55,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+875,BJ,Truly Hard Seltzer Strawberry Lemonade 6-Pack,18.05,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+876,BJ,BJ's Hopstorm® IPA - 6-Pack,11.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+877,BJ,BJ's Cureveza Mexican-Style Lager - 6-Pack,13.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+878,BJ,Truly Hard Seltzer Wild Berry 6-Pack,18.05,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+879,BJ,Ecco Domani Pinot Grigio,10.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+880,BJ,Apothic Red Winemaker's Blend,10.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+881,BJ,Dark Horse Cabernet Sauvignon,10.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+882,BJ,Dark Horse Chardonnay,10.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+883,BJ,Silver Gate Vineyards Brut,10.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+884,BJ,"Chloe Pinot Grigio, Italy",35.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+885,BJ,Chateau Ste. Michelle Riesling,15.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+886,BJ,"14 Hands Merlot, Washington",20.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+887,BJ,"Josh Cellars Cabernet Sauvignon, California",15.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+888,BJ,"Seven Daughters Moscato, Italy",20.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+889,BJ,"Joel Gott Sauvignon Blanc, California",35.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+890,BJ,Kendall-Jackson Chardonnay,20.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+891,BJ,The Beach By Whispering Angel Rosé,20.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+892,BJ,"Meiomi Pinot Noir, Sonoma County",25.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+893,BJ,"Kim Crawford Sauvignon Blanc, New New Zealand",25.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+894,BJ,"La Crema Chardonnay, Monterey County",25.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+895,BJ,Daou Cabernet Sauvignon,25.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+896,BJ,Lemonade 64 Oz,6.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+897,BJ,BJ's Handcrafted Black Cherry Soda 64 Oz (Container Not Included),6.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+898,BJ,Strawberry Lemonade 64 Oz,7.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+899,BJ,Unsweetened Black Iced Tea 64 Oz,4.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+900,BJ,BJ's Handcrafted Root Beer 64 Oz (Container Not Included),6.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+901,BJ,Arnold Palmer 64 Oz,6.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+902,BJ,BJ's Handcrafted Orange Cream Soda 64 Oz (Container Not Included),6.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+903,BJ,BJ's Handcrafted Vanilla Cream Soda 64 Oz (Container Not Included),6.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+904,BJ,BJ's Handcrafted Vanilla Cream Soda,2.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+905,BJ,BJ's Root Beer - Single Can,2.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+906,BJ,BJ's Root Beer- 6 Pack,8.25,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+907,BJ,BJ's Handcrafted Orange Cream Soda,2.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+908,BJ,BJ's Handcrafted Root Beer,2.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+909,BJ,BJ's Ginger Beer - Single Can,2.00,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+910,BJ,BJ's Handcrafted Black Cherry Soda,2.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+911,BJ,BJ's Ginger Beer- 4 Pack,6.95,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+912,BJ,Shirley Temple,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+913,BJ,Dr Pepper,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+914,BJ,Diet Pepsi,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+915,BJ,Pepsi,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+916,BJ,Starry,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+917,BJ,Diet Dr Pepper,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+918,BJ,Mountain Dew,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+919,BJ,Club Soda,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+920,BJ,Strawberry Lemonade,2.75,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+921,BJ,Lemonade,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+922,BJ,Bottled Water,3.65,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+923,BJ,Arnold Palmer,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+924,BJ,Unsweetened Black Iced Tea,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+925,BJ,Sweet Tea,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+926,BJ,Chocolate Milk,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+927,BJ,Hot Chocolate,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+928,BJ,Milk,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+929,BJ,Apple Juice,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+930,BJ,Grapefruit Juice,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+931,BJ,Cranberry Juice,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+932,BJ,Orange Juice,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi
+933,BJ,Pineapple Juice,2.50,"2206 Bridgepoint Parkway, San Mateo, CA, 94404, US","700 Corbett Ave, San Francisco, CA 94131",4.5 ,1,16 mi

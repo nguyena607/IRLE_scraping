@@ -20,12 +20,12 @@ from FFLOCALRESTAURANTS import RESTAURANTS
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-LOCATIONS = LOCATIONS
-RESTAURANTS = RESTAURANTS
-FILE_PATH = f"raw_prices_ubereats_ca_fflocal{datetime.datetime.now().strftime('%m-%d-%Y')}.jsonl"
+LOCATIONS = ["1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102", "700 Corbett Ave, San Francisco, CA 94131" ]
+RESTAURANTS =["BJ"] 
+FILE_PATH = f"raw_prices_ubereats_sf_bandj_{datetime.datetime.now().strftime('%m-%d-%Y')}.jsonl"
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
-#CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
-CHROMEDRIVER_PATH = "/Users/sakshikolli/Downloads/chromedriver-mac-x64/chromedriver"
+CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
+#CHROMEDRIVER_PATH = "/Users/sakshikolli/Downloads/chromedriver-mac-x64/chromedriver"
 
 
 def setup_driver():
