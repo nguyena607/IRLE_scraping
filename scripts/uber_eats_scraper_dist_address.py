@@ -12,7 +12,7 @@ import time
 import datetime
 import re
 from selenium.webdriver.common.action_chains import ActionChains
-from CA_LOCATIONS import LOCATIONS
+from LOCALRESTAURANT_LOCATIONS import LOCATIONS
 from FFLOCALRESTAURANTS import RESTAURANTS
 
 
