@@ -1,0 +1,2 @@
+,restaurant_name,restaurant_location,menu_item_price mean_non_zero,menu_item_price median_non_zero,menu_item_price std_non_zero,restaurant_rating mean,menu_item count,number_of_ratings first,hamburger,fries,combo,specialty_item,cheeseburger,state,zip,county_name,date,uber_eats,post_policy,fast_food,local
+0,B&J,"6202 3rd st, san francisco, ca, 94124, us",7.449999999999999,8.0,2.6478979656254955,4.6,23,500+,8.5,6.0,,,,ca,94124,San Francisco,2024-05-28,1,1,1,1

@@ -20,8 +20,8 @@ from FFLOCALRESTAURANTS import RESTAURANTS
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-LOCATIONS = ["1 Dr Carlton B Goodlett Pl, San Francisco, CA 94102", "700 Corbett Ave, San Francisco, CA 94131" ]
-RESTAURANTS =["BJ"] 
+LOCATIONS = ["700 Corbett Ave, San Francisco, CA 94131"]
+RESTAURANTS =["B&J Burgers"] 
 FILE_PATH = f"raw_prices_ubereats_sf_bandj_{datetime.datetime.now().strftime('%m-%d-%Y')}.jsonl"
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
 CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
@@ -86,8 +86,11 @@ def scrape_restaurant_data(driver, restaurant_name, location, carousel = False):
         if find_search_box_and_enter_query(driver, restaurant_name, restaurant_or_location = "RESTAURANT"):
             try:
                 # Click on the first restaurant result
-                first_result = wait.until(EC.element_to_be_clickable((By.XPATH, "//h3[contains(text(), '" + restaurant_name + "')]")))
-                first_result.click()
+                first_result = wait.until(EC.element_to_be_clickable((By.XPATH, "//a[@data-testid='store-card']")))
+                href = first_result.get_attribute('href')
+                logger.info(f"Navigating to {href}")
+                # Navigate directly to the link
+                driver.get(href)
             except:
                 logger.info(f"{restaurant_name} not found at {location}.")
                 return
