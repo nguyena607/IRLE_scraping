@@ -12,7 +12,7 @@ import time
 import datetime
 import re
 from selenium.webdriver.common.action_chains import ActionChains
-from LOCALRESTAURANT_LOCATIONS import LOCATIONS
+from MISSING_HARDEES_LOCATIONS import LOCATIONS
 from FFLOCALRESTAURANTS import RESTAURANTS
 
 
@@ -20,9 +20,16 @@ from FFLOCALRESTAURANTS import RESTAURANTS
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-LOCATIONS = ["700 Corbett Ave, San Francisco, CA 94131"]
-RESTAURANTS =["B&J Burgers"] 
-FILE_PATH = f"raw_prices_ubereats_sf_bandj_{datetime.datetime.now().strftime('%m-%d-%Y')}.jsonl"
+LOCATIONS = ['1533 n. peoria, tulsa, ok, 74106, us',
+  '1726 bluff ridge drive, syracuse, ut, 84075, us',
+  '2011 north hillfield road, layton, ut, 84041, us',
+  '4840 s yale ave, tulsa, ok, 74135, us',
+  '737 n. main street, layton, ut, 84041, us',
+  '1432 s peoria ave, tulsa, ok, 74120, us',
+  '4029, riverdale, ut, 84405, us']
+
+RESTAURANTS = ['Carls Jr'] 
+FILE_PATH = f"missing_nonca_rnd_2.jsonl"
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
 CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
 #CHROMEDRIVER_PATH = "/Users/sakshikolli/Downloads/chromedriver-mac-x64/chromedriver"
@@ -32,6 +39,8 @@ def setup_driver():
     # Webdriver options
     chrome_options = Options()
     chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3")
+    chrome_options.add_argument("--headless")  # Run Chrome in headless mode
+    chrome_options.add_argument("--disable-gpu")  # Disable GPU acceleration
     service = Service(executable_path=CHROMEDRIVER_PATH)
     driver = webdriver.Chrome(service=service, options=chrome_options)
     return driver
@@ -94,6 +103,13 @@ def scrape_restaurant_data(driver, restaurant_name, location, carousel = False):
             except:
                 logger.info(f"{restaurant_name} not found at {location}.")
                 return
+            try:
+                # Check for and click the close button if it exists
+                close_button = wait.until(EC.element_to_be_clickable((By.XPATH, "//button[@data-testid='close-button']")))
+                close_button.click()
+                logger.info("Closed the pop-up window.")
+            except:
+                logger.info("No pop-up window to close.")
     try:
         # Find the script tag that contains the JSON data
         script = wait.until(EC.presence_of_element_located((By.XPATH, "//script[@type='application/ld+json']")))
@@ -253,14 +269,13 @@ def main():
                     items = scrape_restaurant_data(driver, restaurant, location)
                     update_json_file(FILE_PATH, location, restaurant, items)
                     driver.back()
-                    get_carousel_items(driver, restaurant, location)
+                    #get_carousel_items(driver, restaurant, location)
                     in_search_page = True
             else:
-                #scrape_top_restaurant(driver, location, restaurant)
                 items = scrape_restaurant_data(driver, restaurant, location)
                 update_json_file(FILE_PATH, location, restaurant, items)
                 driver.back()
-                get_carousel_items(driver, restaurant, location)
+                #get_carousel_items(driver, restaurant, location)
             driver.back()
         driver.quit()
 
