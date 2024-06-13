@@ -20,38 +20,12 @@ from FFLOCALRESTAURANTS import RESTAURANTS
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-LOCATIONS = ['2800 oxford dr, bethel park, pa, 15102, us',
-  '15190 crossroads pkwy, gulfport, ms, 39503, us',
-  '6840 northlake mall drive, charlotte, nc, 28216, us',
-  '1835 n highway 17, mount pleasant, sc, 29464, us',
-  '301 rocky run pkwy, wilmington, de, 19803, us',
-  '1100 timber dr e, garner, nc, 27529, us',
-  '240 mall blvd, monroeville, pa, 15146, us',
-  '2871 stonecrest cir, lithonia, ga, 30038, us',
-  '1114 woodruff road, greenville, sc, 29607, us',
-  '20430 highway 59 n, humble, tx, us, us',
-  '3502 e 86th st, indianapolis, in, 46240, us',
-  '3202 s highway 17, murrells inlet, sc, 29576, us',
-  '1516 s willow st, manchester, nh, 03103, us',
-  '2794 parkway, pigeon forge, tn, 37863, us',
-  '6915 w 38th st, indianapolis, in, 46214, us',
-  '3700 towne crossing blvd, mesquite, tx, 75150, us',
-  '12811 s tryon st, charlotte, nc, us, us',
-  '703 41, schererville, in, 46375, us',
-  '395 s cedar crest blvd, allentown, pa, 18103, us',
-  '3670 camp creek parkway, atlanta, ga, 30331, us',
-  '449 opry mills dr, nashville, tn, 37214, us',
-  '4951 belt line rd, dallas, tx, 75001, us',
-  '4239 nw expressway st, oklahoma city, ok, 73116, us',
-  '4423 w wendover ave, greensboro, nc, 27407, us',
-  '409 w wt harris blvd, charlotte, nc, 28262, us',
-  '311 north clark road, cedar hill, tx, 75104, us',
-  '115 hendersonvile rd, asheville, nc, 28803, us',
-  '4000 city ave, philadelphia, pa, 19131, us',
-  '2502 e springs dr, madison, wi, 53704, us']
+LOCATIONS = ['98 mission st, san francisco, ca, 94105, us',
+  '2355 telegraph avenue, berkeley, ca, 94704, us',
+  '2201 chestnut street, san francisco, ca, 94123, us']
 
-RESTAURANTS = ["TGI Fridays"] 
-FILE_PATH = f"missing_nonca_fullserv_rnd3.jsonl"
+RESTAURANTS = ["Super Duper Burgers"] 
+FILE_PATH = f"missing_ca_smallff_rnd1.jsonl"
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
 CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
 #CHROMEDRIVER_PATH = "/Users/sakshikolli/Downloads/chromedriver-mac-x64/chromedriver"

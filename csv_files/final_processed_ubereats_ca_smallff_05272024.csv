@@ -1,0 +1,103 @@
+,Unnamed: 0,restaurant_name,restaurant_location,menu_item_price mean_non_zero,menu_item_price median_non_zero,menu_item_price std_non_zero,restaurant_rating mean,menu_item count,number_of_ratings first,fries,hamburger,combo,specialty_item,cheeseburger,state,zip,county_name
+0,0,Super Duper Burgers,"2201 chestnut street, san francisco, ca, 94123, us",7.464285714285714,7.25,3.247055180765916,4.7,14,500+,4.0,10.5,,,,ca,94123,San Francisco
+1,1,Super Duper Burgers,"2355 telegraph avenue, berkeley, ca, 94704, us",7.9411764705882355,8.5,3.1814367497072045,4.6,17,500+,4.0,10.5,,,,ca,94704,Alameda
+2,2,Super Duper Burgers,"783 mission st, san francisco, ca, 94103, us",7.464285714285714,7.25,3.247055180765916,4.7,14,800+,4.0,10.5,,,,ca,94103,San Francisco
+3,3,Juicy Burger,"3720 east olive avenue, fresno, ca, 93702, us",8.561369863013704,7.99,4.79032738752162,0.0,73,,2.99,6.99,,,5.49,ca,93702,Fresno
+4,4,Gott's Roadside,"1 ferry building, san francisco, ca, 94111, us",17.974841269841278,14.99,14.590101544199165,4.8,150,4,4.99,10.99,,,11.99,ca,94111,San Francisco
+5,5,Gott's Roadside,"1275 south main street, walnut creek, ca, 94596, us",18.339924812030084,14.99,15.452556033364564,4.6,158,300+,4.99,10.99,,,11.99,ca,94596,Contra Costa
+6,6,Nation's Giant Hamburgers,"100 browns valley pkwy, vacaville, ca, 95688, us",12.205504587155964,10.55,6.190253286786099,4.4,113,470+,4.25,9.3,,,11.4,ca,95688,Solano
+7,7,Nation's Giant Hamburgers,"1424 first st, livermore, ca, 94550, us",12.08101851851852,10.55,6.173219932335994,4.8,112,370+,4.25,9.3,,,11.4,ca,94550,Alameda
+8,8,Nation's Giant Hamburgers,"16396, san pablo, ca, 94806, us",12.30494505494505,10.55,6.438120736935173,4.7,95,500+,4.25,9.3,,,11.4,ca,94806,Contra Costa
+9,9,Nation's Giant Hamburgers,"1800 university ave, berkeley, ca, 94703, us",12.166818181818185,10.55,6.175274293770745,4.8,114,1,4.25,9.3,,,11.4,ca,94703,Alameda
+10,10,Nation's Giant Hamburgers,"1900 contra costa blvd, pleasant hill, ca, 94523, us",12.204128440366974,10.55,6.1911824263798,4.5,113,900+,4.25,9.3,,,11.4,ca,94523,Contra Costa
+11,11,Nation's Giant Hamburgers,"191 military e, benicia, ca, 94510, us",12.166818181818185,10.55,6.175274293770745,4.7,114,500+,4.25,9.3,,,11.4,ca,94510,Solano
+12,12,Nation's Giant Hamburgers,"317 broadway, oakland, ca, 94607, us",12.166818181818185,10.55,6.175274293770745,4.5,114,1,4.25,9.3,,,11.4,ca,94607,Alameda
+13,13,Nation's Giant Hamburgers,"3530 truxel road, sacramento, ca, 95834, us",12.166818181818185,10.55,6.175274293770745,4.5,114,800+,4.25,9.3,,,11.4,ca,95834,Sacramento
+14,14,Nation's Giant Hamburgers,"3789 railroad ave, pittsburg, ca, 94565, us",12.304945054945051,10.55,6.438120736935169,4.7,95,600+,4.25,9.3,,,11.4,ca,94565,Contra Costa
+15,15,Nation's Giant Hamburgers,"400 park st, moraga, ca, 94556, us",13.003271028037377,11.4,6.689499621662748,4.7,111,230+,4.6,10.0,,,12.2,ca,94556,Contra Costa
+16,16,Nation's Giant Hamburgers,"5321 hopyard rd, pleasanton, ca, 94588, us",11.901530612244889,10.55,6.136206757558928,4.7,102,600+,4.25,9.3,,,11.4,ca,94588,Alameda
+17,17,Nation's Giant Hamburgers,"5450 sunrise blvd, citrus heights, ca, 95610, us",12.166818181818185,10.55,6.175274293770745,4.5,114,470+,4.25,9.3,,,11.4,ca,95610,Sacramento
+0,0,Big Mouth Burgers,"3392 24th st, san francisco, ca, 94110, us",13.464285714285731,14.95,4.512657934372275,4.6,70,500+,4.95,15.95,,,16.95,ca,94110,San Francisco
+1,1,Big Mouth Burgers,"851 cherry ave, san bruno, ca, 94066, us",14.185714285714306,15.95,4.366366116260121,4.7,84,700+,5.25,15.95,,,16.95,ca,94066,San Mateo
+2,2,Burger Station,"10361 rockingham drive, sacramento, ca, 95827, us",11.260422535211276,12.93,3.974133774558137,0.0,71,,,,,,4.48,ca,95827,Sacramento
+3,3,Burger Station,"603 saratoga avenue, suite 30, san jose, ca, 95129, us",11.672795698924736,11.99,5.526954938638901,4.8,93,450+,6.99,11.99,,,12.99,ca,95129,Santa Clara
+4,4,Super Burger,"1132, clovis, ca, 93612, us",9.347534246575348,9.75,5.030100296072952,4.7,73,130+,3.99,,,,,ca,93612,Fresno
+5,5,Super Burger,"2505 3rd st, ceres, ca, 95307, us",5.388305084745766,4.99,2.4661430481709576,0.0,59,,2.09,,,,,ca,95307,Stanislaus
+6,6,Super Burger,"5831 s santa fe ave, vernon, ca, 90058, us",11.331022727272604,11.99,3.97092559617938,4.8,440,280+,4.99,,,,,ca,90058,Los Angeles
+7,7,Burger Basket,"12155 firestone blvd, norwalk, ca, 90650, us",9.542857142857084,8.99,6.167033818818325,4.6,630,220+,3.9,6.75,,,7.5,ca,90650,Los Angeles
+8,8,Burger Basket,"501 west duarte road, monrovia, ca, 91016, us",7.21057142857142,6.6,4.622437169692531,4.8,385,500+,4.5,5.35,,,6.0,ca,91016,Los Angeles
+9,9,Burger Factory,"1358 w martin luther king jr blvd, los angeles, ca, 90037, us",11.999540229884984,12.5,6.786708935810937,4.5,435,700+,,9.0,,,,ca,90037,Los Angeles
+10,10,Cypress Best Burgers,"3240 n figueroa st, los angeles, ca, 90065, us",11.75189999999998,12.685,4.8259412957473975,4.8,600,1,6.29,6.79,,,7.79,ca,90065,Los Angeles
+11,11,Gold Star Hamburgers,"1623 s brand blvd, glendale, ca, 91204, us",10.537213114754062,10.69,5.27190485098705,4.8,305,600+,5.25,7.89,,,8.29,ca,91204,Los Angeles
+12,12,Hook Burger,"1731 n victory pl, burbank, ca, 91504, us",9.68048780487804,9.95,3.1928249982364294,4.7,287,900+,5.1,9.55,,,,ca,91504,Los Angeles
+13,13,Hook Burger,"24369 magic mountain pkwy, valencia, ca, 91355, us",9.68048780487804,9.95,3.1928249982364325,4.7,41,700+,5.1,9.55,,,,ca,91355,Los Angeles
+14,14,Burger Palace,"100 e manchester ave, los angeles, ca, 90003, us",8.719148936170214,8.05,4.982336386820447,4.5,376,420+,3.3,5.2,,,5.75,ca,90003,Los Angeles
+15,15,Burger Palace,"7126 s western ave, los angeles, ca, 90047, us",9.051648351648346,8.05,5.744593495260916,4.7,182,800+,3.3,5.2,,,5.75,ca,90047,Los Angeles
+16,16,Varsity Burgers,"600 w lincoln ave, anaheim, ca, 92805, us",10.0438356164384,9.35,2.4681941877252127,4.8,584,3,5.8,7.35,,,7.85,ca,92805,Orange
+17,17,Burger Boss,"15080 kensington park drive, tustin, ca, 92780, us",10.70925925925926,11.0,3.923080730021512,4.7,28,490+,9.0,11.0,,,13.0,ca,92780,Orange
+18,18,Burger Boss,"27690-b santa margarita pkwy, mission viejo, ca, 92691, us",10.70925925925926,11.0,3.923080730021512,4.7,28,500+,9.0,11.0,,,13.0,ca,92691,Orange
+19,19,P & G Burgers,"190 west valley boulevard, colton, ca, 92324, us",11.06799999999994,10.79,5.471005564094497,4.6,696,2,6.99,5.99,,,6.99,ca,92324,San Bernardino
+20,20,R Burgers,"1666 university avenue, riverside, ca, 92507, us",13.667874999999936,13.49,5.150435829556081,4.6,243,410+,,11.99,,,19.49,ca,92507,Riverside
+21,21,R Burgers,"6231 valley springs pkwy, riverside, ca, 92507, us",13.676624999999936,13.49,5.1464720789464105,4.5,243,68,,11.99,,,19.49,ca,92507,Riverside
+22,22,R Burgers,"23750 alessandro boulevard suite b, moreno valley, ca, 92553, us",11.968382352941186,12.72,4.839656225726987,4.7,138,250+,,10.99,,,17.99,ca,92553,Riverside
+23,23,R Burgers,"4890 south motor lane, ontario, ca, 91761, us",13.68562499999994,13.47,5.147739757347394,4.6,243,210+,,11.99,,,19.49,ca,91761,San Bernardino
+24,24,R Burgers,"5980 van buren blvd, riverside, ca, 92503, us",13.68487499999994,13.49,5.141850103258065,4.6,243,150+,,11.99,,,19.49,ca,92503,Riverside
+25,25,Betty Burgers,"415 trout gulch road, aptos, ca, 95003, us",10.079400000000009,8.99,5.014636740582509,4.7,116,28,3.99,13.49,,,,ca,95003,Santa Cruz
+26,26,Betty Burgers,"505 seabright ave, santa cruz, ca, 95062, us",8.660144927536237,7.99,5.298367124114237,4.5,69,49,3.99,13.49,,,,ca,95062,Santa Cruz
+27,0,Barney's Gourmet Hamburgers,"1591 solano ave, berkeley, ca, 94707, us",15.821410256410308,17.55,5.649603735674855,4.7,468,900+,4.95,,,,,ca,94707,Alameda
+28,1,Barney's Gourmet Hamburgers,"1600 shattuck ave, berkeley, ca, 94709, us",15.841625000000064,17.55,5.54215333686961,4.6,560,800+,4.95,,,,,ca,94709,Alameda
+29,2,Barney's Gourmet Hamburgers,"4138 24th st, san francisco, ca, 94114, us",15.836597938144308,17.75,5.176699957172882,4.7,291,2,6.5,,,,,ca,94114,San Francisco
+30,3,Barney's Gourmet Hamburgers,"4162 piedmont ave, oakland, ca, 94611, us",14.153139534883683,15.65,4.680951071525787,4.6,516,1,4.68,,,,,ca,94611,Alameda
+31,4,Barney's Gourmet Hamburgers,"5819 college ave, oakland, ca, 94618, us",13.94197530864191,15.35,4.631702729259498,4.6,648,500+,4.68,,,,,ca,94618,Alameda
+32,5,Burger Lounge,"1101 wall st, san diego, ca, 92037, us",10.636285714285718,10.74,5.711217576321325,4.7,144,1,5.34,,,,11.94,ca,92037,San Diego
+33,6,Burger Lounge,"11740 san vincente blvd, los angeles, ca, 90049, us",10.662857142857142,10.74,5.963431532788693,4.7,65,3,5.34,,,,11.94,ca,90049,Los Angeles
+34,7,Burger Lounge,"1198, roseville, ca, 95678, us",10.957272727272732,10.74,6.111610546416908,4.5,204,270+,5.34,,,,11.94,ca,95678,Placer
+35,8,Burger Lounge,"13455 maxella ave, marina del rey, ca, 90292, us",10.138125,10.14,4.407595672174912,4.8,66,2,5.34,,,,11.94,ca,90292,Los Angeles
+36,9,Burger Lounge,"1608 india st, san diego, ca, 92101, us",10.721739130434788,10.74,5.729747435190972,4.6,142,2,5.34,,,,11.94,ca,92101,San Diego
+37,10,Burger Lounge,"16490 paseo del sur, san diego, ca, 92127, us",10.620845070422538,10.74,5.661589570867406,4.7,73,1,5.34,,,,11.94,ca,92127,San Diego
+38,11,Burger Lounge,"1875 s bascom ave, campbell, ca, 95008, us",11.12173913043478,10.74,6.096849259123012,4.6,284,800+,5.34,,,,11.94,ca,95008,Santa Clara
+39,12,Burger Lounge,"19515 nordhoff st., ste 5, northridge, ca, 91324, us",10.686956521739132,10.74,5.7513442170033136,4.7,71,600+,5.34,,,,11.94,ca,91324,Los Angeles
+40,13,Burger Lounge,"217 n larchmont blvd, los angeles, ca, 90004, us",10.9627868852459,10.74,5.882062516361534,4.7,63,5,5.34,,,,11.94,ca,90004,Los Angeles
+41,14,Burger Lounge,"2720 via de la valle, del mar, ca, 92014, us",10.654647887323945,10.74,5.655031619937728,4.6,73,1,5.34,,,,11.94,ca,92014,San Diego
+42,15,Burger Lounge,"279 e 17th st, costa mesa, ca, 92627, us",10.519436619718316,10.74,5.722699276263457,4.7,219,2,5.34,,,,11.94,ca,92627,Orange
+43,16,Burger Lounge,"281 s. beverly dr., beverly hills, ca, 90212, us",10.767258064516128,10.74,5.953942626896103,4.7,64,3,5.34,,,,11.94,ca,90212,Los Angeles
+44,17,Burger Lounge,"2920 ygnacio valley rd, walnut creek, ca, 94598, us",11.097313432835822,10.74,6.168116522819044,4.5,207,470+,5.34,,,,11.94,ca,94598,Contra Costa
+45,18,Burger Lounge,"405 k st, sacramento, ca, 95814, us",11.052173913043475,10.74,6.141719031786329,4.4,213,600+,5.34,,,,11.94,ca,95814,Sacramento
+46,19,Burger Lounge,"406 university ave, san diego, ca, 92103, us",10.71271428571429,10.74,5.649094471412103,4.7,144,2,5.34,,,,11.94,ca,92103,San Diego
+47,20,Burger Lounge,"40695 winchester rd, temecula, ca, 92591, us",10.721470588235295,10.74,5.764381060776675,4.5,70,700+,5.34,,,,11.94,ca,92591,Riverside
+48,21,Burger Lounge,"4116 adams ave, san diego, ca, 92116, us",10.547826086956524,9.54,5.759258675514876,4.7,142,4,5.34,,,,11.94,ca,92116,San Diego
+49,22,Burger Lounge,"4550 van nuys blvd, sherman oaks 91403, usa, los angeles, ca, 91423, us",10.607812500000009,10.74,5.932767974549799,4.7,132,3,5.34,,,,11.94,ca,91423,Los Angeles
+50,23,Burger Lounge,"5950 village way, san diego, ca, 92130, us",10.272537313432846,10.74,4.406279218015488,4.7,138,73,5.34,,,,11.94,ca,92130,San Diego
+51,24,Burger Lounge,"8553, irvine, ca, 92618, us",10.702153846153848,10.74,5.875110864370056,4.6,67,900+,5.34,,,,11.94,ca,92618,Orange
+52,25,Burger Lounge,"922 orange ave, coronado, ca, 92118, us",10.739142857142864,10.74,5.704951919881822,4.7,144,1,5.34,,,,11.94,ca,92118,San Diego
+53,26,Burger Lounge,"961 palomar airport blvd, carlsbad, ca, 92011, us",10.670571428571431,10.74,5.693700751259936,4.6,144,1,5.34,,,,11.94,ca,92011,San Diego
+54,27,Burger Lounge,"9901 washington blvd, culver city, ca, 90232, us",10.628307692307692,10.74,5.798252407600804,4.7,67,3,5.34,,,,11.94,ca,90232,Los Angeles
+55,28,Roam Artisan Burgers,"1785 union st, san francisco, ca, 94123, us",13.08910447761194,9.2,12.520993801020904,4.8,146,2,5.75,13.8,,,,ca,94123,San Francisco
+56,29,Roam Artisan Burgers,"1923 fillmore st, san francisco, ca, 94115, us",13.182878787878789,9.489999999999998,12.592120403571233,4.8,144,4,5.75,13.8,,,,ca,94115,San Francisco
+57,30,Roam Artisan Burgers,"23, lafayette, ca, 94549, us",13.08910447761194,9.2,12.520993801020904,4.6,146,600+,5.75,13.8,,,,ca,94549,Contra Costa
+58,31,Roam Artisan Burgers,"3081 s delaware st, san mateo, ca, 94403, us",13.089104477611931,9.2,12.520993801020907,4.7,219,500+,5.75,13.8,,,,ca,94403,San Mateo
+59,32,Roam Artisan Burgers,"6000 bollinger canyon road, san ramon, ca, 94583, us",13.089104477611938,9.2,12.520993801020902,4.6,73,320+,5.75,13.8,,,,ca,94583,Contra Costa
+60,33,Super Duper Burgers,"127 serramonte center, daly city, ca, 94015, us",7.955882352941177,8.5,3.1776277848578087,4.8,34,480+,4.0,10.5,,,,ca,94015,San Mateo
+61,34,Super Duper Burgers,"15991, los gatos, ca, 95032, us",7.955882352941177,8.5,3.1776277848578087,4.6,34,120+,4.0,10.5,,,,ca,95032,Santa Clara
+62,35,Super Duper Burgers,"2003 diamond blvd ste 100, concord, ca, 94520, us",7.464285714285714,7.25,3.247055180765916,4.4,14,68,4.0,10.5,,,,ca,94520,Contra Costa
+63,36,Super Duper Burgers,"3900 bel aire plaza, napa, ca, 94558, us",7.464285714285714,7.25,3.247055180765915,4.9,28,120+,4.0,10.5,,,,ca,94558,Napa
+64,37,Super Duper Burgers,"5399 prospect rd, san jose, ca, 95129, us",7.955882352941177,8.5,3.1776277848578087,4.8,17,330+,4.0,10.5,,,,ca,95129,Santa Clara
+65,38,Super Duper Burgers,"5800 nave drive suite c, novato, ca, 94949, us",7.446428571428571,7.125,3.248871468114202,4.666666666666667,42,110+,4.0,10.5,,,,ca,94949,Marin
+66,39,Super Duper Burgers,"5959 shellmound street, emeryville, ca, 94608, us",7.955882352941177,8.5,3.1776277848578087,4.9,17,180+,4.0,10.5,,,,ca,94608,Alameda
+67,40,Super Duper Burgers,"783 mission st, san francisco, ca, 94103, us",7.464285714285714,7.25,3.247055180765915,4.7,28,800+,4.0,10.5,,,,ca,94103,San Francisco
+68,41,Juicy Burger,"1201 24th st, bakersfield, ca, 93301, us",8.642881355932209,7.99,4.421348843519711,4.2,59,230+,,,,,8.99,ca,93301,Kern
+69,42,Golden Burger,"1938 w 3rd st, los angeles, ca, 90057, us",11.138541666666663,9.475,6.45548248570654,4.8,48,190+,4.5,7.15,,,7.7,ca,90057,Los Angeles
+70,43,Golden Burger,"2301 e 4th st, long beach, ca, 90814, us",11.07613207547169,10.55,3.7846224533804618,4.4,220,160+,0.0,7.95,,,8.75,ca,90814,Los Angeles
+71,44,Gott's Roadside,"151 warriors way, san francisco, ca, 94158, us",18.11700787401575,14.99,15.240082527881231,4.8,151,2,4.99,10.99,,,11.99,ca,94158,San Francisco
+72,45,Gott's Roadside,"644 1st st, napa, ca, 94559, us",18.40184615384616,14.99,15.568007914883326,4.8,155,350+,4.99,10.99,,,11.99,ca,94559,Napa
+73,46,Nation's Giant Hamburgers,"1441 3rd st, napa, ca, 94559, us",12.166818181818185,10.55,6.175274293770745,4.6,114,700+,4.25,9.3,,,11.4,ca,94559,Napa
+74,47,Gott's Roadside,"933 main st, saint helena, ca, 94574, us",18.40184615384616,14.99,15.568007914883326,4.6,155,180+,4.99,10.99,,,11.99,ca,94574,Napa
+75,48,Nation's Giant Hamburgers,"13296, san pablo, ca, 94806, us",12.226146788990826,10.55,6.172250702194992,4.5,113,1,4.25,9.3,,,11.4,ca,94806,Contra Costa
+76,49,Nation's Giant Hamburgers,"1335 washington ave, san leandro, ca, 94577, us",12.166818181818185,10.55,6.175274293770745,4.6,114,1,4.25,9.3,,,11.4,ca,94577,Alameda
+77,50,Nation's Giant Hamburgers,"1432 webster st, alameda, ca, 94501, us",12.166818181818185,10.55,6.175274293770745,4.6,114,1,4.25,9.3,,,11.4,ca,94501,Alameda
+78,51,Nation's Giant Hamburgers,"24999 santa clara st, hayward, ca, 94544, us",12.16681818181819,10.55,6.175274293770747,4.7,228,1,4.25,9.3,,,11.4,ca,94544,Alameda
+79,52,Nation's Giant Hamburgers,"2525 sonoma blvd, vallejo, ca, 94590, us",12.166818181818185,10.55,6.175274293770745,4.6,114,900+,4.25,9.3,,,11.4,ca,94590,Solano
+80,53,Nation's Giant Hamburgers,"3088, castro valley, ca, 94546, us",12.166818181818185,10.55,6.175274293770745,4.5,114,800+,4.25,9.3,,,11.4,ca,94546,Alameda
+81,54,Nation's Giant Hamburgers,"3574 n, tracy, ca, 95376, us",12.166818181818185,10.55,6.175274293770745,4.5,114,400+,4.25,9.3,,,11.4,ca,95376,San Joaquin
+82,55,Nation's Giant Hamburgers,"5213 mowry ave, fremont, ca, 94536, us",12.166818181818185,10.55,6.175274293770745,4.6,114,1,4.25,9.3,,,11.4,ca,94536,Alameda
+83,56,Nation's Giant Hamburgers,"6060 central ave, el cerrito, ca, 94530, us",12.166818181818185,10.55,6.175274293770745,4.6,114,1,4.25,9.3,,,11.4,ca,94530,Contra Costa

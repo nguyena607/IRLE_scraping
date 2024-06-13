@@ -1,0 +1,19 @@
+,restaurant_name,restaurant_location,menu_item_price mean_non_zero,menu_item_price median_non_zero,menu_item_price std_non_zero,restaurant_rating mean,menu_item count,number_of_ratings first,fries,hamburger,combo,specialty_item,cheeseburger,state,zip,county_name
+0,Super Duper Burgers,"2201 chestnut street, san francisco, ca, 94123, us",7.464285714285714,7.25,3.247055180765916,4.7,14,500+,4.0,10.5,,,,ca,94123,San Francisco
+1,Super Duper Burgers,"2355 telegraph avenue, berkeley, ca, 94704, us",7.9411764705882355,8.5,3.1814367497072045,4.6,17,500+,4.0,10.5,,,,ca,94704,Alameda
+2,Super Duper Burgers,"783 mission st, san francisco, ca, 94103, us",7.464285714285714,7.25,3.247055180765916,4.7,14,800+,4.0,10.5,,,,ca,94103,San Francisco
+3,Juicy Burger,"3720 east olive avenue, fresno, ca, 93702, us",8.561369863013704,7.99,4.79032738752162,0.0,73,,2.99,6.99,,,5.49,ca,93702,Fresno
+4,Gott's Roadside,"1 ferry building, san francisco, ca, 94111, us",17.974841269841278,14.99,14.590101544199165,4.8,150,4,4.99,10.99,,,11.99,ca,94111,San Francisco
+5,Gott's Roadside,"1275 south main street, walnut creek, ca, 94596, us",18.339924812030084,14.99,15.452556033364564,4.6,158,300+,4.99,10.99,,,11.99,ca,94596,Contra Costa
+6,Nation's Giant Hamburgers,"100 browns valley pkwy, vacaville, ca, 95688, us",12.205504587155964,10.55,6.190253286786099,4.4,113,470+,4.25,9.3,,,11.4,ca,95688,Solano
+7,Nation's Giant Hamburgers,"1424 first st, livermore, ca, 94550, us",12.08101851851852,10.55,6.173219932335994,4.8,112,370+,4.25,9.3,,,11.4,ca,94550,Alameda
+8,Nation's Giant Hamburgers,"16396, san pablo, ca, 94806, us",12.30494505494505,10.55,6.438120736935173,4.7,95,500+,4.25,9.3,,,11.4,ca,94806,Contra Costa
+9,Nation's Giant Hamburgers,"1800 university ave, berkeley, ca, 94703, us",12.166818181818183,10.55,6.175274293770745,4.8,114,1,4.25,9.3,,,11.4,ca,94703,Alameda
+10,Nation's Giant Hamburgers,"1900 contra costa blvd, pleasant hill, ca, 94523, us",12.204128440366974,10.55,6.1911824263798,4.5,113,900+,4.25,9.3,,,11.4,ca,94523,Contra Costa
+11,Nation's Giant Hamburgers,"191 military e, benicia, ca, 94510, us",12.166818181818183,10.55,6.175274293770745,4.7,114,500+,4.25,9.3,,,11.4,ca,94510,Solano
+12,Nation's Giant Hamburgers,"317 broadway, oakland, ca, 94607, us",12.166818181818183,10.55,6.175274293770745,4.5,114,1,4.25,9.3,,,11.4,ca,94607,Alameda
+13,Nation's Giant Hamburgers,"3530 truxel road, sacramento, ca, 95834, us",12.166818181818183,10.55,6.175274293770745,4.5,114,800+,4.25,9.3,,,11.4,ca,95834,Sacramento
+14,Nation's Giant Hamburgers,"3789 railroad ave, pittsburg, ca, 94565, us",12.304945054945053,10.55,6.438120736935169,4.7,95,600+,4.25,9.3,,,11.4,ca,94565,Contra Costa
+15,Nation's Giant Hamburgers,"400 park st, moraga, ca, 94556, us",13.003271028037377,11.4,6.689499621662748,4.7,111,230+,4.6,10.0,,,12.2,ca,94556,Contra Costa
+16,Nation's Giant Hamburgers,"5321 hopyard rd, pleasanton, ca, 94588, us",11.901530612244887,10.55,6.136206757558928,4.7,102,600+,4.25,9.3,,,11.4,ca,94588,Alameda
+17,Nation's Giant Hamburgers,"5450 sunrise blvd, citrus heights, ca, 95610, us",12.166818181818183,10.55,6.175274293770745,4.5,114,470+,4.25,9.3,,,11.4,ca,95610,Sacramento
