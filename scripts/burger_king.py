@@ -33,7 +33,7 @@ def clear_existing_data(file_path):
     except FileNotFoundError:
         logger.info(f"No existing data file found at {file_path}. Starting fresh.")
 
-def scrape(driver):
+def scrape(driver, location):
     wait = WebDriverWait(driver, 10)
     try:
         location_div = wait.until(EC.visibility_of_element_located(
@@ -60,7 +60,8 @@ def scrape(driver):
             item_info = {
                 'menu_item': item_name,
                 'menu_item_price': price,
-                'menu_item_calories': calories
+                'menu_item_calories': calories,
+                'inputted_address' : location
             }
             menu_items.append(item_info)
         except Exception as e:
@@ -71,7 +72,7 @@ def scrape(driver):
 def add_menu_items_to_csv(menu_items, location, file_path):
     file_exists = os.path.isfile(file_path)
     with open(file_path, 'a', newline='') as csvfile:
-        fieldnames = ['menu_item', 'menu_item_price', 'menu_item_calories', 'restaurant_address']
+        fieldnames = ['menu_item', 'menu_item_price', 'menu_item_calories', 'input_address', 'restaurant_address']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         if not file_exists:
@@ -82,13 +83,14 @@ def add_menu_items_to_csv(menu_items, location, file_path):
                 'menu_item': item['menu_item'],
                 'menu_item_price': item['menu_item_price'],
                 'menu_item_calories': item['menu_item_calories'],
+                'input_address' : item['inputted_address'],
                 'restaurant_address': location
             }
             writer.writerow(menu_item_data)
     
     logger.info(f"Menu items added to {file_path} for location: {location}")
 
-def click_nth_button(driver, indices):
+def click_nth_button(driver, indices, location):
     for index in indices:
         retry_count = 3
         while retry_count > 0:
@@ -108,7 +110,7 @@ def click_nth_button(driver, indices):
                     logger.info("Clicked on the div.")
 
                     # Perform additional actions after clicking
-                    scrape(driver)
+                    scrape(driver, location)
                     logger.info("Scraped menu.")
 
                     driver.back()  # Navigate back to previous page or perform other navigation
@@ -219,11 +221,11 @@ def main():
             )
             order_button.click()
 
-            time.sleep(5)
+            time.sleep(3)
 
 
             # Click on specific buttons with a delay between each click
-            click_nth_button(driver, [3, 5])
+            click_nth_button(driver, [3, 5], location)
 
         except Exception as e:
             logger.error(f"An error occurred while processing location {location}: {str(e)}")

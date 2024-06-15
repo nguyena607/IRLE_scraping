@@ -1,64 +1,96 @@
-menu_item,menu_item_price,menu_item_calories,restaurant_address
-Classic Melt,$4.99,600 cal,6351 Hembree Lane
-Bacon Melt,$5.49,650 cal,6351 Hembree Lane
-Philly Melt,$5.49,590 cal,6351 Hembree Lane
-Whopper,$7.29,670 cal,6351 Hembree Lane
-Impossible™ Whopper,$8.19,630 cal,6351 Hembree Lane
-Texas Double Whopper,$9.29,"1,090 cal",6351 Hembree Lane
-Double Whopper,$8.29,920 cal,6351 Hembree Lane
-Triple Whopper,$9.29,"1,170 cal",6351 Hembree Lane
-Bacon King,$9.29,"1,200 cal",6351 Hembree Lane
-BBQ Bacon Whopper Jr.,$4.49,390 cal,6351 Hembree Lane
-Whopper Jr.,$4.09,330 cal,6351 Hembree Lane
-Bacon Double Cheeseburger,$4.19,440 cal,6351 Hembree Lane
-Bacon Cheeseburger,$3.69,340 cal,6351 Hembree Lane
-Double Cheeseburger,$3.99,400 cal,6351 Hembree Lane
-Cheeseburger,$3.29,290 cal,6351 Hembree Lane
-Rodeo Burger,$3.29,340 cal,6351 Hembree Lane
-Hamburger,$2.49,250 cal,6351 Hembree Lane
-Have-sies™,$3.49,380 cal,6351 Hembree Lane
-French Fries,$3.79,370 cal,6351 Hembree Lane
-Onion Rings,$3.79,360 cal,6351 Hembree Lane
-12 Pc. Chicken Fries,$5.49,340 cal,6351 Hembree Lane
-8 Pc. Chicken Fries,$4.29,220 cal,6351 Hembree Lane
-12 Pc. Mozzarella Fries,$5.99,730 cal,6351 Hembree Lane
-8 Pc. Mozzarella Fries,$4.99,480 cal,6351 Hembree Lane
-4 Pc. Mozzarella Fries,$2.99,240 cal,6351 Hembree Lane
-8 Pc. Fiery Buffalo Nuggets,$2.99,510 cal,6351 Hembree Lane
-4 Pc. Chicken Fries,$1.99,110 cal,6351 Hembree Lane
-16 Pc. Chicken Nuggets,$4.98,770 cal,6351 Hembree Lane
-8 Pc. Chicken Nuggets,$2.99,390 cal,6351 Hembree Lane
-4 Pc. Chicken Nuggets,$1.50,190 cal,6351 Hembree Lane
-MOTTS Applesauce,$1.99,50 cal,6351 Hembree Lane
-Crispy Tacos,$1.29,170 cal,6351 Hembree Lane
-Classic Melt,$5.29,600 cal,4424 Broadway
-Bacon Melt,$5.79,650 cal,4424 Broadway
-Philly Melt,$5.79,590 cal,4424 Broadway
-Whopper,$7.59,670 cal,4424 Broadway
-Impossible™ Whopper,$8.59,630 cal,4424 Broadway
-Texas Double Whopper,$9.89,"1,090 cal",4424 Broadway
-Double Whopper,$8.89,920 cal,4424 Broadway
-Triple Whopper,$9.89,"1,170 cal",4424 Broadway
-Bacon King,$8.99,"1,200 cal",4424 Broadway
-BBQ Bacon Whopper Jr.,$3.89,390 cal,4424 Broadway
-Whopper Jr.,$4.19,330 cal,4424 Broadway
-Bacon Double Cheeseburger,$4.39,440 cal,4424 Broadway
-Bacon Cheeseburger,$3.49,340 cal,4424 Broadway
-Double Cheeseburger,$3.69,400 cal,4424 Broadway
-Cheeseburger,$2.69,290 cal,4424 Broadway
-Rodeo Burger,$2.69,340 cal,4424 Broadway
-Hamburger,$2.39,250 cal,4424 Broadway
-Have-sies™,$4.59,380 cal,4424 Broadway
-French Fries,$3.69,370 cal,4424 Broadway
-Onion Rings,$3.69,360 cal,4424 Broadway
-12 Pc. Chicken Fries,$4.99,340 cal,4424 Broadway
-8 Pc. Chicken Fries,$4.19,220 cal,4424 Broadway
-12 Pc. Mozzarella Fries,$5.19,730 cal,4424 Broadway
-8 Pc. Mozzarella Fries,$3.99,480 cal,4424 Broadway
-4 Pc. Mozzarella Fries,$2.19,240 cal,4424 Broadway
-8 Pc. Fiery Buffalo Nuggets,$2.99,510 cal,4424 Broadway
-4 Pc. Chicken Fries,$1.99,110 cal,4424 Broadway
-16 Pc. Chicken Nuggets,$4.98,770 cal,4424 Broadway
-8 Pc. Chicken Nuggets,$2.99,390 cal,4424 Broadway
-4 Pc. Chicken Nuggets,$1.79,190 cal,4424 Broadway
-MOTTS Applesauce,$1.49,50 cal,4424 Broadway
+menu_item,menu_item_price,menu_item_calories,input_address,restaurant_address
+Classic Melt,$4.99,600 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Bacon Melt,$5.49,650 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Philly Melt,$5.49,590 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Whopper,$7.29,670 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Impossible™ Whopper,$8.19,630 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Texas Double Whopper,$9.29,"1,090 cal","6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Double Whopper,$8.29,920 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Triple Whopper,$9.29,"1,170 cal","6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Bacon King,$9.29,"1,200 cal","6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+BBQ Bacon Whopper Jr.,$4.49,390 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Whopper Jr.,$4.09,330 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Bacon Double Cheeseburger,$4.19,440 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Bacon Cheeseburger,$3.69,340 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Double Cheeseburger,$3.99,400 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Cheeseburger,$3.29,290 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Rodeo Burger,$3.29,340 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Hamburger,$2.49,250 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Have-sies™,$3.49,380 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+French Fries,$3.79,370 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Onion Rings,$3.79,360 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+12 Pc. Chicken Fries,$5.49,340 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+8 Pc. Chicken Fries,$4.29,220 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+12 Pc. Mozzarella Fries,$5.99,730 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+8 Pc. Mozzarella Fries,$4.99,480 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+4 Pc. Mozzarella Fries,$2.99,240 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+8 Pc. Fiery Buffalo Nuggets,$2.99,510 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+4 Pc. Chicken Fries,$1.99,110 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+16 Pc. Chicken Nuggets,$4.98,770 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+8 Pc. Chicken Nuggets,$2.99,390 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+4 Pc. Chicken Nuggets,$1.50,190 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+MOTTS Applesauce,$1.99,50 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Crispy Tacos,$1.29,170 cal,"6351 Hembree Lane, Windsor, CA, 95492, US",6351 Hembree Lane
+Classic Melt,$5.29,600 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Bacon Melt,$5.79,650 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Philly Melt,$5.79,590 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Whopper,$7.59,670 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Impossible™ Whopper,$8.59,630 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Texas Double Whopper,$9.89,"1,090 cal","4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Double Whopper,$8.89,920 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Triple Whopper,$9.89,"1,170 cal","4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Bacon King,$8.99,"1,200 cal","4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+BBQ Bacon Whopper Jr.,$3.89,390 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Whopper Jr.,$4.19,330 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Bacon Double Cheeseburger,$4.39,440 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Bacon Cheeseburger,$3.49,340 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Double Cheeseburger,$3.69,400 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Cheeseburger,$2.69,290 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Rodeo Burger,$2.69,340 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Hamburger,$2.39,250 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Have-sies™,$4.59,380 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+French Fries,$3.69,370 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Onion Rings,$3.69,360 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+12 Pc. Chicken Fries,$4.99,340 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+8 Pc. Chicken Fries,$4.19,220 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+12 Pc. Mozzarella Fries,$5.19,730 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+8 Pc. Mozzarella Fries,$3.99,480 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+4 Pc. Mozzarella Fries,$2.19,240 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+8 Pc. Fiery Buffalo Nuggets,$2.99,510 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+4 Pc. Chicken Fries,$1.99,110 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+16 Pc. Chicken Nuggets,$4.98,770 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+8 Pc. Chicken Nuggets,$2.99,390 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+4 Pc. Chicken Nuggets,$1.79,190 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+MOTTS Applesauce,$1.49,50 cal,"4424 Broadway, Oakland, CA, 94611, US",4424 Broadway
+Classic Melt,$4.99,600 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Bacon Melt,$5.49,650 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Philly Melt,$5.99,590 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Whopper,$7.29,670 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Impossible™ Whopper,$8.29,630 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Texas Double Whopper,$9.99,"1,090 cal","972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Double Whopper,$8.29,920 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Triple Whopper,$9.29,"1,170 cal","972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Bacon King,$9.29,"1,200 cal","972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+BBQ Bacon Whopper Jr.,$4.59,390 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Whopper Jr.,$4.29,330 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Bacon Double Cheeseburger,$4.59,440 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Bacon Cheeseburger,$3.99,340 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Double Cheeseburger,$3.59,400 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Cheeseburger,$3.09,290 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Rodeo Burger,$3.59,340 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Hamburger,$2.59,250 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Have-sies™,$3.39,380 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+French Fries,$3.39,370 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Onion Rings,$3.39,360 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+12 Pc. Chicken Fries,$6.19,340 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+8 Pc. Chicken Fries,$5.19,220 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+12 Pc. Mozzarella Fries,$4.99,730 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+8 Pc. Mozzarella Fries,$3.99,480 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+4 Pc. Mozzarella Fries,$2.99,240 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+8 Pc. Fiery Buffalo Nuggets,$3.49,510 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+4 Pc. Chicken Fries,$2.99,110 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+16 Pc. Chicken Nuggets,$4.49,770 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+8 Pc. Chicken Nuggets,$2.99,390 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+4 Pc. Chicken Nuggets,$2.09,190 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+MOTTS Applesauce,$1.49,50 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
+Crispy Tacos,$1.79,170 cal,"972 El Camino Real, South San Francisco, CA, 94080, US",1278 El Camino Real
