@@ -15,7 +15,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-FILE_PATH = "burger_king_missing_rnd1.csv"
+FILE_PATH = "burger_king_missing_nonca_rnd1.csv"
 CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
 
 def setup_driver():
@@ -129,62 +129,29 @@ def click_nth_button(driver, indices, location):
 def main():
     clear_existing_data(FILE_PATH)
 
-    burger_king_locations = ['6351 Hembree Lane, Windsor, CA, 95492, US',
-  '4424 Broadway, Oakland, CA, 94611, US',
-  '972 El Camino Real, South San Francisco, CA, 94080, US',
-#   '503 East Foothill, Rialto, CA, 92376, US',
-#   '2817 South El Camino Real, San Mateo, CA, 94403, US',
-#   '5154 Moorpark Ave, San Jose, CA, 95129, US',
-#   '20950 Figueroa Street, Carson, CA, 90745, US',
-#   '35 Powell Street, San Francisco, CA, 94102, US',
-#   '7201 Fair Oaks Boulevard, Carmichael, CA, 95608, US',
-#   '1278 El Camino Real, San Bruno, CA, 94066, US',
-#   '1320 Industrial Park Avenue, Redlands, CA, 92374, US',
-#   '4087 West Clinton Avenue, Fresno, CA, 93722, US',
-#   '773 North Mathilda Avenue, Sunnyvale, CA, 94085, US',
-#   '815 Highland Avenue, National City, CA, 91950, US',
-#   '175 West Calaveras Boulevard, Milpitas, CA, 95035, US',
-#   '1255 North Blackstone Street, Tulare, CA, 93274, US',
-#   '1949 Columbus Avenue, Bakersfield, CA, 93305, US',
-#   '7200 Bancroft Road, Oakland, CA, 94605, US',
-#   '2855 North Main Street, Walnut Creek, CA, 94597, US',
-#   '1915 Arden Way, Sacramento, CA, 95815, US',
-#   '1265 Third Avenue, Chula Vista, CA, 91911, US',
-#   '1153 North H Street, Lompoc, CA, 93436, US',
-#   '899 East H Street, Chula Vista, CA, 91910, US',
-#   '3750 El Camino Real, Santa Clara, CA, 95051, US',
-#   '2001 - 41st Avenue, Capitola, CA, 95010, US',
-#   '619 West Charter Way, Stockton, CA, 95206, US',
-#   '814 N Brookhurst St, Anaheim, CA, 92801, US',
-#   '2101 Sylvan Avenue, Modesto, CA, 95355, US',
-#   '34943, Newark, CA, 94560, US',
-#   '7 Muir Road, Martinez, CA, 94553, US',
-#   '3747 Rosecrans Street, San Diego, CA, 92110, US',
-#   '1329 South Harbor Boulevard, Fullerton, CA, 92832, US',
-#   '5120 Olive Drive, Bakersfield, CA, 93308, US',
-#   '205 East Redlands, San Bernardino, CA, 92408, US',
-#   '127 West 4th Street, Long Beach, CA, 90802, US',
-#   '2050 South Broadway, Santa Maria, CA, 93454, US',
-#   '2102 Middlefield Road, Redwood City, CA, 94063, US',
-#   '1305 N Bascom Ave, San Jose, CA, 95128, US',
-#   '6835 Valley Way, Riverside, CA, 92509, US',
-#   '6217 Niles Street, Bakersfield, CA, 93306, US',
-#   '2714 El Centro Road, Sacramento, CA, 95833, US',
-#   '2001 North, Oxnard, CA, 93036, US',
-#   '763 Ikea Ct #120, West Sacramento, CA, 95605, US',
-#   '2757 Castro Valley Boulevard, Castro Valley, CA, 94546, US',
-#   '3235 West Little League Drive, San Bernardino, CA, 92407, US',
-#   '1701 FILLMORE ST, San Francisco, CA, 94115, US',
-#   '4571 North Pershing Avenue, Stockton, CA, 95207, US',
-#   '936 Blossom Hill Road, San Jose, CA, 95123, US',
-#   '7225 Greenhaven Drive, Sacramento, CA, 95831, US',
-#   '2532 Channing Avenue, San Jose, CA, 95131, US',
-#   '8034 Greenback Lane, Citrus Heights, CA, 95610, US',
-#   '1361 West Foothill Boulevard, Rialto, CA, 92376, US',
-#   '180 Niblick Rd, Paso Robles, CA, 93446, US',
-#   '24530 Lyons Avenue, Newhall, CA, 91321, US',
-#   '97 Bonita Road, Chula Vista, CA, 91910, US'
-]
+    burger_king_locations = ['3227 Poplar Ave, Memphis, TN, 38111, US',
+  '659 Government St, Mobile, AL, 36602, US',
+  '5068 Old National Highway, College Park, GA, 30349, US',
+  '2116 Whitesburg Drive, Huntsville, AL, 35801, US',
+  '1131 Lexington Road, Georgetown, KY, 40324, US',
+  '4200 Saron Road, Lexington, KY, 40515, US',
+  '2806 North Broadway, Knoxville, TN, 37917, US',
+  '2119 East 23rd Street, Chattanooga, TN, 37404, US',
+  '1901 Route 286, Pittsburgh, PA, 15239, US',
+  '451 W. New Circle Road, Lexington, KY, 40511, US',
+  '6337 Crawfordsville Rd, Speedway, IN, 46224, US',
+  '1524 6th Avenue S, Birmingham, AL, 35233, US',
+  '308 Jordan Lane, Huntsville, AL, 35805, US',
+  '6971 West 38th Street, Indianapolis, IN, 46214, US',
+  '2605 Jacksboro Hwy, River Oaks, TX, 76114, US',
+  '2700 University Blvd, Birmingham, AL, 35233, US',
+  '1330 Poplar Avenue, Memphis, TN, 38104, US',
+  '3875 Airport Boulevard, Mobile, AL, 36609, US',
+  '2773 Evans Mill Rd, Lithonia, GA, 30058, US',
+  '1004 North Memorial Parkway, Huntsville, AL, 35801, US',
+  '2230 Salem Road, Conyers, GA, 30013, US',
+  '730 Lane Allen Rd, Lexington, KY, 40504, US',
+  '3941 Crosstown Expressway, Corpus Christi, TX, 78416, US']
 
     for idx, location in enumerate(burger_king_locations):
         driver = setup_driver()
@@ -198,10 +165,9 @@ def main():
             search_box.clear()
             search_box.click()
             search_box.send_keys(location)
-            search_box.send_keys(Keys.ENTER)
 
-            # Move to address suggestion element
-            ActionChains(driver).move_to_element(search_box).move_by_offset(0, -5).perform()
+            time.sleep(2)
+
 
             # Wait for address suggestion to be clickable
             element = WebDriverWait(driver, 15).until(
@@ -209,11 +175,16 @@ def main():
             )
             element.click()
 
+            time.sleep(2)
+
+
             # Wait for the first store card to be clickable
             store_card = WebDriverWait(driver, 15).until(
                 EC.element_to_be_clickable((By.XPATH, "(//div[@data-testid='store-card'])[1]"))
             )
             store_card.click()
+
+            time.sleep(2)
 
             # Wait for order button to be clickable
             order_button = WebDriverWait(driver, 10).until(
@@ -221,7 +192,7 @@ def main():
             )
             order_button.click()
 
-            time.sleep(3)
+            time.sleep(6)
 
 
             # Click on specific buttons with a delay between each click
