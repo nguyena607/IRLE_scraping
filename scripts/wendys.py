@@ -128,25 +128,7 @@ def scrape(driver, location):
         
         # Remove leading currency symbol from price
         price = price.replace('$', '')
-        # if '-' in price:
-        #     min_price, max_price = map(float, price.split('-'))
-        #     price = (min_price + max_price) / 2   
-        # elif '/' in price :
-        #     min_price, max_price = map(float, price.split('/'))
-        #     price = (min_price + max_price) / 2   
-        # else:
-        #     price = float(price)
-        
-        # Handle calorie range by calculating the average calorie value
         calories = calories.replace(' Cal', '')
-        #if '-' in calories:
-        #     min_cal, max_cal = map(int, calories.split('-'))
-        #     calories = (min_cal + max_cal) // 2  # Calculate average calorie value            
-        # if '/' in calories:
-        #     min_cal, max_cal = map(int, calories.split('/'))
-        #     calories = (min_cal + max_cal) // 2  # Calculate average calorie value            
-        
-        # Store extracted information in a dictionary
         item_info = {
             'name': item_name,
             'price': price,  
