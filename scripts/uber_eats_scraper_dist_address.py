@@ -9,25 +9,22 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
-import datetime
 import re
 from selenium.webdriver.common.action_chains import ActionChains
 # import LOCATIONS
-from FFLOCALRESTAURANTS import RESTAURANTS
-
+from FASTFOODRESTAURANTS import RESTAURANTS
+from CA_LOCATIONS import LOCATIONS
 
 # Logging setup
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-LOCATIONS = ['98 mission st, san francisco, ca, 94105, us',
-  '2355 telegraph avenue, berkeley, ca, 94704, us',
-  '2201 chestnut street, san francisco, ca, 94123, us']
+LOCATIONS = LOCATIONS
 
-RESTAURANTS = ["Super Duper Burgers"] 
-FILE_PATH = f"missing_ca_smallff_rnd1.jsonl"
+RESTAURANTS = RESTAURANTS
+FILE_PATH = f"raw_prices_ubereats_ca_09092024.jsonl"
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
-CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
+CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64-128/chromedriver"
 #CHROMEDRIVER_PATH = "/Users/sakshikolli/Downloads/chromedriver-mac-x64/chromedriver"
 
 
@@ -35,8 +32,8 @@ def setup_driver():
     # Webdriver options
     chrome_options = Options()
     chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3")
-    chrome_options.add_argument("--headless")  # Run Chrome in headless mode
-    chrome_options.add_argument("--disable-gpu")  # Disable GPU acceleration
+    #chrome_options.add_argument("--headless")  # Run Chrome in headless mode
+    #chrome_options.add_argument("--disable-gpu")  # Disable GPU acceleration
     service = Service(executable_path=CHROMEDRIVER_PATH)
     driver = webdriver.Chrome(service=service, options=chrome_options)
     return driver
@@ -300,13 +297,13 @@ def main():
                     items = scrape_restaurant_data(driver, restaurant, location)
                     update_json_file(FILE_PATH, location, restaurant, items)
                     driver.back()
-                    #get_carousel_items(driver, restaurant, location)
+                    get_carousel_items(driver, restaurant, location)
                     in_search_page = True
             else:
                 items = scrape_restaurant_data(driver, restaurant, location)
                 update_json_file(FILE_PATH, location, restaurant, items)
                 driver.back()
-                #get_carousel_items(driver, restaurant, location)
+                get_carousel_items(driver, restaurant, location)
             driver.back()
         driver.quit()
 
