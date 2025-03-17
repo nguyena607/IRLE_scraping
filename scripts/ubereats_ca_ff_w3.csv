@@ -1,0 +1,1516 @@
+,restaurant_name,restaurant_location,specialty_item,cheeseburger,hamburger,combo,fries,state,zip,county_name
+0,McDonald,"800 market st, oakland, california 94607, oakland, ca, 94607-3116, us",7.69,3.49,4.19,12.99,4.89,ca,94607,Alameda
+1,McDonald,"4514 telegraph ave, oakland, ca, 94609, us",7.69,3.49,4.19,12.99,4.89,ca,94609,Alameda
+2,McDonald,"715 central ave, alameda, ca, 94501, us",6.99,3.79,3.59,12.89,4.79,ca,94501,Alameda
+3,McDonald,"6623 san pablo ave, oakland, ca, 94608, us",7.69,3.49,4.19,12.99,4.59,ca,94608,Alameda
+4,McDonald,"1330 jackson st, oakland, ca, 94612, us",6.89,3.49,2.99,12.79,4.79,ca,94612,Alameda
+5,McDonald,"2520 e 12th st, oakland, ca, 94601, us",7.39,4.19,3.69,12.29,5.19,ca,94601,Alameda
+6,McDonald,"38860, fremont, ca, 94536, us",7.69,3.99,3.49,12.29,4.99,ca,94536,Alameda
+7,McDonald,"40708 grimmer blvd, fremont, ca, 94538-2845, us",7.59,3.79,3.49,12.19,4.99,ca,94538,Alameda
+8,McDonald,"4318 thornton ave, fremont, ca, 94536, us",6.99,4.09,3.49,12.19,4.99,ca,94536,Alameda
+9,McDonald,"3000 newpark mall rd, newark, ca, 94560, us",6.99,4.09,3.49,12.19,4.99,ca,94560,Alameda
+10,McDonald,"3990 decoto rd, fremont, ca, 94536, us",8.76,4.03,3.63,15.51,5.79,ca,94536,Alameda
+11,McDonald,"42800 mission blvd, fremont, ca, 94539, us",7.69,3.79,3.49,12.29,5.19,ca,94539,Alameda
+12,McDonald,"23989 watkins st, hayward, ca, 94544-1028, us",6.99,3.79,3.59,12.89,4.79,ca,94544,Alameda
+13,McDonald,"355 w a st, hayward, ca, 94541, us",6.99,3.79,3.59,12.89,4.79,ca,94541,Alameda
+14,McDonald,"1620 strobridge ave, castro valley, ca, 94546, us",6.89,3.49,3.19,11.29,4.49,ca,94546,Alameda
+15,McDonald,"2905 grove way, castro valley, ca, 94546, us",6.99,3.79,3.59,12.89,4.79,ca,94546,Alameda
+16,McDonald,"26253 mission blvd, hayward, ca, 94544, us",6.99,3.79,3.59,12.89,4.79,ca,94544,Alameda
+17,McDonald,"18708 hesperian blvd, hayward, ca, 94541-2248, us",6.99,3.79,3.59,12.89,4.79,ca,94541,Alameda
+18,McDonald,"1691 monument blvd, concord, ca, 94520, us",6.99,3.79,3.59,12.89,4.79,ca,94520,Contra Costa
+19,McDonald,"4550 clayton rd, concord, ca, 94521-2850, us",6.99,3.79,3.59,12.89,4.79,ca,94521,Contra Costa
+20,McDonald,"1690 contra costa blvd, pleasant hill, ca, 94523, us",6.99,3.79,3.59,12.89,4.79,ca,94523,Contra Costa
+21,McDonald,"1185 arnold dr, martinez, ca, 94553, us",6.99,3.79,3.59,12.89,4.79,ca,94553,Contra Costa
+22,McDonald,"220 bailey road, bay point, ca, 94565, us",6.99,3.79,3.59,12.89,4.79,ca,94565,Contra Costa
+23,McDonald,"1739 divisadero st, fresno, ca, 93701-1920, us",6.39,3.39,2.89,10.39,4.99,ca,93701,Fresno
+24,McDonald,"4505 e kings canyon rd, fresno, ca, 93702, us",5.69,3.39,2.79,10.59,4.69,ca,93702,Fresno
+25,McDonald,"3110 e jensen, fresno, ca, 93706-5113, us",7.19,3.69,3.49,13.09,5.99,ca,93706,Fresno
+26,McDonald,"3115 n blackstone ave, fresno, ca, 93704, us",6.19,3.19,2.79,9.99,4.39,ca,93704,Fresno
+27,McDonald,"1718 w olive, fresno, ca, 93728-2642, us",6.49,3.39,2.89,9.99,4.59,ca,93728,Fresno
+28,McDonald,"4898 e kings canyon rd, fresno, ca, 93727, us",5.89,3.49,2.69,9.79,4.39,ca,93727,Fresno
+29,McDonald,"2310 f st, bakersfield, ca, 93301, us",6.79,3.69,2.99,10.29,4.72,ca,93301,Kern
+30,McDonald,"1812 n union ave, bakersfield, ca, 93305, us",6.49,3.49,2.99,11.39,4.79,ca,93305,Kern
+31,McDonald,"chester &amp; brundage, bakersfield, ca, 93304, us",7.49,3.99,3.19,11.89,5.39,ca,93304,Kern
+32,McDonald,"225 n chester avenue, oildale, ca, 93308, us",8.09,4.39,3.89,13.19,5.29,ca,93308,Kern
+33,McDonald,"4600 ming ave, bakersfield, ca, 93309, us",6.49,3.49,2.99,11.39,4.79,ca,93309,Kern
+34,McDonald,"2699 mount vernon ave, bakersfield, ca, 93306, us",6.49,3.49,2.99,11.39,4.79,ca,93306,Kern
+35,McDonald,"690 alameda st., los angeles, ca, 90021, us",7.99,4.86,2.89,12.69,4.99,ca,90021,Los Angeles
+36,McDonald,"1310 east olympic blvd, los angeles, ca, 90021, us",7.89,4.86,2.89,11.89,4.99,ca,90021,Los Angeles
+37,McDonald,"1625 wilshire blvd, los angeles, ca, 90017, us",7.99,3.49,3.36,12.74,4.99,ca,90017,Los Angeles
+38,McDonald,"1716 marengo st, los angeles, ca, 90033-1315, us",9.58,4.5,3.39,15.47,5.3,ca,90033,Los Angeles
+39,McDonald,"405 n alvarado st, los angeles, ca, 90026, us",7.99,3.49,3.36,12.74,4.99,ca,90026,Los Angeles
+40,McDonald,"245 n soto st, los angeles, ca, 90033, us",9.58,4.5,3.39,15.47,5.3,ca,90033,Los Angeles
+41,McDonald,"640 long beach blvd, long beach, ca, 90802, us",6.69,3.49,3.29,12.29,4.79,ca,90802,Los Angeles
+42,McDonald,"1000 e 4th st, long beach, ca, 90802, us",8.29,4.99,4.29,14.69,5.29,ca,90802,Los Angeles
+43,McDonald,"2599, long beach, ca, 90806, us",6.59,3.59,3.19,12.69,4.79,ca,90806,Los Angeles
+44,McDonald,"3302 e anaheim st, long beach, ca, 90804, us",8.99,3.85,3.49,14.99,4.69,ca,90804,Los Angeles
+45,McDonald,"2290 north bellflower blvd, long beach, ca, 90815, us",6.79,3.19,3.19,10.99,4.59,ca,90815,Los Angeles
+46,McDonald,"21836 south avalon blvd, carson, ca, 90745, us",7.79,3.99,3.58,13.99,5.53,ca,90745,Los Angeles
+47,McDonald,"27618 the old road, valencia, ca, 91355, us",6.99,5.69,4.69,14.29,6.29,ca,91355,Los Angeles
+48,McDonald,"25323 chiquella ln, stevenson ranch, ca, 91381, us",6.59,3.39,2.99,10.39,5.39,ca,91381,Los Angeles
+49,McDonald,"golden valley and hwy 14, santa clarita, ca, 91387, us",8.39,4.39,3.79,13.89,4.79,ca,91387,Los Angeles
+50,McDonald,"18850 soledad canyon rd, santa clarita, ca, 91351, us",8.69,5.49,4.69,14.49,6.29,ca,91351,Los Angeles
+51,McDonald,"27103 mcbean pkwy, santa clarita, ca, 91355, us",6.99,5.69,4.69,14.29,6.29,ca,91355,Los Angeles
+52,McDonald,"23110, valencia, ca, 91355, us",6.99,5.69,4.69,14.29,6.29,ca,91355,Los Angeles
+53,McDonald,"600 redwood hwy, mill valley, ca, 94941, us",8.19,3.69,3.49,15.29,5.09,ca,94941,Marin
+54,McDonald,"2114 4th st, san rafael, ca, 94901, us",8.29,4.39,4.39,12.99,4.99,ca,94901,Marin
+55,McDonald,"190 merrydale rd, san rafael, ca, 94903, us",8.29,4.39,4.39,12.99,4.99,ca,94903,Marin
+56,McDonald,"969 east francisco blvd., san rafael, ca, 94901, us",,3.76,3.24,,,ca,94901,Marin
+57,McDonald,"5600 nave dr, novato, ca, 94949, us",8.29,4.39,4.39,12.99,4.99,ca,94949,Marin
+58,McDonald,"981 lakeville hwy, petaluma, ca, 94952, us",,,,,,ca,94952,Marin
+59,McDonald,"155 kern st, salinas, ca, 93905, us",6.99,3.89,3.23,11.19,4.99,ca,93905,Monterey
+60,McDonald,"1213 s main st, salinas, ca, 93901, us",6.99,3.79,3.59,11.69,4.99,ca,93901,Monterey
+61,McDonald,"608 williams rd, salinas, ca, 93905, us",6.89,4.29,3.64,11.29,4.99,ca,93905,Monterey
+62,McDonald,"975 e blanco rd, salinas, ca, 93901, us",,,,,,ca,93901,Monterey
+63,McDonald,"301 e 1st st, santa ana, ca, 92701, us",6.49,3.59,3.59,14.19,5.39,ca,92701,Orange
+64,McDonald,"1011 e 17th st, santa ana, ca, 92706, us",6.49,3.69,3.29,13.69,5.29,ca,92706,Orange
+65,McDonald,"1100 s grand ave, santa ana, ca, 92705, us",6.99,3.39,3.19,13.29,4.89,ca,92705,Orange
+66,McDonald,"1526 w edinger ave, santa ana, ca, 92704, us",6.99,3.39,3.19,13.49,5.19,ca,92704,Orange
+67,McDonald,"2300 s. main street, santa ana, ca, 92707, us",6.99,3.39,3.19,13.29,4.89,ca,92707,Orange
+68,McDonald,"119 west ball road, anaheim, ca, 92805-6045, us",6.89,3.89,3.19,13.79,5.19,ca,92805,Orange
+69,McDonald,"740 n. euclid st., anaheim, ca, 92801-4115, us",7.19,3.59,3.19,13.79,5.29,ca,92801,Orange
+70,McDonald,"1100 north state college blvd, anaheim, ca, 92806, us",6.89,3.19,2.89,13.69,4.69,ca,92806,Orange
+71,McDonald,"1810 s state college blvd, anaheim, ca, 92805, us",7.19,3.39,2.99,14.69,5.19,ca,92805,Orange
+72,McDonald,"1341 s brookhurst rd, fullerton, ca, 92833, us",7.19,3.99,3.59,12.69,4.79,ca,92833,Orange
+73,McDonald,"770 w chapman ave, placentia, ca, 92870, us",6.99,3.19,2.89,13.99,4.79,ca,92870,Orange
+74,McDonald,"7899 walerga rd, antelope, ca, 95843, us",8.19,4.39,3.49,11.99,5.79,ca,95843,Sacramento
+75,McDonald,"5301 elkhorn blvd, sacramento, ca, 95842, us",7.59,4.29,4.19,12.19,5.69,ca,95842,Sacramento
+76,McDonald,"120 harding blvd, roseville, ca, 95678, us",8.49,4.29,3.69,13.99,5.37,ca,95678,Placer
+77,McDonald,"3994 foothills blvd, roseville, ca, 95747, us",7.79,3.89,3.59,12.88,5.09,ca,95747,Placer
+78,McDonald,"1300 east, roseville, ca, 95661, us",,4.39,,,,ca,95661,Placer
+79,McDonald,"13370 lincoln way, auburn, ca, 95603, us",7.79,3.49,3.39,12.99,5.39,ca,95603,Placer
+80,McDonald,"2865 bell rd, auburn, ca, 95603, us",7.79,3.49,3.29,12.99,5.79,ca,95603,Placer
+81,McDonald,"4211 sierra college blvd, rocklin, ca, 95650, us",7.79,3.39,3.29,12.99,5.19,ca,95650,Placer
+82,McDonald,"2172 sunset blvd, rocklin, ca, 95765, us",8.49,3.99,3.49,11.49,5.59,ca,95765,Placer
+83,McDonald,"2242 university ave, riverside, ca, 92507, us",7.19,4.09,3.69,12.79,4.99,ca,92507,Riverside
+84,McDonald,"2246 iowa avenue, riverside, ca, 92507, us",8.19,4.99,4.89,13.19,6.39,ca,92507,Riverside
+85,McDonald,"6815 valley way, rubidoux, ca, 92509, us",7.49,4.29,3.89,13.19,5.09,ca,92509,Riverside
+86,McDonald,"7474 indiana street, riverside, ca, 92504, us",9.07,5.39,3.99,17.7,5.89,ca,92504,Riverside
+87,McDonald,"5425 arlington avenue, riverside, ca, 92504, us",9.07,5.39,3.99,17.7,5.89,ca,92504,Riverside
+88,McDonald,"4407 brockton ave, riverside, ca, 92501, us",,,,,,ca,92501,Riverside
+89,McDonald,"64 e ramona expy, perris, ca, 92571, us",8.19,4.99,4.89,13.19,6.39,ca,92571,Riverside
+90,McDonald,"24440 alessandro blvd, moreno valley, ca, 92553, us",9.07,5.27,3.98,17.5,5.77,ca,92553,Riverside
+91,McDonald,"23831 sunnymead blvd, moreno valley, ca, 92553, us",9.19,5.39,3.99,17.7,5.89,ca,92553,Riverside
+92,McDonald,"22580 cactus ave, moreno valley, ca, 92553, us",,,,,,ca,92553,Riverside
+93,McDonald,"25280 madison ave, murrieta, ca, 92562, us",6.99,3.34,2.99,12.25,5.23,ca,92562,Riverside
+94,McDonald,"40605 california oaks road, murrieta, ca, 92562, us",6.79,3.34,2.99,12.25,5.23,ca,92562,Riverside
+95,McDonald,"39888 los alamos rd, murrieta, ca, 92562, us",6.99,3.34,2.99,12.25,5.23,ca,92562,Riverside
+96,McDonald,"23819 clinton keith rd, wildomar, ca, 92595, us",7.07,3.34,2.99,12.25,5.23,ca,92595,Riverside
+97,McDonald,"200 richards blvd, sacramento, ca, 95811, us",8.69,3.79,3.49,13.29,5.29,ca,95811,Sacramento
+98,McDonald,"3006 k st, sacramento, ca, 95816, us",8.69,3.79,3.49,13.29,5.29,ca,95816,Sacramento
+99,McDonald,"2331 broadway, sacramento, ca, 95818, us",8.69,3.79,3.49,13.29,5.29,ca,95818,Sacramento
+100,McDonald,"1700 w capitol ave, west sacramento, ca, 95691-2520, us",7.39,3.99,3.99,10.89,4.59,ca,95691,Yolo
+101,McDonald,"2985 freeport blvd, sacramento, ca, 95818, us",8.69,3.79,3.49,13.29,5.29,ca,95818,Sacramento
+102,McDonald,"2729 w capitol ave, west sacramento, ca, 95691, us",7.39,3.99,3.99,10.89,4.59,ca,95691,Yolo
+103,McDonald,"8282 laguna blvd, elk grove, ca, 95758, us",7.89,4.39,3.69,14.79,5.49,ca,95758,Sacramento
+104,McDonald,"8710, elk grove, ca, 95624, us",7.99,4.29,3.69,14.79,5.49,ca,95624,Sacramento
+105,McDonald,"7527 laguna blvd, elk grove, ca, 95758, us",7.99,4.29,3.69,14.79,5.49,ca,95758,Sacramento
+106,McDonald,"8361 sheldon road, suite 100, elk grove, ca, 95624, us",7.89,4.29,3.69,14.79,5.49,ca,95624,Sacramento
+107,McDonald,"10051 bruceville road, elk grove, ca, 95757, us",7.99,4.39,3.69,14.79,5.49,ca,95757,Sacramento
+108,McDonald,"8220 calvine rd., sacramento, ca, 95828, us",7.99,4.39,3.69,14.79,5.49,ca,95828,Sacramento
+109,McDonald,"699 2nd st, san bernardino, ca, 92410, us",,,,,,ca,92410,San Bernardino
+110,McDonald,"568 s mt vernon ave, san bernardino, ca, 92410, us",,,,,,ca,92410,San Bernardino
+111,McDonald,"1208 n. mt. vernon blvd, san bernardino, ca, 92411, us",,,,,,ca,92411,San Bernardino
+112,McDonald,"718 w highland ave, san bernardino, ca, 92405, us",,,,,,ca,92405,San Bernardino
+113,McDonald,"100 e redlands blvd, san bernardino, ca, 92408, us",8.19,4.59,3.69,14.59,6.09,ca,92408,San Bernardino
+114,McDonald,"1575 e highland ave, san bernardino, ca, 92404, us",7.39,4.59,2.89,11.49,4.59,ca,92404,San Bernardino
+115,McDonald,"nwc roy rogers &amp; la paz plz, victorville, ca, 92395, us",7.69,4.79,2.99,11.19,4.99,ca,92395,San Bernardino
+116,McDonald,"14526 palmdale rd, victorville, ca, 92392, us",7.89,4.68,2.89,11.59,5.19,ca,92392,San Bernardino
+117,McDonald,"12146 mariposa rd, victorville, ca, 92395, us",7.89,4.68,2.89,11.99,5.18,ca,92395,San Bernardino
+118,McDonald,"16670 bear valley road, victorville, ca, 92395, us",7.39,4.29,2.89,10.45,4.99,ca,92395,San Bernardino
+119,McDonald,"13625 bear valley rd, victorville, ca, 92392, us",8.29,4.29,3.89,14.79,6.19,ca,92392,San Bernardino
+120,McDonald,"12254 palmdale road, victorville, ca, 92392, us",8.49,4.49,3.79,14.69,6.09,ca,92392,San Bernardino
+121,McDonald,"1260 park blvd, san diego, ca, 92101, us",7.99,4.49,3.79,13.49,5.69,ca,92101,San Diego
+122,McDonald,"1414 university ave, san diego, ca, 92103, us",9.29,5.29,4.49,15.49,6.29,ca,92103,San Diego
+123,McDonald,"2796 main st, san diego, ca, 92113, us",8.48,4.49,3.29,14.19,5.99,ca,92113,San Diego
+124,McDonald,"2345 el cajon blvd., san diego, ca, 92104, us",7.99,4.49,3.79,13.49,5.69,ca,92104,San Diego
+125,McDonald,"3805 midway dr, san diego, ca, 92110-5209, us",7.99,3.99,3.75,13.87,5.79,ca,92110,San Diego
+126,McDonald,"725 e st, chula vista, ca, 91910, us",6.99,3.79,3.39,12.59,5.29,ca,91910,San Diego
+127,McDonald,"3400 highland ave, chula vista, ca, 91950, us",8.48,4.39,2.89,13.59,5.79,ca,91950,San Diego
+128,McDonald,"619 broadway, chula vista, ca, 91910, us",8.59,4.49,3.99,13.79,5.5,ca,91910,San Diego
+129,McDonald,"1110 3rd ave, chula vista, ca, 91911, us",6.99,3.99,3.59,11.89,5.29,ca,91911,San Diego
+130,McDonald,"1630 highland ave, national city, ca, 91950, us",8.48,4.39,3.29,13.89,5.89,ca,91950,San Diego
+131,McDonald,"2140 plaza blvd., national city, ca, 91950, us",8.48,4.39,3.29,13.89,5.89,ca,91950,San Diego
+132,McDonald,"137 canyon dr, oceanside, ca, 92054, us",6.99,3.39,2.89,12.99,4.91,ca,92054,San Diego
+133,McDonald,"1701, oceanside, ca, 92054, us",6.49,3.29,2.89,12.89,4.79,ca,92054,San Diego
+134,McDonald,"2185 vista way, oceanside, ca, 92054, us",6.99,3.19,2.89,12.99,4.89,ca,92054,San Diego
+135,McDonald,"3720 mission ave, oceanside, ca, 92058, us",,,,,,ca,92058,San Diego
+136,McDonald,"185 old grove rd., oceanside, ca, 92057, us",,,,,,ca,92057,San Diego
+137,McDonald,"4151 oceanside blvd, oceanside, ca, 92056, us",,,,,,ca,92056,San Diego
+138,McDonald,"1100 fillmore st, san francisco, ca, 94115, us",,,,,,ca,94115,San Francisco
+139,McDonald,"441 sutter st, san francisco, ca, 94108, us",,,,,,ca,94108,San Francisco
+140,McDonald,"302 potrero avenue, san francisco, ca, 94103, us",,,,,,ca,94103,San Francisco
+141,McDonald,"609 market st, san francisco, ca, 94105-3301, us",,,,,,ca,94105,San Francisco
+142,McDonald,"2801 mission st, san francisco, ca, 94110, us",,,,,,ca,94110,San Francisco
+143,McDonald,"345 bay shore blvd, san francisco, ca, 94124, us",,,,,,ca,94124,San Francisco
+144,McDonald,"1201 ocean ave, san francisco, ca, 94112-1830, us",8.19,4.39,3.59,13.69,5.49,ca,94112,San Francisco
+145,McDonald,"5454 mission st, san francisco, ca, 94112, us",8.29,3.49,2.99,16.09,5.29,ca,94112,San Francisco
+146,McDonald,"322 s center st, stockton, ca, 95203, us",,,,,,ca,95203,San Joaquin
+147,McDonald,"1423 n center st, stockton, ca, 95202, us",,,,,,ca,95202,San Joaquin
+148,McDonald,"1009 n wilson way, stockton, ca, 95205-4217, us",,,,,,ca,95205,San Joaquin
+149,McDonald,"611 w charter way, stockton, ca, 95206, us",,,,,,ca,95206,San Joaquin
+150,McDonald,"4515 pacific ave, stockton, ca, 95207, us",,,,,,ca,95207,San Joaquin
+151,McDonald,"563 carolyn weston blvd, stockton, ca, 95206, us",,,,,,ca,95206,San Joaquin
+152,McDonald,"275 madonna rd (#2), san luis obispo, ca, 93405, us",,,,,,ca,93405,San Luis Obispo
+153,McDonald,"350 five cities drive, pismo beach, ca, 93449, us",,,,,,ca,93449,San Luis Obispo
+154,McDonald,"1550 grand ave, grover beach, ca, 93433, us",,,,,,ca,93433,San Luis Obispo
+155,McDonald,"780 quintana rd, morro bay, ca, 93442, us",,,,,,ca,93442,San Luis Obispo
+156,McDonald,"410 grand ave po box 306, arroyo grande, ca, 93420, us",,,,,,ca,93420,San Luis Obispo
+157,McDonald,"6300 morro rd, atascadero, ca, 93422, us",,,,,,ca,93422,San Luis Obispo
+158,McDonald,"1420 el camino real, san mateo, ca, 94402, us",,,,,,ca,94402,San Mateo
+159,McDonald,"522 el camino real, belmont, ca, 94002-2121, us",,,,,,ca,94002,San Mateo
+160,McDonald,"1101 triton dr, foster city, ca, 94404, us",,,,,,ca,94404,San Mateo
+161,McDonald,"381 s airport blvd, south san francisco, ca, 94080, us",,,,,,ca,94080,San Mateo
+162,McDonald,"587 el camino real, south san francisco, california, south san franc, ca, 94080, us",,,,,,ca,94080,San Mateo
+163,McDonald,"180 el camino real, san carlos, ca, 94070, us",,,,,,ca,94070,San Mateo
+164,McDonald,"2450 junipero serra blvd, daly city, ca, 94015-1632, us",8.49,4.49,4.39,14.29,5.69,ca,94015,San Mateo
+165,McDonald,"505 serramonte blvd, daly city, ca, 94015-4372, us",7.89,4.19,3.79,13.39,4.99,ca,94015,San Mateo
+166,McDonald,"125 monterey rd, pacifica, ca, 94044-1332, us",7.69,3.59,3.29,12.39,4.59,ca,94044,San Mateo
+167,McDonald,"2750 geneva ave, daly city, ca, 94014-1521, us",8.79,3.69,3.49,16.29,5.59,ca,94014,San Mateo
+168,McDonald,"1407 bradley rd, santa maria, ca, 93454, us",7.09,3.49,3.29,12.79,4.59,ca,93454,Santa Barbara
+169,McDonald,"1710 s broadway, santa maria, ca, 93454, us",6.59,4.29,3.89,11.69,4.89,ca,93454,Santa Barbara
+170,McDonald,"2280 skyway dr, santa maria, ca, 93455, us",6.59,4.49,4.29,11.69,5.09,ca,93455,Santa Barbara
+171,McDonald,"29 north milpas street, santa barbara, ca, 93103, us",7.19,4.59,4.19,12.89,5.59,ca,93103,Santa Barbara
+172,McDonald,"1906 cliff dr, santa barbara, ca, 93109, us",6.99,3.99,3.89,12.79,5.79,ca,93109,Santa Barbara
+173,McDonald,"146 s fairview blvd, santa barbara, ca, 93117, us",7.19,4.19,3.79,13.39,4.99,ca,93117,Santa Barbara
+174,McDonald,"6900 marketplace drive, goleta, ca, 93117, us",7.19,4.19,3.79,13.39,4.99,ca,93117,Santa Barbara
+175,McDonald,"3940 state street, santa barbara, ca, 93110, us",6.89,4.29,4.09,12.59,5.19,ca,93110,Santa Barbara
+176,McDonald,"1115 casitas pass road, carpinteria, ca, 93013, us",6.26,3.39,3.19,10.21,3.49,ca,93013,Santa Barbara
+177,McDonald,"1299 e santa clara st, san jose, ca, 95116, us",6.89,3.79,3.19,11.29,5.19,ca,95116,Santa Clara
+178,McDonald,"777 story rd, san jose, ca, 95122, us",7.49,4.29,3.39,12.29,5.09,ca,95122,Santa Clara
+179,McDonald,"1398 w. san carlos, san jose, ca, 95126, us",8.79,4.19,3.69,14.69,5.69,ca,95126,Santa Clara
+180,McDonald,"2191 monterey highway, san jose, ca, 95125, us",8.89,3.99,3.69,14.99,5.69,ca,95125,Santa Clara
+181,McDonald,"2353 mckee rd, san jose, ca, 95133, us",7.3,3.47,2.59,12.59,4.99,ca,95133,Santa Clara
+182,McDonald,"585 tully rd, san jose, ca, 95112-1920, us",7.39,4.49,3.39,12.19,4.79,ca,95112,Santa Clara
+183,McDonald,"556 e el camino real, sunnyvale, ca, 94087, us",7.69,3.49,4.19,12.39,4.47,ca,94087,Santa Clara
+184,McDonald,"696 n mathilda ave, sunnyvale, ca, 94085, us",8.99,4.29,3.79,15.29,5.69,ca,94085,Santa Clara
+185,McDonald,"10990 n stelling rd, cupertino, ca, 95014, us",7.69,3.49,4.19,12.39,4.47,ca,95014,Santa Clara
+186,McDonald,"550 lawrence expy, sunnyvale, ca, 94085, us",10.38,4.98,4.03,16.05,6.73,ca,94085,Santa Clara
+187,McDonald,"3509 home stead rd, santa clara, ca, 95051, us",8.99,4.69,3.79,14.89,5.69,ca,95051,Santa Clara
+188,McDonald,"2850 augustine dr, santa clara, ca, 95054, us",10.38,4.98,4.03,16.05,6.73,ca,95054,Santa Clara
+189,McDonald,"1421 mission st, santa cruz, ca, 95060-4738, us",8.39,3.99,3.49,13.29,4.99,ca,95060,Santa Cruz
+190,McDonald,"1210 ocean ave, santa cruz, ca, 95060, us",8.39,4.19,3.49,13.29,4.99,ca,95060,Santa Cruz
+191,McDonald,"259 mount hermon rd, scotts valley, ca, 95066, us",8.39,3.99,3.49,13.29,4.99,ca,95066,Santa Cruz
+192,McDonald,"1760 41st ave, capitola, ca, 95010-2503, us",8.39,3.99,3.49,13.29,4.99,ca,95010,Santa Cruz
+193,McDonald,"1459 main st, watsonville, ca, 95076, us",8.39,3.73,3.38,14.79,4.99,ca,95076,Santa Cruz
+194,McDonald,"1598 freedom blvd, watsonville, ca, 95076, us",8.22,3.69,3.38,14.79,4.99,ca,95076,Santa Cruz
+195,McDonald,"3289 sonoma blvd, vallejo, ca, 94590, us",8.59,3.89,3.49,13.29,4.99,ca,94590,Solano
+196,McDonald,"416 e lincoln rd, vallejo, ca, 94591, us",8.29,4.19,3.49,12.29,5.29,ca,94591,Solano
+197,McDonald,"170 lincoln rd e, vallejo, ca, 94591-8206, us",8.29,4.19,3.59,12.49,5.39,ca,94591,Solano
+198,McDonald,"2565 springs rd, vallejo, ca, 94591-5612, us",8.19,4.19,3.49,12.29,5.39,ca,94591,Solano
+199,McDonald,"902 admiral callaghan ln, vallejo, ca, 94591, us",7.99,4.19,3.59,12.09,5.19,ca,94591,Solano
+200,McDonald,"5200 sonoma blvd, vallejo, ca, 94589, us",6.99,3.79,3.59,12.89,4.79,ca,94589,Solano
+201,McDonald,"699 beck ave, fairfield, ca, 94533, us",8.09,3.59,3.49,13.19,5.29,ca,94533,Solano
+202,McDonald,"2212 no texas st, fairfield, ca, 94533, us",8.29,3.89,3.49,12.99,4.99,ca,94533,Solano
+203,McDonald,"3080 travis blvd, fairfield, ca, 94534, us",8.69,3.79,3.49,13.29,5.29,ca,94534,Solano
+204,McDonald,"101 sunset ave, suisun city, ca, 94585, us",8.69,3.59,3.49,13.19,5.29,ca,94585,Solano
+205,McDonald,"3500 nelson rd, fairfield, ca, 94533, us",8.69,3.79,3.49,13.29,5.29,ca,94533,Solano
+206,McDonald,"4400 central pl, fairfield, ca, 94534, us",6.99,3.79,3.59,12.89,4.79,ca,94534,Solano
+207,McDonald,"2642 santa rosa ave, santa rosa, ca, 95407, us",8.39,3.99,3.49,13.29,4.99,ca,95407,Sonoma
+208,McDonald,"mission blvd, santa rosa, ca, 95409, us",8.39,4.19,3.49,13.29,4.99,ca,95409,Sonoma
+209,McDonald,"879 hopper ave, santa rosa, ca, 95403, us",8.59,4.19,3.49,13.49,4.99,ca,95403,Sonoma
+210,McDonald,"2521 guerneville rd, santa rosa, ca, 95401, us",8.39,3.99,3.49,13.29,4.99,ca,95401,Sonoma
+211,McDonald,"6600 commerce blvd, rohnert park, ca, 94928, us",8.99,4.69,3.79,14.39,5.69,ca,94928,Sonoma
+212,McDonald,"900 9th st, modesto, ca, 95354, us",8.49,4.49,4.19,13.79,5.69,ca,95354,Stanislaus
+213,McDonald,"409 paradise road, modesto, ca, 95351, us",8.49,4.49,4.19,13.79,5.69,ca,95351,Stanislaus
+214,McDonald,"901 n carpenter rd, modesto, ca, 95358, us",8.49,4.49,4.19,13.79,5.69,ca,95358,Stanislaus
+215,McDonald,"2118 mchenry ave, modesto, ca, 95350-3213, us",7.89,3.59,3.39,12.99,4.99,ca,95350,Stanislaus
+216,McDonald,"801 oakdale ave, modesto, ca, 95355, us",7.99,4.39,3.69,14.79,5.49,ca,95355,Stanislaus
+217,McDonald,"1324 e hatch rd, ceres, ca, 95351, us",7.79,4.59,3.59,12.79,5.49,ca,95351,Stanislaus
+218,McDonald,"1401 e noble ave, visalia, ca, 93292, us",8.09,4.39,3.89,13.19,5.29,ca,93292,Tulare
+219,McDonald,"3636 w mineral king ave, visalia, ca, 93291, us",8.09,4.39,3.89,13.19,5.29,ca,93291,Tulare
+220,McDonald,"3102 ndinuba, visalia, ca, 93291, us",8.09,4.39,3.89,13.19,5.29,ca,93291,Tulare
+221,McDonald,"3636 s mooney blvd, visalia, ca, 93277-8019, us",8.09,4.39,3.89,13.19,5.29,ca,93277,Tulare
+222,McDonald,"5205 w goshen, visalia, ca, 93291, us",8.09,4.39,3.89,13.19,5.29,ca,93291,Tulare
+223,McDonald,"5215 w akers / walnut, visalia, ca, 93277, us",8.09,4.39,3.89,13.19,5.29,ca,93277,Tulare
+224,McDonald,"401 ventura ave, oxnard, ca, 93030, us",6.49,3.39,3.19,10.29,3.49,ca,93030,Ventura
+225,McDonald,"605 s. rose ave., oxnard, ca, 93030, us",6.49,3.39,3.19,10.16,3.69,ca,93030,Ventura
+226,McDonald,"1711 n, oxnard, ca, 93030, us",6.5,3.39,2.99,10.08,3.69,ca,93030,Ventura
+227,McDonald,"1741 pacific ave, oxnard, ca, 93033, us",6.79,3.39,2.69,10.16,3.39,ca,93033,Ventura
+228,McDonald,"2201 n rose ave, oxnard, ca, 93036, us",6.49,3.39,3.19,10.16,3.29,ca,93036,Ventura
+229,McDonald,"3120 s saviers rd, oxnard, ca, 93033, us",7.39,3.79,3.79,13.89,4.79,ca,93033,Ventura
+230,McDonald,"7632 sunrise blvd., citrus heights, ca, 95610, us",7.79,3.89,3.59,12.88,5.09,ca,95610,Sacramento
+231,McDonald,"1515 euclid ave, san diego, ca, 92105, us",8.89,4.39,2.99,14.39,6.09,ca,92105,San Diego
+232,McDonald,"27776 n mcbean pky, santa clarita, ca, 91354, us",6.99,5.69,4.69,14.29,6.29,ca,91354,Los Angeles
+233,McDonald,"800 riverpoint dr, west sacramento, ca, 95605, us",7.99,3.89,3.39,12.99,4.79,ca,95605,Yolo
+234,McDonald,"1101 el camino real, millbrae, ca, 94030, us",6.89,3.39,2.99,10.89,3.99,ca,94030,San Mateo
+235,McDonald,"2110 columbus parkway, benicia, ca, 94510, us",6.89,4.19,3.69,11.79,4.99,ca,94510,Solano
+236,McDonald,"40465 winchester rd, temecula, ca, 92591, us",7.69,3.19,2.89,12.49,5.19,ca,92591,Riverside
+237,McDonald,"39196 winchester rd, murrieta, ca, 92563, us",7.69,3.19,2.89,12.49,5.19,ca,92563,Riverside
+238,McDonald,"1248 n blackstone, fresno, ca, 93703, us",7.99,3.59,3.29,12.59,4.79,ca,93703,Fresno
+239,McDonald,"600 east boranda drive, salinas, ca, 93906, us",7.19,3.99,3.17,10.95,4.89,ca,93906,Monterey
+240,McDonald,"1000 real rd, bakersfield, ca, 93309, us",6.49,3.49,2.99,11.39,4.79,ca,93309,Kern
+241,McDonald,"1365 n main st, salinas, ca, 93906, us",6.99,3.79,3.59,11.69,4.99,ca,93906,Monterey
+242,McDonald,"1800 prescott rd, modesto, ca, 95350, us",7.99,3.99,3.39,12.99,4.99,ca,95350,Stanislaus
+243,McDonald,"16063 foothill blvd, fontana, ca, 92335, us",6.19,4.19,3.89,10.89,4.89,ca,92335,San Bernardino
+244,McDonald,"5410 stockdale hwy, bakersfield, ca, 93309, us",6.49,3.49,2.99,11.39,4.79,ca,93309,Kern
+245,McDonald,"22257 barton rd, grand terrace, ca, 92313, us",7.39,3.99,3.59,13.19,5.49,ca,92313,San Bernardino
+246,McDonald,"1201 s mount vernon ave, colton, ca, 92324, us",8.19,4.99,4.89,13.19,6.39,ca,92324,San Bernardino
+247,McDonald,"225 w valley blvd, colton, ca, 92324, us",8.19,4.99,4.89,13.19,6.39,ca,92324,San Bernardino
+248,McDonald,"487 college blvd, oceanside, ca, 92057, us",6.99,3.39,2.69,12.99,4.79,ca,92057,San Diego
+249,McDonald,"201 w washington blvd, los angeles, ca, 90015, us",7.99,4.59,2.69,11.79,4.99,ca,90015,Los Angeles
+250,McDonald,"1830, long beach, ca, 90806, us",,4.99,4.29,,5.69,ca,90806,Los Angeles
+251,McDonald,"221 e alessandro, riverside, ca, 92508, us",8.79,4.09,3.99,13.99,4.39,ca,92508,Riverside
+252,McDonald,"10143 sierra ave, fontana, ca, 92335, us",8.79,4.09,3.99,13.99,4.39,ca,92335,San Bernardino
+253,McDonald,"18988, sonoma, ca, 95476, us",8.49,4.49,4.29,14.39,5.69,ca,95476,Sonoma
+254,McDonald,"4419 waterloo road, stockton, ca, 95215, us",7.79,4.29,3.69,14.79,5.49,ca,95215,San Joaquin
+255,McDonald,"1500 s harbor blvd, anaheim, ca, 92802, us",7.49,3.79,3.09,15.59,5.99,ca,92802,Orange
+256,McDonald,"17017 sierra lakes pkwy., fontana, ca, 92336, us",7.69,3.99,3.49,13.29,5.36,ca,92336,San Bernardino
+257,McDonald,"2891 canyon springs parkway, riverside, ca, 92507, us",9.09,5.39,3.99,17.7,5.89,ca,92507,Riverside
+258,McDonald,"6710 stanford ranch rd, roseville, ca, 95678, us",8.59,3.99,3.49,11.59,5.59,ca,95678,Placer
+259,McDonald,"230 e pacific coast hwy, wilmington, ca, 90744, us",7.19,3.59,3.39,13.19,5.09,ca,90744,Los Angeles
+260,McDonald,"931 sepulveda blvd, torrance, ca, 90502, us",7.59,3.82,3.58,14.69,5.53,ca,90502,Los Angeles
+261,McDonald,"1501 n bristol st, santa ana, ca, 92706, us",6.49,3.59,3.59,13.19,5.39,ca,92706,Orange
+262,McDonald,"1318 w foothill blvd, rialto, ca, 92376, us",8.79,4.09,3.99,13.99,4.39,ca,92376,San Bernardino
+263,McDonald,"2298 gellert blvd, south san francisco, ca, 94080, us",8.69,4.49,4.39,14.49,5.69,ca,94080,San Mateo
+264,McDonald,"1173 west casmalia st, rialto, ca, 92377, us",8.79,4.09,3.99,13.99,4.39,ca,92377,San Bernardino
+265,McDonald,"55, lincoln, ca, 95648, us",8.49,3.99,3.49,11.59,5.59,ca,95648,Placer
+266,McDonald,"12371 perris blvd., moreno valley, ca, 92557, us",9.07,5.39,3.99,17.7,5.89,ca,92557,Riverside
+267,McDonald,"103 mcdowell blvd, petaluma, ca, 94954, us",8.89,4.49,3.99,14.79,5.69,ca,94954,Sonoma
+268,McDonald,"541 davis st, vacaville, ca, 95688, us",8.29,3.89,3.49,12.99,5.49,ca,95688,Solano
+269,McDonald,"1705 pacific coast hwy, long beach, ca, 90810, us",6.99,3.69,3.29,12.79,4.89,ca,90810,Los Angeles
+270,McDonald,"1410 north lemon street, anaheim, ca, 92801, us",6.99,3.29,2.89,14.09,4.79,ca,92801,Orange
+271,McDonald,"27 union square, union city, ca, 94587, us",8.76,4.03,3.63,15.51,5.79,ca,94587,Alameda
+272,McDonald,"1190 cirby way, roseville, ca, 95746, us",8.49,4.59,3.79,12.99,5.49,ca,95746,Placer
+273,McDonald,"26200 iris avenue, moreno valley, ca, 92555, us",,5.39,3.99,,5.89,ca,92555,Riverside
+274,McDonald,"270, lincoln, ca, 95648, us",8.39,3.99,3.49,11.49,5.59,ca,95648,Placer
+275,McDonald,"26940 sierra hwy, newhall, ca, 91387, us",8.69,5.49,4.69,14.49,6.29,ca,91387,Los Angeles
+276,Jack in the Box,"1826 webster st, alameda, ca, 94501, us",6.86,,,13.98,5.36,ca,94501,Alameda
+277,Jack in the Box,"4425 telegraph ave, oakland, ca, 94609, us",6.49,,,12.6,4.99,ca,94609,Alameda
+278,Jack in the Box,"2424 east international boulevard, oakland, ca, 94601, us",6.49,,,12.6,4.99,ca,94601,Alameda
+279,Jack in the Box,"6510 telegraph ave, oakland, ca, 94609, us",6.49,,,12.6,4.99,ca,94609,Alameda
+280,Jack in the Box,"1257 park st, alameda, ca, 94501, us",6.86,,,13.98,5.36,ca,94501,Alameda
+281,Jack in the Box,"2197 san pablo ave, berkeley, ca, 94702, us",6.61,,,11.98,5.99,ca,94702,Alameda
+282,Jack in the Box,"36848, fremont, ca, 94536, us",7.74,,,14.98,5.24,ca,94536,Alameda
+283,Jack in the Box,"5533 stevenson blvd., fremont, ca, 94538, us",7.74,,,14.98,5.24,ca,94538,Alameda
+284,Jack in the Box,"41115, fremont, ca, 94538, us",7.74,,,14.98,5.24,ca,94538,Alameda
+285,Jack in the Box,"39017 cedar blvd., newark, ca, 94560, us",7.74,,,14.98,5.24,ca,94560,Alameda
+286,Jack in the Box,"43921 osgood road., fremont, ca, 94539, us",7.74,,,14.98,5.24,ca,94539,Alameda
+287,Jack in the Box,"34701 ardenwood blvd., fremont, ca, 94555, us",7.74,,,14.98,5.24,ca,94555,Alameda
+288,Jack in the Box,"24175 mission boulevard, hayward, ca, 94544, us",7.74,,,14.85,5.99,ca,94544,Alameda
+289,Jack in the Box,"18555 mission blvd, hayward, ca, 94541, us",7.74,,,14.6,4.99,ca,94541,Alameda
+290,Jack in the Box,"3035, castro valley, ca, 94546, us",6.49,,,12.6,4.99,ca,94546,Alameda
+291,Jack in the Box,"17550 hesperian blvd, san lorenzo, ca, 94580, us",6.49,,,12.6,4.99,ca,94580,Alameda
+292,Jack in the Box,"25198 hesperian boulevard, hayward, ca, 94545, us",7.74,,,14.85,5.99,ca,94545,Alameda
+293,Jack in the Box,"1490 west winton avenue, hayward, ca, 94545, us",6.49,,,12.6,4.99,ca,94545,Alameda
+294,Jack in the Box,"1710 monument blvd, concord, ca, 94518, us",7.49,,,13.73,4.99,ca,94518,Contra Costa
+295,Jack in the Box,"1051 willow pass ct., concord, ca, 94520, us",7.86,,,14.98,5.24,ca,94520,Contra Costa
+296,Jack in the Box,"4740 clayton rd, concord, ca, 94521, us",7.49,,,13.73,4.99,ca,94521,Contra Costa
+297,Jack in the Box,"1817 contra costa blvd, pleasant hill, ca, 94523, us",7.86,,,14.98,5.24,ca,94523,Contra Costa
+298,Jack in the Box,"2295 n main st, walnut creek, ca, 94596, us",7.49,,,13.73,4.99,ca,94596,Contra Costa
+299,Jack in the Box,"3955 alhambra ave, martinez, ca, 94553, us",6.86,,,13.73,4.99,ca,94553,Contra Costa
+300,Jack in the Box,"3110 e tulare st, fresno, ca, 93702, us",6.61,,,13.35,4.99,ca,93702,Fresno
+301,Jack in the Box,"2124 n blackstone hwy, fresno, ca, 93703, us",6.61,,,13.35,4.99,ca,93703,Fresno
+302,Jack in the Box,"4968 e kings canyon rd, fresno, ca, 93727, us",6.61,,,13.35,4.99,ca,93727,Fresno
+303,Jack in the Box,"3058 w clinton ave, fresno, ca, 93722, us",6.61,,,13.35,4.99,ca,93722,Fresno
+304,Jack in the Box,"1167 n clovis ave, fresno, ca, 93727, us",6.61,,,13.35,4.99,ca,93727,Fresno
+305,Jack in the Box,"2220 chester ave, bakersfield, ca, 93301, us",7.49,,,13.73,5.36,ca,93301,Kern
+306,Jack in the Box,"1200 oak street, bakersfield, ca, 93304, us",7.49,,,13.73,5.36,ca,93304,Kern
+307,Jack in the Box,"10 union ave, bakersfield, ca, 93307, us",7.49,,,13.73,5.36,ca,93307,Kern
+308,Jack in the Box,"4200 chester ave, bakersfield, ca, 93301, us",7.49,,,13.73,5.36,ca,93301,Kern
+309,Jack in the Box,"1003 east california avenue, bakersfield, ca, 93307, us",9.11,,,18.35,5.99,ca,93307,Kern
+310,Jack in the Box,"3002 ming ave, bakersfield, ca, 93304, us",7.49,,,13.73,5.36,ca,93304,Kern
+311,Jack in the Box,"516 north beaudry avenue, los angeles, ca, 90012, us",5.86,,,,,ca,90012,Los Angeles
+312,Jack in the Box,"1135 north mission road, los angeles, ca, 90033, us",6.86,,,13.74,3.74,ca,90033,Los Angeles
+313,Jack in the Box,"1900 w. 6th st, los angeles, ca, 90057, us",6.86,,,13.74,3.74,ca,90057,Los Angeles
+314,Jack in the Box,"1615 s broadway, los angeles, ca, 90015, us",6.24,,,12.48,4.49,ca,90015,Los Angeles
+315,Jack in the Box,"1415 south alameda street, los angeles, ca, 90021, us",6.61,,,,,ca,90021,Los Angeles
+316,Jack in the Box,"2521 pasadena ave, los angeles, ca, 90031, us",6.24,,,12.48,4.49,ca,90031,Los Angeles
+317,Jack in the Box,"652 atlantic ave, long beach, ca, 90802, us",6.86,,,13.74,3.74,ca,90802,Los Angeles
+318,Jack in the Box,"1190 east pacific coast highway, long beach, ca, 90806, us",6.74,,,12.73,4.49,ca,90806,Los Angeles
+319,Jack in the Box,"1720 w pacific coast hwy, long beach, ca, 90813, us",7.24,,,13.35,5.24,ca,90813,Los Angeles
+320,Jack in the Box,"2101 e anaheim st, long beach, ca, 90804, us",6.99,,,13.35,4.99,ca,90804,Los Angeles
+321,Jack in the Box,"3980 e ocean blvd, long beach, ca, 90803, us",7.24,,,13.35,5.24,ca,90803,Los Angeles
+322,Jack in the Box,"3399 e pacific coast hwy, long beach, ca, 90755, us",6.49,,,12.73,4.74,ca,90755,Los Angeles
+323,Jack in the Box,"26547 bouquet canyon road, santa clarita, ca, 91350, us",6.86,,,13.74,3.74,ca,91350,Los Angeles
+324,Jack in the Box,"24820 pico canyon road, santa clarita, ca, 91381, us",6.24,,,,,ca,91381,Los Angeles
+325,Jack in the Box,"22908 lyons avenue, santa clarita, ca, 91321, us",6.61,,,12.35,4.99,ca,91321,Los Angeles
+326,Jack in the Box,"28144 the old road, valencia, ca, 91355, us",6.86,,,13.74,3.74,ca,91355,Los Angeles
+327,Jack in the Box,"18955 west soledad cyn road, canyon country, ca, 91351, us",6.86,,,13.74,3.74,ca,91351,Los Angeles
+328,Jack in the Box,"18525 via princessa, santa clarita, ca, 91387, us",6.86,,,13.74,3.74,ca,91387,Los Angeles
+329,Jack in the Box,"1814 2nd street, san rafael, ca, 94901, us",7.74,,,14.98,5.24,ca,94901,Marin
+330,Jack in the Box,"301 enfrente rd, novato, ca, 94949, us",6.86,,,13.73,4.99,ca,94949,Marin
+331,Jack in the Box,"7135 redwood blvd., novato, ca, 94945, us",7.74,,,14.98,5.24,ca,94945,Marin
+332,Jack in the Box,"14395, san pablo, ca, 94806, us",6.99,,,13.73,4.99,ca,94806,Contra Costa
+333,Jack in the Box,"50 san pablo towne ctr, san pablo, ca, 94806, us",7.36,,,14.23,5.36,ca,94806,Contra Costa
+334,Jack in the Box,"5920 cutting blvd, el-cerrito, ca, 94530, us",7.24,,,14.1,4.74,ca,94530,Contra Costa
+335,Jack in the Box,"837 e washington st, petaluma, ca, 94952, us",7.74,,,14.6,4.99,ca,94952,Marin
+336,Jack in the Box,"645 south main street, salinas, ca, 93901, us",7.49,,,14.23,5.24,ca,93901,Monterey
+337,Jack in the Box,"975 n. main st., salinas, ca, 93906, us",7.49,,,14.23,5.24,ca,93906,Monterey
+338,Jack in the Box,"1225 de la torre street, salinas, ca, 93905, us",7.49,,,14.23,5.24,ca,93905,Monterey
+339,Jack in the Box,"1810 n main st., salinas, ca, 93906, us",7.49,,,14.23,5.24,ca,93906,Monterey
+340,Jack in the Box,"1540 n sanborn rd., salinas, ca, 93905, us",7.49,,,14.23,5.24,ca,93905,Monterey
+341,Jack in the Box,"211 reservation rd, marina, ca, 93933, us",7.49,,,14.23,5.24,ca,93933,Monterey
+342,Jack in the Box,"601 north main street, santa ana, ca, 92701, us",5.61,,,11.6,4.49,ca,92701,Orange
+343,Jack in the Box,"719 north bristol street, santa ana, ca, 92703, us",5.61,,,11.6,4.49,ca,92703,Orange
+344,Jack in the Box,"1406 east first street, santa ana, ca, 92701, us",6.49,,,12.48,4.86,ca,92701,Orange
+345,Jack in the Box,"1300 w edinger ave, santa ana, ca, 92704, us",7.24,,,13.35,5.24,ca,92704,Orange
+346,Jack in the Box,"1730 e. edinger ave., santa ana, ca, 92705, us",6.49,,,12.48,4.86,ca,92705,Orange
+347,Jack in the Box,"3050 w. chapman ave, orange, ca, 92868, us",6.49,,,12.48,4.86,ca,92868,Orange
+348,Jack in the Box,"290 w. lincoln ave., anaheim, ca, 92805, us",6.49,,,12.48,4.86,ca,92805,Orange
+349,Jack in the Box,"100 s. state college blvd., anaheim, ca, 92806, us",6.49,,,12.48,4.86,ca,92806,Orange
+350,Jack in the Box,"235 e orangethorpe ave, fullerton, ca, 92832, us",7.24,,,13.35,5.24,ca,92832,Orange
+351,Jack in the Box,"1155 north euclid avenue, anaheim, ca, 92801, us",6.61,,,12.48,4.49,ca,92801,Orange
+352,Jack in the Box,"797 west orangethorpe avenue, placentia, ca, 92870, us",6.49,,,12.48,4.86,ca,92870,Orange
+353,Jack in the Box,"999 s brookhurst st, anaheim, ca, 92804, us",6.24,,,12.48,4.86,ca,92804,Orange
+354,Jack in the Box,"1923 douglas blvd, roseville, ca, 95661, us",7.49,,,14.73,5.24,ca,95661,Placer
+355,Jack in the Box,"5150 foothills blvd., roseville, ca, 95747, us",6.61,,,13.85,4.99,ca,95747,Placer
+356,Jack in the Box,"8655 auburn blvd, roseville, ca, 95661, us",7.49,,,14.73,5.24,ca,95661,Placer
+357,Jack in the Box,"6691 stanford ranch road, rocklin, ca, 95677, us",7.49,,,14.73,5.24,ca,95677,Placer
+358,Jack in the Box,"4410, rocklin, ca, 95677, us",7.49,,,14.73,5.24,ca,95677,Placer
+359,Jack in the Box,"8100 greenback ln, fair oaks, ca, 95628, us",7.24,,,13.35,4.99,ca,95628,Sacramento
+360,Jack in the Box,"13421 east lincoln way, auburn, ca, 95603, us",6.86,,,13.35,4.99,ca,95603,Placer
+361,Jack in the Box,"455 highway 65, lincoln, ca, 95648, us",7.49,,,14.73,5.24,ca,95648,Placer
+362,Jack in the Box,"3434 14th st, riverside, ca, 92501, us",7.86,,,,,ca,92501,Riverside
+363,Jack in the Box,"3521 central ave, riverside, ca, 92506, us",7.86,,,,,ca,92506,Riverside
+364,Jack in the Box,"1371 blaine st, riverside, ca, 92507, us",6.24,,,,,ca,92507,Riverside
+365,Jack in the Box,"1115 w la cadena dr, riverside, ca, 92501, us",7.86,,,14.85,4.99,ca,92501,Riverside
+366,Jack in the Box,"5642 30th street, rubidoux, ca, 92509, us",5.74,,,,,ca,92509,Riverside
+367,Jack in the Box,"5126 arlington ave., riverside, ca, 92504, us",7.49,,,13.99,5.24,ca,92504,Riverside
+368,Jack in the Box,"22485 alessandro boulevard, moreno valley, ca, 92553, us",5.86,,,,,ca,92553,Riverside
+369,Jack in the Box,"12477 heacock st, moreno valley, ca, 92553, us",7.86,,,14.85,4.99,ca,92553,Riverside
+370,Jack in the Box,"15030 perris boulevard, moreno valley, ca, 92551, us",5.74,,,,,ca,92551,Riverside
+371,Jack in the Box,"24985 elder ave, moreno valley, ca, 92557, us",7.86,,,14.85,4.99,ca,92557,Riverside
+372,Jack in the Box,"5700 sycamore canyon boulevard, riverside, ca, 92507, us",7.49,,,13.99,5.24,ca,92507,Riverside
+373,Jack in the Box,"25950 iris avenue, moreno valley, ca, 92551, us",5.74,,,,,ca,92551,Riverside
+374,Jack in the Box,"24620 madison ave, murrieta, ca, 92562, us",7.86,,,14.98,4.99,ca,92562,Riverside
+375,Jack in the Box,"39878 los alamos rd, murrieta, ca, 92562, us",7.86,,,14.85,4.99,ca,92562,Riverside
+376,Jack in the Box,"36196 hidden springs rd, wildomar, ca, 92595, us",7.86,,,,,ca,92595,Riverside
+377,Jack in the Box,"40412 winchester rd, temecula, ca, 92591, us",7.86,,,14.98,4.99,ca,92591,Riverside
+378,Jack in the Box,"21960 bundy canyon road, wildomar, ca, 92595, us",5.74,,,,,ca,92595,Riverside
+379,Jack in the Box,"33080 antelope road, murrieta, ca, 92563, us",7.86,,,,,ca,92563,Riverside
+380,Jack in the Box,"2560 w el camino ave, sacramento, ca, 95833, us",7.49,,,14.73,5.24,ca,95833,Sacramento
+381,Jack in the Box,"775 harbor pointe place, west sacramento, ca, 95605, us",7.49,,,14.73,5.24,ca,95605,Yolo
+382,Jack in the Box,"5800 freeport blvd., sacramento, ca, 95822, us",7.49,,,14.73,5.24,ca,95822,Sacramento
+383,Jack in the Box,"2293 arden way, sacramento, ca, 95825, us",6.86,,,13.35,4.99,ca,95825,Sacramento
+384,Jack in the Box,"4128 norwood ave, sacramento, ca, 95838, us",6.49,,,13.73,4.99,ca,95838,Sacramento
+385,Jack in the Box,"2750 del paso rd, sacramento, ca, 95834, us",6.49,,,13.73,4.99,ca,95834,Sacramento
+386,Jack in the Box,"9620 e stockton blvd, elk grove, ca, 95624, us",6.61,,,13.85,4.99,ca,95624,Sacramento
+387,Jack in the Box,"9179 elk grove florin road, elk grove, ca, 95624, us",7.49,,,14.73,5.24,ca,95624,Sacramento
+388,Jack in the Box,"4820 laguna blvd, elk grove, ca, 95758, us",7.49,,,14.73,5.24,ca,95758,Sacramento
+389,Jack in the Box,"7795 stockton boulevard, sacramento, ca, 95823, us",7.49,,,14.73,5.24,ca,95823,Sacramento
+390,Jack in the Box,"4435 florin rd, sacramento, ca, 95823, us",7.49,,,14.73,5.24,ca,95823,Sacramento
+391,Jack in the Box,"6300 power inn rd, sacramento, ca, 95824, us",6.74,,,13.85,4.99,ca,95824,Sacramento
+392,Jack in the Box,"303 e base line st, san bernardino, ca, 92410, us",6.86,,,13.36,5.24,ca,92410,San Bernardino
+393,Jack in the Box,"1199 n mt vernon ave, colton, ca, 92324, us",6.86,,,,,ca,92324,San Bernardino
+394,Jack in the Box,"1141 w highland ave, san bernardino, ca, 92405, us",8.11,,,14.98,4.99,ca,92405,San Bernardino
+395,Jack in the Box,"1148 coulston st, san bernardino, ca, 92408, us",6.86,,,13.36,4.86,ca,92408,San Bernardino
+396,Jack in the Box,"14618 7th street, victorville, ca, 92392, us",7.49,,,,,ca,92392,San Bernardino
+397,Jack in the Box,"14515 mojave dr., victorville, ca, 92394, us",7.49,,,,,ca,92394,San Bernardino
+398,Jack in the Box,"12440 amargosa rd., victorville, ca, 92392, us",7.49,,,,,ca,92392,San Bernardino
+399,Jack in the Box,"12134 hesperia road, victorville, ca, 92392, us",7.49,,,,,ca,92392,San Bernardino
+400,Jack in the Box,"18901 bear valley rd., apple valley, ca, 92308, us",7.49,,,,,ca,92308,San Bernardino
+401,Jack in the Box,"15818, apple valley, ca, 92307, us",7.49,,,13.49,5.24,ca,92307,San Bernardino
+402,Jack in the Box,"1110 c st, san diego, ca, 92101, us",7.86,,,14.98,4.99,ca,92101,San Diego
+403,Jack in the Box,"1619 pacific hwy, san diego, ca, 92101, us",7.24,,,13.73,5.24,ca,92101,San Diego
+404,Jack in the Box,"2404 market st, san diego, ca, 92102, us",5.86,,,11.73,4.49,ca,92102,San Diego
+405,Jack in the Box,"804 university ave, san diego, ca, 92103, us",6.86,,,13.35,5.36,ca,92103,San Diego
+406,Jack in the Box,"220 w. washington st., san diego, ca, 92103, us",5.99,,,12.35,5.36,ca,92103,San Diego
+407,Jack in the Box,"2890 national ave, san diego, ca, 92113, us",7.86,,,14.98,4.99,ca,92113,San Diego
+408,Jack in the Box,"2959 upas st, san diego, ca, 92104, us",7.86,,,14.98,4.99,ca,92104,San Diego
+409,Jack in the Box,"486 broadway, chula vista, ca, 91910, us",5.61,,,11.1,4.49,ca,91910,San Diego
+410,Jack in the Box,"5 n 4th ave, chula vista, ca, 91910, us",7.86,,,14.98,4.99,ca,91910,San Diego
+411,Jack in the Box,"802 3rd ave, chula vista, ca, 91911, us",7.86,,,14.98,4.99,ca,91911,San Diego
+412,Jack in the Box,"370 e h st, chula vista, ca, 91910, us",5.61,,,11.48,4.49,ca,91910,San Diego
+413,Jack in the Box,"1745 highland ave, national city, ca, 91950, us",5.86,,,11.35,4.49,ca,91950,San Diego
+414,Jack in the Box,"585 palomar st, chula vista, ca, 91911, us",5.61,,,11.35,4.49,ca,91911,San Diego
+415,Jack in the Box,"1900 mission ave, oceanside, ca, 92054, us",7.86,,,14.98,4.99,ca,92054,San Diego
+416,Jack in the Box,"2474 vista way, oceanside, ca, 92054, us",7.11,,,13.23,4.99,ca,92054,San Diego
+417,Jack in the Box,"901, carlsbad, ca, 92008, us",7.86,,,14.98,4.99,ca,92008,San Diego
+418,Jack in the Box,"3909 mission avenue, oceanside, ca, 92054, us",7.86,,,14.98,4.99,ca,92054,San Diego
+419,Jack in the Box,"3808 plaza dr, oceanside, ca, 92056, us",7.86,,,14.98,4.99,ca,92056,San Diego
+420,Jack in the Box,"4211, oceanside, ca, 92056, us",7.86,,,14.98,4.99,ca,92056,San Diego
+421,Jack in the Box,"400 geary st, san francisco, ca, 94102, us",7.49,,,14.73,6.24,ca,94102,San Francisco
+422,Jack in the Box,"366 bayshore blvd, san francisco, ca, 94124, us",7.49,,,14.73,6.24,ca,94124,San Francisco
+423,Jack in the Box,"4649 geary blvd, san francisco, ca, 94118, us",7.49,,,14.73,6.24,ca,94118,San Francisco
+424,Jack in the Box,"7217 mission st, daly city, ca, 94014, us",5.86,,,12.1,4.49,ca,94014,San Mateo
+425,Jack in the Box,"1695 el camino real, south san francisco, ca, 94080, us",7.74,,,14.98,5.24,ca,94080,San Mateo
+426,Jack in the Box,"201 south spruce street, south san francisco, ca, 94080, us",7.74,,,14.98,5.24,ca,94080,San Mateo
+427,Jack in the Box,"1504 pacific ave, stockton, ca, 95204, us",7.49,,,14.73,5.24,ca,95204,San Joaquin
+428,Jack in the Box,"733 west charter wy, stockton, ca, 95206, us",7.49,,,14.73,5.24,ca,95206,San Joaquin
+429,Jack in the Box,"1916 east march ln, stockton, ca, 95210, us",7.49,,,14.73,5.24,ca,95210,San Joaquin
+430,Jack in the Box,"2592 west march ln, stockton, ca, 95207, us",7.49,,,14.73,5.24,ca,95207,San Joaquin
+431,Jack in the Box,"6200 pacific ave., stockton, ca, 95207, us",7.49,,,14.73,5.24,ca,95207,San Joaquin
+432,Jack in the Box,"920 e hammer ln, stockton, ca, 95210, us",6.99,,,14.1,4.99,ca,95210,San Joaquin
+433,Jack in the Box,"390 santa rosa street, san luis obispo, ca, 93405, us",6.86,,,12.98,4.99,ca,93405,San Luis Obispo
+434,Jack in the Box,"334 five cities drive, pismo beach, ca, 93449, us",6.86,,,12.98,4.99,ca,93449,San Luis Obispo
+435,Jack in the Box,"1208 grand avenue, arroyo grande, ca, 93420, us",6.86,,,12.98,4.99,ca,93420,San Luis Obispo
+436,Jack in the Box,"2304 spring street, paso robles, ca, 93446, us",6.86,,,12.98,4.99,ca,93446,San Luis Obispo
+437,Jack in the Box,"9000 west front street, atascadero, ca, 93422, us",6.86,,,12.98,4.99,ca,93422,San Luis Obispo
+438,Jack in the Box,"555 east 3rd avenue, san mateo, ca, 94401, us",5.86,,,12.1,4.49,ca,94401,San Mateo
+439,Jack in the Box,"1100 el camino real, san carlos, ca, 94070, us",6.61,,,13.23,5.24,ca,94070,San Mateo
+440,Jack in the Box,"1205 broadway st, redwood city, ca, 94063, us",6.74,,,13.35,4.99,ca,94063,San Mateo
+441,Jack in the Box,"986 woodside rd, redwood city, ca, 94061, us",6.74,,,13.35,4.99,ca,94061,San Mateo
+442,Jack in the Box,"3199 el camino real, redwood city, ca, 94061, us",6.74,,,12.73,5.61,ca,94061,San Mateo
+443,Jack in the Box,"830 south broadway, santa maria, ca, 93454, us",6.86,,,12.98,4.99,ca,93454,Santa Barbara
+444,Jack in the Box,"1041 east main street, santa maria, ca, 93454, us",6.86,,,12.98,4.99,ca,93454,Santa Barbara
+445,Jack in the Box,"705 east betteravia road, santa maria, ca, 93454, us",6.86,,,12.98,4.99,ca,93454,Santa Barbara
+446,Jack in the Box,"2306 south broadway, santa maria, ca, 93454, us",6.86,,,12.98,4.99,ca,93454,Santa Barbara
+447,Jack in the Box,"5001, orcutt, ca, 93455, us",6.86,,,12.98,4.99,ca,93455,Santa Barbara
+448,Jack in the Box,"501 north milpas street, santa barbara, ca, 93103, us",6.86,,,12.98,4.99,ca,93103,Santa Barbara
+449,Jack in the Box,"3747 state street, santa barbara, ca, 93105, us",6.86,,,12.98,4.99,ca,93105,Santa Barbara
+450,Jack in the Box,"6875 hollister avenue, goleta, ca, 93117, us",6.86,,,12.98,4.99,ca,93117,Santa Barbara
+451,Jack in the Box,"2352 east thompson boulevard, ventura, ca, 93003, us",6.24,,,11.73,4.99,ca,93003,Ventura
+452,Jack in the Box,"2115 south victoria ave., ventura, ca, 93003, us",6.24,,,11.73,4.99,ca,93003,Ventura
+453,Jack in the Box,"550 s victoria ave, oxnard, ca, 93035, us",6.86,,,12.23,4.49,ca,93035,Ventura
+454,Jack in the Box,"148 e san carlos st, san jose, ca, 95112, us",7.74,,,14.85,5.99,ca,95112,Santa Clara
+455,Jack in the Box,"1490 monterey road, san jose, ca, 95110, us",6.61,,,13.23,5.24,ca,95110,Santa Clara
+456,Jack in the Box,"1558 w san carlos st, san jose, ca, 95126, us",7.74,,,14.85,5.99,ca,95126,Santa Clara
+457,Jack in the Box,"1075 willow street, san jose, ca, 95125, us",6.61,,,13.23,5.24,ca,95125,Santa Clara
+458,Jack in the Box,"1841 story road, san jose, ca, 95122, us",5.86,,,12.1,4.49,ca,95122,Santa Clara
+459,Jack in the Box,"697 curtner avenue, san jose, ca, 95125, us",6.61,,,13.23,5.24,ca,95125,Santa Clara
+460,Jack in the Box,"200 west el camino real, mountain view, ca, 94040, us",7.49,,,14.23,5.24,ca,94040,Santa Clara
+461,Jack in the Box,"3367 el camino real, santa clara, ca, 95051, us",6.74,,,12.73,5.61,ca,95051,Santa Clara
+462,Jack in the Box,"510 n shoreline blvd, mountain view, ca, 94043, us",6.74,,,12.73,5.61,ca,94043,Santa Clara
+463,Jack in the Box,"2845 augustine dr, santa clara, ca, 95054, us",6.74,,,12.73,5.61,ca,95054,Santa Clara
+464,Jack in the Box,"3465 homestead rd, santa clara, ca, 95051, us",6.49,,,13.35,5.24,ca,95051,Santa Clara
+465,Jack in the Box,"4896 el camino real, los altos, ca, 94022, us",6.86,,,13.48,5.24,ca,94022,Santa Clara
+466,Jack in the Box,"640 ocean street, santa cruz, ca, 95060, us",7.49,,,14.23,5.24,ca,95060,Santa Cruz
+467,Jack in the Box,"6014, scotts valley, ca, 95066, us",5.61,,,12.23,5.24,ca,95066,Santa Cruz
+468,Jack in the Box,"1085 s green valley rd, watsonville, ca, 95076, us",7.49,,,14.23,5.24,ca,95076,Santa Cruz
+469,Jack in the Box,"1700, freedom, ca, 95019, us",7.49,,,14.23,5.24,ca,95019,Santa Cruz
+470,Jack in the Box,"15771, los gatos, ca, 95032, us",7.49,,,14.23,5.24,ca,95032,Santa Clara
+471,Jack in the Box,"400 broadway st., vallejo, ca, 94590, us",6.61,,,13.23,5.24,ca,94590,Solano
+472,Jack in the Box,"35 admiral callaghan ln, vallejo, ca, 94591, us",5.61,,,11.85,4.49,ca,94591,Solano
+473,Jack in the Box,"1610 lewis brown dr, vallejo, ca, 94589, us",6.61,,,13.23,5.24,ca,94589,Solano
+474,Jack in the Box,"107 west american canyon road, american canyon, ca, 94503, us",6.61,,,13.23,5.24,ca,94503,Napa
+475,Jack in the Box,"3800 san pablo ave bldg a, hercules, ca, 94547, us",6.86,,,13.73,4.99,ca,94547,Contra Costa
+476,Jack in the Box,"2689, pinole, ca, 94564, us",6.86,,,13.73,4.99,ca,94564,Contra Costa
+477,Jack in the Box,"1980 n. texas st., fairfield, ca, 94533, us",6.86,,,13.35,5.24,ca,94533,Solano
+478,Jack in the Box,"1965 w. texas st., fairfield, ca, 94533, us",6.86,,,13.35,5.24,ca,94533,Solano
+479,Jack in the Box,"499 grizzly island rd, suisun city, ca, 94585, us",6.86,,,13.35,5.24,ca,94585,Solano
+480,Jack in the Box,"1035 alamo dr, vacaville, ca, 95687, us",7.74,,,14.85,5.99,ca,95687,Solano
+481,Jack in the Box,"107 red top road, fairfield, ca, 94534, us",6.86,,,13.35,5.24,ca,94534,Solano
+482,Jack in the Box,"290 e monte vista ave, vacaville, ca, 95688, us",6.86,,,13.35,4.99,ca,95688,Solano
+483,Jack in the Box,"425 sebastopol road, santa rosa, ca, 95407, us",7.74,,,14.98,5.24,ca,95407,Sonoma
+484,Jack in the Box,"2550 hoen frontage road, santa rosa, ca, 95405, us",7.74,,,14.98,5.24,ca,95405,Sonoma
+485,Jack in the Box,"1004 steele ln, santa rosa, ca, 95403, us",6.86,,,13.73,4.99,ca,95403,Sonoma
+486,Jack in the Box,"2755, santa rosa, ca, 95407, us",7.74,,,14.98,5.24,ca,95407,Sonoma
+487,Jack in the Box,"3086 marlow rd, santa rosa, ca, 95403, us",7.36,,,14.23,5.36,ca,95403,Sonoma
+488,Jack in the Box,"6299 commerce blvd, rohnert park, ca, 94928, us",6.86,,,13.73,4.99,ca,94928,Sonoma
+489,Jack in the Box,"1120 s mooney blvd, visalia, ca, 93277, us",9.11,,,18.35,5.99,ca,93277,Tulare
+490,Jack in the Box,"1400 n ben maddox way, visalia, ca, 93292, us",9.11,,,18.35,5.99,ca,93292,Tulare
+491,Jack in the Box,"3416 north dinuba boulevard, visalia, ca, 93291, us",9.11,,,18.35,5.99,ca,93291,Tulare
+492,Jack in the Box,"1145 south lovers ln, visalia, ca, 93292, us",9.11,,,18.35,5.99,ca,93292,Tulare
+493,Jack in the Box,"107 w caldwell ave, visalia, ca, 93277, us",9.11,,,18.35,5.99,ca,93277,Tulare
+494,Jack in the Box,"5340 w cypress ave, visalia, ca, 93277, us",9.11,,,18.35,5.99,ca,93277,Tulare
+495,Jack in the Box,"960 n ventura rd, oxnard, ca, 93030, us",6.86,,,12.23,4.49,ca,93030,Ventura
+496,Jack in the Box,"2800 s rose ave, oxnard, ca, 93033, us",5.86,,,,,ca,93033,Ventura
+497,Jack in the Box,"2580 north vineyard avenue, oxnard, ca, 93030, us",6.24,,,12.35,4.99,ca,93030,Ventura
+498,Jack in the Box,"814 n. ventura rd., port hueneme, ca, 93041, us",6.24,,,12.35,4.99,ca,93041,Ventura
+499,Jack in the Box,"495 n d st, san bernardino, ca, 92401, us",6.86,,,13.36,4.86,ca,92401,San Bernardino
+500,Jack in the Box,"8134 sierra ave, fontana, ca, 92335, us",6.24,,,,,ca,92335,San Bernardino
+501,Jack in the Box,"532 hegenberger road, oakland, ca, 94621, us",6.49,,,12.6,4.99,ca,94621,Alameda
+502,Jack in the Box,"339 paradise avenue, modesto, ca, 95351, us",7.49,,,14.73,5.24,ca,95351,Stanislaus
+503,Jack in the Box,"4601 broadway, sacramento, ca, 95820, us",6.61,,,13.85,5.36,ca,95820,Sacramento
+504,Jack in the Box,"10110 sierra ave, fontana, ca, 92335, us",5.51,,,11.26,4.31,ca,92335,San Bernardino
+505,Jack in the Box,"602 w. napa st., sonoma, ca, 95476, us",7.74,,,14.98,5.24,ca,95476,Sonoma
+506,Jack in the Box,"1641 trancas street, napa, ca, 94558, us",5.36,,,11.48,4.99,ca,94558,Napa
+507,Jack in the Box,"14485 foothill blvd, fontana, ca, 92335, us",5.74,,,,,ca,92335,San Bernardino
+508,Jack in the Box,"20168 highway 18, apple valley, ca, 92307, us",7.49,,,13.49,5.24,ca,92307,San Bernardino
+509,Jack in the Box,"3886 chicago ave., riverside, ca, 92507, us",7.49,,,13.99,5.24,ca,92507,Riverside
+510,Jack in the Box,"6025, long beach, ca, 90805, us",6.86,,,13.36,4.86,ca,90805,Los Angeles
+511,Jack in the Box,"6131 greenback ln, citrus heights, ca, 95621, us",7.49,,,14.73,5.24,ca,95621,Sacramento
+512,Jack in the Box,"497 s e st, san bernardino, ca, 92401, us",6.86,,,13.36,4.86,ca,92401,San Bernardino
+513,Jack in the Box,"147 s oswell st, bakersfield, ca, 93307, us",7.49,,,13.73,5.36,ca,93307,Kern
+514,Jack in the Box,"17020 s highland ave, fontana, ca, 92336, us",6.99,,,13.48,5.24,ca,92336,San Bernardino
+515,Jack in the Box,"475 s cedar ave, rialto, ca, 92376, us",6.24,,,,,ca,92376,San Bernardino
+516,Jack in the Box,"2135 railroad avenue, pittsburg, ca, 94565, us",5.86,,,12.1,4.49,ca,94565,Contra Costa
+517,Jack in the Box,"7261 citrus ave, fontana, ca, 92336, us",7.36,,,,,ca,92336,San Bernardino
+518,Jack in the Box,"22220 wilmington avenue, carson, ca, 90745, us",6.61,,,,,ca,90745,Los Angeles
+519,Jack in the Box,"939 e, carson, ca, 90745, us",7.24,,,,,ca,90745,Los Angeles
+520,Jack in the Box,"2044 w orangeburg ave, modesto, ca, 95350, us",7.49,,,14.73,5.24,ca,95350,Stanislaus
+521,Jack in the Box,"3506 west hammer ln, stockton, ca, 95219, us",7.49,,,14.73,5.24,ca,95219,San Joaquin
+522,Jack in the Box,"4011 bonita rd, bonita, usa, chula vista, ca, 91902, us",7.86,,,14.98,4.99,ca,91902,San Diego
+523,Jack in the Box,"4228 n figueroa st, los angeles, ca, 90065, us",6.86,,,13.74,3.74,ca,90065,Los Angeles
+524,Wendy,"5211 broadway, oakland, ca, 94618, us",7.92,3.04,2.67,9.69,2.69,ca,94618,Alameda
+525,Wendy,"3111 e. 14th street, oakland, ca, 94601, us",8.28,3.04,2.18,9.99,2.99,ca,94601,Alameda
+526,Wendy,"189 98th avenue, oakland, ca, 94603, us",8.41,4.01,2.31,9.99,2.99,ca,94603,Alameda
+527,Wendy,"1185, san leandro, ca, 94577, us",8.77,3.04,2.18,,,ca,94577,Alameda
+528,Wendy,"12201 san pablo avenue, richmond, ca, 94805, us",7.92,3.04,2.67,9.69,2.69,ca,94805,Contra Costa
+529,Wendy,"17435 hesperian blvd, san lorenzo, ca, 94580, us",6.49,2.49,2.19,,,ca,94580,Alameda
+530,Wendy,"39175 blacow road, fremont, ca, 94538, us",7.92,3.04,2.67,,,ca,94538,Alameda
+531,Wendy,"5535 automall parkway, fremont, ca, 94538, us",7.92,3.04,2.67,,,ca,94538,Alameda
+532,Wendy,"35229, newark, ca, 94560, us",9.14,3.4,3.04,,,ca,94560,Alameda
+533,Wendy,"23969 mission blvd., hayward, ca, 94544, us",7.92,3.04,2.67,,,ca,94544,Alameda
+534,Wendy,"7143, dublin, ca, 94568, us",7.92,3.04,2.67,,,ca,94568,Alameda
+535,Wendy,"2475, castro valley, ca, 94546, us",7.92,3.04,2.67,,,ca,94546,Alameda
+536,Wendy,"5943, pacheco, ca, 94553, us",9.26,3.77,3.4,11.49,3.59,ca,94553,Contra Costa
+537,Wendy,"2955 north main st., walnut creek, ca, 94597, us",7.92,3.04,2.67,,,ca,94597,Contra Costa
+538,Wendy,"2243 loveridge road, pittsburg, ca, 94565, us",7.31,3.28,2.43,,,ca,94565,Contra Costa
+539,Wendy,"1809 a street, antioch, ca, 94509, us",5.99,2.69,1.99,,,ca,94509,Contra Costa
+540,Wendy,"2222, san ramon, ca, 94583, us",6.49,2.49,2.19,,,ca,94583,Contra Costa
+541,Wendy,"1080 e main st, oakley, ca, 94561, us",5.99,2.69,2.19,,,ca,94561,Contra Costa
+542,Wendy,"1140 c street, fresno, ca, 93706, us",8.77,3.77,3.4,,,ca,93706,Fresno
+543,Wendy,"2005 n blackstone, fresno, ca, 93703, us",8.77,3.77,3.4,,,ca,93703,Fresno
+544,Wendy,"3210 e jensen, fresno, ca, 93725, us",9.02,3.89,3.53,,,ca,93725,Fresno
+545,Wendy,"765 south clovis avenue, fresno, ca, 93727, us",8.77,3.77,3.4,,,ca,93727,Fresno
+546,Wendy,"1778 e. shaw, fresno, ca, 93710, us",9.02,3.89,3.53,,,ca,93710,Fresno
+547,Wendy,"420 shaw avenue, clovis, ca, 93612, us",9.33,3.97,3.6,,,ca,93612,Fresno
+548,Wendy,"2501 n. chester, oildale, ca, 93308, us",9.14,3.65,3.16,,,ca,93308,Kern
+549,Wendy,"2608 oswell st., bakersfield, ca, 93306, us",9.14,3.65,3.16,,,ca,93306,Kern
+550,Wendy,"9180 rosedale hwy, bakersfield, ca, 93312, us",9.14,3.65,3.16,,,ca,93312,Kern
+551,Wendy,"2150 panama lane, bakersfield, ca, 93307, us",9.14,3.65,3.16,,,ca,93307,Kern
+552,Wendy,"4650 gosford road, bakersfield, ca, 93313, us",9.14,3.65,3.16,,,ca,93313,Kern
+553,Wendy,"800 south figueroa street, los angeles, ca, 90017, us",9.14,4.14,3.65,,,ca,90017,Los Angeles
+554,Wendy,"1305 n. vermont ave., hollywood, ca, 90027, us",8.53,3.89,3.4,,,ca,90027,Los Angeles
+555,Wendy,"4148 florence ave, bell, ca, 90201, us",8.89,3.65,2.43,,,ca,90201,Los Angeles
+556,Wendy,"245 south atlantic, alhambra, ca, 91801, us",8.28,3.04,2.67,,,ca,91801,Los Angeles
+557,Wendy,"7135 sunset blvd, los angeles, ca, 90046, us",8.53,3.89,3.4,,,ca,90046,Los Angeles
+558,Wendy,"3297 tweedy boulevard, south gate, ca, 90280, us",8.89,3.65,2.43,,,ca,90280,Los Angeles
+559,Wendy,"2201 bellflower blvd., long beach, ca, 90815, us",8.53,3.89,3.4,,,ca,90815,Los Angeles
+560,Wendy,"2438 e carson st, lakewood, ca, 90712, us",7.92,3.65,2.79,,,ca,90712,Los Angeles
+561,Wendy,"23750 main street, carson, ca, 90745, us",8.89,4.01,3.65,,,ca,90745,Los Angeles
+562,Wendy,"29035 s western ave, rancho palos verdes, ca, 90275, us",8.89,3.65,2.43,,,ca,90275,Los Angeles
+563,Wendy,"4314 south street, lakewood, ca, 90712, us",8.89,3.65,2.43,,,ca,90712,Los Angeles
+564,Wendy,"6620 atlantic avenue, long beach, ca, 90805, us",8.89,4.01,3.65,,,ca,90805,Los Angeles
+565,Wendy,"26538 bouquet canyon, saugus, ca, 91350, us",,3.65,2.79,,,ca,91350,Los Angeles
+566,Wendy,"27544 the old road, valencia, ca, 91355, us",,3.65,2.79,,,ca,91355,Los Angeles
+567,Wendy,"24525 lyons avenue, santa clarita, ca, 91321, us",7.92,3.65,2.79,,,ca,91321,Los Angeles
+568,Wendy,"28180 newhall ranch road, santa clarita, ca, 91355, us",7.92,3.65,2.79,,,ca,91355,Los Angeles
+569,Wendy,"19018 soledad canyon rd, canyon country, ca, 91351, us",7.92,3.65,2.79,,,ca,91351,Los Angeles
+570,Wendy,"18507 devonshire street, northridge, ca, 91324, us",8.28,3.65,3.28,,,ca,91324,Los Angeles
+571,Wendy,"500 e washington st, petaluma, ca, 94952, us",7.92,3.04,2.67,,,ca,94952,Marin
+572,Wendy,"1581 fitzgerald drive, pinole, ca, 94564, us",6.59,3.39,2.29,12.19,4.14,ca,94564,Contra Costa
+573,Wendy,"1001 redwood, vallejo, ca, 94590, us",6.49,2.49,2.19,11.82,3.28,ca,94590,Solano
+574,Wendy,"1450 trancas st, napa, ca, 94558, us",6.49,2.49,2.19,9.69,2.69,ca,94558,Napa
+575,Wendy,"1850, santa rosa, ca, 95407, us",6.49,2.49,2.19,,,ca,95407,Sonoma
+576,Wendy,"1339 north main, salinas, ca, 93906, us",9.26,3.77,3.4,14.02,4.38,ca,93906,Monterey
+577,Wendy,"1369 north davis road, salinas, ca, 93907, us",7.31,3.28,2.67,11.46,3.65,ca,93907,Monterey
+578,Wendy,"393 e 10th st, gilroy, ca, 95020, us",10.36,4.01,2.92,14.99,3.89,ca,95020,Santa Clara
+579,Wendy,"1737 e 17th st, santa ana, ca, 92705, us",8.89,4.14,3.65,,,ca,92705,Orange
+580,Wendy,"3739 w. chapman ave., orange, ca, 92868, us",7.92,3.65,2.79,,,ca,92868,Orange
+581,Wendy,"13922 redhill avenue, tustin, ca, 92780, us",8.89,4.01,3.65,,,ca,92780,Orange
+582,Wendy,"10040 chapman ave., garden grove, ca, 92840, us",8.89,4.14,3.65,,,ca,92840,Orange
+583,Wendy,"17940 brookhurst ave, fountain valley, ca, 92708, us",8.89,4.14,3.65,,,ca,92708,Orange
+584,Wendy,"14386 culver drive, irvine, ca, 92604, us",8.89,4.01,3.65,,,ca,92604,Orange
+585,Wendy,"1012 n. state college blvd., anaheim, ca, 92806, us",8.89,4.14,3.65,,,ca,92806,Orange
+586,Wendy,"680 n. euclid ave., anaheim, ca, 92801, us",8.89,4.01,3.65,,,ca,92801,Orange
+587,Wendy,"11430 beach blvd, stanton, ca, 90680, us",8.89,4.01,3.65,,,ca,90680,Orange
+588,Wendy,"7570 orangethorpe, buena park, ca, 90621, us",8.89,4.01,3.65,,,ca,90621,Orange
+589,Wendy,"6435 antelope road, citrus hts., ca, 95621, us",9.33,3.97,3.6,,,ca,95621,Sacramento
+590,Wendy,"7983 greenback lane, citrus hts., ca, 95610, us",9.02,3.89,3.53,9.85,3.59,ca,95610,Sacramento
+591,Wendy,"4320 watt ave, sacramento, ca, 95821, us",8.77,3.77,3.4,,,ca,95821,Sacramento
+592,Wendy,"348 n. sunrise avenue, roseville, ca, 95661, us",9.02,3.89,3.53,12.02,4.38,ca,95661,Placer
+593,Wendy,"924 pleasant grove blvd, roseville, ca, 95678, us",9.33,3.97,3.6,12.43,4.5,ca,95678,Placer
+594,Wendy,"1300 east, roseville, ca, 95661, us",,,,,5.79,ca,95661,Placer
+595,Wendy,"2560 bell rd, auburn, ca, 95602, us",7.92,3.04,2.67,11.82,3.16,ca,95602,Placer
+596,Wendy,"1101 riley ave, folsom, ca, 95630, us",9.02,3.89,3.53,12.02,4.38,ca,95630,Sacramento
+597,Wendy,"2505 iron point road, folsom, ca, 95630, us",9.02,3.89,3.53,12.02,4.38,ca,95630,Sacramento
+598,Wendy,"10020 arlington avenue, riverside, ca, 92503, us",8.89,4.01,3.65,14.99,4.75,ca,92503,Riverside
+599,Wendy,"12410 day street, moreno valley, ca, 92553, us",8.89,4.01,3.65,,,ca,92553,Riverside
+600,Wendy,"1090 n. pepper ave., colton, ca, 92324, us",7.92,3.65,2.79,,,ca,92324,San Bernardino
+601,Wendy,"16984 valley blvd., fontana, ca, 92335, us",7.92,3.65,2.79,,,ca,92335,San Bernardino
+602,Wendy,"11053 riverside drive, jurupa valley, ca, 92509, us",9.75,1.7,1.7,,,ca,92509,Riverside
+603,Wendy,"1991, redlands, ca, 92373, us",7.92,3.65,2.79,,,ca,92373,San Bernardino
+604,Wendy,"22320 cactus ave, moreno valley, ca, 92553, us",8.89,4.01,3.65,,,ca,92553,Riverside
+605,Wendy,"8745 trautwein road, riverside, ca, 92508, us",7.92,3.65,2.79,,,ca,92508,Riverside
+606,Wendy,"64 e ramona expy, perris, ca, 92571, us",,,,,,ca,92571,Riverside
+607,Wendy,"22580 cactus ave, moreno valley, ca, 92553, us",,,,,,ca,92553,Riverside
+608,Wendy,"40460, murrieta, ca, 92563, us",8.28,3.65,3.28,,,ca,92563,Riverside
+609,Wendy,"27672 jefferson avenue, temecula, ca, 92590, us",8.28,3.65,3.28,,,ca,92590,Riverside
+610,Wendy,"29275 central avenue, lake elsinore, ca, 92532, us",7.92,3.65,2.79,,,ca,92532,Riverside
+611,Wendy,"24620 madison ave, murrieta, ca, 92562, us",,,,,,ca,92562,Riverside
+612,Wendy,"4180 northgate blvd., sacramento, ca, 95834, us",9.33,3.97,3.6,,,ca,95834,Sacramento
+613,Wendy,"2750 power inn road, sacramento, ca, 95826, us",8.77,3.77,3.4,,,ca,95826,Sacramento
+614,Wendy,"854 harbor blvd, west sacramento, ca, 95691, us",,,,,,ca,95691,Yolo
+615,Wendy,"3027 k st, sacramento, ca, 95816, us",,,,,,ca,95816,Sacramento
+616,Wendy,"2077 e highland ave, san bernardino, ca, 92404, us",7.92,3.65,2.79,,,ca,92404,San Bernardino
+617,Wendy,"1110 s. mt. vernon ave., colton, ca, 92324, us",8.89,4.01,3.65,,,ca,92324,San Bernardino
+618,Wendy,"494 south mount vernon ave, san bernadino, ca, 92410, us",,,,,,ca,92410,San Bernardino
+619,Wendy,"524 inland center dr, san bernardino, ca, 92410, us",,,,,,ca,92410,San Bernardino
+620,Wendy,"1260 w. foothill blvd., rialto, ca, 92376, us",7.92,3.65,2.79,,,ca,92376,San Bernardino
+621,Wendy,"16833 valley blvd., fontana, ca, 92335, us",,,,,,ca,92335,San Bernardino
+622,Wendy,"1325 w foothill blvd, rialto, ca, 92376, us",,,,,,ca,92376,San Bernardino
+623,Wendy,"14181 hwy 395, victorville, ca, 92392, us",7.92,3.65,2.79,,,ca,92392,San Bernardino
+624,Wendy,"14798 lapaz drive, victorville, ca, 92395, us",7.92,3.65,2.79,,,ca,92395,San Bernardino
+625,Wendy,"14303 bear valley road, victorville, ca, 92392, us",7.92,3.65,2.79,,,ca,92392,San Bernardino
+626,Wendy,"14244 valley center dr, victorville, ca, 92395, us",,7.47,,,,ca,92395,San Bernardino
+627,Wendy,"bear valley road &amp; mojave fish hatchery rd, hesperia, ca, 92395, us",7.92,3.65,2.79,,,ca,92395,San Bernardino
+628,Wendy,"13342 main street, hesperia, ca, 92345, us",7.92,3.65,2.79,,,ca,92345,San Bernardino
+629,Wendy,"17375 main street, hesperia, ca, 92345, us",,,,,,ca,92345,San Bernardino
+630,Wendy,"2825 el cajon blvd, san diego, ca, 92104, us",8.28,3.65,3.28,13.04,4.14,ca,92104,San Diego
+631,Wendy,"1111 camino del rio s., mission valley, ca, 92108, us",8.53,3.89,3.4,13.29,4.26,ca,92108,San Diego
+632,Wendy,"3760 midway drive, san diego, ca, 92110, us",8.53,3.89,3.4,13.29,4.26,ca,92110,San Diego
+633,Wendy,"8310 rio, san diego, ca, 92108, us",8.28,3.65,3.28,13.04,4.14,ca,92108,San Diego
+634,Wendy,"6585 mission gorge road, san diego, ca, 92120, us",8.28,3.65,3.28,13.04,4.14,ca,92120,San Diego
+635,Wendy,"618 e street, chula vista, ca, 91910, us",8.28,3.65,3.28,13.04,4.14,ca,91910,San Diego
+636,Wendy,"960 eastlake parkway, chula vista, ca, 91914, us",8.28,3.65,3.28,,,ca,91914,San Diego
+637,Wendy,"8749 campo road, la mesa, ca, 91941, us",8.53,3.89,3.4,,,ca,91941,San Diego
+638,Wendy,"1497 piper ranch road, san diego, ca, 92154, us",9.75,1.7,1.7,,,ca,92154,San Diego
+639,Wendy,"1002 mission avenue, oceanside, ca, 92054, us",,,,,,ca,92054,San Diego
+640,Wendy,"3705 plaza drive, oceanside, ca, 92056, us",,,,,,ca,92056,San Diego
+641,Wendy,"567 w., vista, ca, 92083, us",,,,,,ca,92083,San Diego
+642,Wendy,"102 encinites blvd, encinitas, ca, 92024, us",,,,,,ca,92024,San Diego
+643,Wendy,"960 w. el norte, escondido, ca, 92026, us",,,,,,ca,92026,San Diego
+644,Wendy,"7401 mission st, daly city, ca, 94014, us",9.02,4.14,3.28,13.65,4.26,ca,94014,San Mateo
+645,Wendy,"176 gateway blvd, s.san francisco, ca, 94080, us",9.38,4.14,3.16,13.9,4.62,ca,94080,San Mateo
+646,Wendy,"499 el camino real, san bruno, ca, 94066, us",9.14,4.26,3.89,13.65,4.26,ca,94066,San Mateo
+647,Wendy,"710 third street, san francisco, ca, 94107, us",,,,,,ca,94107,San Francisco
+648,Wendy,"2439 march ln., stockton, ca, 95207, us",9.14,3.65,3.16,,,ca,95207,San Joaquin
+649,Wendy,"4431 e. waterloo road, stockton, ca, 95215, us",9.33,3.97,3.6,,,ca,95215,San Joaquin
+650,Wendy,"10512 trinity park, stockton, ca, 95219, us",9.02,3.89,3.53,,,ca,95219,San Joaquin
+651,Wendy,"45 e harding way, stockton, ca, 95204, us",,,,,,ca,95204,San Joaquin
+652,Wendy,"8600 curbaril ave, atascadero, ca, 93422, us",7.92,3.65,2.79,,,ca,93422,San Luis Obispo
+653,Wendy,"153 south frontage road, nipomo, ca, 93444, us",7.92,3.65,2.79,,,ca,93444,San Luis Obispo
+654,Wendy,"141 niblick road, paso robles, ca, 93446, us",7.8,3.53,3.16,,,ca,93446,San Luis Obispo
+655,Wendy,"698 ralston avenue, belmont, ca, 94002, us",9.38,3.4,2.67,,,ca,94002,San Mateo
+656,Wendy,"1852 el camino real, redwood city, ca, 94063, us",10.07,4.14,3.65,,,ca,94063,San Mateo
+657,Wendy,"2120 n preisker lane, santa maria, ca, 93458, us",7.92,3.65,2.79,,,ca,93458,Santa Barbara
+658,Wendy,"2150 south bradley road, santa maria, ca, 93455, us",7.8,3.53,3.16,,,ca,93455,Santa Barbara
+659,Wendy,"1102 n. h street, lompoc, ca, 93436, us",6.39,2.89,2.59,,,ca,93436,Santa Barbara
+660,Wendy,"5724 holli, goleta, ca, 93117, us",8.28,3.65,3.28,,,ca,93117,Santa Barbara
+661,Wendy,"2662 thompson blvd., ventura, ca, 93003, us",6.79,2.99,2.69,13.04,4.14,ca,93003,Ventura
+662,Wendy,"1401 victoria, ventura, ca, 93003, us",6.79,2.99,2.69,13.04,4.14,ca,93003,Ventura
+663,Wendy,"1405 monterey rd., san jose, ca, 95110, us",10.07,4.14,3.65,14.63,4.75,ca,95110,Santa Clara
+664,Wendy,"2275 mc kee road, san jose, ca, 95133, us",10.36,4.26,2.92,15.36,4.26,ca,95133,Santa Clara
+665,Wendy,"782 s. bascom, san jose, ca, 95128, us",10.07,4.14,3.65,14.63,4.75,ca,95128,Santa Clara
+666,Wendy,"1845 e capitol expy, san jose, ca, 95121, us",10.07,4.14,3.65,14.63,4.75,ca,95121,Santa Clara
+667,Wendy,"2624 s. bascom, san jose, ca, 95124, us",10.07,4.14,3.65,14.63,4.75,ca,95124,Santa Clara
+668,Wendy,"990 saratoga ave, san jose, ca, 95129, us",10.36,4.26,2.92,15.36,4.26,ca,95129,Santa Clara
+669,Wendy,"1313 s. wolfe road, sunnyvale, ca, 94087, us",10.07,4.14,3.65,14.63,4.75,ca,94087,Santa Clara
+670,Wendy,"1480 freedom blvd, watsonville, ca, 95076, us",7.59,3.09,2.79,,,ca,95076,Santa Cruz
+671,Wendy,"4447 central place, fairfield, ca, 94534, us",10.36,4.01,2.92,14.99,3.89,ca,94534,Solano
+672,Wendy,"2045 north texas, fairfield, ca, 94533, us",7.92,3.04,2.67,,,ca,94533,Solano
+673,Wendy,"1377 monte vista, vacaville, ca, 95688, us",9.14,3.77,2.67,,,ca,95688,Solano
+674,Wendy,"1501 mchenry ave, modesto, ca, 95350, us",9.14,3.65,3.16,,,ca,95350,Stanislaus
+675,Wendy,"1617 north carpenter road, modesto, ca, 95351, us",9.14,3.65,3.16,,,ca,95351,Stanislaus
+676,Wendy,"1374 e. hatch rd., modesto, ca, 95351, us",9.14,3.65,3.16,,,ca,95351,Stanislaus
+677,Wendy,"3250 dale rd., modesto, ca, 95356, us",9.14,3.65,3.16,,,ca,95356,Stanislaus
+678,Wendy,"3450 w monte vista ave, turlock, ca, 95380, us",9.14,3.65,3.16,,,ca,95380,Stanislaus
+679,Wendy,"2395 geer rd., turlock, ca, 95382, us",7.49,2.99,2.59,,,ca,95382,Stanislaus
+680,Wendy,"1580 e. noble avenue, visalia, ca, 93292, us",9.02,3.89,3.53,,,ca,93292,Tulare
+681,Wendy,"2125 n. dinuba ave, visalia, ca, 93291, us",8.77,3.77,3.4,,,ca,93291,Tulare
+682,Wendy,"plaza dr &amp; w hurley ave, visalia, ca, 93291, us",9.02,3.89,3.53,,,ca,93291,Tulare
+683,Wendy,"979 east paige avenue, tulare, ca, 93274, us",9.75,1.7,1.7,14.02,3.4,ca,93274,Tulare
+684,Wendy,"1959 w lacey blvd, hanford, ca, 93230, us",7.65,3.25,2.95,,,ca,93230,Kings
+685,Wendy,"2010 n. rose avenue, oxnard, ca, 93036, us",7.8,3.53,3.16,12.43,3.89,ca,93036,Ventura
+686,Wendy,"175 n ventura road, port hueneme, ca, 93041, us",7.8,3.53,3.16,12.43,3.89,ca,93041,Ventura
+687,Wendy,"149 west ventura blvd, camarillo, ca, 93010, us",8.28,3.65,3.28,13.04,4.14,ca,93010,Ventura
+688,Wendy,"307 arneill road, camarillo, ca, 93010, us",7.8,3.53,3.16,12.43,3.89,ca,93010,Ventura
+689,Wendy,"27925 encanto dr., sun city, ca, 92586, us",8.89,4.01,3.65,14.99,4.75,ca,92586,Riverside
+690,Wendy,"1830 n., perris, ca, 92571, us",7.92,3.65,2.79,12.92,4.01,ca,92571,Riverside
+691,Wendy,"14320 slover ave, fontana, ca, 92337, us",9.75,1.7,1.7,14.02,3.4,ca,92337,San Bernardino
+692,Wendy,"941 n. milleken ave., ontario, ca, 91764, us",8.89,4.01,3.65,14.99,4.75,ca,91764,San Bernardino
+693,Wendy,"15110 east summit ave., fontana, ca, 92336, us",7.92,3.65,2.79,12.92,4.01,ca,92336,San Bernardino
+694,Wendy,"1237 n. tustin, orange, ca, 92867, us",8.41,3.89,3.28,,,ca,92867,Orange
+695,Wendy,"2360 arena blvd, sacramento, ca, 95834, us",9.33,3.97,3.6,12.43,4.5,ca,95834,Sacramento
+696,Wendy,"3450 w florida blvd, hemet, ca, 92545, us",7.92,3.65,2.79,,,ca,92545,Riverside
+697,Wendy,"27879 baseline avenue, highland, ca, 92346, us",7.92,3.65,2.79,,,ca,92346,San Bernardino
+698,Wendy,"17017 sierra lakes pkwy, fontana, ca, 92336, us",7.92,3.65,2.79,,,ca,92336,San Bernardino
+699,Wendy,"1530 w. valley pkwy, escondido, ca, 92029, us",8.41,3.89,3.28,,,ca,92029,San Diego
+700,Wendy,"8871 bond road, elk grove, ca, 95624, us",9.02,3.89,3.53,,,ca,95624,Sacramento
+701,Wendy,"1471 meadowview rd, sacramento, ca, 95822, us",8.77,3.77,3.4,,,ca,95822,Sacramento
+702,Wendy,"7164 blackstone blvd., fresno, ca, 93650, us",9.02,3.89,3.53,,,ca,93650,Fresno
+703,Wendy,"8810 s garfield ave, s.gate, ca, 90280, us",7.92,3.4,2.67,,,ca,90280,Los Angeles
+704,Wendy,"7931 e stockton blvd, sacramento, ca, 95823, us",9.02,3.89,3.53,,,ca,95823,Sacramento
+705,Wendy,"3565 central ave, riverside, ca, 92506, us",7.92,3.65,2.79,12.92,4.01,ca,92506,Riverside
+706,Wendy,"1201 e valley, alhambra, ca, 91801, us",9.02,4.14,3.65,12.92,4.62,ca,91801,Los Angeles
+707,Wendy,"2646 watt avenue, sacramento, ca, 95821, us",8.77,3.77,3.4,,,ca,95821,Sacramento
+708,Wendy,"1180 fremont, seaside, ca, 93955, us",9.26,3.77,3.4,,,ca,93955,Monterey
+709,Wendy,"2119 baseline road, upland, ca, 91784, us",8.89,4.01,3.65,14.99,4.75,ca,91784,San Bernardino
+710,Wendy,"14439 baseline avenue, fontana, ca, 92336, us",7.92,3.65,2.79,12.92,4.01,ca,92336,San Bernardino
+711,Wendy,"3838 tyler street, riverside, ca, 92503, us",7.92,3.65,2.79,12.92,4.01,ca,92503,Riverside
+712,Wendy,"15700 valley view ave, la mirada, ca, 90638, us",8.89,4.01,3.65,14.99,4.75,ca,90638,Los Angeles
+713,Wendy,"12671 moreno beach drive, moreno valley, ca, 92555, us",7.92,3.65,2.79,,,ca,92555,Riverside
+714,Wendy,"11254, los alamitos, ca, 90720, us",9.02,4.14,3.65,12.92,4.62,ca,90720,Orange
+715,Wendy,"725 west hammer lane, stockton, ca, 95210, us",8.77,3.77,3.4,,,ca,95210,San Joaquin
+716,Burger King,"1541 east 12th street, oakland, ca, 94606, us",8.99,3.59,5.39,15.49,4.79,ca,94606,Alameda
+717,Burger King,"4424 broadway, oakland, ca, 94611, us",9.11,3.23,5.03,,4.43,ca,94611,Alameda
+718,Burger King,"5701 christie avenue, emeryville, ca, 94608, us",11.19,5.09,6.49,18.89,5.79,ca,94608,Alameda
+719,Burger King,"2200 otis drive, alameda, ca, 94501, us",9.11,3.23,5.03,,4.43,ca,94501,Alameda
+720,Burger King,"4200 east 14th street, oakland, ca, 94601, us",9.35,2.99,4.79,16.06,4.31,ca,94601,Alameda
+721,Burger King,"7200 bancroft road, oakland, ca, 94605, us",9.11,3.23,5.03,,4.43,ca,94605,Alameda
+722,Burger King,"3996 washington boulevard, fremont, ca, 94538, us",10.2,4.93,6.91,17.03,4.39,ca,94538,Alameda
+723,Burger King,"1801 decoto road, union city, ca, 94587, us",9.11,3.23,5.03,15.69,4.43,ca,94587,Alameda
+724,Burger King,"34943, newark, ca, 94560, us",9.99,3.99,7.49,15.49,5.99,ca,94560,Alameda
+725,Burger King,"46700 mission boulevard, fremont, ca, 94539, us",10.2,4.93,6.91,17.03,4.39,ca,94539,Alameda
+726,Burger King,"31361 alavarado niles road, union city, ca, 94587, us",6.99,2.29,3.89,15.69,3.79,ca,94587,Alameda
+727,Burger King,"29671 mission blvd., hayward, ca, 94544, us",9.59,3.99,5.49,14.99,5.99,ca,94544,Alameda
+728,Burger King,"2757, castro valley, ca, 94546, us",10.2,4.93,6.91,17.03,4.39,ca,94546,Alameda
+729,Burger King,"950 west a street, hayward, ca, 94541, us",9.11,3.23,5.03,15.69,4.43,ca,94541,Alameda
+730,Burger King,"26251 hesperian boulevard, hayward, ca, 94545, us",9.11,3.23,5.03,15.59,4.43,ca,94545,Alameda
+731,Burger King,"15050 e. 14th street, san leandro, ca, 94578, us",9.11,3.23,5.03,12.49,4.43,ca,94578,Alameda
+732,Burger King,"3399 port chicago hwy, concord, ca, 94520, us",10.39,4.29,5.69,18.09,5.79,ca,94520,Contra Costa
+733,Burger King,"4320 clayton road, concord, ca, 94521, us",10.39,4.29,5.69,18.09,5.79,ca,94521,Contra Costa
+734,Burger King,"677 contra costa boulevard, pleasant hill, ca, 94523, us",10.39,4.29,5.69,18.09,5.79,ca,94523,Contra Costa
+735,Burger King,"5400 ygnacio valley road, concord, ca, 94521, us",10.99,4.79,6.19,18.59,5.79,ca,94521,Contra Costa
+736,Burger King,"2855 north main street, walnut creek, ca, 94597, us",10.39,4.29,5.69,18.09,5.79,ca,94597,Contra Costa
+737,Burger King,"604 bailey rd, bay point, ca, 94565, us",10.39,4.29,5.69,18.09,5.79,ca,94565,Contra Costa
+738,Burger King,"4610 east king's canyon rd., fresno, ca, 93702, us",8.99,3.36,4.99,,4.49,ca,93702,Fresno
+739,Burger King,"2410 north cedar, fresno, ca, 93703, us",8.99,3.36,4.99,,4.49,ca,93703,Fresno
+740,Burger King,"3482 west shaw road, fresno, ca, 93711, us",8.99,3.36,4.99,,4.49,ca,93711,Fresno
+741,Burger King,"1233, fresno, ca, 93706, us",10.29,4.19,5.49,17.99,5.79,ca,93706,Fresno
+742,Burger King,"2755 n blackstone ave, fresno, ca, 93703, us",10.29,4.19,5.49,17.99,5.79,ca,93703,Fresno
+743,Burger King,"3782 north blackstone ave, fresno, ca, 93726, us",,,,,,ca,93726,Fresno
+744,Burger King,"3405 union ave, bakersfield, ca, 93305, us",9.87,2.99,4.86,,4.61,ca,93305,Kern
+745,Burger King,"2508 white lane, bakersfield, ca, 93304, us",9.87,2.99,4.86,,4.61,ca,93304,Kern
+746,Burger King,"8200 stockdale hwy, bakersfield, ca, 93309, us",9.87,2.99,4.86,,4.61,ca,93309,Kern
+747,Burger King,"6217 niles street, bakersfield, ca, 93306, us",8.35,3.06,4.42,,4.42,ca,93306,Kern
+748,Burger King,"7990 white lane, bakersfield, ca, 93309, us",9.87,2.99,4.86,,4.61,ca,93309,Kern
+749,Burger King,"700 east cesar e chavez avenue, los angeles, ca, 90012, us",10.39,3.69,5.99,16.29,5.19,ca,90012,Los Angeles
+750,Burger King,"1501 west 6th street, los angeles, ca, 90017, us",10.39,4.28,8.57,15.69,5.32,ca,90017,Los Angeles
+751,Burger King,"1845 s. vermont ave., los angeles, ca, 90006, us",10.39,3.5,5.97,14.39,5.19,ca,90006,Los Angeles
+752,Burger King,"1540 north eastern avenue, los angeles, ca, 90063, us",10.39,3.69,5.99,16.29,5.19,ca,90063,Los Angeles
+753,Burger King,"4410 south figueroa street, los angeles, ca, 90037, us",10.13,4.54,8.31,15.63,5.06,ca,90037,Los Angeles
+754,Burger King,"3101 north san fernando road, los angeles, ca, 90065, us",10.39,3.5,5.97,14.39,5.19,ca,90065,Los Angeles
+755,Burger King,"865 west sepulveda boulevard, torrance, ca, 90502, us",8.86,2.84,3.7,16.42,3.97,ca,90502,Los Angeles
+756,Burger King,"20950 figueroa street, carson, ca, 90745, us",10.39,3.5,5.97,,5.19,ca,90745,Los Angeles
+757,Burger King,"7957 imperial highway, downey, ca, 90242, us",7.19,3.99,4.79,11.99,3.59,ca,90242,Los Angeles
+758,Burger King,"2955 north bellflower boulevard, long beach, ca, 90815, us",10.39,3.69,5.99,16.29,5.19,ca,90815,Los Angeles
+759,Burger King,"24530 lyons avenue, newhall, ca, 91321, us",10.39,4.28,8.57,,5.32,ca,91321,Los Angeles
+760,Burger King,"2008 glenoaks boulevard, san fernando, ca, 91340, us",10.13,4.54,8.31,,5.06,ca,91340,Los Angeles
+761,Burger King,"12781 van nuys boulevard, pacoima, ca, 91331, us",11.19,4.69,8.39,18.09,5.19,ca,91331,Los Angeles
+762,Burger King,"9025 balboa, northridge, ca, 91325, us",9.89,4.79,5.99,16.89,5.99,ca,91325,Los Angeles
+763,Burger King,"969 east francisco blvd., san rafael, ca, 94901, us",10.26,3.76,5.45,16.86,5.97,ca,94901,Marin
+764,Burger King,"550 cutting boulevard, richmond, ca, 94804, us",9.35,2.99,4.79,16.06,4.31,ca,94804,Contra Costa
+765,Burger King,"1300 mcdonald avenue, richmond, ca, 94801, us",9.35,2.99,4.79,16.06,4.31,ca,94801,Contra Costa
+766,Burger King,"5304 old redwood highway, petaluma, ca, 94954, us",,,,,,ca,94954,Sonoma
+767,Burger King,"701 north main street, santa ana, ca, 92701, us",8.49,3.99,5.59,14.69,4.99,ca,92701,Orange
+768,Burger King,"3332 south bristol street, santa ana, ca, 92704, us",,,,,,ca,92704,Orange
+769,Burger King,"1201 south, anaheim, ca, 92805, us",9.59,3.59,5.99,16.79,4.29,ca,92805,Orange
+770,Burger King,"2210 e lincoln ave, anaheim, ca, 92806, us",8.39,3.99,5.49,14.59,4.99,ca,92806,Orange
+771,Burger King,"1329 south harbor boulevard, fullerton, ca, 92832, us",10.39,3.69,5.99,16.29,5.19,ca,92832,Orange
+772,Burger King,"1012 n. state college blvd., anaheim, ca, 92806, us",,,,,,ca,92806,Orange
+773,Burger King,"1300 east, roseville, ca, 95661, us",10.49,4.39,5.79,18.19,5.79,ca,95661,Placer
+774,Burger King,"7760 sunrise blvd, citrus heights, ca, 95610, us",10.49,4.39,5.79,18.19,5.79,ca,95610,Sacramento
+775,Burger King,"5869 antelope rd, sacramento, ca, 95621, us",9.09,3.59,5.39,15.85,4.99,ca,95621,Sacramento
+776,Burger King,"7899 walerga rd, antelope, ca, 95843, us",,4.39,,,,ca,95843,Sacramento
+777,Burger King,"2905 bell rd, auburn, ca, 95603, us",9.61,2.98,5.36,16.74,5.11,ca,95603,Placer
+778,Burger King,"2167 university avenue, riverside, ca, 92507, us",10.39,3.69,5.99,16.29,5.19,ca,92507,Riverside
+779,Burger King,"6835 valley way, riverside, ca, 92509, us",10.39,3.69,5.99,16.29,5.19,ca,92509,Riverside
+780,Burger King,"1610 s riverside ave, rialto, ca, 92376, us",9.81,3.28,5.75,16.04,4.6,ca,92376,San Bernardino
+781,Burger King,"4407 brockton ave, riverside, ca, 92501, us",,,,,,ca,92501,Riverside
+782,Burger King,"23125 hemlock avenue, moreno valley, ca, 92557, us",10.39,3.69,5.99,16.29,5.19,ca,92557,Riverside
+783,Burger King,"24800 sunnymead blvd, moreno valley, ca, 92553, us",9.99,4.99,7.79,15.49,4.99,ca,92553,Riverside
+784,Burger King,"1320 industrial park avenue, redlands, ca, 92374, us",10.39,3.69,5.99,16.29,5.19,ca,92374,San Bernardino
+785,Burger King,"40931 california oaks road, murrieta, ca, 92562, us",10.39,3.69,5.99,16.29,5.19,ca,92562,Riverside
+786,Burger King,"30534 rancho california road, temecula, ca, 92591, us",10.39,3.69,5.99,16.29,5.19,ca,92591,Riverside
+787,Burger King,"32110 state highway 79 south, temecula, ca, 92592, us",10.39,3.69,5.99,16.29,5.19,ca,92592,Riverside
+788,Burger King,"18611 dexter avenue, lake elsinore, ca, 92532, us",10.39,3.69,5.99,16.29,5.19,ca,92532,Riverside
+789,Burger King,"825 s main st, fallbrook, ca, 92028, us",8.99,3.25,5.99,14.11,4.5,ca,92028,San Diego
+790,Burger King,"487 west highland, san bernardino, ca, 92405, us",10.39,3.69,5.99,16.29,5.19,ca,92405,San Bernardino
+791,Burger King,"12925 hesperia road, victorville, ca, 92395, us",10.39,3.69,5.99,16.29,5.19,ca,92395,San Bernardino
+792,Burger King,"12077 palmdale road, victorville, ca, 92392, us",10.39,3.69,5.99,16.29,5.19,ca,92392,San Bernardino
+793,Burger King,"20610 bear valley road, apple valley, ca, 92308, us",10.39,3.69,5.99,16.29,5.19,ca,92308,San Bernardino
+794,Burger King,"14244 valley center dr, victorville, ca, 92395, us",,,,,,ca,92395,San Bernardino
+795,Burger King,"17021 main street, hesperia, ca, 92345, us",10.39,3.69,5.99,16.29,5.19,ca,92345,San Bernardino
+796,Burger King,"9640 mariposa road, hesperia, ca, 92344, us",10.39,3.69,5.99,16.29,5.19,ca,92344,San Bernardino
+797,Burger King,"9760 sheep creek road, phelan, ca, 92371, us",10.39,3.69,5.99,16.29,5.19,ca,92371,San Bernardino
+798,Burger King,"1210 11th ave, san diego, ca, 92101, us",9.29,4.29,4.79,14.94,5.19,ca,92101,San Diego
+799,Burger King,"1201 1st st, coronado, ca, 92118, us",9.81,4.28,5.75,16.06,3.89,ca,92118,San Diego
+800,Burger King,"1220 south 28th street, san diego, ca, 92113, us",9.22,4.28,4.8,14.94,5.19,ca,92113,San Diego
+801,Burger King,"3676 market street, san diego, ca, 92102, us",9.22,4.28,4.8,14.94,5.19,ca,92102,San Diego
+802,Burger King,"3747 rosecrans street, san diego, ca, 92110, us",10.39,3.69,5.99,16.29,5.19,ca,92110,San Diego
+803,Burger King,"815 highland avenue, national city, ca, 91950, us",10.39,3.69,5.99,16.29,5.19,ca,91950,San Diego
+804,Burger King,"599 broadway, chula vista, ca, 91910, us",10.39,3.69,5.99,16.29,5.19,ca,91910,San Diego
+805,Burger King,"97 bonita road, chula vista, ca, 91910, us",10.39,3.69,5.99,16.29,5.19,ca,91910,San Diego
+806,Burger King,"1265 third avenue, chula vista, ca, 91911, us",10.39,3.69,5.99,16.29,5.19,ca,91911,San Diego
+807,Burger King,"899 east h street, chula vista, ca, 91910, us",10.39,3.69,5.99,16.29,5.19,ca,91910,San Diego
+808,Burger King,"1180 palm ave, imperial beach, ca, 91932, us",10.39,3.69,5.99,16.29,5.19,ca,91932,San Diego
+809,Burger King,"3746 mission avenue, oceanside, ca, 92058, us",11.49,4.99,8.99,15.69,,ca,92058,San Diego
+810,Burger King,"3405 marron rd, oceanside, ca, 92056, us",9.81,3.57,5.75,16.06,,ca,92056,San Diego
+811,Burger King,"377, vista, ca, 92083, us",11.49,4.99,8.99,15.69,,ca,92083,San Diego
+812,Burger King,"728 west, san marcos, ca, 92078, us",11.49,4.99,8.99,15.69,,ca,92078,San Diego
+813,Burger King,"244 west mission avenue, escondido, ca, 92025, us",8.99,3.25,5.99,14.11,,ca,92025,San Diego
+814,Burger King,"819 van ness avenue, san francisco, ca, 94109, us",10.39,3.63,5.45,,,ca,94109,San Francisco
+815,Burger King,"35 powell street, san francisco, ca, 94102, us",10.39,4.99,6.49,17.99,,ca,94102,San Francisco
+816,Burger King,"1701 fillmore st, san francisco, ca, 94115, us",10.39,3.59,5.39,18.19,,ca,94115,San Francisco
+817,Burger King,"3900 geary boulevard, san francisco, ca, 94118, us",10.39,3.63,5.45,,5.97,ca,94118,San Francisco
+818,Burger King,"1690 valencia street, san francisco, ca, 94110, us",10.39,3.59,5.39,18.19,5.99,ca,94110,San Francisco
+819,Burger King,"245 bayshore blvd., san francisco, ca, 94124, us",8.72,4.09,5.62,16.04,3.59,ca,94124,San Francisco
+820,Burger King,"702 north wilson way, stockton, ca, 95205, us",10.49,4.39,5.79,18.19,5.79,ca,95205,San Joaquin
+821,Burger King,"619 west charter way, stockton, ca, 95206, us",9.61,3.63,5.45,15.07,,ca,95206,San Joaquin
+822,Burger King,"1502 east march lane, stockton, ca, 95210, us",10.39,4.29,5.69,18.09,,ca,95210,San Joaquin
+823,Burger King,"4608 east waterloo road, stockton, ca, 95215, us",10.39,4.29,5.69,18.09,,ca,95215,San Joaquin
+824,Burger King,"1358 madonna road, san luis obispo, ca, 93405, us",6.99,3.5,5.97,,,ca,93405,San Luis Obispo
+825,Burger King,"1773 w grand ave, grover beach, ca, 93433, us",8.79,3.49,4.99,14.99,4.59,ca,93433,San Luis Obispo
+826,Burger King,"781 quintana road, morro bay, ca, 93442, us",6.99,3.5,5.97,,,ca,93442,San Luis Obispo
+827,Burger King,"8304 el camino real, atascadero, ca, 93422, us",10.39,3.89,5.79,15.29,5.19,ca,93422,San Luis Obispo
+828,Burger King,"180 niblick rd, paso robles, ca, 93446, us",9.81,3.28,5.75,16.04,4.6,ca,93446,San Luis Obispo
+829,Burger King,"2817 south el camino real, san mateo, ca, 94403, us",10.26,3.76,5.45,,,ca,94403,San Mateo
+830,Burger King,"575 el camino real, redwood city, ca, 94063, us",8.72,4.09,5.62,16.04,3.59,ca,94063,San Mateo
+831,Burger King,"2102 middlefield road, redwood city, ca, 94063, us",8.72,4.09,5.62,16.04,3.59,ca,94063,San Mateo
+832,Burger King,"1278 el camino real, san bruno, ca, 94066, us",8.72,4.09,5.62,16.04,3.59,ca,94066,San Mateo
+833,Burger King,"30 north cabrillo highway, half moon bay, ca, 94019, us",8.72,4.09,5.62,16.04,3.59,ca,94019,San Mateo
+834,Burger King,"111, colma, ca, 94014, us",10.26,3.76,5.45,,5.97,ca,94014,San Mateo
+835,Burger King,"898 john daly boulevard, daly city, ca, 94015, us",10.26,3.76,5.45,,5.97,ca,94015,San Mateo
+836,Burger King,"120 south nicholson avenue, santa maria, ca, 93454, us",6.99,3.5,5.97,,,ca,93454,Santa Barbara
+837,Burger King,"1864 north broadway, santa maria, ca, 93454, us",6.99,3.5,5.97,,5.19,ca,93454,Santa Barbara
+838,Burger King,"2050 south broadway, santa maria, ca, 93454, us",6.99,3.5,5.97,,,ca,93454,Santa Barbara
+839,Burger King,"1153 north h street, lompoc, ca, 93436, us",6.99,3.5,5.97,,5.19,ca,93436,Santa Barbara
+840,Burger King,"21 west main street, ventura, ca, 93001, us",10.39,3.5,5.97,10.99,5.19,ca,93001,Ventura
+841,Burger King,"1030 mclaughlin ave., san jose, ca, 95122, us",9.35,2.99,4.79,16.06,4.31,ca,95122,Santa Clara
+842,Burger King,"1181 old oakland road, san jose, ca, 95112, us",9.99,3.99,7.49,15.49,5.99,ca,95112,Santa Clara
+843,Burger King,"2170 monterey road, san jose, ca, 95112, us",8.49,2.99,4.99,13.99,3.49,ca,95112,Santa Clara
+844,Burger King,"329 north capital avenue, san jose, ca, 95133, us",9.99,3.99,7.49,15.49,5.99,ca,95133,Santa Clara
+845,Burger King,"2390 almaden road, san jose, ca, 95125, us",9.99,3.99,5.99,15.49,4.49,ca,95125,Santa Clara
+846,Burger King,"3098 story road, san jose, ca, 95127, us",10.26,3.63,5.45,16.34,5.97,ca,95127,Santa Clara
+847,Burger King,"773 north mathilda avenue, sunnyvale, ca, 94085, us",10.2,4.93,6.91,17.03,4.39,ca,94085,Santa Clara
+848,Burger King,"3750 el camino real, santa clara, ca, 95051, us",10.2,4.93,6.91,17.03,4.39,ca,95051,Santa Clara
+849,Burger King,"1925 el camino real, santa clara, ca, 95050, us",10.2,4.93,6.91,17.03,4.39,ca,95050,Santa Clara
+850,Burger King,"5154 moorpark ave, san jose, ca, 95129, us",8.49,2.99,4.99,13.99,3.49,ca,95129,Santa Clara
+851,Burger King,"385 south kiely, san jose, ca, 95129, us",10.26,3.63,5.45,16.34,5.97,ca,95129,Santa Clara
+852,Burger King,"2532 channing avenue, san jose, ca, 95131, us",10.2,4.93,6.91,17.03,4.39,ca,95131,Santa Clara
+853,Burger King,"2015 mission street, santa cruz, ca, 95060, us",9.49,3.36,4.99,,4.74,ca,95060,Santa Cruz
+854,Burger King,"1302 soquel avenue, santa cruz, ca, 95062, us",9.49,3.36,4.99,,4.74,ca,95062,Santa Cruz
+855,Burger King,"2001 - 41st avenue, capitola, ca, 95010, us",9.49,3.36,4.99,,4.74,ca,95010,Santa Cruz
+856,Burger King,"227 mt. herman road, scotts valley, ca, 95066, us",9.49,3.36,4.99,,4.74,ca,95066,Santa Cruz
+857,Burger King,"1403 freedom boulevard, watsonville, ca, 95076, us",9.49,3.36,4.99,,4.74,ca,95076,Santa Cruz
+858,Burger King,"142 main street, watsonville, ca, 95076, us",9.49,3.36,4.99,,4.74,ca,95076,Santa Cruz
+859,Burger King,"3606 sonoma boulevard, vallejo, ca, 94590, us",8.98,3.83,5.15,14.87,4.55,ca,94590,Solano
+860,Burger King,"1 mariposa street, vallejo, ca, 94590, us",8.98,3.83,5.15,14.87,4.55,ca,94590,Solano
+861,Burger King,"844 willow avenue, hercules, ca, 94547, us",9.11,3.23,5.03,12.49,4.43,ca,94547,Contra Costa
+862,Burger King,"828 southampton rd, benicia, ca, 94510, us",9.99,4.99,5.99,15.99,5.69,ca,94510,Solano
+863,Burger King,"1571 fitzgerald drive, pinole, ca, 94564, us",9.11,3.23,5.03,15.69,4.43,ca,94564,Contra Costa
+864,Burger King,"7 muir road, martinez, ca, 94553, us",8.99,3.59,5.39,15.49,4.79,ca,94553,Contra Costa
+865,Burger King,"1475 holiday lane, fairfield, ca, 94534, us",8.99,3.59,5.39,15.49,4.79,ca,94534,Solano
+866,Burger King,"1260 anderson drive, suisun city, ca, 94585, us",9.09,3.63,5.45,14.65,5.06,ca,94585,Solano
+867,Burger King,"2415 north texas street, fairfield, ca, 94533, us",7.74,2.49,4.49,12.59,3.99,ca,94533,Solano
+868,Burger King,"2005 huntington drive, fairfield, ca, 94533, us",8.99,3.59,5.39,15.49,4.79,ca,94533,Solano
+869,Burger King,"190 pittman road, suisun city, ca, 94534, us",9.09,3.63,5.45,14.65,5.06,ca,94534,Solano
+870,Burger King,"1330 east monte vista avenue, vacaville, ca, 95688, us",10.39,4.29,5.69,18.09,5.79,ca,95688,Solano
+871,Burger King,"741 stony point road, santa rosa, ca, 95407-6864, us",9.87,3.63,5.45,,5.06,ca,95407,Sonoma
+872,Burger King,"56 mission circle, santa rosa, ca, 95409, us",10.17,4.4,4.55,16.01,5.34,ca,95409,Sonoma
+873,Burger King,"2542 guerneville road, santa rosa, ca, 95401, us",10.17,4.4,4.55,16.01,5.34,ca,95401,Sonoma
+874,Burger King,"5020 redwood drive, rohnert park, ca, 94928, us",9.87,3.63,5.45,,5.06,ca,94928,Sonoma
+875,Burger King,"6125 commerce boulevard, rohnert park, ca, 94928, us",9.87,3.63,5.45,,5.06,ca,94928,Sonoma
+876,Burger King,"6351 hembree lane, windsor, ca, 95492, us",10.17,4.4,4.55,16.01,5.34,ca,95492,Sonoma
+877,Burger King,"2320 mchenry ave, modesto, ca, 95350, us",10.39,4.29,5.69,18.09,5.79,ca,95350,Stanislaus
+878,Burger King,"1421 e. hatch rd, ceres, ca, 95351, us",10.39,4.29,5.69,18.09,5.79,ca,95351,Stanislaus
+879,Burger King,"3401 yosemite boulevard, modesto, ca, 95354, us",10.39,4.29,5.69,18.09,5.79,ca,95354,Stanislaus
+880,Burger King,"2101 sylvan avenue, modesto, ca, 95355, us",10.39,4.29,5.69,18.09,5.79,ca,95355,Stanislaus
+881,Burger King,"2732 mitchell road, ceres, ca, 95307, us",10.39,4.29,5.69,18.09,5.79,ca,95307,Stanislaus
+882,Burger King,"4612 kiernan avenue, salida, ca, 95368, us",10.39,4.29,5.69,18.09,5.79,ca,95368,Stanislaus
+883,Burger King,"1009 n ben maddox way, visalia, ca, 93292, us",10.04,3.59,3.75,17.54,5.39,ca,93292,Tulare
+884,Burger King,"500 south de maree, visalia, ca, 93277, us",8.99,3.36,4.99,,4.49,ca,93277,Tulare
+885,Burger King,"3101 south mooney boulevard, visalia, ca, 93277, us",8.99,3.36,4.99,,4.49,ca,93277,Tulare
+886,Burger King,"6603 betty dr, visalia, ca, 93291, us",8.99,3.39,4.99,15.39,4.49,ca,93291,Tulare
+887,Burger King,"1255 north blackstone street, tulare, ca, 93274, us",8.99,3.36,4.99,,4.49,ca,93274,Tulare
+888,Burger King,"601 e. bardsley ave., tulare, ca, 93274, us",10.04,3.59,3.75,17.54,5.39,ca,93274,Tulare
+889,Burger King,"2001 north, oxnard, ca, 93036, us",10.39,3.5,5.97,14.39,5.19,ca,93036,Ventura
+890,Burger King,"2500 s. ventura road, oxnard, ca, 93033, us",10.39,3.5,5.97,14.39,5.19,ca,93033,Ventura
+891,Burger King,"5950 telegraph road, ventura, ca, 93003, us",10.39,3.5,5.97,11.74,5.19,ca,93003,Ventura
+892,Burger King,"2800 paseo mercado, oxnard, ca, 93036, us",10.39,3.69,5.99,16.29,5.19,ca,93036,Ventura
+893,Burger King,"181 south arniell road, camarillo, ca, 93010, us",10.39,3.49,5.99,15.99,5.19,ca,93010,Ventura
+894,Burger King,"13221 jamboree, tustin, ca, 92782, us",10.39,4.28,8.57,,5.32,ca,92782,Orange
+895,Burger King,"10055 cedar avenue, bloomington, ca, 92316, us",10.39,3.63,5.97,14.29,5.19,ca,92316,San Bernardino
+896,Burger King,"5790 van buren boulevard, riverside, ca, 92503, us",10.39,3.63,5.97,14.29,5.19,ca,92503,Riverside
+897,Burger King,"2600, long beach, ca, 90806, us",10.39,3.63,5.97,14.29,5.19,ca,90806,Los Angeles
+898,Burger King,"200 north harbor boulevard, santa ana, ca, 92703, us",8.49,3.99,5.59,14.69,4.99,ca,92703,Orange
+899,Burger King,"3501 whittier blvd., los angeles, ca, 90023, us",9.35,2.98,6.32,13.97,4.46,ca,90023,Los Angeles
+900,Burger King,"7225 greenhaven drive, sacramento, ca, 95831-3518, us",9.09,3.63,5.45,15.85,5.06,ca,95831,Sacramento
+901,Burger King,"5150 stockton blvd., sacramento, ca, 95820, us",9.09,3.63,5.45,15.2,5.06,ca,95820,Sacramento
+902,Burger King,"5610 freeport boulevard, sacramento, ca, 95822-3502, us",9.09,3.63,5.45,15.85,5.06,ca,95822,Sacramento
+903,Burger King,"2751 w. orangethorpe blvd, fullerton, ca, 92833, us",10.39,3.69,5.99,16.29,5.19,ca,92833,Orange
+904,Burger King,"220 alameda del prado, novato, ca, 94949, us",10.26,3.76,5.45,,5.97,ca,94949,Marin
+905,Burger King,"2403 east chapman avenue, fullerton, ca, 92831-3603, us",10.39,3.63,5.97,16.25,5.19,ca,92831,Orange
+906,Burger King,"5540 cherry avenue, long beach, ca, 90805, us",8.19,3.99,5.59,14.49,4.99,ca,90805,Los Angeles
+907,Burger King,"16878 foothill boulevard, fontana, ca, 92335, us",10.39,3.63,5.97,14.29,5.19,ca,92335,San Bernardino
+908,Burger King,"5120 olive drive, bakersfield, ca, 93308, us",8.57,3.11,4.67,,4.67,ca,93308,Kern
+909,Burger King,"1830 west 8th street, los angeles, ca, 90057, us",10.39,3.63,5.97,,5.19,ca,90057,Los Angeles
+910,Burger King,"849 university avenue, berkeley, ca, 94710, us",9.39,4.19,6.89,17.49,2.79,ca,94710,Alameda
+911,Burger King,"19662 nordhoff street, northridge, ca, 91324, us",10.39,3.63,5.97,,5.19,ca,91324,Los Angeles
+912,Burger King,"2020 west florida avenue, hemet, ca, 92545, us",10.39,3.63,5.97,14.29,5.19,ca,92545,Riverside
+913,Burger King,"510 south euclid street, anaheim, ca, 92802, us",10.39,4.28,8.57,15.59,5.32,ca,92802,Orange
+914,Burger King,"1361 west foothill boulevard, rialto, ca, 92376, us",10.39,3.63,5.97,14.29,5.19,ca,92376,San Bernardino
+915,Burger King,"2100 east 17th street, santa ana, ca, 92705-8607, us",10.39,3.63,5.97,16.25,5.19,ca,92705,Orange
+916,Burger King,"1042 north carpenter road, modesto, ca, 95351, us",10.39,4.29,5.69,18.09,5.79,ca,95351,Stanislaus
+917,Burger King,"575 north clovis avenue, fresno, ca, 93727, us",10.29,4.19,5.49,17.99,5.79,ca,93727,Fresno
+918,Burger King,"2850 south bristol street, santa ana, ca, 92704, us",10.39,3.69,5.99,16.29,5.19,ca,92704,Orange
+919,Burger King,"601 east dyer road, santa ana, ca, 92705, us",10.99,4.79,5.99,16.89,5.99,ca,92705,Orange
+920,Burger King,"3235 west little league drive, san bernardino, ca, 92407, us",10.39,3.63,5.97,,5.19,ca,92407,San Bernardino
+921,Burger King,"1688 north, perris, ca, 92571, us",9.87,4.54,8.05,,5.06,ca,92571,Riverside
+922,Burger King,"12999 san pablo avenue, richmond, ca, 94805, us",9.49,3.39,5.29,,4.69,ca,94805,Contra Costa
+923,Burger King,"115, lincoln, ca, 95648, us",9.09,3.63,5.45,11.69,5.06,ca,95648,Placer
+924,Burger King,"4571 north pershing avenue, stockton, ca, 95207-6705, us",9.61,3.63,5.45,16.33,5.19,ca,95207,San Joaquin
+925,Burger King,"1677 s. centre city parkway, escondido, ca, 92025, us",8.99,3.25,5.99,14.11,4.5,ca,92025,San Diego
+926,Burger King,"1915 arden way, sacramento, ca, 95815, us",9.09,3.63,5.45,15.2,5.06,ca,95815,Sacramento
+927,Burger King,"41 s. sanborn road, salinas, ca, 93905-3235, us",9.49,3.36,4.99,16.12,4.74,ca,93905,Monterey
+928,Burger King,"580 hegenberger road, oakland, ca, 94621, us",9.49,3.39,5.29,,4.69,ca,94621,Alameda
+929,Burger King,"6960 broadway, lemon grove, ca, 91945-1404, us",9.29,4.99,5.99,15.59,5.19,ca,91945,San Diego
+930,Burger King,"5121 foothills boulevard, roseville, ca, 95747-6501, us",9.09,3.63,5.45,15.85,5.06,ca,95747,Placer
+931,Burger King,"7218 stockton boulevard, sacramento, ca, 95823, us",9.09,3.63,5.45,,5.06,ca,95823,Sacramento
+932,Burger King,"2714 el centro road, sacramento, ca, 95833, us",9.09,3.63,5.45,,5.06,ca,95833,Sacramento
+933,Burger King,"3630 tyler street, riverside, ca, 92505, us",10.39,3.69,5.99,16.29,5.19,ca,92505,Riverside
+934,Burger King,"503 east foothill, rialto, ca, 92376, us",10.39,3.63,5.97,,5.19,ca,92376,San Bernardino
+935,Burger King,"4960 auburn blvd., sacramento, ca, 95841, us",9.09,3.63,5.45,15.2,5.06,ca,95841,Sacramento
+936,Burger King,"1949 columbus avenue, bakersfield, ca, 93305-2311, us",9.87,2.99,4.86,14.5,4.61,ca,93305,Kern
+937,Burger King,"8637 elk grove boulevard, elk grove, ca, 95624-1773, us",9.09,3.63,5.45,15.85,5.06,ca,95624,Sacramento
+938,Burger King,"127 west 4th street, long beach, ca, 90802, us",10.39,3.63,5.97,,5.19,ca,90802,Los Angeles
+939,Burger King,"909 south main street, salinas, ca, 93901-2404, us",9.49,3.36,4.99,16.12,4.74,ca,93901,Monterey
+940,Burger King,"205 east redlands, san bernardino, ca, 92408, us",10.39,3.63,5.97,,5.19,ca,92408,San Bernardino
+941,Burger King,"935 north waterman, san bernardino, ca, 92410, us",10.39,3.63,5.97,,5.19,ca,92410,San Bernardino
+942,Burger King,"4087 west clinton avenue, fresno, ca, 93722, us",10.29,4.19,5.49,17.99,5.79,ca,93722,Fresno
+943,Shake Shack,"5614 bay street suite 240, emeryville, ca, 94608, us",9.59,9.39,8.99,,5.49,ca,94608,Alameda
+944,Shake Shack,"845 market street, san francisco, ca, 94103, us",9.59,9.39,8.99,,5.79,ca,94103,San Francisco
+945,Shake Shack,"1604 mount diablo boulevard, walnut creek, ca, 94596, us",9.59,9.39,8.99,,5.79,ca,94596,Contra Costa
+946,Shake Shack,"1401, larkspur, ca, 94939, us",9.59,9.39,8.99,,5.79,ca,94939,Marin
+947,Shake Shack,"180 el camino real, palo alto, ca, 94304, us",9.59,9.39,8.99,,5.79,ca,94304,Santa Clara
+948,Shake Shack,"2855 stevens creek boulevard, santa clara, ca, 95050, us",9.59,9.39,8.99,,5.79,ca,95050,Santa Clara
+949,Shake Shack,"33 hillsdale shopping center, san mateo, ca, 94403, us",9.59,9.39,8.99,,5.79,ca,94403,San Mateo
+950,Shake Shack,"925 blossom hill road, san jose, ca, 95123, us",9.59,9.39,8.99,,5.49,ca,95123,Santa Clara
+951,Shake Shack,"3060 fillmore street, san francisco, ca, 94123, us",9.59,9.39,8.99,,5.79,ca,94123,San Francisco
+952,Shake Shack,"805 north willow avenue, clovis, ca, 93611, us",,,,,,ca,93611,Fresno
+953,Shake Shack,"2220 chester ave, bakersfield, ca, 93301, us",,,,,,ca,93301,Kern
+954,Shake Shack,"400 w. 8th street, los angeles, ca, 90015, us",9.59,9.39,8.99,,5.49,ca,90015,Los Angeles
+955,Shake Shack,"6201 hollywood blvd., los angeles, ca, 90028, us",9.59,9.39,8.99,,5.79,ca,90028,Los Angeles
+956,Shake Shack,"8520 santa monica blvd., west hollywood, ca, 90069, us",9.59,9.39,8.99,,5.79,ca,90069,Los Angeles
+957,Shake Shack,"2189 whittier boulevard, los angeles, ca, 90023, us",,,,,,ca,90023,Los Angeles
+958,Shake Shack,"6440 pacific coast hwy, long beach, ca, 90803, us",9.59,9.39,8.99,,5.49,ca,90803,Los Angeles
+959,Shake Shack,"1875 west 190th street, torrance, ca, 90504, us",9.59,9.39,8.99,,5.49,ca,90504,Los Angeles
+960,Shake Shack,"329 east 17th street, costa mesa, ca, 92627, us",9.59,9.39,8.99,,5.49,ca,92627,Orange
+961,Shake Shack,"6000 sepulveda boulevard, culver city, ca, 90230, us",9.59,9.39,8.99,,5.49,ca,90230,Los Angeles
+962,Shake Shack,"6443 topanga canyon blvd, los angeles, ca, 91303, us",9.59,9.39,8.99,,5.49,ca,91303,Los Angeles
+963,Shake Shack,"17401 ventura boulevard, los angeles, ca, 91316, us",9.59,9.39,8.99,,5.49,ca,91316,Los Angeles
+964,Shake Shack,"13009 ventura boulevard, studio city, ca, 91604, us",9.59,9.39,8.99,,5.79,ca,91604,Los Angeles
+965,Shake Shack,"200 n. san fernando blvd., burbank, ca, 91502, us",9.59,9.39,8.99,,5.49,ca,91502,Los Angeles
+966,Shake Shack,"120 promenade way, thousand oaks, ca, 91362, us",9.59,9.39,8.99,,5.79,ca,91362,Ventura
+967,Shake Shack,"3251 20th avenue, san francisco, ca, 94132, us",9.59,9.39,8.99,,5.49,ca,94132,San Francisco
+968,Shake Shack,"2424 magowan drive, santa rosa, ca, 95405, us",9.59,9.39,8.99,,5.79,ca,95405,Sonoma
+969,Shake Shack,"975 e blanco rd, salinas, ca, 93901, us",,,,,,ca,93901,Monterey
+970,Shake Shack,"512 spectrum center drive, irvine, ca, 92618, us",9.59,9.39,8.99,,5.49,ca,92618,Orange
+971,Shake Shack,"1151 galleria boulevard, roseville, ca, 95678, us",9.59,9.39,8.99,,5.49,ca,95678,Placer
+972,Shake Shack,"1710 r st, sacramento, ca, 95811, us",9.59,9.39,8.99,,5.49,ca,95811,Sacramento
+973,Shake Shack,"12456 north mainstreet, rancho cucamonga, ca, 91739, us",8.99,8.79,8.39,,5.49,ca,91739,San Bernardino
+974,Shake Shack,"7740 el camino real, carlsbad, ca, 92009, us",9.39,8.99,8.79,,5.49,ca,92009,San Diego
+975,Shake Shack,"14244 valley center dr, victorville, ca, 92392, us",,,,,,ca,92392,San Bernardino
+976,Shake Shack,"2008 india st., san diego, ca, 92101, us",9.39,8.99,8.79,,5.49,ca,92101,San Diego
+977,Shake Shack,"675 camino de la reina, san diego, ca, 92108, us",9.39,8.99,8.79,,5.49,ca,92108,San Diego
+978,Shake Shack,"3705 paseo place, san diego, ca, 92130, us",9.39,8.99,8.79,,5.49,ca,92130,San Diego
+979,Shake Shack,"3030 plaza bonita road suite f3, national city, ca, 91950, us",9.39,8.99,8.79,,5.49,ca,91950,San Diego
+980,Shake Shack,"4309 la jolla village drive, san diego, ca, 92122, us",9.39,8.99,8.79,,5.49,ca,92122,San Diego
+981,Shake Shack,"1690 valencia street, san francisco, ca, 94110, us",,3.59,,,,ca,94110,San Francisco
+982,Shake Shack,"599 divisadero street, san francisco, ca, 94117, us",,,,,,ca,94117,San Francisco
+983,Shake Shack,"90 charter oak avenue, san francisco, ca, 94124, us",,,,,,ca,94124,San Francisco
+984,Shake Shack,"522 n. el dorado, stockton, ca, 95202, us",,,,,,ca,95202,San Joaquin
+985,Shake Shack,"101 town center east, santa maria, ca, 93454, us",,17.99,,,,ca,93454,Santa Barbara
+986,Shake Shack,"716 state street, santa barbara, ca, 93101, us",,,,,,ca,93101,Santa Barbara
+987,Shake Shack,"1515 ocean st., santa cruz, ca, 95060, us",,,,,,ca,95060,Santa Cruz
+988,Shake Shack,"950 10th st, modesto, ca, 95354, us",,,,,,ca,95354,Stanislaus
+989,Shake Shack,"301 north willis street, visalia, ca, 93291, us",,,,,4.99,ca,93291,Tulare
+990,Shake Shack,"3525 west carson street, space vc 08, torrance, ca, 90503, us",9.59,9.59,8.99,,5.49,ca,90503,Los Angeles
+991,Shake Shack,"2171 rosecrans avenue, el segundo, ca, 90245, us",9.59,9.59,8.99,,5.99,ca,90245,Los Angeles
+992,Shake Shack,"252 s. brand blvd., glendale, ca, 91204, us",9.59,9.59,8.99,,5.49,ca,91204,Los Angeles
+993,Shake Shack,"750 south arroyo parkway, pasadena, ca, 91105, us",9.59,9.59,8.99,,5.49,ca,91105,Los Angeles
+994,Sonic,"31187 mission boulevard, hayward, ca, 94544, us",,4.15,,14.71,,ca,94544,Alameda
+995,Sonic,"1400 north park boulevard, pittsburg, ca, 94565, us",,4.87,,,,ca,94565,Contra Costa
+996,Sonic,"6055 main street, american canyon, ca, 94503, us",,4.79,,16.05,,ca,94503,Napa
+997,Sonic,"151 bella vista road, vacaville, ca, 95687, us",,4.79,,16.05,,ca,95687,Solano
+998,Sonic,"2105 n. schnoor avenue, madera, ca, 93637, us",,4.87,,,,ca,93637,Madera
+999,Sonic,"3701 mall view rd, bakersfield, ca, 93306, us",,4.87,,,,ca,93306,Kern
+1000,Sonic,"1070 e huntington dr, duarte, ca, 91010, us",,4.87,,,,ca,91010,Los Angeles
+1001,Sonic,"17811 beach blvd, huntington beach, ca, 92647, us",,4.87,,16.8,,ca,92647,Orange
+1002,Sonic,"26270 n bouquet canyon rd, saugus, ca, 91350, us",,,,,,ca,91350,Los Angeles
+1003,Sonic,"1080 north davis road, salinas, ca, 93907, us",,4.15,,,,ca,93907,Monterey
+1004,Sonic,"3095 harbor blvd, costa mesa, ca, 92626, us",,4.87,,16.8,,ca,92626,Orange
+1005,Sonic,"1632 lemon st, anaheim, ca, 92801, us",,4.87,,16.56,,ca,92801,Orange
+1006,Sonic,"441 n placentia ave, fullerton, ca, 92831, us",,4.87,,16.19,,ca,92831,Orange
+1007,Sonic,"3531 south fairview street, santa ana, ca, 92704, us",,4.87,,16.56,,ca,92704,Orange
+1008,Sonic,"3332 south bristol street, santa ana, ca, 92704, us",,,,,4.79,ca,92704,Orange
+1009,Sonic,"1012 n. state college blvd., anaheim, ca, 92806, us",,,,,,ca,92806,Orange
+1010,Sonic,"913 pleasant grove blvd, roseville, ca, 95678, us",,4.87,,17.41,,ca,95678,Placer
+1011,Sonic,"1580 e main st, woodland, ca, 95776, us",,4.79,,16.05,,ca,95776,Yolo
+1012,Sonic,"9505 magnolia ave, riverside, ca, 92503, us",,4.87,,17.17,,ca,92503,Riverside
+1013,Sonic,"1060 west renaissance parkway, rialto, ca, 92376, us",,,,16.56,,ca,92376,San Bernardino
+1014,Sonic,"11370 4th street, rancho cucamonga, ca, 91730, us",,4.87,,,,ca,91730,San Bernardino
+1015,Sonic,"1202 magnolia ave, corona, ca, 92881, us",,4.87,,17.17,,ca,92881,Riverside
+1016,Sonic,"1495 north mountain avenue, ontario, ca, 91762, us",,4.87,,,,ca,91762,San Bernardino
+1017,Sonic,"40 rio rancho road, pomona, ca, 91766, us",,4.87,,,,ca,91766,Los Angeles
+1018,Sonic,"30171 haun rd, menifee, ca, 92584, us",,4.87,,17.17,,ca,92584,Riverside
+1019,Sonic,"1610 e 1st street, beaumont, ca, 92223, us",,4.87,,16.68,,ca,92223,Riverside
+1020,Sonic,"3651 west stetson, hemet, ca, 92545, us",,4.87,,16.44,,ca,92545,Riverside
+1021,Sonic,"39490, murrieta, ca, 92563, us",,4.87,,17.17,,ca,92563,Riverside
+1022,Sonic,"101 main st, vista, ca, 92084, us",,4.87,,18.88,,ca,92084,San Diego
+1023,Sonic,"25502 jeronimo rd, mission viejo, ca, 92691, us",,4.87,,16.56,,ca,92691,Orange
+1024,Sonic,"8134 sierra ave, fontana, ca, 92335, us",,,,,,ca,92335,San Bernardino
+1025,Sonic,"16833 valley blvd., fontana, ca, 92335, us",,,,,,ca,92335,San Bernardino
+1026,Sonic,"1325 w foothill blvd, rialto, ca, 92376, us",,,,,,ca,92376,San Bernardino
+1027,Sonic,"11780 amargosa road, victorville, ca, 92392, us",,4.87,,,,ca,92392,San Bernardino
+1028,Sonic,"19398 bear valley rd, apple valley, ca, 92308, us",,4.01,,,,ca,92308,San Bernardino
+1029,Sonic,"2829 el cajon blvd, san diego, ca, 92104, us",,4.87,,17.29,,ca,92104,San Diego
+1030,Sonic,"3005 highland ave, national city, ca, 91950, us",,4.87,,17.29,,ca,91950,San Diego
+1031,Sonic,"5247 kearny villa rd., san diego, ca, 92123, us",,4.87,,17.29,,ca,92123,San Diego
+1032,Sonic,"10515 mission gorge rd, santee, ca, 92071, us",,4.87,,17.29,,ca,92071,San Diego
+1033,Sonic,"1215 grand ave, san marcos, ca, 92078, us",,4.87,,,,ca,92078,San Diego
+1034,Sonic,"10354 trinity parkway, stockton, ca, 95219, us",,4.87,,,,ca,95219,San Joaquin
+1035,Sonic,"3080 naglee rd, tracy, ca, 95304, us",,4.87,,,,ca,95304,San Joaquin
+1036,Sonic,"2450 junipero serra blvd, daly city, ca, 94015-1632, us",,,,,,ca,94015,San Mateo
+1037,Sonic,"650 4th street, santa rosa, ca, 95404, us",,,,,,ca,95404,Sonoma
+1038,Sonic,"1420 mchenry ave, modesto, ca, 95350, us",,4.87,,14.97,,ca,95350,Stanislaus
+1039,Sonic,"301 north willis street, visalia, ca, 93291, us",,,,,4.99,ca,93291,Tulare
+1040,Sonic,"440 s b st, oxnard, ca, 93030, us",,,,,,ca,93030,Ventura
+1041,Five Guys,"3839 emery street #700, emeryville, ca, 94608, us",14.39,11.51,10.19,,7.55,ca,94608,Alameda
+1042,Five Guys,"2254 south shore center, alameda, ca, 94501, us",16.07,11.75,10.55,,7.79,ca,94501,Alameda
+1043,Five Guys,"2782, pinole, ca, 94564, us",14.39,11.39,10.19,,7.55,ca,94564,Contra Costa
+1044,Five Guys,"190, alamo, ca, 94507, us",14.39,11.39,10.19,,7.55,ca,94507,Contra Costa
+1045,Five Guys,"43518 christy street, fremont, ca, 94538, us",16.07,11.75,10.55,,7.79,ca,94538,Alameda
+1046,Five Guys,"28529 hesperian blvd, hayward, ca, 94545, us",16.07,11.75,10.55,,7.79,ca,94545,Alameda
+1047,Five Guys,"4930, dublin, ca, 94568, us",16.07,11.75,10.55,,7.79,ca,94568,Alameda
+1048,Five Guys,"38860, fremont, ca, 94536, us",3.99,,,,,ca,94536,Alameda
+1049,Five Guys,"19621 hesperian blvd, hayward, ca, 94541, us",16.07,11.75,10.55,,7.79,ca,94541,Alameda
+1050,Five Guys,"23989 watkins st, hayward, ca, 94544-1028, us",3.79,,,,,ca,94544,Alameda
+1051,Five Guys,"100 crescent drive, pleasant hill, ca, 94523, us",14.39,11.39,10.19,,7.55,ca,94523,Contra Costa
+1052,Five Guys,"5442 ygnacio valley rd., concord, ca, 94521, us",14.39,11.39,10.19,,7.55,ca,94521,Contra Costa
+1053,Five Guys,"6660 lone tree way, brentwood, ca, 94513, us",14.39,11.39,10.19,,7.55,ca,94513,Contra Costa
+1054,Five Guys,"523 e shaw ave, fresno, ca, 93710, us",14.15,11.27,10.07,,7.91,ca,93710,Fresno
+1055,Five Guys,"180 e. paseo del centro, fresno, ca, 93720, us",15.47,12.47,11.15,,8.75,ca,93720,Fresno
+1056,Five Guys,"2701 ming ave, bakersfield, ca, 93304, us",15.83,12.83,11.39,,8.87,ca,93304,Kern
+1057,Five Guys,"2701 calloway dr ste 400, bakersfield, ca, 93312, us",15.83,12.83,11.39,,8.87,ca,93312,Kern
+1058,Five Guys,"735 s. figueroa st., #120, los angeles, ca, 90017, us",15.47,12.47,11.15,,8.75,ca,90017,Los Angeles
+1059,Five Guys,"530 w 27th st. #101, los angeles, ca, 90007, us",15.47,12.47,11.15,,8.75,ca,90007,Los Angeles
+1060,Five Guys,"1137 galleria way ste fc11, glendale, ca, 91210, us",15.47,12.47,11.39,,8.75,ca,91210,Los Angeles
+1061,Five Guys,"2189 whittier boulevard, los angeles, ca, 90023, us",,,,,,ca,90023,Los Angeles
+1062,Five Guys,"6650 e pch, long beach, ca, 90803, us",15.47,12.47,11.15,,8.75,ca,90803,Los Angeles
+1063,Five Guys,"south bay pavilion 20700 s avalon blvd, carson, ca, 90746, us",15.47,12.47,11.15,,8.75,ca,90746,Los Angeles
+1064,Five Guys,"8901 apollo way, downey, ca, 90242, us",15.47,12.47,11.15,,8.75,ca,90242,Los Angeles
+1065,Five Guys,"24201 w, valencia, ca, 91355, us",15.47,12.47,11.15,,8.75,ca,91355,Los Angeles
+1066,Five Guys,"8850 tampa ave. ste 102, northridge, ca, 91324, us",15.47,12.47,11.15,,8.75,ca,91324,Los Angeles
+1067,Five Guys,"8420 balboa blvd. suite 115, northridge, ca, 91343, us",15.47,12.47,11.15,,8.75,ca,91343,Los Angeles
+1068,Five Guys,"12930 ventura blvd., suite 106, studio city, ca, 91604, us",15.47,12.47,11.15,,8.75,ca,91604,Los Angeles
+1069,Five Guys,"201 e magnolia blvd, burbank, ca, 91502, us",15.47,12.47,11.15,,8.75,ca,91502,Los Angeles
+1070,Five Guys,"401 kenilworth drive, petaluma, ca, 94952, us",16.07,11.75,10.55,,7.79,ca,94952,Marin
+1071,Five Guys,"2280 mendocino ave. b-5, santa rosa, ca, 95403, us",16.07,11.75,10.55,,7.79,ca,95403,Sonoma
+1072,Five Guys,"1742 north main street, salinas, ca, 93906, us",14.39,11.39,10.19,,7.55,ca,93906,Monterey
+1073,Five Guys,"915 playa ave, sand city, ca, 93955, us",14.39,11.39,10.19,,7.55,ca,93955,Monterey
+1074,Five Guys,"1549 e. katella ave., orange, ca, 92867, us",15.47,12.47,11.15,,8.75,ca,92867,Orange
+1075,Five Guys,"18645 beach blvd., huntington beach, ca, 92648, us",15.47,12.47,11.15,,8.75,ca,92648,Orange
+1076,Five Guys,"24391 alicia pkwy, mission viejo, ca, 92691, us",15.47,12.47,11.15,,8.75,ca,92691,Orange
+1077,Five Guys,"444 n. state college blvd. #444, fullerton, ca, 92831, us",15.47,12.47,11.15,,8.75,ca,92831,Orange
+1078,Five Guys,"1552 s azusa ave, city of industry, ca, 91748, us",15.47,12.47,11.15,,8.75,ca,91748,Los Angeles
+1079,Five Guys,"1012 n. state college blvd., anaheim, ca, 92806, us",,,,,,ca,92806,Orange
+1080,Five Guys,"8620 sierra college blvd., roseville, ca, 95661, us",15.47,12.47,11.15,,8.75,ca,95661,Placer
+1081,Five Guys,"5442 hazel ave., fair oaks, ca, 95628, us",15.83,12.83,11.39,,8.87,ca,95628,Sacramento
+1082,Five Guys,"2912 pasatiempo lane, sacremento, ca, 95821, us",15.47,12.47,11.15,,8.75,ca,95821,Sacramento
+1083,Five Guys,"1300 east, roseville, ca, 95661, us",4.39,,,,,ca,95661,Placer
+1084,Five Guys,"2750 e bidwell street, folsom, ca, 95630, us",14.15,11.27,10.07,,7.91,ca,95630,Sacramento
+1085,Five Guys,"2310 sunrise blvd., rancho cordova, ca, 95670, us",15.83,12.83,11.39,,8.87,ca,95670,Sacramento
+1086,Five Guys,"4630 natomas blvd., suite #100, sacramento, ca, 95835, us",15.47,12.47,11.15,,8.75,ca,95835,Sacramento
+1087,Five Guys,"10540 sierra avenue, fontana, ca, 92337, us",13.67,10.79,9.59,,7.19,ca,92337,San Bernardino
+1088,Five Guys,"12515 frederick st, moreno valley, ca, 92553, us",13.67,10.79,9.59,,7.19,ca,92553,Riverside
+1089,Five Guys,"929 n. milliken avenue suite 103, ontario, ca, 91764, us",14.03,10.79,9.59,,7.19,ca,91764,San Bernardino
+1090,Five Guys,"15218 summit avenue, fontana, ca, 92336, us",14.03,10.79,9.59,,7.19,ca,92336,San Bernardino
+1091,Five Guys,"10060 alabama street, redlands, ca, 92374, us",14.03,10.79,9.59,,7.19,ca,92374,San Bernardino
+1092,Five Guys,"2690 tuscany street, corona, ca, 92881, us",14.03,10.79,9.59,,7.19,ca,92881,Riverside
+1093,Five Guys,"27774 newport rd., menifee, ca, 92584, us",14.03,10.79,9.59,,7.19,ca,92584,Riverside
+1094,Five Guys,"40426 winchester rd., temecula, ca, 92591, us",14.03,10.79,9.59,,7.19,ca,92591,Riverside
+1095,Five Guys,"32195, temecula, ca, 92592, us",14.03,10.79,9.59,,7.19,ca,92592,Riverside
+1096,Five Guys,"151 s. las posas road ste. 170, san marcos, ca, 92078, us",15.47,12.47,11.15,,8.75,ca,92078,San Diego
+1097,Five Guys,"2519 palomar airport rd., suite #100, carlsbad, ca, 92011, us",15.47,12.47,11.15,,8.75,ca,92011,San Diego
+1098,Five Guys,"3660 crocker dr, sacramento, ca, 95818, us",15.47,12.47,11.15,,8.75,ca,95818,Sacramento
+1099,Five Guys,"768 ikea ct., suite 120, west sacramento, ca, 95605, us",15.47,12.47,11.15,,8.75,ca,95605,Yolo
+1100,Five Guys,"9257 laguna springs dr, elk grove, ca, 95758, us",15.47,12.47,11.15,,8.75,ca,95758,Sacramento
+1101,Five Guys,"198 e redlands blvd, san bernardino, ca, 92408, us",,,,,,ca,92408,San Bernardino
+1102,Five Guys,"295 w highland, san bernardino, ca, 92405, us",,,,,,ca,92405,San Bernardino
+1103,Five Guys,"494 south mount vernon ave, san bernadino, ca, 92410, us",,,,,,ca,92410,San Bernardino
+1104,Five Guys,"524 inland center dr, san bernardino, ca, 92410, us",,,,,,ca,92410,San Bernardino
+1105,Five Guys,"12719 main street, hesperia, ca, 92344, us",13.19,10.55,9.47,,7.07,ca,92344,San Bernardino
+1106,Five Guys,"670 university ave, san diego, ca, 92103, us",15.47,12.47,11.15,,8.75,ca,92103,San Diego
+1107,Five Guys,"2445 truxton rd., san diego, ca, 92106, us",15.47,12.47,11.15,,8.75,ca,92106,San Diego
+1108,Five Guys,"781 palm ave., imperial beach, ca, 91932, us",15.47,12.47,11.15,,8.75,ca,91932,San Diego
+1109,Five Guys,"345 fletcher parkway, el cajon, ca, 92020, us",15.47,12.47,11.15,,8.75,ca,92020,San Diego
+1110,Five Guys,"5650 balboa ave suite 101, san diego, ca, 92117, us",15.47,12.47,11.15,,8.75,ca,92117,San Diego
+1111,Five Guys,"555 broadway, chula vista, ca, 91910, us",15.47,12.47,11.15,,8.75,ca,91910,San Diego
+1112,Five Guys,"2278 westborough blvd., south san francisco, ca, 94080, us",16.07,11.75,10.55,,7.79,ca,94080,San Mateo
+1113,Five Guys,"203 primrose drive, burlingame, ca, 94010, us",16.07,11.75,10.55,,7.79,ca,94010,San Mateo
+1114,Five Guys,"933 e. hillsdale, foster city, ca, 94404, us",16.07,11.75,10.55,,7.79,ca,94404,San Mateo
+1115,Five Guys,"238 redwood shores parkway, redwood city, ca, 94065, us",16.07,11.75,10.55,,7.79,ca,94065,San Mateo
+1116,Five Guys,"801 middlefield road, redwood city, ca, 94063, us",15.23,11.75,10.67,,7.79,ca,94063,San Mateo
+1117,Five Guys,"5633 pacific ave, stockton, ca, 95207, us",15.47,12.47,11.15,,8.75,ca,95207,San Joaquin
+1118,Five Guys,"2140 daniels street, manteca, ca, 95337, us",15.47,12.47,11.15,,8.75,ca,95337,San Joaquin
+1119,Five Guys,"763 east foothill blvd, san luis obisp, ca, 93405, us",15.47,12.47,11.15,,8.75,ca,93405,San Luis Obispo
+1120,Five Guys,"1229 e. grand ave., arroyo grande, ca, 93420, us",14.15,11.27,10.07,,7.91,ca,93420,San Luis Obispo
+1121,Five Guys,"33 hillsdale shopping center, san mateo, ca, 94403, us",9.39,,,,,ca,94403,San Mateo
+1122,Five Guys,"811 state st, santa barbara, ca, 93101, us",,,,,,ca,93101,Santa Barbara
+1123,Five Guys,"1205 the alameda, suite 10, san jose, ca, 95126, us",14.27,11.39,10.79,,7.79,ca,95126,Santa Clara
+1124,Five Guys,"121 curtner ave, san jose, ca, 95125, us",14.27,11.39,10.79,,7.79,ca,95125,Santa Clara
+1125,Five Guys,"438 north capitol avenue, san jose, ca, 95127, us",16.07,11.75,10.55,,7.79,ca,95127,Santa Clara
+1126,Five Guys,"2007 camden ave, san jose, ca, 95124, us",14.27,11.39,10.79,,7.79,ca,95124,Santa Clara
+1127,Five Guys,"5353 almaden expy # n60, san jose, ca, 95118, us",14.27,11.39,10.79,,7.79,ca,95118,Santa Clara
+1128,Five Guys,"5205 prospect rd, san jose, ca, 95129, us",14.27,11.39,10.79,,7.79,ca,95129,Santa Clara
+1129,Five Guys,"116 e. el camino real, sunnyvale, ca, 94087, us",14.27,11.39,10.79,,7.79,ca,94087,Santa Clara
+1130,Five Guys,"2098 el camino real, mountain view, ca, 94040, us",16.07,11.75,10.55,,7.79,ca,94040,Santa Clara
+1131,Five Guys,"4180 n. first st., suite 50, san jose, ca, 95134, us",14.27,11.39,10.79,,7.79,ca,95134,Santa Clara
+1132,Five Guys,"1101 pacific avenue, santa cruz, ca, 95060, us",14.39,11.39,10.19,,7.55,ca,95060,Santa Cruz
+1133,Five Guys,"1570 gateway boulevard, fairfield, ca, 94533, us",15.47,12.47,11.15,,8.75,ca,94533,Solano
+1134,Five Guys,"1651 monte vista ave., vacaville, ca, 95688, us",15.47,12.47,11.15,,8.75,ca,95688,Solano
+1135,Five Guys,"2207 claribel road, riverbank, ca, 95357, us",15.47,12.47,11.15,,8.75,ca,95357,Stanislaus
+1136,Five Guys,"4129 s. mooney blvd., visalia, ca, 93277, us",14.15,11.27,10.07,,7.91,ca,93277,Tulare
+1137,Five Guys,"1693 west lacy blvd, hanford, ca, 93230, us",14.15,11.27,10.07,,7.91,ca,93230,Kings
+1138,Five Guys,"2730 portico way, oxnard, ca, 93036, us",15.47,12.47,11.15,,8.75,ca,93036,Ventura
+1139,Five Guys,"487 n. moorpark rd., thousand oaks, ca, 91360, us",15.47,12.47,11.15,,8.75,ca,91360,Ventura
+1140,Five Guys,"31495, yucaipa, ca, 92399, us",14.03,10.79,9.59,,7.19,ca,92399,San Bernardino
+1141,Five Guys,"1254 west redondo beach blvd, gardena, ca, 90247, us",14.15,11.27,10.07,,7.91,ca,90247,Los Angeles
+1142,Five Guys,"6623 riverside dr., fresno, ca, 93722, us",15.47,12.47,11.15,,8.75,ca,93722,Fresno
+1143,Five Guys,"4625 candlewood st., lakewood, ca, 90712, us",15.47,12.47,11.15,,8.75,ca,90712,Los Angeles
+1144,Five Guys,"1299 marina boulevard, san leandro, ca, 94577, us",16.07,11.75,10.55,,7.79,ca,94577,Alameda
+1145,Five Guys,"5550 wilshire blvd ste 101d, los angeles, ca, 90036, us",15.47,12.47,11.15,,8.75,ca,90036,Los Angeles
+1146,Five Guys,"10140 carmenita rd., whittier, ca, 90605, us",14.15,11.27,10.07,,7.91,ca,90605,Los Angeles
+1147,Five Guys,"6285 pats ranch rd., mira loma, ca, 91752, us",13.67,10.79,9.59,,7.19,ca,91752,Riverside
+1148,Five Guys,"2970 w. grant line road, tracy, ca, 95304, us",15.47,12.47,11.15,,8.75,ca,95304,San Joaquin
+1149,Five Guys,"7945 haven ave, rancho cucamonga, ca, 91730, us",14.03,10.79,9.59,,7.19,ca,91730,San Bernardino
+1150,Five Guys,"1840 herndon ave., building b, suite 105, clovis, ca, 93611, us",15.47,12.47,11.15,,8.75,ca,93611,Fresno
+1151,Five Guys,"130 n el camino real, ste c, encinitas, ca, 92024, us",15.47,11.27,11.15,,8.75,ca,92024,San Diego
+1152,Five Guys,"5660 cottle rd, san jose, ca, 95123, us",14.27,11.39,10.79,,7.79,ca,95123,Santa Clara
+1153,Five Guys,"401 newport center dr. a103, newport beach, ca, 92660, us",15.47,12.47,11.15,,8.75,ca,92660,Orange
+1154,Five Guys,"4737 venice blvd, los angeles, ca, 90019, us",15.47,12.47,11.15,,8.75,ca,90019,Los Angeles
+1155,Five Guys,"30622 santa margarita pkwy, rancho santa margarita, ca, 92688, us",15.47,12.47,11.15,,8.75,ca,92688,Orange
+1156,Five Guys,"230 south lake avenue, pasadena, ca, 91101, us",15.47,12.47,11.15,,8.75,ca,91101,Los Angeles
+1157,Five Guys,"23240 hawthorne blvd., #101, torrance, ca, 90505, us",15.47,12.47,11.15,,8.75,ca,90505,Los Angeles
+1158,Five Guys,"3456 camino tassajara, danville, ca, 94506, us",14.39,11.39,10.19,,7.55,ca,94506,Contra Costa
+1159,Carls Jr,"3770 telegraph ave, oakland, ca, 94609, us",9.89,6.39,,16.44,5.19,ca,94609,Alameda
+1160,Carls Jr,"871 marina village pkwy, alameda, ca, 94501, us",9.89,6.39,,16.44,5.19,ca,94501,Alameda
+1161,Carls Jr,"10770 macarthur blvd, oakland, ca, 94605, us",9.89,6.39,,16.44,5.19,ca,94605,Alameda
+1162,Carls Jr,"1 hallidie plaza, san francisco, ca, 94102, us",12.13,7.23,,20.23,5.87,ca,94102,San Francisco
+1163,Carls Jr,"20550 mission blvd, hayward, ca, 94541, us",7.3,4.71,,9.66,4.0,ca,94541,Alameda
+1164,Carls Jr,"1550 fitzgerald drive, pinole, ca, 94564, us",8.05,6.0,,13.45,4.55,ca,94564,Contra Costa
+1165,Carls Jr,"37000, fremont, ca, 94536, us",10.79,7.19,,,4.43,ca,94536,Alameda
+1166,Carls Jr,"5670 thornton ave, newark, ca, 94560, us",10.79,7.19,,,4.43,ca,94560,Alameda
+1167,Carls Jr,"27467 hesperian blvd, hayward, ca, 94545, us",,,,,,ca,94545,Alameda
+1168,Carls Jr,"39901 balentine dr, newark, ca, 94560, us",10.79,7.19,,,4.43,ca,94560,Alameda
+1169,Carls Jr,"46637 mission blvd, fremont, ca, 94539, us",10.79,7.19,,,4.43,ca,94539,Alameda
+1170,Carls Jr,"38860, fremont, ca, 94536, us",,,,,,ca,94536,Alameda
+1171,Carls Jr,"3131 crow canyon pl, san ramon, ca, 94583, us",9.89,6.39,,,5.19,ca,94583,Contra Costa
+1172,Carls Jr,"1530 kirker pass rd, clayton, ca, 94517, us",9.89,6.39,,,5.19,ca,94517,Contra Costa
+1173,Carls Jr,"4595 century blvd., pittsburg, ca, 94565, us",8.89,6.44,,14.69,5.02,ca,94565,Contra Costa
+1174,Carls Jr,"5990 e. 2nd street, benicia, ca, 94510, us",9.06,5.19,,13.91,3.62,ca,94510,Solano
+1175,Carls Jr,"915 main st, oakley, ca, 94561, us",8.89,6.44,,14.69,5.02,ca,94561,Contra Costa
+1176,Carls Jr,"385 sun valley mall, concord, ca, 94520, us",,,,,,ca,94520,Contra Costa
+1177,Carls Jr,"1611 n blackstone ave, fresno, ca, 93703, us",9.89,6.52,,16.44,5.19,ca,93703,Fresno
+1178,Carls Jr,"1588 n 1st st, fresno, ca, 93703, us",9.89,6.52,,16.44,5.19,ca,93703,Fresno
+1179,Carls Jr,"2590 s east ave, fresno, ca, 93706, us",9.89,6.52,,16.44,5.19,ca,93706,Fresno
+1180,Carls Jr,"3983 n blackstone ave, fresno, ca, 93726, us",9.89,6.52,,16.44,5.19,ca,93726,Fresno
+1181,Carls Jr,"5007 e mckinley ave, fresno, ca, 93727, us",9.89,6.52,,16.44,5.19,ca,93727,Fresno
+1182,Carls Jr,"5625 east kings canyon road, fresno, ca, 93727, us",9.89,6.52,,16.44,5.19,ca,93727,Fresno
+1183,Carls Jr,"3520 rosedale highway, bakersfield, ca, 93308, us",8.89,6.44,,14.69,5.02,ca,93308,Kern
+1184,Carls Jr,"101 s union ave, bakersfield, ca, 93307, us",8.89,6.44,,14.69,5.02,ca,93307,Kern
+1185,Carls Jr,"2412 ming ave, bakersfield, ca, 93304, us",8.89,6.44,,14.69,5.02,ca,93304,Kern
+1186,Carls Jr,"2400 white ln, bakersfield, ca, 93304, us",8.89,6.44,,14.69,5.02,ca,93304,Kern
+1187,Carls Jr,"4800 white lane, bakersfield, ca, 93309, us",8.89,6.44,,14.69,5.02,ca,93309,Kern
+1188,Carls Jr,"3901 auburn st., bakersfield, ca, 93306, us",8.89,6.44,,14.69,5.02,ca,93306,Kern
+1189,Carls Jr,"3215 n. broadway, los angeles, ca, 90031, us",9.66,,,15.47,4.5,ca,90031,Los Angeles
+1190,Carls Jr,"3005 w 6th st, los angeles, ca, 90020, us",7.01,,,,3.25,ca,90020,Los Angeles
+1191,Carls Jr,"1611 s western ave, los angeles, ca, 90006, us",6.88,,,,3.13,ca,90006,Los Angeles
+1192,Carls Jr,"424 w los feliz rd, glendale, ca, 91204, us",7.01,,,,3.25,ca,91204,Los Angeles
+1193,Carls Jr,"2521 w. commonwealth ave., alhambra, ca, 91803, us",9.66,,,15.47,4.5,ca,91803,Los Angeles
+1194,Carls Jr,"4966 florence ave, bell, ca, 90201, us",7.01,,,,3.25,ca,90201,Los Angeles
+1195,Carls Jr,"2710 del amo blvd, lakewood, ca, 90712, us",8.76,,,15.6,4.12,ca,90712,Los Angeles
+1196,Carls Jr,"1881 e del amo blvd, carson, ca, 90746, us",8.76,,,15.6,4.12,ca,90746,Los Angeles
+1197,Carls Jr,"1259 w carson st, torrance, ca, 90502, us",8.76,,,15.6,4.12,ca,90502,Los Angeles
+1198,Carls Jr,"6601 atlantic ave, long beach, ca, 90805, us",8.76,,,15.6,4.12,ca,90805,Los Angeles
+1199,Carls Jr,"17450 s avalon blvd, carson, ca, 90746, us",8.76,,,15.6,4.12,ca,90746,Los Angeles
+1200,Carls Jr,"1360 w 190th st, torrance, ca, 90501, us",8.69,,,,3.79,ca,90501,Los Angeles
+1201,Carls Jr,"27606 n newhall ranch road, santa clarita, ca, 91355, us",8.76,,,15.6,4.12,ca,91355,Los Angeles
+1202,Carls Jr,"24715 pico canyon rd, stevenson ranch, ca, 91381, us",8.76,,,15.6,4.12,ca,91381,Los Angeles
+1203,Carls Jr,"20425, newhall, ca, 91321, us",8.76,,,15.6,4.12,ca,91321,Los Angeles
+1204,Carls Jr,"18950 soledad canyon rd, canyon country, ca, 91351, us",8.76,,,15.6,4.12,ca,91351,Los Angeles
+1205,Carls Jr,"18741 via princessa, santa clarita, ca, 91387, us",8.76,,,15.6,4.12,ca,91387,Los Angeles
+1206,Carls Jr,"18090 w. chatsworth st., granada hills, ca, 91344, us",9.66,,,15.47,4.5,ca,91344,Los Angeles
+1207,Carls Jr,"3897 sonoma blvd, vallejo, ca, 94589, us",8.05,6.0,,13.45,4.55,ca,94589,Solano
+1208,Carls Jr,"2434 junipero serra blvd, daly city, ca, 94015, us",9.89,6.39,,16.44,5.19,ca,94015,San Mateo
+1209,Carls Jr,"6460 redwood dr, rohnert park, ca, 94928, us",9.28,5.41,,14.56,4.89,ca,94928,Sonoma
+1210,Carls Jr,"1631 w imola ave, napa, ca, 94559, us",8.79,5.69,,12.97,3.99,ca,94559,Napa
+1211,Carls Jr,"1000 farmers ln, santa rosa, ca, 95405, us",9.28,5.41,,14.56,4.89,ca,95405,Sonoma
+1212,Carls Jr,"495 stony point rd, santa rosa, ca, 95401, us",9.28,5.41,,14.56,4.89,ca,95401,Sonoma
+1213,Carls Jr,"400 e market st, salinas, ca, 93901, us",8.74,,,14.99,4.36,ca,93901,Monterey
+1214,Carls Jr,"1061 n davis rd, salinas, ca, 93907, us",8.74,,,14.99,4.36,ca,93907,Monterey
+1215,Carls Jr,"902 lighthouse ave, monterey, ca, 93940, us",8.74,,,14.99,4.36,ca,93940,Monterey
+1216,Carls Jr,"1901, freedom, ca, 95019, us",8.15,,,14.75,3.59,ca,95019,Santa Cruz
+1217,Carls Jr,"1830 n bristol st bldg 18, santa ana, ca, 92706, us",6.88,,,,3.13,ca,92706,Orange
+1218,Carls Jr,"1943 e. 17th st, santa ana, ca, 92705, us",8.76,,,15.6,4.12,ca,92705,Orange
+1219,Carls Jr,"402 s main st, orange, ca, 92868, us",7.01,,,,3.25,ca,92868,Orange
+1220,Carls Jr,"1809 e edinger ave, santa ana, ca, 92705, us",6.88,,,,3.13,ca,92705,Orange
+1221,Carls Jr,"2511 s bristol, santa ana, ca, 92707, us",6.54,,,,2.98,ca,92707,Orange
+1222,Carls Jr,"16101 n. harbor blvd, fountain valley, ca, 92708, us",8.76,,,15.6,4.12,ca,92708,Orange
+1223,Carls Jr,"1701 douglas blvd, roseville, ca, 95661, us",8.89,6.44,,14.69,5.02,ca,95661,Placer
+1224,Carls Jr,"5201 elkhorn blvd, sacramento, ca, 95842, us",8.89,6.44,,14.69,5.02,ca,95842,Sacramento
+1225,Carls Jr,"5935 madison ave, carmichael, ca, 95608, us",8.89,6.44,,14.69,5.02,ca,95608,Sacramento
+1226,Carls Jr,"4002 foothills blvd, roseville, ca, 95747, us",8.89,6.44,,14.69,5.02,ca,95747,Placer
+1227,Carls Jr,"6741 stanford ranch rd, rocklin, ca, 95677, us",,,,,4.79,ca,95677,Placer
+1228,Carls Jr,"1300 east, roseville, ca, 95661, us",,,,,,ca,95661,Placer
+1229,Carls Jr,"2300 grass valley highway, auburn, ca, 95603-2554, us",,,,,4.59,ca,95603,Placer
+1230,Carls Jr,"4315 sierra college blvd, rocklin, ca, 95650, us",,,,,4.79,ca,95650,Placer
+1231,Carls Jr,"8477 sierra college blvd, roseville, ca, 95661, us",8.89,6.44,,14.69,5.02,ca,95661,Placer
+1232,Carls Jr,"6608 lonetree blvd, rocklin, ca, 95765, us",8.89,6.44,,14.69,5.02,ca,95765,Placer
+1233,Carls Jr,"1250 university ave, riverside, ca, 92507, us",8.76,,,15.6,4.12,ca,92507,Riverside
+1234,Carls Jr,"3483 madison st, riverside, ca, 92504, us",8.76,,,15.6,4.12,ca,92504,Riverside
+1235,Carls Jr,"10100 ben nevis blvd, glen avon, ca, 92509, us",8.76,,,15.6,4.12,ca,92509,Riverside
+1236,Carls Jr,"22580 cactus ave, moreno valley, ca, 92553, us",8.74,5.98,,10.88,4.11,ca,92553,Riverside
+1237,Carls Jr,"620 w foothill blvd, rialto, ca, 92376, us",8.76,,,15.6,4.12,ca,92376,San Bernardino
+1238,Carls Jr,"25055 elder ave, moreno valley, ca, 92557, us",8.74,5.98,,10.88,4.11,ca,92557,Riverside
+1239,Carls Jr,"16130 perris blvd, moreno valley, ca, 92551, us",8.76,,,15.6,4.12,ca,92551,Riverside
+1240,Carls Jr,"736 ramona expressway, perris, ca, 92570, us",8.74,5.98,,10.88,4.11,ca,92570,Riverside
+1241,Carls Jr,"69 w nuevo rd, perris, ca, 92571, us",7.01,,,10.75,3.25,ca,92571,Riverside
+1242,Carls Jr,"40980 california oaks rd, murrieta, ca, 92562, us",9.55,,,14.85,4.4,ca,92562,Riverside
+1243,Carls Jr,"23761 washington ave, murrieta, ca, 92562, us",9.55,,,,4.4,ca,92562,Riverside
+1244,Carls Jr,"30660 rancho california rd, temecula, ca, 92591, us",7.25,,,,4.22,ca,92591,Riverside
+1245,Carls Jr,"854 harbor blvd, west sacramento, ca, 95691, us",8.89,6.44,,14.69,5.02,ca,95691,Yolo
+1246,Carls Jr,"2615 broadway, sacramento, ca, 95818, us",8.89,6.44,,14.69,5.02,ca,95818,Sacramento
+1247,Carls Jr,"2460 w. el camino avenue, sacramento, ca, 95833, us",8.89,6.44,,14.69,5.02,ca,95833,Sacramento
+1248,Carls Jr,"3027 k st, sacramento, ca, 95816, us",,,,,,ca,95816,Sacramento
+1249,Carls Jr,"8722, elk grove, ca, 95624, us",8.89,6.44,,14.69,5.02,ca,95624,Sacramento
+1250,Carls Jr,"9664 bruceville rd, elk grove, ca, 95757, us",8.89,6.44,,14.69,5.02,ca,95757,Sacramento
+1251,Carls Jr,"6201 mack road, sacramento, ca, 95823, us",8.89,6.44,,14.69,5.02,ca,95823,Sacramento
+1252,Carls Jr,"4244 florin rd, sacramento, ca, 95823, us",,,,,,ca,95823,Sacramento
+1253,Carls Jr,"293 east 40th street, san bernardino, ca, 92404, us",7.79,,,,3.59,ca,92404,San Bernardino
+1254,Carls Jr,"1334 s. riverside ave, rialto, ca, 92376, us",8.76,,,15.6,4.12,ca,92376,San Bernardino
+1255,Carls Jr,"2022 n riverside ave, rialto, ca, 92377, us",8.76,,,15.6,4.12,ca,92377,San Bernardino
+1256,Carls Jr,"1205 colton ave, redlands, ca, 92374, us",8.76,,,15.6,4.12,ca,92374,San Bernardino
+1257,Carls Jr,"14454 valley blvd, fontana, ca, 92335, us",7.13,,,,3.25,ca,92335,San Bernardino
+1258,Carls Jr,"11738 foothill blvd, rancho cucamonga, ca, 91730, us",8.76,,,15.6,4.12,ca,91730,San Bernardino
+1259,Carls Jr,"15227 hook blvd, victorville, ca, 92394, us",8.76,,,15.6,4.12,ca,92394,San Bernardino
+1260,Carls Jr,"14292 highway 395, adelanto, ca, 92301, us",8.76,,,15.6,4.12,ca,92301,San Bernardino
+1261,Carls Jr,"12271, apple valley, ca, 92308, us",8.76,,,15.6,4.12,ca,92308,San Bernardino
+1262,Carls Jr,"14717 bear valley rd, victorville, ca, 92345, us",7.79,,,12.87,3.59,ca,92345,San Bernardino
+1263,Carls Jr,"17110 bear valley rd, victorville, ca, 92395, us",7.79,,,12.87,3.59,ca,92395,San Bernardino
+1264,Carls Jr,"14244 valley center dr, victorville, ca, 92395, us",,,,,,ca,92395,San Bernardino
+1265,Carls Jr,"15669 main st, hesperia, ca, 92345, us",7.79,,,12.87,3.59,ca,92345,San Bernardino
+1266,Carls Jr,"3381 rosecrans st, san diego, ca, 92110, us",7.74,5.49,,13.99,3.74,ca,92110,San Diego
+1267,Carls Jr,"3008 el cajon blvd, san diego, ca, 92104, us",7.74,5.49,,13.99,3.74,ca,92104,San Diego
+1268,Carls Jr,"845 morena blvd, san diego, ca, 92110, us",7.74,5.49,,13.99,3.74,ca,92110,San Diego
+1269,Carls Jr,"1280 e plaza blvd, national city, ca, 91950, us",7.74,5.49,,,3.74,ca,91950,San Diego
+1270,Carls Jr,"2903 burgener blvd, san diego, ca, 92110, us",7.74,5.49,,13.99,3.74,ca,92110,San Diego
+1271,Carls Jr,"5901 university ave, san diego, ca, 92115, us",7.74,5.49,,13.99,3.74,ca,92115,San Diego
+1272,Carls Jr,"695 h st, chula vista, ca, 91910, us",7.74,5.49,,,3.74,ca,91910,San Diego
+1273,Carls Jr,"1502 sweetwater rd, national city, ca, 91950, us",7.74,5.49,,,3.74,ca,91950,San Diego
+1274,Carls Jr,"996 third ave., chula vista, ca, 91911, us",7.74,5.49,,13.99,3.74,ca,91911,San Diego
+1275,Carls Jr,"1100 broadway, chula vista, ca, 91911, us",7.74,5.49,,13.99,3.74,ca,91911,San Diego
+1276,Carls Jr,"700 13th street, imperial beach, ca, 91932, us",7.74,5.49,,13.99,3.74,ca,91932,San Diego
+1277,Carls Jr,"950, carlsbad, ca, 92008, us",7.74,5.49,,13.99,3.74,ca,92008,San Diego
+1278,Carls Jr,"2608 el camino real, carlsbad, ca, 92010, us",7.74,5.49,,13.99,3.74,ca,92010,San Diego
+1279,Carls Jr,"611 douglas dr, oceanside, ca, 92058, us",7.74,5.49,,13.99,3.74,ca,92058,San Diego
+1280,Carls Jr,"4186, oceanside, ca, 92056, us",7.74,5.49,,13.99,3.74,ca,92056,San Diego
+1281,Carls Jr,"775 college blvd, oceanside, ca, 92057, us",7.74,5.49,,13.99,3.74,ca,92057,San Diego
+1282,Carls Jr,"925 palomar airport rd, carlsbad, ca, 92011, us",7.74,5.49,,13.99,3.74,ca,92011,San Diego
+1283,Carls Jr,"110 hickey blvd, south san francisco, ca, 94080, us",9.67,5.43,,14.82,4.22,ca,94080,San Mateo
+1284,Carls Jr,"899 cherry ave, san bruno, ca, 94066, us",9.89,6.39,,16.44,5.19,ca,94066,San Mateo
+1285,Carls Jr,"939 w. charter way, stockton, ca, 95206, us",8.89,6.44,,14.69,5.02,ca,95206,San Joaquin
+1286,Carls Jr,"2610 w. march lane, stockton, ca, 95207, us",8.89,6.44,,14.69,5.02,ca,95207,San Joaquin
+1287,Carls Jr,"1535 e. hammer lane, stockton, ca, 95210, us",8.89,6.44,,14.69,5.02,ca,95210,San Joaquin
+1288,Carls Jr,"7432 pacific ave, stockton, ca, 95207, us",8.89,6.44,,14.69,5.02,ca,95207,San Joaquin
+1289,Carls Jr,"3205 w. hammer lane, stockton, ca, 95209, us",8.89,6.44,,14.69,5.02,ca,95209,San Joaquin
+1290,Carls Jr,"200 louise ave, lathrop, ca, 95330, us",9.89,6.39,,,5.19,ca,95330,San Joaquin
+1291,Carls Jr,"3980 broad street, san luis obispo, ca, 93401, us",9.4,6.44,,,4.89,ca,93401,San Luis Obispo
+1292,Carls Jr,"1590 w branch street, arroyo grande, ca, 93420, us",9.4,6.44,,,4.89,ca,93420,San Luis Obispo
+1293,Carls Jr,"7085 el camino real, atascadero, ca, 93422, us",9.28,6.31,,,4.76,ca,93422,San Luis Obispo
+1294,Carls Jr,"2201 theatre drive, paso robles, ca, 93446, us",9.28,6.31,,,4.76,ca,93446,San Luis Obispo
+1295,Carls Jr,"2725 black oak drive, paso robles, ca, 93446, us",9.4,6.44,,,4.89,ca,93446,San Luis Obispo
+1296,Carls Jr,"1140 triton dr, san mateo, ca, 94404, us",9.89,6.39,,16.44,5.19,ca,94404,San Mateo
+1297,Carls Jr,"1001 veterans blvd, redwood city, ca, 94063, us",9.89,6.39,,,5.19,ca,94063,San Mateo
+1298,Carls Jr,"1355 s bradley rd, santa maria, ca, 93454, us",9.4,6.44,,,4.89,ca,93454,Santa Barbara
+1299,Carls Jr,"2185 s broadway, santa maria, ca, 93454, us",9.28,6.31,,,4.76,ca,93454,Santa Barbara
+1300,Carls Jr,"7 s milpas street, santa barbara, ca, 93103, us",9.28,6.31,,,4.76,ca,93103,Santa Barbara
+1301,Carls Jr,"5820 calle real, goleta, ca, 93117, us",9.4,6.44,,,4.89,ca,93117,Santa Barbara
+1302,Carls Jr,"4610, carpinteria, ca, 93013, us",9.28,6.31,,,4.76,ca,93013,Santa Barbara
+1303,Carls Jr,"2427 e thompson blvd, ventura, ca, 93003, us",6.88,,,,3.13,ca,93003,Ventura
+1304,Carls Jr,"1745 s victoria ave, ventura, ca, 93003, us",8.76,,,15.6,4.12,ca,93003,Ventura
+1305,Carls Jr,"3015 johnson drive, ventura, ca, 93003, us",8.76,,,15.6,4.12,ca,93003,Ventura
+1306,Carls Jr,"655 coleman ave, san jose, ca, 95110, us",7.81,5.74,,14.13,3.44,ca,95110,Santa Clara
+1307,Carls Jr,"1095 oakland rd, san jose, ca, 95112, us",10.79,7.19,,14.99,4.43,ca,95112,Santa Clara
+1308,Carls Jr,"2495 lafayette st, santa clara, ca, 95050, us",7.81,5.74,,14.13,3.44,ca,95050,Santa Clara
+1309,Carls Jr,"270 saratoga ave, santa clara, ca, 95050, us",7.81,5.74,,14.13,3.44,ca,95050,Santa Clara
+1310,Carls Jr,"1890 mccandless dr, milpitas, ca, 95035, us",10.79,7.19,,14.99,4.43,ca,95035,Santa Clara
+1311,Carls Jr,"2802 s white rd, san jose, ca, 95148, us",7.81,5.74,,14.13,3.44,ca,95148,Santa Clara
+1312,Carls Jr,"1051 e el camino real, sunnyvale, ca, 94086, us",9.89,6.39,,,5.19,ca,94086,Santa Clara
+1313,Carls Jr,"2900 bowers ave, santa clara, ca, 95051, us",7.81,5.74,,14.13,3.44,ca,95051,Santa Clara
+1314,Carls Jr,"5000 el camino real, los altos, ca, 94022, us",,,,,,ca,94022,Santa Clara
+1315,Carls Jr,"5620, scotts valley, ca, 95066, us",8.15,,,14.75,3.59,ca,95066,Santa Cruz
+1316,Carls Jr,"4400 central pl, fairfield, ca, 94534, us",8.05,6.0,,13.45,4.55,ca,94534,Solano
+1317,Carls Jr,"2380 n texas st, fairfield, ca, 94533, us",8.05,6.0,,13.45,4.55,ca,94533,Solano
+1318,Carls Jr,"289 orange dr, vacaville, ca, 95687, us",8.05,6.0,,13.45,4.55,ca,95687,Solano
+1319,Carls Jr,"3640 industrial drive, santa rosa, ca, 95403, us",9.28,5.41,,14.56,4.89,ca,95403,Sonoma
+1320,Carls Jr,"373 aviation blvd, santa rosa, ca, 95403, us",9.28,5.41,,14.56,4.89,ca,95403,Sonoma
+1321,Carls Jr,"1037 vine st, healdsburg, ca, 95448, us",9.28,5.41,,14.56,4.89,ca,95448,Sonoma
+1322,Carls Jr,"2808 mchenry ave, modesto, ca, 95350, us",9.89,6.39,,16.44,5.19,ca,95350,Stanislaus
+1323,Carls Jr,"1643 e. hatch road, modesto, ca, 95351, us",9.89,6.39,,16.44,5.19,ca,95351,Stanislaus
+1324,Carls Jr,"1600 oakdale rd, modesto, ca, 95355, us",9.89,6.39,,16.44,5.19,ca,95355,Stanislaus
+1325,Carls Jr,"118 e whitmore ave, modesto, ca, 95358, us",9.89,6.39,,16.44,5.19,ca,95358,Stanislaus
+1326,Carls Jr,"2420 mitchell rd, ceres, ca, 95307, us",9.89,6.39,,16.44,5.19,ca,95307,Stanislaus
+1327,Carls Jr,"4125 sisk rd, modesto, ca, 95356, us",9.89,6.39,,16.44,5.19,ca,95356,Stanislaus
+1328,Carls Jr,"1336 e main st, visalia, ca, 93292, us",9.89,6.52,,,5.19,ca,93292,Tulare
+1329,Carls Jr,"501 s chinowth st, visalia, ca, 93277, us",9.89,6.52,,,5.19,ca,93277,Tulare
+1330,Carls Jr,"3350 s mooney blvd, visalia, ca, 93277, us",9.89,6.52,,,5.19,ca,93277,Tulare
+1331,Carls Jr,"1527 hillman st, tulare, ca, 93274, us",9.89,6.52,,,5.19,ca,93274,Tulare
+1332,Carls Jr,"85 s tower sq, tulare, ca, 93274, us",9.89,6.52,,,5.19,ca,93274,Tulare
+1333,Carls Jr,"480 n rose ave, oxnard, ca, 93030, us",6.54,,,,2.98,ca,93030,Ventura
+1334,Carls Jr,"2301 n, oxnard, ca, 93036, us",6.66,,,,3.09,ca,93036,Ventura
+1335,Carls Jr,"3255 saviers rd, oxnard, ca, 93033, us",6.54,,,,2.98,ca,93033,Ventura
+1336,Carls Jr,"717 channel islands blvd, port hueneme, ca, 93041, us",6.54,,,,2.98,ca,93041,Ventura
+1337,Carls Jr,"1670 w pacific coast hwy, long beach, ca, 90813, us",8.22,,,13.54,3.62,ca,90813,Los Angeles
+1338,Carls Jr,"700, long beach, ca, 90813, us",8.69,,,,4.19,ca,90813,Los Angeles
+1339,Carls Jr,"7162 broadway, lemon grove, ca, 91945, us",7.74,5.49,,13.99,3.74,ca,91945,San Diego
+1340,Carls Jr,"14041 newport ave, tustin, ca, 92780, us",9.02,,,15.85,4.12,ca,92780,Orange
+1341,Carls Jr,"1751 s soto st, los angeles, ca, 90023, us",8.69,,,,4.19,ca,90023,Los Angeles
+1342,Carls Jr,"1439 e gage ave, los angeles, ca, 90001, us",6.88,,,,3.13,ca,90001,Los Angeles
+1343,Carls Jr,"4424 university parkway, san bernardino, ca, 92407, us",7.01,,,10.75,3.25,ca,92407,San Bernardino
+1344,Carls Jr,"1142 fremont blvd, seaside, ca, 93955, us",8.74,,,14.99,4.36,ca,93955,Monterey
+1345,Carls Jr,"8919 limonite ave, riverside, ca, 92509, us",9.55,,,14.85,4.4,ca,92509,Riverside
+1346,Carls Jr,"8150 sheldon rd, elk grove, ca, 95758, us",8.89,6.44,,14.69,5.02,ca,95758,Sacramento
+1347,Carls Jr,"7151 franklin blvd, sacramento, ca, 95823, us",8.89,6.44,,14.69,5.02,ca,95823,Sacramento
+1348,Carls Jr,"11051 euclid ave, garden grove, ca, 92840, us",7.01,,,10.75,3.25,ca,92840,Orange
+1349,Carls Jr,"40375, murrieta, ca, 92563, us",9.55,,,14.85,4.4,ca,92563,Riverside
+1350,Carls Jr,"6061 van buren blvd, riverside, ca, 92503, us",6.88,,,,3.13,ca,92503,Riverside
+1351,Carls Jr,"13011 harbor blvd, garden grove, ca, 92843, us",6.88,,,10.63,3.13,ca,92843,Orange
+1352,Carls Jr,"1101 branham ln, san jose, ca, 95118, us",8.39,5.99,,14.99,3.59,ca,95118,Santa Clara
+1353,Carls Jr,"172 bernal rd, san jose, ca, 95139, us",8.39,5.99,,14.99,3.59,ca,95139,Santa Clara
+1354,Carls Jr,"2320 e 4th st, los angeles, ca, 90033, us",8.69,,,,4.19,ca,90033,Los Angeles
+1355,Carls Jr,"251 diamond dr, lake elsinore, ca, 92530, us",9.55,,,,4.4,ca,92530,Riverside
+1356,Carls Jr,"30604 benton rd, winchester, ca, 92596, us",9.7,,,,4.4,ca,92596,Riverside
+1357,Carls Jr,"1505 e highland ave, san bernardino, ca, 92404, us",6.88,,,10.63,3.13,ca,92404,San Bernardino
+1358,Carls Jr,"2940 van buren boulevard suite 100, riverside, ca, 92503, us",9.02,,,15.85,4.12,ca,92503,Riverside
+1359,Carls Jr,"101 ferrari ranch rd, lincoln, ca, 95648, us",8.89,6.44,,14.69,5.02,ca,95648,Placer
+1360,Carls Jr,"2912 s figueroa st, los angeles, ca, 90007, us",8.69,,,15.57,4.19,ca,90007,Los Angeles
+1361,Carls Jr,"2820 e. lincoln ave, anaheim, ca, 92806, us",9.02,,,15.85,4.12,ca,92806,Orange
+1362,Carls Jr,"3110 e la palma, anaheim, ca, 92806, us",7.01,,,,3.25,ca,92806,Orange
+1363,Carls Jr,"1180 s mount vernon ave, colton, ca, 92324, us",8.74,6.24,,14.99,4.11,ca,92324,San Bernardino
+1364,Carls Jr,"524 inland center dr, san bernardino, ca, 92410, us",9.02,,,15.85,4.12,ca,92410,San Bernardino
+1365,Carls Jr,"27670 eucalyptus ave, moreno valley, ca, 92555, us",7.79,,,12.87,3.59,ca,92555,Riverside
+1366,Carls Jr,"5225 canyon crest dr ste 82, riverside, ca, 92507, us",8.74,6.24,,,4.11,ca,92507,Riverside
+1367,Carls Jr,"660 hacienda dr, vista, ca, 92081, us",7.74,5.49,,13.99,3.74,ca,92081,San Diego
+1368,Carls Jr,"794 n brookhurst st, anaheim, ca, 92801, us",7.01,,,,3.25,ca,92801,Orange
+1369,Carls Jr,"8361 la palma, buena park, ca, 90620, us",9.02,,,15.85,4.12,ca,90620,Orange
+1370,Carls Jr,"271 e willow st, long beach, ca, 90806, us",8.69,,,,4.19,ca,90806,Los Angeles
+1371,Carls Jr,"2119 s harbor blvd, anaheim, ca, 92802, us",6.66,,,,3.09,ca,92802,Orange
+1372,Carls Jr,"840 sepulveda blvd, harbor city, ca, 90710, us",8.69,,,,4.19,ca,90710,Los Angeles
+1373,Carls Jr,"229 west 7th street, los angeles, ca, 90014, us",9.39,,,,4.09,ca,90014,Los Angeles
+1374,Carls Jr,"1315 florin road, sacramento, ca, 95831, us",8.89,6.44,,14.69,5.02,ca,95831,Sacramento
+1375,Carls Jr,"5501 freeport ave, sacramento, ca, 95822, us",8.89,6.44,,14.69,5.02,ca,95822,Sacramento
+1376,The Habit,"2000 el camino real, santa clara, ca, 95050, us",9.99,8.86,7.49,19.12,4.99,ca,95050,Santa Clara
+1377,The Habit,"1078 e brokaw rd, san jose, ca, 95131, us",9.86,8.74,7.49,18.99,4.99,ca,95131,Santa Clara
+1378,The Habit,"2000 s bascom ave, campbell, ca, 95008, us",10.36,9.24,7.86,19.49,4.99,ca,95008,Santa Clara
+1379,The Habit,"249-f n, glendale, ca, 91206, us",9.86,8.74,7.49,18.73,4.86,ca,91206,Los Angeles
+1380,The Habit,"901 fair oaks avenue, south pasadena, ca, 91030, us",10.36,9.24,7.86,19.49,4.99,ca,91030,Los Angeles
+1381,The Habit,"1115 e bidwell st, folsom, ca, 95630, us",9.61,8.74,7.49,17.61,4.49,ca,95630,Sacramento
+1382,The Habit,"1540 e 14th st, san leandro, ca, 94577, us",9.99,8.86,7.49,19.12,4.99,ca,94577,Alameda
+1383,The Habit,"5108 broadway, oakland, ca, 94611, us",9.86,8.74,7.49,18.99,4.99,ca,94611,Alameda
+1384,The Habit,"1400 ocean st, santa cruz, ca, 95060, us",9.86,8.74,7.49,18.73,4.86,ca,95060,Santa Cruz
+1385,The Habit,"7307 n figueroa st, los angeles, ca, 90041, us",9.86,8.74,7.49,18.73,4.86,ca,90041,Los Angeles
+1386,The Habit,"3801 n lakewood blvd, long beach, ca, 90808, us",9.61,8.74,7.49,17.61,4.49,ca,90808,Los Angeles
+1387,The Habit,"15754, paramount, ca, 90723, us",9.49,8.61,7.36,17.36,4.36,ca,90723,Los Angeles
+1388,The Habit,"12631 glenoaks boulevard, los angeles, ca, 91342, us",9.86,8.74,7.49,18.99,4.99,ca,91342,Los Angeles
+1389,The Habit,"19223 golden valley rd, santa clarita, ca, 91387, us",9.99,8.86,7.49,19.12,4.99,ca,91387,Los Angeles
+1390,The Habit,"2030 wyatt drive, santa clara, ca, 95054, us",9.86,8.74,7.49,18.99,4.99,ca,95054,Santa Clara
+1391,The Habit,"3510 tyler st, riverside, ca, 92505, us",9.61,8.74,7.49,17.61,4.49,ca,92505,Riverside
+1392,The Habit,"2430 mahogany way, antioch, ca, 94509, us",9.86,8.74,7.49,18.73,4.86,ca,94509,Contra Costa
+1393,The Habit,"1640 e monte vista ave, vacaville, ca, 95688, us",10.36,9.24,7.86,19.49,4.99,ca,95688,Solano
+1394,The Habit,"2720 nutwood ave, fullerton, ca, 92831, us",9.61,8.74,7.49,17.61,4.49,ca,92831,Orange
+1395,The Habit,"5735 hollister avenue, goleta, ca, 93117, us",9.61,8.74,7.49,17.61,4.49,ca,93117,Santa Barbara
+1396,The Habit,"3555, riverside, ca, 92506, us",9.86,8.74,7.49,18.73,4.86,ca,92506,Riverside
+1397,The Habit,"13982 newport avenue, tustin, ca, 92780, us",9.74,8.74,7.49,18.37,4.74,ca,92780,Orange
+1398,The Habit,"6326 ashe road, bakersfield, ca, 93313, us",9.99,8.86,7.49,19.12,4.99,ca,93313,Kern
+1399,The Habit,"5503 calloway drive, bakersfield, ca, 93312, us",9.61,8.74,7.49,17.61,4.49,ca,93312,Kern
+1400,The Habit,"2120 california ave, sand city, ca, 93955, us",9.99,8.86,7.49,19.12,4.99,ca,93955,Monterey
+1401,The Habit,"305 gellert blvd, daly city, ca, 94015, us",9.99,8.86,7.49,19.12,4.99,ca,94015,San Mateo
+1402,The Habit,"7400 laguna blvd, elk grove, ca, 95758, us",9.61,8.74,7.49,17.61,4.49,ca,95758,Sacramento
+1403,The Habit,"6821 eastern ave., bell gardens, ca, 90201, us",9.49,8.61,7.36,17.36,4.36,ca,90201,Los Angeles
+1404,The Habit,"5291 martinelli way, dublin, ca, 94568, us",9.86,8.74,7.49,18.73,4.86,ca,94568,Alameda
+1405,The Habit,"1255 s california blvd, walnut creek, ca, 94596, us",9.99,8.86,7.49,19.12,4.99,ca,94596,Contra Costa
+1406,The Habit,"3030 capitol avenue, sacramento, ca, 95816, us",9.99,8.86,7.49,19.12,4.99,ca,95816,Sacramento
+1407,The Habit,"1205 w renaissance pkwy, rialto, ca, 92376, us",9.99,8.86,7.49,19.12,4.99,ca,92376,San Bernardino
+1408,The Habit,"2682 naglee rd, tracy, ca, 95304, us",10.36,9.24,7.86,19.49,4.99,ca,95304,San Joaquin
+1409,The Habit,"3900 california ave, bakersfield, ca, 93309, us",9.86,8.74,7.49,18.73,4.86,ca,93309,Kern
+1410,The Habit,"17947 chatsworth street, los angeles, ca, 91344, us",9.86,8.74,7.49,18.73,4.86,ca,91344,Los Angeles
+1411,The Habit,"22301 foothill boulevard, hayward, ca, 94541, us",9.86,8.74,7.49,18.73,4.86,ca,94541,Alameda
+1412,The Habit,"8480 n friant rd, fresno, ca, 93720, us",9.99,8.86,7.49,19.12,4.99,ca,93720,Fresno
+1413,The Habit,"9750 sierra avenue, fontana, ca, 92335, us",9.99,8.86,7.49,19.12,4.99,ca,92335,San Bernardino
+1414,The Habit,"969 e prosperity ave, tulare, ca, 93274, us",10.36,9.24,7.86,19.49,4.99,ca,93274,Tulare
+1415,The Habit,"4542 east pacific coast highway, long beach, ca, 90804, us",9.49,8.61,7.36,17.36,4.36,ca,90804,Los Angeles
+1416,The Habit,"148 east, compton, ca, 90220, us",9.86,8.74,7.49,18.73,4.86,ca,90220,Los Angeles
+1417,The Habit,"3455 sports arena blvd, san diego, ca, 92110, us",9.99,8.86,7.49,19.12,4.99,ca,92110,San Diego
+1418,The Habit,"4175 genesee ave, san diego, ca, 92111, us",9.49,8.61,7.36,17.36,4.36,ca,92111,San Diego
+1419,The Habit,"1735 trancas street, suite d, napa, ca, 94558, us",9.86,8.74,7.49,18.73,4.86,ca,94558,Napa
+1420,The Habit,"2777 n main st, santa ana, ca, 92705, us",9.61,8.74,7.49,17.61,4.49,ca,92705,Orange
+1421,The Habit,"1940 blue oaks boulevard, roseville, ca, 95747, us",9.86,8.74,7.49,18.99,4.99,ca,95747,Placer
+1422,The Habit,"28251 newhall ranch rd, santa clarita, ca, 91355, us",9.49,8.61,7.36,17.36,4.36,ca,91355,Los Angeles
+1423,The Habit,"2992 jamacha road, el cajon, ca, 92019, us",9.74,8.74,7.49,18.37,4.74,ca,92019,San Diego
+1424,The Habit,"4730 freeport boulevard, sacramento, ca, 95822, us",9.99,8.86,7.49,19.12,4.99,ca,95822,Sacramento
+1425,The Habit,"3610, rosemead, ca, 91770, us",9.61,8.74,7.49,17.61,4.49,ca,91770,Los Angeles
+1426,The Habit,"3520 n blackstone ave, fresno, ca, 93726, us",9.99,8.86,7.49,19.12,4.99,ca,93726,Fresno
+1427,The Habit,"25948 mcbean parkway, santa clarita, ca, 91355, us",9.86,8.74,7.49,18.73,4.86,ca,91355,Los Angeles
+1428,The Habit,"845 camino de la reina, san diego, ca, 92108, us",9.99,8.86,7.49,19.12,4.99,ca,92108,San Diego
+1429,The Habit,"1413 north h street, lompoc, ca, 93436, us",9.61,8.74,7.49,17.61,4.49,ca,93436,Santa Barbara
+1430,The Habit,"888 embarcadero del norte, isla vista, ca, 93117, us",9.61,8.74,7.49,17.61,4.49,ca,93117,Santa Barbara
+1431,The Habit,"2134 sunset blvd, los angeles, ca, 90026, us",9.99,8.86,7.49,19.12,4.99,ca,90026,Los Angeles
+1432,The Habit,"8124 delta shores circle, sacramento, ca, 95832, us",9.99,8.86,7.49,19.12,4.99,ca,95832,Sacramento
+1433,The Habit,"4210 east 4th street, ontario, ca, 91764, us",9.99,8.86,7.49,19.12,4.99,ca,91764,San Bernardino
+1434,The Habit,"563 w channel islands blvd, port hueneme, ca, 93041, us",9.61,8.74,7.49,17.61,4.49,ca,93041,Ventura
+1435,The Habit,"5500 campanile dr. 5500 campanile dr. aztec student union sdsu, san diego, ca, 92115, us",9.86,8.74,7.49,18.99,4.99,ca,92115,San Diego
+1436,The Habit,"5018 almaden expy, san jose, ca, 95118, us",10.36,9.24,7.86,19.49,4.99,ca,95118,Santa Clara
+1437,The Habit,"702 w shaw ave, fresno, ca, 93704, us",9.99,8.86,7.49,19.12,4.99,ca,93704,Fresno
+1438,The Habit,"1504 geary rd, walnut creek, ca, 94597, us",10.36,9.24,7.86,19.49,4.99,ca,94597,Contra Costa
+1439,The Habit,"2267 s el camino real, oceanside, ca, 92054, us",9.74,8.74,7.49,18.37,4.74,ca,92054,San Diego
+1440,The Habit,"1325 e yosemite ave, manteca, ca, 95336, us",9.99,8.86,7.49,19.12,4.99,ca,95336,San Joaquin
+1441,The Habit,"5968 orangethorpe ave, buena park, ca, 90620, us",9.61,8.74,7.49,17.61,4.49,ca,90620,Orange
+1442,The Habit,"1446, encinitas, ca, 92024, us",9.49,8.61,7.36,17.36,4.36,ca,92024,San Diego
+1443,The Habit,"3060 east 9th street, oakland, ca, 94601, us",9.86,8.74,7.49,18.99,4.99,ca,94601,Alameda
+1444,The Habit,"3161 zinfandel dr, rancho cordova, ca, 95670, us",9.61,8.74,7.49,17.61,4.49,ca,95670,Sacramento
+1445,The Habit,"101 e orangethorpe ave, fullerton, ca, 92832, us",9.86,8.74,7.49,18.99,4.99,ca,92832,Orange
+1446,The Habit,"10895 foothill blvd, rancho cucamonga, ca, 91730, us",9.99,8.86,7.49,19.12,4.99,ca,91730,San Bernardino
+1447,The Habit,"1431 howe ave, sacramento, ca, 95825, us",9.61,8.74,7.49,17.61,4.49,ca,95825,Sacramento
+1448,The Habit,"1602 north main st, salinas, ca, 93906, us",9.99,8.86,7.49,19.12,4.99,ca,93906,Monterey
+1449,The Habit,"12560 day st, moreno valley, ca, 92553, us",9.74,8.74,7.49,18.37,4.74,ca,92553,Riverside
+1450,The Habit,"3650 village dr, castro valley, ca, 94546, us",9.99,8.86,7.49,19.12,4.99,ca,94546,Alameda
+1451,The Habit,"999 main street, watsonville, ca, 95076, us",9.99,8.86,7.49,19.12,4.99,ca,95076,Santa Cruz
+1452,The Habit,"5437 sunrise blvd, citrus heights, ca, 95610, us",9.99,8.86,7.49,19.12,4.99,ca,95610,Sacramento
+1453,The Habit,"1110, concord, ca, 94520, us",10.36,9.24,7.86,19.49,4.99,ca,94520,Contra Costa
+1454,The Habit,"839 higuera st, san luis obispo, ca, 93401, us",9.99,8.86,7.49,19.12,4.99,ca,93401,San Luis Obispo
+1455,The Habit,"27511 san bernardino ave, redlands, ca, 92374, us",9.99,8.86,7.49,19.12,4.99,ca,92374,San Bernardino
+1456,The Habit,"933 pleasant grove blvd, roseville, ca, 95678, us",9.49,8.61,7.36,17.36,4.36,ca,95678,Placer
+1457,The Habit,"1801 mchenry ave, modesto, ca, 95350, us",9.49,8.61,7.36,17.36,4.36,ca,95350,Stanislaus
+1458,The Habit,"32068, temecula, ca, 92592, us",9.86,8.74,7.49,18.73,4.86,ca,92592,Riverside
+1459,The Habit,"12900 brimhall rd, bakersfield, ca, 93314, us",9.61,8.74,7.49,17.61,4.49,ca,93314,Kern
+1460,The Habit,"16138 south highland avenue, fontana, ca, 92336, us",9.99,8.86,7.49,19.12,4.99,ca,92336,San Bernardino
+1461,The Habit,"7610 via campanile, carlsbad, ca, 92009, us",9.61,8.74,7.49,17.61,4.49,ca,92009,San Diego
+1462,The Habit,"2640 5th st, alameda, ca, 94501, us",9.99,8.86,7.49,19.12,4.99,ca,94501,Alameda
+1463,The Habit,"6724 north brawley avenue, fresno, ca, 93711, us",9.86,8.74,7.49,18.73,4.86,ca,93711,Fresno
+1464,The Habit,"445 hacienda drive, vista, ca, 92081, us",9.86,8.74,7.49,18.99,4.99,ca,92081,San Diego
+1465,The Habit,"11257 183rd st, cerritos, ca, 90703, us",9.49,8.61,7.36,17.36,4.36,ca,90703,Los Angeles
+1466,The Habit,"7295 amador plaza rd, dublin, ca, 94568, us",9.86,8.74,7.49,18.73,4.86,ca,94568,Alameda
+1467,The Habit,"2350 e vineyard ave, oxnard, ca, 93036, us",9.61,8.74,7.49,17.61,4.49,ca,93036,Ventura
+1468,The Habit,"111 e katella ave, anaheim, ca, 92802, us",9.99,8.86,7.49,19.12,4.99,ca,92802,Orange
+1469,The Habit,"604 s mooney blvd, visalia, ca, 93277, us",9.49,8.61,7.36,17.36,4.36,ca,93277,Tulare
+1470,The Habit,"11608 amargosa rd, victorville, ca, 92392, us",9.99,8.86,7.49,19.12,4.99,ca,92392,San Bernardino
+1471,The Habit,"628 state street, santa barbara, ca, 93101, us",9.61,8.74,7.49,17.61,4.49,ca,93101,Santa Barbara
+1472,The Habit,"888 s hope st, los angeles, ca, 90017, us",9.86,8.74,7.49,18.73,4.86,ca,90017,Los Angeles
+1473,The Habit,"8216 parkway dr, la mesa, ca, 91942, us",9.49,8.61,7.36,17.36,4.36,ca,91942,San Diego
+1474,The Habit,"1425 ary ln, dixon, ca, 95620, us",10.36,9.24,7.86,19.49,4.99,ca,95620,Solano
+1475,The Habit,"1080 monroe st, albany, ca, 94706, us",9.99,8.86,7.49,19.12,4.99,ca,94706,Alameda
+1476,The Habit,"447 n mcdowell blvd, petaluma, ca, 94954, us",9.86,8.74,7.49,18.99,4.99,ca,94954,Sonoma
+1477,The Habit,"2829 w march ln, stockton, ca, 95219, us",9.61,8.74,7.49,17.61,4.49,ca,95219,San Joaquin
+1478,The Habit,"1111 el camino real, redwood city, ca, 94063, us",10.36,9.24,7.86,19.49,4.99,ca,94063,San Mateo
+1479,The Habit,"146 w el camino real, sunnyvale, ca, 94087, us",9.86,8.74,7.49,18.73,4.86,ca,94087,Santa Clara
+1480,The Habit,"20735 stevens creek blvd, cupertino, ca, 95014, us",9.86,8.74,7.49,18.99,4.99,ca,95014,Santa Clara
+1481,The Habit,"12380, seal beach, ca, 90740, us",9.99,8.86,7.49,19.12,4.99,ca,90740,Orange
+1482,The Habit,"1320 travis blvd, fairfield, ca, 94533, us",10.36,9.24,7.86,19.49,4.99,ca,94533,Solano
+1483,The Habit,"3121 crow canyon pl, san ramon, ca, 94583, us",9.86,8.74,7.49,18.99,4.99,ca,94583,Contra Costa
+1484,The Habit,"1855 e daily dr, camarillo, ca, 93010, us",10.36,9.24,7.86,19.49,4.99,ca,93010,Ventura
+1485,The Habit,"1731 w lacey blvd, hanford, ca, 93230, us",10.36,9.24,7.86,19.49,4.99,ca,93230,Kings
+1486,The Habit,"3890 la cumbre plaza lane, santa barbara, ca, 93105, us",9.61,8.74,7.49,17.61,4.49,ca,93105,Santa Barbara
+1487,The Habit,"1510 monterey rd, san jose, ca, 95110, us",9.99,8.86,7.49,19.12,4.99,ca,95110,Santa Clara
+1488,The Habit,"487 e thompson blvd, ventura, ca, 93001, us",9.99,8.86,7.49,19.12,4.99,ca,93001,Ventura
+1489,The Habit,"985 betteravia road, santa maria, ca, 93454, us",9.61,8.74,7.49,17.61,4.49,ca,93454,Santa Barbara
+1490,The Habit,"32185 union landing boulevard, union city, ca, 94587, us",10.36,9.24,7.86,19.49,4.99,ca,94587,Alameda
+1491,The Habit,"727 w, san marcos, ca, 92078, us",9.61,8.74,7.49,17.61,4.49,ca,92078,San Diego
+1492,The Habit,"1412, pinole, ca, 94564, us",9.86,8.74,7.49,18.73,4.86,ca,94564,Contra Costa
+1493,The Habit,"496 las gallinas avenue, san rafael, ca, 94903, us",10.36,9.24,7.86,19.49,4.99,ca,94903,Marin
+1494,The Habit,"344 west el monte way, dinuba, ca, 93618, us",9.86,8.74,7.49,18.73,4.86,ca,93618,Tulare
+1495,The Habit,"36350 hidden springs rd, wildomar, ca, 92595, us",9.74,8.74,7.49,18.37,4.74,ca,92595,Riverside
+1496,The Habit,"924 diablo ave, novato, ca, 94947, us",9.86,8.74,7.49,18.99,4.99,ca,94947,Marin
+1497,The Habit,"1550 w valley blvd, colton, ca, 92324, us",9.99,8.86,7.49,19.12,4.99,ca,92324,San Bernardino
+1498,The Habit,"24875 iris avenue, moreno valley, ca, 92551, us",9.74,8.74,7.49,18.37,4.74,ca,92551,Riverside
+1499,The Habit,"1297 chess dr, foster city, ca, 94404, us",10.36,9.24,7.86,19.49,4.99,ca,94404,San Mateo
+1500,The Habit,"1195 herndon ave, clovis, ca, 93612, us",9.61,8.74,7.49,17.61,4.49,ca,93612,Fresno
+1501,The Habit,"216 south milpas street, santa barbara, ca, 93103, us",9.61,8.74,7.49,17.61,4.49,ca,93103,Santa Barbara
+1502,The Habit,"43830 pacific commons blvd, fremont, ca, 94538, us",9.86,8.74,7.49,18.99,4.99,ca,94538,Alameda
+1503,The Habit,"304 soscol ave, napa, ca, 94559, us",10.36,9.24,7.86,19.49,4.99,ca,94559,Napa
+1504,The Habit,"770 otay lakes road, chula vista, ca, 91910, us",9.74,8.74,7.49,18.37,4.74,ca,91910,San Diego
+1505,The Habit,"1040 grant road suite 370, mountain view, ca, 94040, us",9.86,8.74,7.49,18.73,4.86,ca,94040,Santa Clara
+1506,The Habit,"143 south el camino real, millbrae, ca, 94030, us",9.74,8.74,7.49,18.37,4.74,ca,94030,San Mateo
+1507,The Habit,"1870 rancho del oro drive, oceanside, ca, 92057, us",9.86,8.74,7.49,18.73,4.86,ca,92057,San Diego
+1508,The Habit,"3970 missouri flat road, placerville, ca, 95667, us",9.49,8.61,7.36,17.36,4.36,ca,95667,El Dorado
+1509,The Habit,"4732 telephone rd, ventura, ca, 93003, us",9.61,8.74,7.49,17.61,4.49,ca,93003,Ventura
+1510,The Habit,"118 plaza dr, vallejo, ca, 94591, us",9.99,8.86,7.49,19.12,4.99,ca,94591,Solano
+1511,The Habit,"2640 south bristol street, santa ana, ca, 92704, us",9.86,8.74,7.49,18.73,4.86,ca,92704,Orange
+1512,The Habit,"10370 sepulveda blvd, mission hills, usa, los angeles, ca, 91345, us",9.74,8.74,7.49,18.37,4.74,ca,91345,Los Angeles
+1513,The Habit,"3110 e floral ave, selma, ca, 93662, us",9.86,8.74,7.49,18.73,4.86,ca,93662,Fresno
+1514,The Habit,"2671 countryside dr, turlock, ca, 95380, us",9.74,8.74,7.49,18.37,4.74,ca,95380,Stanislaus

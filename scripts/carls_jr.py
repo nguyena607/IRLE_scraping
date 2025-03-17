@@ -20,7 +20,7 @@ logger = logging.getLogger(__name__)
 
 FILE_PATH = "carlsjr_missing_rnd1.csv"
 # Use your own executable_path (download from https://chromedriver.chromium.org/).
-CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
+CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64-128/chromedriver"
 #CHROMEDRIVER_PATH = "/Users/sakshikolli/Downloads/chromedriver-mac-x64/chromedriver"
 
 def clear_existing_data(file_path):

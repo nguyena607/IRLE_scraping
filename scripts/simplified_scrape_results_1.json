@@ -1,0 +1,207 @@
+[
+    {
+        "location": "2200 otis drive, alameda, ca, 94501, us",
+        "restaurant": "Burger King",
+        "address": "2200 Otis Drive, ALAMEDA, CA 94501-5730"
+    },
+    {
+        "location": "620 w foothill blvd, rialto, ca, 92376, us",
+        "restaurant": "Carls Jr",
+        "address": "620 W Foothill Blvd, Rialto, CA 92376"
+    },
+    {
+        "location": "172 bernal rd, san jose, ca, 95139, us",
+        "restaurant": "Carls Jr",
+        "address": "172 Bernal Rd, San Jose, CA 95139"
+    },
+    {
+        "location": "516 north beaudry avenue, los angeles, ca, 90012, us",
+        "restaurant": "Jack in the Box",
+        "address": "516 North Beaudry Avenue, Los Angeles, CA 90012"
+    },
+    {
+        "location": "24820 pico canyon road, santa clarita, ca, 91381, us",
+        "restaurant": "Jack in the Box",
+        "address": "24820 Pico Canyon Road, Santa Clarita, CA 91381"
+    },
+    {
+        "location": "18955 west soledad cyn road, canyon country, ca, 91351, us",
+        "restaurant": "Jack in the Box",
+        "address": "18525 Via Princessa, Santa Clarita, CA 91387"
+    },
+    {
+        "location": "3521 central ave, riverside, ca, 92506, us",
+        "restaurant": "Jack in the Box",
+        "address": "3521 Central Ave, Riverside, CA 92506"
+    },
+    {
+        "location": "12440 amargosa rd., victorville, ca, 92392, us",
+        "restaurant": "Jack in the Box",
+        "address": "12440 Amargosa Rd., Victorville, CA 92392"
+    },
+    {
+        "location": "1778 e. shaw, fresno, ca, 93710, us",
+        "restaurant": "Wendy",
+        "address": "1778 E. Shaw, Fresno, CA 93710"
+    },
+    {
+        "location": "8600 curbaril ave, atascadero, ca, 93422, us",
+        "restaurant": "Wendy",
+        "address": "8600 Curbaril Ave, Atascadero, CA 93422"
+    },
+    {
+        "location": "3450 w monte vista ave, turlock, ca, 95380, us",
+        "restaurant": "Wendy",
+        "address": "3450 W Monte Vista Ave, Turlock, CA 95380"
+    },
+    {
+        "location": "1640 e monte vista ave, vacaville, ca, 95688, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "1640 E Monte Vista Ave, Vacaville, CA 95688"
+    },
+    {
+        "location": "2120 california ave, sand city, ca, 93955, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "2120 California Ave, Sand City, CA 93955"
+    },
+    {
+        "location": "1413 north h street, lompoc, ca, 93436, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "1413 North H Street, Lompoc, CA 93436"
+    },
+    {
+        "location": "888 embarcadero del norte, isla vista, ca, 93117, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "888 Embarcadero Del Norte, Isla Vista, CA 93117"
+    },
+    {
+        "location": "2267 s el camino real, oceanside, ca, 92054, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "2267 S El Camino Real, Oceanside, CA 92054"
+    },
+    {
+        "location": "1602 north main st, salinas, ca, 93906, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "1602 North Main St, Salinas, CA 93906"
+    },
+    {
+        "location": "839 higuera st, san luis obispo, ca, 93401, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "839 Higuera St, San Luis Obispo, CA 93401"
+    },
+    {
+        "location": "933 pleasant grove blvd, roseville, ca, 95678, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "933 Pleasant Grove Blvd, Roseville, CA 95678"
+    },
+    {
+        "location": "1801 mchenry ave, modesto, ca, 95350, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "1801 Mchenry Ave , Modesto, CA 95350"
+    },
+    {
+        "location": "445 hacienda drive, vista, ca, 92081, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "445 Hacienda Drive, Vista, CA 92081"
+    },
+    {
+        "location": "11608 amargosa rd, victorville, ca, 92392, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "11608 Amargosa Rd, Victorville, CA 92392"
+    },
+    {
+        "location": "628 state street, santa barbara, ca, 93101, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "628 State Street, Santa Barbara, CA 93101"
+    },
+    {
+        "location": "1425 ary ln, dixon, ca, 95620, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "1425 Ary Ln, Dixon, CA 95620"
+    },
+    {
+        "location": "1731 w lacey blvd, hanford, ca, 93230, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "1731 W Lacey Blvd, Hanford, CA 93230"
+    },
+    {
+        "location": "3890 la cumbre plaza lane, santa barbara, ca, 93105, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "3890 La Cumbre Plaza Lane, Santa Barbara, CA 93105"
+    },
+    {
+        "location": "487 e thompson blvd, ventura, ca, 93001, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "487 E Thompson Blvd, Ventura, CA 93001"
+    },
+    {
+        "location": "985 betteravia road, santa maria, ca, 93454, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "985 Betteravia Road, Santa Maria, CA 93454"
+    },
+    {
+        "location": "32185 union landing boulevard, union city, ca, 94587, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "32185 Union Landing Boulevard, Union City, CA 94587"
+    },
+    {
+        "location": "496 las gallinas avenue, san rafael, ca, 94903, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "496 Las Gallinas Avenue, San Rafael, CA 94903"
+    },
+    {
+        "location": "344 west el monte way, dinuba, ca, 93618, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "344 West El Monte Way, Dinuba, CA 93618"
+    },
+    {
+        "location": "36350 hidden springs rd, wildomar, ca, 92595, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "36350 Hidden Springs Rd, Wildomar, CA 92595"
+    },
+    {
+        "location": "924 diablo ave, novato, ca, 94947, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "924 Diablo Ave, Novato, CA 94947"
+    },
+    {
+        "location": "1195 herndon ave, clovis, ca, 93612, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "1195 Herndon Ave, Clovis, CA 93612"
+    },
+    {
+        "location": "216 south milpas street, santa barbara, ca, 93103, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "216 South Milpas Street, Santa Barbara, CA 93103"
+    },
+    {
+        "location": "43830 pacific commons blvd, fremont, ca, 94538, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "43830 Pacific Commons Blvd, Fremont, CA 94538"
+    },
+    {
+        "location": "770 otay lakes road, chula vista, ca, 91910, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "770 Otay Lakes Road, Chula Vista, CA 91910"
+    },
+    {
+        "location": "1870 rancho del oro drive, oceanside, ca, 92057, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "1870 Rancho Del Oro Drive, Oceanside, CA 92057"
+    },
+    {
+        "location": "4732 telephone rd, ventura, ca, 93003, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "4732 Telephone Rd, Ventura, CA 93003"
+    },
+    {
+        "location": "3110 e floral ave, selma, ca, 93662, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "3110 E Floral Ave, Selma, CA 93662"
+    },
+    {
+        "location": "2671 countryside dr, turlock, ca, 95380, us",
+        "restaurant": "The Habit Burger & Grill",
+        "address": "2671 Countryside Dr, Turlock, CA 95380"
+    }
+]

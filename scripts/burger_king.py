@@ -1,4 +1,5 @@
 import logging
+import pandas as pd
 import os
 import csv
 import time
@@ -15,14 +16,15 @@ from selenium.webdriver.common.action_chains import ActionChains
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-FILE_PATH = "burger_king_missing_nonca_rnd1.csv"
-CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64/chromedriver"
+FILE_PATH = "bk_wave4_test.csv"
+CHROMEDRIVER_PATH = "/Users/alyssanguyen/Downloads/chromedriver-mac-arm64-133/chromedriver"
 
 def setup_driver():
     # WebDriver options
     chrome_options = Options()
     chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3")
     service = Service(executable_path=CHROMEDRIVER_PATH)
+    chrome_options.add_argument("--headless")  # Run Chrome in headless mode
     driver = webdriver.Chrome(service=service, options=chrome_options)
     return driver
 
@@ -126,37 +128,27 @@ def click_nth_button(driver, indices, location):
                 if retry_count == 0:
                     logger.error(f"Failed to process after retries. Skipping index {index}.")
 
+all_locations = pd.read_csv("/Users/alyssanguyen/Desktop/IRLE_scraping/scripts/ubereats_mega_combined.csv")
+LOCATIONS = list(all_locations[all_locations['restaurant_name'] == 'Burger King']['restaurant_location'].unique())
+    
 def main():
     clear_existing_data(FILE_PATH)
-
-    burger_king_locations = ['3227 Poplar Ave, Memphis, TN, 38111, US',
-  '659 Government St, Mobile, AL, 36602, US',
-  '5068 Old National Highway, College Park, GA, 30349, US',
-  '2116 Whitesburg Drive, Huntsville, AL, 35801, US',
-  '1131 Lexington Road, Georgetown, KY, 40324, US',
-  '4200 Saron Road, Lexington, KY, 40515, US',
-  '2806 North Broadway, Knoxville, TN, 37917, US',
-  '2119 East 23rd Street, Chattanooga, TN, 37404, US',
-  '1901 Route 286, Pittsburgh, PA, 15239, US',
-  '451 W. New Circle Road, Lexington, KY, 40511, US',
-  '6337 Crawfordsville Rd, Speedway, IN, 46224, US',
-  '1524 6th Avenue S, Birmingham, AL, 35233, US',
-  '308 Jordan Lane, Huntsville, AL, 35805, US',
-  '6971 West 38th Street, Indianapolis, IN, 46214, US',
-  '2605 Jacksboro Hwy, River Oaks, TX, 76114, US',
-  '2700 University Blvd, Birmingham, AL, 35233, US',
-  '1330 Poplar Avenue, Memphis, TN, 38104, US',
-  '3875 Airport Boulevard, Mobile, AL, 36609, US',
-  '2773 Evans Mill Rd, Lithonia, GA, 30058, US',
-  '1004 North Memorial Parkway, Huntsville, AL, 35801, US',
-  '2230 Salem Road, Conyers, GA, 30013, US',
-  '730 Lane Allen Rd, Lexington, KY, 40504, US',
-  '3941 Crosstown Expressway, Corpus Christi, TX, 78416, US']
-
-    for idx, location in enumerate(burger_king_locations):
+    for location in LOCATIONS:
         driver = setup_driver()
         try:
             driver.get("https://www.bk.com/store-locator/service-mode")
+            
+            time.sleep(3)
+
+
+            try:
+                # Locate the close button for the cookie banner
+                close_button = driver.find_element(By.CLASS_NAME, "onetrust-close-btn-handler")
+                
+                # Click on the close button to dismiss the banner
+                close_button.click()
+            except NoSuchElementException:
+                print("Cookie consent close button not found.")
 
             # Wait for search box to be clickable and interactable
             search_box = WebDriverWait(driver, 5).until(

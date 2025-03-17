@@ -1,4 +1,5 @@
-LOCATIONS = ['371 S Greeno Road, Fairhope, AL, 36532, US',
+LOCATIONS = [
+       '371 S Greeno Road, Fairhope, AL, 36532, US',
        '30500 State Hwy 181, Spanish Fort, AL, 36527, US',
        '3957 Cottage Hill Road, Mobile, AL, 36693, US',
        '2727 Highway 280, Birmingham, AL, 35223, US',

@@ -1,0 +1,30 @@
+,Unnamed: 0,restaurant_name,restaurant_location,specialty_item,cheeseburger,hamburger,combo,fries,state,zip,county_name,restaurant_shortened
+0,0,McDonald,"800 market st, oakland, california 94607, oakland, ca, 94607-3116, us",7.69,3.49,4.19,12.99,4.89,ca,94607,Alameda,800 market st
+111,111,McDonald,"1208 n. mt. vernon blvd, san bernardino, ca, 92411, us",,,,,,ca,92411,San Bernardino,1208 n. mt. vernon blvd
+115,115,McDonald,"nwc roy rogers &amp; la paz plz, victorville, ca, 92395, us",7.69,4.79,2.99,11.19,4.99,ca,92395,San Bernardino,nwc roy rogers &amp; la paz plz
+152,152,McDonald,"275 madonna rd (#2), san luis obispo, ca, 93405, us",,,,,,ca,93405,San Luis Obispo,275 madonna rd (#2)
+156,156,McDonald,"410 grand ave po box 306, arroyo grande, ca, 93420, us",,,,,,ca,93420,San Luis Obispo,410 grand ave po box 306
+162,162,McDonald,"587 el camino real, south san francisco, california, south san franc, ca, 94080, us",,,,,,ca,94080,San Mateo,587 el camino real
+522,522,Jack in the Box,"4011 bonita rd, bonita, usa, chula vista, ca, 91902, us",7.86,,,14.98,4.99,ca,91902,San Diego,4011 bonita rd
+627,627,Wendy,"bear valley road &amp; mojave fish hatchery rd, hesperia, ca, 92395, us",7.92,3.65,2.79,,,ca,92395,San Bernardino,bear valley road &amp; mojave fish hatchery rd
+682,682,Wendy,"plaza dr &amp; w hurley ave, visalia, ca, 93291, us",9.02,3.89,3.53,,,ca,93291,Tulare,plaza dr &amp; w hurley ave
+738,738,Burger King,"4610 east king's canyon rd., fresno, ca, 93702, us",8.99,3.36,4.99,,4.49,ca,93702,Fresno,4610 east king's canyon rd.
+749,749,Burger King,"700 east cesar e chavez avenue, los angeles, ca, 90012, us",10.39,3.69,5.99,16.29,5.19,ca,90012,Los Angeles,700 east cesar e chavez avenue
+979,979,Shake Shack,"3030 plaza bonita road suite f3, national city, ca, 91950, us",9.39,8.99,8.79,,5.49,ca,91950,San Diego,3030 plaza bonita road suite f3
+990,990,Shake Shack,"3525 west carson street, space vc 08, torrance, ca, 90503, us",9.59,9.59,8.99,,5.49,ca,90503,Los Angeles,3525 west carson street
+1058,1058,Five Guys,"735 s. figueroa st., #120, los angeles, ca, 90017, us",15.47,12.47,11.15,,8.75,ca,90017,Los Angeles,735 s. figueroa st.
+1059,1059,Five Guys,"530 w 27th st. #101, los angeles, ca, 90007, us",15.47,12.47,11.15,,8.75,ca,90007,Los Angeles,530 w 27th st. #101
+1063,1063,Five Guys,"south bay pavilion 20700 s avalon blvd, carson, ca, 90746, us",15.47,12.47,11.15,,8.75,ca,90746,Los Angeles,south bay pavilion 20700 s avalon blvd
+1068,1068,Five Guys,"12930 ventura blvd., suite 106, studio city, ca, 91604, us",15.47,12.47,11.15,,8.75,ca,91604,Los Angeles,12930 ventura blvd.
+1071,1071,Five Guys,"2280 mendocino ave. b-5, santa rosa, ca, 95403, us",16.07,11.75,10.55,,7.79,ca,95403,Sonoma,2280 mendocino ave. b-5
+1077,1077,Five Guys,"444 n. state college blvd. #444, fullerton, ca, 92831, us",15.47,12.47,11.15,,8.75,ca,92831,Orange,444 n. state college blvd. #444
+1096,1096,Five Guys,"151 s. las posas road ste. 170, san marcos, ca, 92078, us",15.47,12.47,11.15,,8.75,ca,92078,San Diego,151 s. las posas road ste. 170
+1097,1097,Five Guys,"2519 palomar airport rd., suite #100, carlsbad, ca, 92011, us",15.47,12.47,11.15,,8.75,ca,92011,San Diego,2519 palomar airport rd.
+1099,1099,Five Guys,"768 ikea ct., suite 120, west sacramento, ca, 95605, us",15.47,12.47,11.15,,8.75,ca,95605,Yolo,768 ikea ct.
+1131,1131,Five Guys,"4180 n. first st., suite 50, san jose, ca, 95134, us",14.27,11.39,10.79,,7.79,ca,95134,Santa Clara,4180 n. first st.
+1150,1150,Five Guys,"1840 herndon ave., building b, suite 105, clovis, ca, 93611, us",15.47,12.47,11.15,,8.75,ca,93611,Fresno,1840 herndon ave.
+1151,1151,Five Guys,"130 n el camino real, ste c, encinitas, ca, 92024, us",15.47,11.27,11.15,,8.75,ca,92024,San Diego,130 n el camino real
+1153,1153,Five Guys,"401 newport center dr. a103, newport beach, ca, 92660, us",15.47,12.47,11.15,,8.75,ca,92660,Orange,401 newport center dr. a103
+1217,1217,Carls Jr,"1830 n bristol st bldg 18, santa ana, ca, 92706, us",6.88,,,,3.13,ca,92706,Orange,1830 n bristol st bldg 18
+1435,1435,The Habit,"5500 campanile dr. 5500 campanile dr. aztec student union sdsu, san diego, ca, 92115, us",9.86,8.74,7.49,18.99,4.99,ca,92115,San Diego,5500 campanile dr. 5500 campanile dr. aztec student union sdsu
+1512,1512,The Habit,"10370 sepulveda blvd, mission hills, usa, los angeles, ca, 91345, us",9.74,8.74,7.49,18.37,4.74,ca,91345,Los Angeles,10370 sepulveda blvd

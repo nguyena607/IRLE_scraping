@@ -5,7 +5,6 @@ RESTAURANTS = ["McDonald",
                "Shake Shack",
                "Sonic",
                "Five Guys",
-               "Carls Jr",
                "The Habit Burger Grill",
-               #"Hardee"
+               "Hardee"
                ]

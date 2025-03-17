@@ -1,0 +1,1400 @@
+,restaurant_name,restaurant_location,specialty_item,cheeseburger,hamburger,combo,fries,state,zip,county_name
+0,McDonald,"18515 media drive, robertsdale, al, 36567, us",6.49,2.39,2.39,10.19,3.49,al,36567,Baldwin
+1,McDonald,"29138 highway 98, daphne, al, 36526, us",6.09,2.99,2.49,10.49,3.89,al,36526,Baldwin
+2,McDonald,"1501 5th avenue s, birmingham, al, 35233, us",5.99,2.94,2.84,10.59,3.69,al,35233,Jefferson
+3,McDonald,"801 dennison ave, birmingham, al, 35211, us",5.49,2.89,2.69,10.11,4.39,al,35211,Jefferson
+4,McDonald,"1309 forestdale blvd, birmingham, al, 35214, us",6.39,4.19,2.49,10.29,3.69,al,35214,Jefferson
+5,McDonald,"2733 8th ave, birmingham, al, 35233, us",5.49,2.89,2.69,9.68,4.59,al,35233,Jefferson
+6,McDonald,"4625 hwy 280 s, birmingham, al, 35242, us",6.79,4.59,2.49,10.29,3.49,al,35242,Shelby
+7,McDonald,"5904 highway 53, harvest, al, 35749, us",,,,,,al,35749,Madison
+8,McDonald,"2704 s memorial parkway, huntsville, al, 35801, us",,,,,,al,35801,Madison
+9,McDonald,"2600 n memorial pky, huntsville, al, 35810, us",,,,,,al,35810,Madison
+10,McDonald,"7749 moffett rd, mobile, al, 36618, us",5.49,2.39,2.19,9.59,3.59,al,36618,Mobile
+11,McDonald,"658 government st, mobile, al, 36602, us",5.69,2.91,2.73,9.39,3.19,al,36602,Mobile
+12,McDonald,"2701 montgomery st, savannah, ga, 31405, us",5.99,2.19,2.09,10.49,2.99,ga,31405,Chatham
+13,McDonald,"246 w broughton street, savannah, ga, 31401, us",6.29,2.29,1.99,11.29,3.29,ga,31401,Chatham
+14,McDonald,"1 a gateway blvd e, savannah, ga, 31419, us",6.79,2.59,2.29,11.89,3.39,ga,31419,Chatham
+15,McDonald,"12100 hwy 144 e, richmond hill, ga, 31324, us",4.99,3.09,2.69,9.89,4.19,ga,31324,Bryan
+16,McDonald,"4540 ashford, dunwoody, ga, 30346, us",6.09,2.99,2.69,10.39,3.79,ga,30346,DeKalb
+17,McDonald,"7070 jimmy carter blvd, norcross, ga, 30092, us",5.59,2.29,1.67,9.99,3.0,ga,30092,Gwinnett
+18,McDonald,"5774 buford highway, doraville, ga, 30340, us",6.79,2.59,2.39,11.39,3.79,ga,30340,DeKalb
+19,McDonald,"4362 roswell rd ne, atlanta, ga, 30342, us",6.35,2.75,2.41,11.03,3.59,ga,30342,Fulton
+20,McDonald,"2700 windy hill road southeast, atlanta, ga, 30067, us",5.59,2.59,2.39,9.59,3.69,ga,30067,Cobb
+21,McDonald,"2964 turner hill rd, lithonia, ga, 30038, us",7.01,2.77,2.55,11.18,3.72,ga,30038,DeKalb
+22,McDonald,"2791 panola rd, lithonia, ga, 30035, us",6.82,2.52,2.39,10.6,3.19,ga,30035,DeKalb
+23,McDonald,"1198 south hairston road, redan, ga, 30088, us",6.49,2.79,2.39,11.59,3.99,ga,30088,DeKalb
+24,McDonald,"3460 georgia highway 124, snellville, ga, 30039, us",6.79,2.89,2.39,11.39,3.79,ga,30039,Gwinnett
+25,McDonald,"526 ponce de leon blvd, atlanta, ga, 30308, us",6.19,2.49,2.39,10.99,3.69,ga,30308,Fulton
+26,McDonald,"2442 martin luther king dr, atlanta, ga, 30311, us",6.69,2.89,2.79,10.45,4.06,ga,30311,Fulton
+27,McDonald,"5710 fulton industrial blvd, atlanta, ga, 30331, us",5.89,2.89,2.89,11.19,3.49,ga,30331,Fulton
+28,McDonald,"5160 s cobb dr, smyrna, ga, 30080, us",6.39,2.92,2.74,11.49,4.39,ga,30080,Cobb
+29,McDonald,"5330 campbellton, fairburn, ga, 30213, us",5.99,2.59,2.39,9.79,3.39,ga,30213,Fulton
+30,McDonald,"2091 stewart ave, atlanta, ga, 30315, us",6.49,2.79,2.29,11.59,3.99,ga,30315,Fulton
+31,McDonald,"1650 indian trail lilburn rd, norcross, ga, 30093, us",6.49,2.69,2.59,10.79,3.59,ga,30093,Gwinnett
+32,McDonald,"1375 broadway, boise, id, 83706-3703, us",5.99,2.49,2.29,10.59,3.89,id,83706,Ada
+33,McDonald,"2510 fairview ave, boise, id, 83702, us",5.99,2.59,2.29,10.59,4.19,id,83702,Ada
+34,McDonald,"6061 e 82nd st, indianapolis, in, 46250, us",6.82,3.09,2.62,11.69,3.91,in,46250,Marion
+35,McDonald,"945 tournament trail, westfield, in, 46074, us",6.69,3.09,2.69,11.19,3.99,in,46074,Hamilton
+36,McDonald,"6437 columbia ave, hammond, in, 46320, us",6.69,2.99,2.69,11.09,3.79,in,46320,Lake
+37,McDonald,"4615 calumet avenue, hammond, in, 46327, us",6.39,3.59,2.99,11.39,3.59,in,46327,Lake
+38,McDonald,"1811 e columbus drive, east chicago, in, 46312, us",6.59,3.19,3.19,11.49,3.69,in,46312,Lake
+39,McDonald,"3904 ridge road, highland, in, 46322, us",,,,,,in,46322,Lake
+40,McDonald,"1611 n meridian st, indianapolis, in, 46202, us",5.99,2.29,2.19,9.89,3.19,in,46202,Marion
+41,McDonald,"7229 e washington st, indianapolis, in, 46219, us",6.19,2.79,2.49,10.69,3.49,in,46219,Marion
+42,McDonald,"4802 w 57th st, indianapolis, in, 46254, us",6.09,2.49,2.19,10.99,3.99,in,46254,Marion
+43,McDonald,"601 university ave, des moines, ia, 50314, us",5.89,3.39,3.29,10.99,4.09,ia,50314,Polk
+44,McDonald,"1404, des moines, ia, 50316, us",7.09,3.69,3.49,11.99,4.09,ia,50316,Polk
+45,McDonald,"11801 w 63rd st, shawnee, ks, 66203-3337, us",6.56,2.86,2.74,12.11,4.11,ks,66203,Johnson
+46,McDonald,"11000 quivira rd, overland park, ks, 66210, us",6.99,2.89,2.39,12.39,4.69,ks,66210,Johnson
+47,McDonald,"4101 kansas ave, kansas city, ks, 66106, us",6.23,2.69,2.39,11.51,4.39,ks,66106,Wyandotte
+48,McDonald,"2200 e sante fe, olathe, ks, 66062, us",6.99,2.89,2.39,12.39,4.69,ks,66062,Johnson
+49,McDonald,"7926 w 151st st, overland park, ks, 66223, us",6.99,2.89,2.39,12.39,4.69,ks,66223,Johnson
+50,McDonald,"545 n hillside, wichita, ks, 67214, us",6.05,2.45,2.25,10.09,3.89,ks,67214,Sedgwick
+51,McDonald,"2261 n amidon, wichita, ks, 67204, us",5.25,2.45,2.25,9.39,3.59,ks,67204,Sedgwick
+52,McDonald,"1630 s hillside st, wichita, ks, 67218, us",5.75,2.45,2.25,10.09,3.95,ks,67218,Sedgwick
+53,McDonald,"3100 pimlico pkwy, lexington, ky, 40517, us",5.89,2.49,2.39,10.29,3.99,ky,40517,Fayette
+54,McDonald,"1921 plaudit pl, lexington-fayette, ky, 40509, us",5.69,2.19,2.29,9.89,3.99,ky,40509,Fayette
+55,McDonald,"4131 tates creek centre dr, lexington, usa, lexington-fayette, ky, 40517, us",6.12,2.92,2.39,10.49,3.99,ky,40517,Fayette
+56,McDonald,"207 w broadway, louisville, usa, louisville-jefferson county, ky, 40202, us",6.79,2.99,2.89,11.98,3.99,ky,40202,Jefferson
+57,McDonald,"1245 bardstown rd, louisville, usa, louisville-jefferson county, ky, 40204, us",7.53,3.08,2.56,12.83,4.24,ky,40204,Jefferson
+58,McDonald,"150 n lobdell hwy, port allen, la, 70767, us",5.99,2.52,2.26,10.79,3.79,la,70767,West Baton Rouge
+59,McDonald,"801 s vaughn, brusly, la, 70719, us",5.99,2.52,2.34,10.89,3.69,la,70719,West Baton Rouge
+60,McDonald,"301 veterans blvd, metairie, la, 70005, us",7.13,2.08,1.69,13.5,3.61,la,70005,Jefferson
+61,McDonald,"3313 cleary ave, metairie, la, 70002-5607, us",7.13,2.5,1.69,13.5,3.61,la,70002,Jefferson
+62,McDonald,"2856 south claiborne, new orleans, la, 70125, us",6.49,2.87,1.99,13.34,4.19,la,70125,Orleans
+63,McDonald,"927 e main st, new iberia, la, 70560, us",5.49,2.29,1.99,9.89,2.89,la,70560,Iberia
+64,McDonald,"2757 canal st, new orleans, la, 70119, us",7.13,2.39,1.99,13.5,3.61,la,70119,Orleans
+65,McDonald,"1918 n broad st, new orleans, la, 70119-1848, us",7.13,2.08,1.69,13.5,3.61,la,70119,Orleans
+66,McDonald,"3025 elysian fields ave, new orleans, la, 70122, us",7.13,2.08,1.69,13.5,3.61,la,70122,Orleans
+67,McDonald,"2609 st claude ave, new orleans, la, 70117, us",7.13,2.39,1.99,13.5,3.61,la,70117,Orleans
+68,McDonald,"370 voters rd, slidell, la, 70461-3520, us",5.87,2.39,2.27,10.43,2.87,la,70461,St. Tammany
+69,McDonald,"9500 hwy 49, gulfport, ms, 39503, us",,,,,3.59,ms,39503,Harrison
+70,McDonald,"11401 hwy 49 n, gulfport, ms, 39503, us",5.79,2.69,2.59,9.79,3.59,ms,39503,Harrison
+71,McDonald,"692 beach blvd, biloxi, ms, 39530, us",5.87,2.39,2.27,10.43,2.87,ms,39530,Harrison
+72,McDonald,"10536, d'iberville, ms, 39540, us",5.87,2.39,2.27,10.43,2.87,ms,39540,Harrison
+73,McDonald,"7501 washington ave, ocean springs, ms, 39532, us",5.87,2.39,2.27,10.43,2.87,ms,39532,Harrison
+74,McDonald,"907 2nd st, manchester, nh, 03102, us",,,,,,nh,3102,Hillsborough
+75,McDonald,"907 hanover st, manchester, nh, 03109, us",,,,,,nh,3109,Hillsborough
+76,McDonald,"800 fairview rd, asheville, nc, 28803, us",6.29,2.99,2.49,10.99,3.79,nc,28803,Buncombe
+77,McDonald,"343 new leicester hwy, asheville, nc, 28806, us",6.29,2.99,2.49,10.99,3.79,nc,28806,Buncombe
+78,McDonald,"168 weaver blvd, weaverville, nc, 28787, us",6.29,2.99,2.49,10.99,3.79,nc,28787,Buncombe
+79,McDonald,"51 tunnel rd, asheville, nc, 28805, us",6.25,2.75,2.65,10.31,3.69,nc,28805,Buncombe
+80,McDonald,"542 grove st, fayetteville, nc, 28301, us",5.99,2.49,2.19,8.52,3.49,nc,28301,Cumberland
+81,McDonald,"1942 pamalee dr, fayetteville, nc, 28301, us",6.09,2.59,2.39,11.09,3.99,nc,28301,Cumberland
+82,McDonald,"3701 bragg blvd, fayetteville, nc, 28303, us",5.69,2.59,2.29,10.49,3.89,nc,28303,Cumberland
+83,McDonald,"1900 skibo road, fayetteville, nc, 28314, us",5.69,2.89,2.49,9.99,3.89,nc,28314,Cumberland
+84,McDonald,"6415 ramsey street, fayetteville, nc, 28311, us",5.69,2.79,2.59,10.29,3.89,nc,28311,Cumberland
+85,McDonald,"2010 n roxboro road, durham, nc, 27704-4339, us",6.36,2.98,2.46,11.17,4.28,nc,27704,Durham
+86,McDonald,"8305 creedmoor rd, raleigh, nc, 27613, us",6.29,2.89,2.49,10.69,4.19,nc,27613,Wake
+87,McDonald,"4121 blue ridge rd, raleigh, nc, 27612, us",,,,,,nc,27612,Wake
+88,McDonald,"9698 falls of neuse rd, raleigh, nc, 27615, us",,,,,,nc,27615,Wake
+89,McDonald,"1831 walnut st, cary, nc, 27518, us",,,,,,nc,27518,Wake
+90,McDonald,"1400 heartland dr, kernersville, nc, 27284, us",,,,,,nc,27284,Forsyth
+91,McDonald,"7069 albert pick road, greensboro, nc, 27409, us",,,,,,nc,27409,Guilford
+92,McDonald,"114 greensboro rd, high point, nc, 27260, us",,,,,,nc,27260,Guilford
+93,McDonald,"3601 high point rd, greensboro, nc, 27407, us",5.59,2.19,2.09,10.55,3.59,nc,27407,Guilford
+94,McDonald,"2347 randleman rd, greensboro, nc, 27406, us",,,,,,nc,27406,Guilford
+95,McDonald,"3058 eastway dr, charlotte, nc, 28205, us",6.65,2.31,2.25,11.57,3.45,nc,28205,Mecklenburg
+96,McDonald,"2625 south blvd, charlotte, nc, 28209, us",6.39,2.89,2.29,12.69,3.79,nc,28209,Mecklenburg
+97,McDonald,"2820 boyer st, charlotte, nc, 28208, us",6.39,2.89,2.19,12.69,3.79,nc,28208,Mecklenburg
+98,McDonald,"413 tyvola rd, charlotte, nc, 28217, us",5.39,2.69,2.29,10.39,2.89,nc,28217,Mecklenburg
+99,McDonald,"9725 callabridge ct, charlotte, nc, 28216, us",6.49,2.99,2.59,12.89,3.79,nc,28216,Mecklenburg
+100,McDonald,"1201 w sugar creek rd, charlotte, nc, 28206, us",6.65,2.31,2.25,11.57,3.45,nc,28206,Mecklenburg
+101,McDonald,"6700 kee lane, harrisburg, nc, 28075, us",5.81,2.11,2.17,10.79,3.59,nc,28075,Cabarrus
+102,McDonald,"2543 carolina beach rd, wilmington, nc, 28401, us",6.29,2.99,2.59,12.09,4.59,nc,28401,New Hanover
+103,McDonald,"108 village rd, leland, nc, 28451, us",6.29,2.99,2.59,12.09,4.59,nc,28451,Brunswick
+104,McDonald,"4301 market st, wilmington, nc, 28405, us",6.29,2.99,2.59,12.09,4.59,nc,28405,New Hanover
+105,McDonald,"6860 market st, wilmington, nc, 28405, us",,,,,,nc,28405,New Hanover
+106,McDonald,"2801 old wake forest rd, raleigh, nc, 27609, us",6.36,2.98,2.46,11.17,4.28,nc,27609,Wake
+107,McDonald,"1567 hwy 70 w, garner, nc, 27603, us",6.09,2.79,2.69,9.99,3.89,nc,27603,Wake
+108,McDonald,"3026 capital blvd, raleigh, nc, 27604, us",,,,,,nc,27604,Wake
+109,McDonald,"4413 capital blvd, raleigh, nc, 27604, us",,,,,,nc,27604,Wake
+110,McDonald,"1150 e alameda, norman, ok, 73071, us",6.19,2.79,2.69,9.79,4.19,ok,73071,Cleveland
+111,McDonald,"105 s.w. 19th, moore, ok, 73160-6011, us",6.39,2.79,2.69,9.59,3.69,ok,73160,Cleveland
+112,McDonald,"351 e robinson, norman, ok, 73069, us",5.49,2.79,2.49,9.79,4.69,ok,73069,Cleveland
+113,McDonald,"113 nw 23rd st, oklahoma city, ok, 73103, us",6.69,2.89,2.39,11.49,3.69,ok,73103,Oklahoma
+114,McDonald,"2101 nw 23rd st, oklahoma city, ok, 73107, us",7.24,2.51,2.39,11.69,3.91,ok,73107,Oklahoma
+115,McDonald,"4418 shields blvd., oklahoma city, ok, 73129, us",5.99,2.99,2.19,9.59,3.59,ok,73129,Oklahoma
+116,McDonald,"1216 e 15th st s, tulsa, ok, 74120, us",5.89,1.99,1.89,10.19,3.49,ok,74120,Tulsa
+117,McDonald,"229 n. gilcrease museum rd., tulsa, ok, 74127-6537, us",5.89,1.69,1.59,10.19,3.29,ok,74127,Osage
+118,McDonald,"8105 e admiral pl, tulsa, ok, 74115, us",5.79,2.69,2.19,9.19,2.99,ok,74115,Tulsa
+119,McDonald,"1829 s garnett, tulsa, ok, 74128, us",5.89,2.89,2.49,8.59,3.39,ok,74128,Tulsa
+120,McDonald,"1708 e 1st st, tulsa, ok, 74104, us",5.89,1.99,1.89,10.19,3.59,ok,74104,Tulsa
+121,McDonald,"801 allegheny ave, pittsburgh, pa, 15233, us",,,,,,pa,15233,Allegheny
+122,McDonald,"3023 washington pike, bridgeville, pa, 15017, us",,,,,,pa,15017,Allegheny
+123,McDonald,"3708 forbes ave (oakland), pittsburgh, pa, 15213, us",,,,,,pa,15213,Allegheny
+124,McDonald,"5261 library rd, bethel park, pa, 15102, us",6.79,2.59,2.59,10.09,3.59,pa,15102,Allegheny
+125,McDonald,"82 fort couch rd, pittsburgh, pa, 15241, us",,,,,,pa,15241,Allegheny
+126,McDonald,"4214 brownsville road, brentwood, pa, 15227, us",6.89,2.89,2.59,11.49,4.29,pa,15227,Allegheny
+127,McDonald,"1001 n 9th street, reading, pa, 19604, us",7.99,3.89,3.59,13.29,5.19,pa,19604,Berks
+128,McDonald,"400 lancaster ave, reading, pa, 19611, us",7.99,3.89,3.59,13.29,5.19,pa,19611,Berks
+129,McDonald,"22 w girard ave, philadelphia, pa, 19123, us",6.19,2.49,1.89,9.99,3.79,pa,19123,Philadelphia
+130,McDonald,"2101 w lehigh ave, philadelphia, pa, 19132, us",5.59,2.19,1.69,9.49,3.79,pa,19132,Philadelphia
+131,McDonald,"1575 n 52nd st, philadelphia, pennsylvania, philadelphia, pa, 19131, us",5.89,2.39,1.79,9.49,3.89,pa,19131,Philadelphia
+132,McDonald,"5601 vine st, philadelphia, pa, 19139, us",5.89,2.39,1.69,9.79,3.79,pa,19139,Philadelphia
+133,McDonald,"2109 n broad st, philadelphia, pa, 19122, us",5.49,2.19,1.59,9.29,3.79,pa,19122,Philadelphia
+134,McDonald,"701 e gay st, west chester, pa, 19380, us",6.49,3.19,2.91,11.59,3.89,pa,19380,Chester
+135,McDonald,"927 s high st, west chester, pa, 19382, us",6.49,2.89,2.39,11.69,3.83,pa,19382,Chester
+136,McDonald,"4206 edgemont ave, brookhaven, pa, 19015, us",,,,,,pa,19015,Delaware
+137,McDonald,"2326 market st, linwood, pa, 19061, us",,,,,,pa,19061,Delaware
+138,McDonald,"531 w baltimore pike, clifton heights, pa, 19018, us",,,,,,pa,19018,Delaware
+139,McDonald,"575 n franklin st, lancaster, pa, 17602, us",,,,,,pa,17602,Lancaster
+140,McDonald,"311 centerville rd, lancaster, pa, 17601, us",,,,,,pa,17601,Lancaster
+141,McDonald,"210 w king st, lancaster, pa, 17603, us",6.09,2.32,1.95,11.09,4.51,pa,17603,Lancaster
+142,McDonald,"1414 tilghman st, allentown, pa, 18102, us",,,,,,pa,18102,Lehigh
+143,McDonald,"1432 s 4th st, allentown, pa, 18103, us",,,,,,pa,18103,Lehigh
+144,McDonald,"2752 macarthur rd, whitehall, pa, 18052, us",7.59,3.39,3.29,12.49,4.79,pa,18052,Lehigh
+145,McDonald,"721 n cedar crest blvd, allentown, pa, 18104, us",7.59,3.59,3.49,12.29,4.99,pa,18104,Lehigh
+146,McDonald,"223 w main st, norristown, pa, 19401, us",6.59,2.99,2.63,11.69,4.55,pa,19401,Montgomery
+147,McDonald,"151 north henderson road, king of prussia, pa, 19406, us",6.59,2.99,2.49,11.59,4.59,pa,19406,Montgomery
+148,McDonald,"2931 dekalb pike, east norriton, pa, 19401, us",6.59,3.11,2.99,11.39,4.55,pa,19401,Montgomery
+149,McDonald,"209 213 ridge pike, conshohocken, pa, 19428, us",6.89,3.19,2.89,11.89,4.19,pa,19428,Montgomery
+150,McDonald,"2400 w oregon ave, philadelphia, pa, 19145, us",,,,,,pa,19145,Philadelphia
+151,McDonald,"29 &amp; grays ferry ave, philadelphia, pa, 19146, us",7.49,3.49,3.49,11.99,3.99,pa,19146,Philadelphia
+152,McDonald,"549 clariton blvd, pleasant hills, pa, 15122, us",7.09,2.29,2.99,11.59,4.19,pa,15122,Allegheny
+153,McDonald,"1865 new texas rd, plum, pa, 15239, us",5.69,2.59,2.39,10.39,3.69,pa,15239,Allegheny
+154,McDonald,"3820 wm penn hwy, murrysville, pa, 15668, us",6.49,2.69,2.29,11.19,3.89,pa,15668,Westmoreland
+155,McDonald,"4317 northern pike, monroeville, pa, 15146, us",6.69,2.39,2.29,11.59,3.69,pa,15146,Allegheny
+156,McDonald,"3760 william penn hwy, monroeville, pa, 15146, us",6.69,3.29,2.49,11.59,3.99,pa,15146,Allegheny
+157,McDonald,"142 s george st, york, pa, 17401, us",,,,,,pa,17401,York
+158,McDonald,"380 memory ln, york, pa, 17402, us",,,,,,pa,17402,York
+159,McDonald,"60 arsenal rd, manchester township, pa, 17404, us",6.21,2.52,1.61,11.09,4.82,pa,17404,York
+160,McDonald,"2061 south queen street, york township, pa, 17403, us",6.99,3.49,3.29,11.99,4.99,pa,17403,York
+161,McDonald,"222 arsenal road, york, pa, 17402, us",,,,,,pa,17402,York
+162,McDonald,"1370 ford island rd, bluffton, sc, 29910, us",6.79,2.59,2.29,12.69,3.39,sc,29910,Beaufort
+163,McDonald,"14 discovery drive, bluffton, sc, 29910, us",6.79,2.59,2.29,12.69,3.39,sc,29910,Beaufort
+164,McDonald,"50 new orleans rd, hilton head island, sc, 29928, us",6.79,2.59,2.29,12.69,3.39,sc,29928,Beaufort
+165,McDonald,"302 college park rd, ladson, sc, 29456, us",7.09,2.89,2.49,12.78,4.08,sc,29456,Charleston
+166,McDonald,"230 spring st, charleston, sc, 29403, us",7.09,2.89,2.49,12.78,4.08,sc,29403,Charleston
+167,McDonald,"35 rutherford st, greenville, sc, 29609, us",6.99,2.79,2.29,11.59,3.63,sc,29609,Greenville
+168,McDonald,"2200 augusta rd, greenville, sc, 29605, us",5.99,2.29,2.19,8.3,3.59,sc,29605,Greenville
+169,McDonald,"3 cannon dr, greenville, sc, 29605, us",5.49,2.19,1.89,8.3,3.59,sc,29605,Greenville
+170,McDonald,"2200 n kings hwy, myrtle beach, sc, 29577, us",6.11,2.87,2.51,10.89,3.47,sc,29577,Horry
+171,McDonald,"3715 oleander drive, myrtle beach, sc, 29577, us",5.87,2.63,2.27,10.35,3.23,sc,29577,Horry
+172,McDonald,"2607 s kings hwy, myrtle beach, sc, 29577, us",6.11,2.87,2.51,10.89,3.47,sc,29577,Horry
+173,McDonald,"104 towne centre parkway, myrtle beach, sc, 29579, us",5.87,2.63,2.27,10.35,3.23,sc,29579,Horry
+174,McDonald,"250 columbia ave, lexington, sc, 29072, us",6.3,2.91,2.45,11.19,3.99,sc,29072,Lexington
+175,McDonald,"1011 s lake dr, lexington, sc, 29073, us",6.19,2.69,2.39,11.09,3.99,sc,29073,Lexington
+176,McDonald,"2412 augusta hwy, lexington, sc, 29072, us",6.19,2.69,2.19,11.2,3.99,sc,29072,Lexington
+177,McDonald,"2514 sunset blvd, west columbia, sc, 29169, us",,,,,,sc,29169,Lexington
+178,McDonald,"1024 elmwood ave, columbia, sc, 29201, us",,,,,,sc,29201,Richland
+179,McDonald,"1729 broad river rd, columbia, sc, 29210, us",,,,,,sc,29210,Richland
+180,McDonald,"2911 two notch rd, columbia, sc, 29204, us",,,,,,sc,29204,Richland
+181,McDonald,"1303 charleston hwy, west columbia, sc, 29169, us",7.02,2.99,2.1,,,sc,29169,Lexington
+182,McDonald,"2425 sunset blvd, west columbia, sc, 29169, us",6.39,2.49,2.12,10.76,4.08,sc,29169,Lexington
+183,McDonald,"2015 bluff road, columbia, sc, 29201, us",5.5,2.38,2.26,10.29,3.1,sc,29201,Richland
+184,McDonald,"308 w wade hampton blvd, greer, sc, 29651, us",5.99,2.39,2.19,8.3,3.59,sc,29651,Greenville
+185,McDonald,"103 hammett bridge rd, greer, sc, 29650, us",6.29,2.39,1.99,11.48,3.79,sc,29650,Greenville
+186,McDonald,"115 s cherry rd, rock hill, sc, 29732, us",,,,,,sc,29732,York
+187,McDonald,"1232 e main st, rock hill, sc, 29730, us",6.11,2.79,2.69,10.09,3.89,sc,29730,York
+188,McDonald,"511 s herlong, rock hill, sc, 29732, us",6.49,2.69,2.49,9.59,4.19,sc,29732,York
+189,McDonald,"1998 dave lyle blvd, rock hill, sc, 29730, us",5.59,2.39,2.39,10.19,3.29,sc,29730,York
+190,McDonald,"1785 mt gallant rd, rock hill, sc, 29732, us",5.89,2.65,2.23,10.89,3.59,sc,29732,York
+191,McDonald,"801 vantage way ct, nashville, tn, 37228, us",6.29,2.49,2.29,10.29,3.49,tn,37228,Davidson
+192,McDonald,"4041 nolensville rd, nashville 37211, usa, plano, tn, 75075, us",6.29,2.49,2.29,10.29,3.49,tn,75075,Collin
+193,McDonald,"5744 nolensville rd, nashville, tn, 37211-6424, us",6.29,2.49,2.29,10.29,3.49,tn,37211,Davidson
+194,McDonald,"4734 lebanon pike, hermitage, tn, 37076, us",6.29,2.49,2.29,10.29,3.49,tn,37076,Davidson
+195,McDonald,"1117 e 3rd st, chattanooga, tn, 37403, us",,,,,,tn,37403,Hamilton
+196,McDonald,"2003 dayton blvd, red bank, tn, 37415, us",,,,,,tn,37415,Hamilton
+197,McDonald,"156 browns ferry rd, chattanooga, tn, 37419, us",,,,,,tn,37419,Marion
+198,McDonald,"4502 rossville blvd, chattanooga, tn, 37407, us",,,,,,tn,37407,Hamilton
+199,McDonald,"4829 brainerd rd, chattanooga, tn, 37411, us",,,,,,tn,37411,Hamilton
+200,McDonald,"1720 w cumberland ave, knoxville, tn, 37916, us",,,,,,tn,37916,Knox
+201,McDonald,"2818 magnolia ave, knoxville, tn, 37914, us",,,,,,tn,37914,Knox
+202,McDonald,"3120 n broadway, knoxville, tn, 37917, us",,,,,,tn,37917,Knox
+203,McDonald,"4420 western avenue, knoxville, tn, 37921, us",,,,,,tn,37921,Knox
+204,McDonald,"1716 s rutherford blvd, murfreesboro, tn, 37130, us",,,,,,tn,37130,Rutherford
+205,McDonald,"2485 s church st, murfreesboro, tn, 37127, us",,,,,,tn,37127,Rutherford
+206,McDonald,"2874 medical center pkwy, murfreesboro, tn, 37129, us",,,,,,tn,37129,Rutherford
+207,McDonald,"106 se broad st, murfreesboro, tn, 37130, us",5.29,2.49,2.49,10.09,3.49,tn,37130,Rutherford
+208,McDonald,"1706 memorial blvd, murfreesboro, tn, 37130, us",5.49,2.29,2.59,9.99,3.19,tn,37130,Rutherford
+209,McDonald,"225 fork of the river pky, sevierville, tn, 37862, us",,,,,,tn,37862,Sevier
+210,McDonald,"904 dolly parton pky, sevierville, tn, 37862, us",,,,,,tn,37862,Sevier
+211,McDonald,"3845 e shelby dr, memphis, tn, 38118, us",5.19,2.49,2.19,8.69,3.19,tn,38118,Shelby
+212,McDonald,"905 union ave, memphis, tn, 38103-3513, us",6.79,3.69,3.29,11.99,4.49,tn,38103,Shelby
+213,McDonald,"1389 poplar, memphis, tn, 38104-2007, us",6.79,3.69,3.29,11.99,4.49,tn,38104,Shelby
+214,McDonald,"2073 union ave, memphis, tn, 38104, us",6.79,3.69,2.89,11.99,4.59,tn,38104,Shelby
+215,McDonald,"3149 n thomas st, memphis, tn, 38127, us",6.79,3.69,2.99,11.99,4.49,tn,38127,Shelby
+216,McDonald,"106 new hwy 96 w, franklin, tn, 37064, us",5.79,2.69,2.29,10.18,3.79,tn,37064,Williamson
+217,McDonald,"653 frazier dr, franklin, tn, 37067, us",,,,,,tn,37067,Williamson
+218,McDonald,"109 e rancier st, killeen, tx, 76541, us",,,,,,tx,76541,Bell
+219,McDonald,"4622 s fort hood street, killeen, tx, 76542, us",5.71,2.73,2.11,9.69,2.98,tx,76542,Bell
+220,McDonald,"2102 business hwy 190, killeen, tx, 76541, us",5.71,2.29,2.26,9.59,2.98,tx,76541,Bell
+221,McDonald,"4300 central texas expy, killeen, tx, 76542, us",5.71,2.29,2.26,9.59,3.03,tx,76542,Bell
+222,McDonald,"721 san pedro ave, san antonio, tx, 78212, us",,,,,,tx,78212,Bexar
+223,McDonald,"826 zarzamora, san antonio, tx, 78207, us",,,,,,tx,78207,Bexar
+224,McDonald,"4422 w commerce st, san antonio, tx, 78237, us",,,,,,tx,78237,Bexar
+225,McDonald,"2922 blanco rd, san antonio, tx, 78212-1813, us",,,,,,tx,78212,Bexar
+226,McDonald,"1643 pleasanton rd, san antonio, tx, 78221, us",,,,,,tx,78221,Bexar
+227,McDonald,"2402 e southcross blvd, san antonio, tx, 78223, us",,,,,,tx,78223,Bexar
+228,McDonald,"9151 fm78, converse, tx, 78109, us",,,,,,tx,78109,Bexar
+229,McDonald,"7975 kitty hawk, converse, tx, 78109, us",,,,,,tx,78109,Bexar
+230,McDonald,"713 pat booker rd, universal city, tx, 78148, us",5.49,2.39,2.29,10.69,3.79,tx,78148,Bexar
+231,McDonald,"17480 i 35 n, schertz, tx, 78154, us",5.55,2.8,2.45,10.55,3.8,tx,78154,Bexar
+232,McDonald,"21600 ih-35 n, schertz, tx, 78108, us",5.49,2.39,2.29,10.79,3.79,tx,78108,Guadalupe
+233,McDonald,"17455 ih 35 n, schertz, tx, 78154, us",,,,,,tx,78154,Bexar
+234,McDonald,"11101 s sam, houston, tx, 77089, us",,,,,,tx,77089,Harris
+235,McDonald,"100 w parkwood ave, friendswood, tx, 77546, us",,,,,,tx,77546,Galveston
+236,McDonald,"8303 west broadway street, pearland, tx, 77581, us",,,,,,tx,77581,Brazoria
+237,McDonald,"11695 gulf fwy, houston, tx, 77034, us",,,,,,tx,77034,Harris
+238,McDonald,"2505 almeda genoa rd, houston, tx, 77047, us",,,,,,tx,77047,Harris
+239,McDonald,"2420 texas ave, college station, tx, 77840, us",,,,,,tx,77840,Brazos
+240,McDonald,"1015 wellborn rd., college station, tx, 32827, us",,,,,,tx,32827,Orange
+241,McDonald,"bryan, usa, bryan, tx, 77802, us",,,,,,tx,77802,Brazos
+242,McDonald,"1750 rock prairie rd, college station, tx, 77845, us",,,,,,tx,77845,Brazos
+243,McDonald,"451 north harvey mitchell pkwy, bryan, tx, 77807, us",,,,,,tx,77807,Brazos
+244,McDonald,"1609 central blvd, brownsville, tx, 78520, us",,,,,,tx,78520,Cameron
+245,McDonald,"4690 southmost rd, brownsville, tx, 78521, us",,,,,,tx,78521,Cameron
+246,McDonald,"1104 international blvd, brownsville, tx, 78520, us",5.51,2.73,2.39,8.3,3.89,tx,78520,Cameron
+247,McDonald,"101 s expressway, brownsville, tx, 78520, us",5.51,3.07,3.21,8.3,3.89,tx,78520,Cameron
+248,McDonald,"2430 pablo kisel blvd, brownsville, tx, 78521, us",,,,,,tx,78521,Cameron
+249,McDonald,"400 jupiter rd, plano, tx, 75074, us",,,,,,tx,75074,Collin
+250,McDonald,"701 w spring creek, plano, tx, 75023, us",,,,,,tx,75023,Collin
+251,McDonald,"7201 n president george bush hwy, garland, tx, 75044, us",,,,,,tx,75044,Dallas
+252,McDonald,"550 centennial blvd, richardson, tx, 75081, us",,,,,,tx,75081,Dallas
+253,McDonald,"650 n riverfront blvd, dallas, tx, 75207, us",5.99,2.29,2.09,10.99,3.79,tx,75207,Dallas
+254,McDonald,"4151 n central expy, dallas, tx, 75204, us",6.39,2.89,2.69,10.59,3.89,tx,75204,Dallas
+255,McDonald,"5403 ross ave, dallas, tx, 75206-7420, us",5.99,2.99,2.89,10.39,3.99,tx,75206,Dallas
+256,McDonald,"4439 lemmon ave, dallas, tx, 75219-2143, us",6.29,2.29,2.09,10.99,3.89,tx,75219,Dallas
+257,McDonald,"5960 greenville ave, dallas, tx, 75206, us",5.99,2.59,2.39,10.29,3.89,tx,75206,Dallas
+258,McDonald,"5337 e grand ave, dallas, tx, 75223, us",,,,,,tx,75223,Dallas
+259,McDonald,"2410 n story rd, irving, tx, 75062, us",,,,,,tx,75062,Dallas
+260,McDonald,"1308 e airport fwy, irving, tx, 75062-4817, us",,,,,,tx,75062,Dallas
+261,McDonald,"4330, dallas, tx, 75211, us",,,,,,tx,75211,Dallas
+262,McDonald,"2832 n main st, fort worth, tx, 76106-7106, us",,,,,,tx,76106,Tarrant
+263,McDonald,"2248 jacksboro hwy, fort worth, tx, 76164, us",,,,,,tx,76164,Tarrant
+264,McDonald,"4101 e lancaster ave, fort worth, tx, 76103, us",,,,,,tx,76103,Tarrant
+265,McDonald,"3901 airport fwy, fort worth, tx, 76111, us",,,,,,tx,76111,Tarrant
+266,McDonald,"2451 meacham, fort worth, tx, 76106, us",,,,,,tx,76106,Tarrant
+267,McDonald,"2811 gateway w, el paso, tx, 79903, us",5.49,3.39,2.99,9.49,3.49,tx,79903,El Paso
+268,McDonald,"2401 n mesa st, el paso, tx, 79902, us",5.89,3.69,2.99,9.19,3.59,tx,79902,El Paso
+269,McDonald,"1515 airway blvd, el paso, tx, 79925, us",5.99,3.19,2.49,9.49,3.29,tx,79925,El Paso
+270,McDonald,"7900 mesa st, el paso, tx, 79932, us",5.39,3.19,2.99,8.79,3.39,tx,79932,El Paso
+271,McDonald,"1510 studemont, houston, tx, 77007, us",,,,,,tx,77007,Harris
+272,McDonald,"3611 n main st, houston, tx, 77009, us",,,,,,tx,77009,Harris
+273,McDonald,"6509 washington, houston, tx, 77007, us",,,,,,tx,77007,Harris
+274,McDonald,"6000 gulf fwy, houston, tx, 77023, us",,,,,,tx,77023,Harris
+275,McDonald,"511 lockwood dr, houston, tx, 77011, us",,,,,,tx,77011,Harris
+276,McDonald,"3820 old spanish trl, houston, tx, 77021, us",,,,,,tx,77021,Harris
+277,McDonald,"5301 east fwy, houston, tx, 77020-4758, us",,,,,,tx,77020,Harris
+278,McDonald,"2022 yale street, houston, tx, 77008, us",,,,,,tx,77008,Harris
+279,McDonald,"2515 fulton st, houston, tx, 77009, us",,,,,,tx,77009,Harris
+280,McDonald,"4920 n kirby dr, houston, tx, 77098-5008, us",,,,,,tx,77098,Harris
+281,McDonald,"2727 bay area blvd, houston, tx, 77058, us",,,,,,tx,77058,Harris
+282,McDonald,"102 hwy 3 south, league city, tx, 77573, us",5.89,1.99,1.79,9.99,2.79,tx,77573,Galveston
+283,McDonald,"113 n gulf fwy, league city, tx, 77573, us",5.41,1.94,1.77,9.23,2.89,tx,77573,Galveston
+284,McDonald,"2940 gulf freeway, league city, tx, 77573, us",,,,,,tx,77573,Galveston
+285,McDonald,"1400 nasa rd. 1, nassau bay, tx, 77058, us",,,,,,tx,77058,Harris
+286,McDonald,"3223 spencer hwy, pasadena, tx, 77504, us",,,,,,tx,77504,Harris
+287,McDonald,"503 college ave, south houston, tx, 77587, us",,,,,,tx,77587,Harris
+288,McDonald,"1901 s 10th st, mcallen, tx, 78503, us",,,,,,tx,78503,Hidalgo
+289,McDonald,"1217 e hwy 83, mcallen, tx, 78501, us",,,,,,tx,78501,Hidalgo
+290,McDonald,"3700 pecan blvd, mcallen, tx, 78501, us",,,,,,tx,78501,Hidalgo
+291,McDonald,"2808 n 10th st, mcallen, tx, 78501, us",,,,,,tx,78501,Hidalgo
+292,McDonald,"301 w ridge rd, pharr, tx, 78577, us",,,,,,tx,78577,Hidalgo
+293,McDonald,"804 s shary rd, mission, tx, 78572, us",,,,,,tx,78572,Hidalgo
+294,McDonald,"1555 i 10 e, beaumont, tx, 77701-1115, us",,,,,,tx,77701,Jefferson
+295,McDonald,"3050 south martin luther king junior par, beaumont, tx, 77705, us",,,,,,tx,77705,Jefferson
+296,McDonald,"5580 hwy 105, beaumont, tx, 77708, us",,,,,,tx,77708,Jefferson
+297,McDonald,"2339 19th st, lubbock, tx, 79401, us",,,,,,tx,79401,Lubbock
+298,McDonald,"2433 s loop 289, lubbock, tx, 79423, us",,,,,,tx,79423,Lubbock
+299,McDonald,"5201 4th st, lubbock, tx, 79416, us",,,,,,tx,79416,Lubbock
+300,McDonald,"3403 quaker ave, lubbock, tx, 79410, us",,,,,,tx,79410,Lubbock
+301,McDonald,"102 n university, lubbock, tx, 79415, us",5.61,1.79,1.39,9.28,2.99,tx,79415,Lubbock
+302,McDonald,"906 s 6th st, waco, tx, 76706, us",,,,,,tx,76706,McLennan
+303,McDonald,"4330 franklin avenue, waco, tx, 76710, us",5.79,2.39,2.09,10.88,3.39,tx,76710,McLennan
+304,McDonald,"3733 n 19th st, waco, tx, 76708, us",5.79,2.39,2.09,10.88,3.39,tx,76708,McLennan
+305,McDonald,"1225 n valley mills dr, waco, tx, 76710, us",5.79,2.39,2.09,10.88,3.39,tx,76710,McLennan
+306,McDonald,"1610 s padre island dr, corpus christi, tx, 78416, us",,,,,,tx,78416,Nueces
+307,McDonald,"2021 morgan ave, corpus christi, tx, 78405-1541, us",,,,,,tx,78405,Nueces
+308,McDonald,"4102 s port ave, corpus christi, tx, 78415-5310, us",,,,,,tx,78415,Nueces
+309,McDonald,"3745 s staples, corpus christi, tx, 78411, us",,,,,,tx,78411,Nueces
+310,McDonald,"3211 s padre island dr, corpus christi, tx, 78415, us",,,,,,tx,78415,Nueces
+311,McDonald,"5560 s padre island dr, corpus christi, tx, 78411-4108, us",,,,,,tx,78411,Nueces
+312,McDonald,"611 w abrams st, arlington, tx, 76010, us",,,,,,tx,76010,Tarrant
+313,McDonald,"1704 w randol mill rd, arlington, tx, 76012, us",,,,,,tx,76012,Tarrant
+314,McDonald,"800 w. pioneer parkway, arlington, tx, 76013, us",,,,,,tx,76013,Tarrant
+315,McDonald,"2391 n collins, arlington, tx, 76011, us",,,,,,tx,76011,Tarrant
+316,McDonald,"1420 eastchase pky, fort worth, tx, 76120, us",,,,,,tx,76120,Tarrant
+317,McDonald,"4300 s cooper, arlington, tx, 76015, us",,,,,,tx,76015,Tarrant
+318,McDonald,"303 e oltorf st, austin, tx, 78704, us",,,,,,tx,78704,Travis
+319,McDonald,"3909 s congress ave, austin, tx, 78704, us",,,,,,tx,78704,Travis
+320,McDonald,"5762 mopac expy n, austin, tx, 78731, us",,,,,,tx,78731,Travis
+321,McDonald,"5516 n lamar blvd, austin, tx, 78751, us",,,,,,tx,78751,Travis
+322,McDonald,"7950 burnet rd, austin, tx, 78757, us",,,,,,tx,78757,Travis
+323,McDonald,"310 n interstate 35, round rock, tx, 78681, us",,,,,,tx,78681,Williamson
+324,McDonald,"4929 gattis school rd, hutto, tx, 78634, us",,,,,,tx,78634,Williamson
+325,McDonald,"13609 n i 35, austin, tx, 78753, us",,,,,,tx,78753,Travis
+326,McDonald,"608 w hwy 79, hutto, tx, 78634, us",,,,,,tx,78634,Williamson
+327,McDonald,"806 n austin ave, georgetown, tx, 78626, us",,,,,,tx,78626,Williamson
+328,McDonald,"2981 fm 1460, georgetown, tx, 78626, us",5.79,1.99,2.09,10.19,3.19,tx,78626,Williamson
+329,McDonald,"1155 n hill field rd, layton, ut, 84041, us",,,,,,ut,84041,Davis
+330,McDonald,"691 n main st, clearfield, ut, 84015, us",,,,,,ut,84015,Davis
+331,McDonald,"320 w &amp; 200 n, kaysville, ut, 84037, us",5.69,2.69,2.39,9.09,3.79,ut,84037,Davis
+332,McDonald,"945 e 2100 s, salt lake city, ut, 84105, us",,,,,,ut,84105,Salt Lake
+333,McDonald,"1655 s redwood rd, salt lake city, ut, 84104, us",,,,,,ut,84104,Salt Lake
+334,McDonald,"610 w 2600 s, woods cross, ut, 84010, us",,,,,,ut,84010,Davis
+335,McDonald,"5571 s redwood rd, taylorsville, ut, 84123, us",,,,,,ut,84123,Salt Lake
+336,McDonald,"3497 s 5600 w, west valley city, ut, 84120, us",,,,,,ut,84120,Salt Lake
+337,McDonald,"210 w 5th s, salt lake city, ut, 84101, us",6.24,2.85,2.19,10.82,3.78,ut,84101,Salt Lake
+338,McDonald,"211 w 1230 n, provo, ut, 84604, us",,,,,,ut,84604,Utah
+339,McDonald,"1225 s university ave, provo, ut, 84601, us",,,,,,ut,84601,Utah
+340,McDonald,"15 state st, orem, ut, 84057, us",,,,,,ut,84057,Utah
+341,McDonald,"1140 west 800 north, orem, usa, orem, ut, 84057, us",,,,,,ut,84057,Utah
+342,McDonald,"1125 radisson st, green bay, wi, 54302, us",,,,,,wi,54302,Brown
+343,McDonald,"1609 s main st, green bay, wi, 54302, us",,,,,,wi,54302,Brown
+344,McDonald,"2340 e mason st, green bay, wi, 54311, us",,,,,,wi,54311,Brown
+345,McDonald,"1102 regent st, madison, wi, 53715, us",,,,,,wi,53715,Dane
+346,McDonald,"2733 e washington ave, madison, wi, 53704, us",,,,,,wi,53704,Dane
+347,McDonald,"2845 fish hatchery rd, fitchburg, wi, 53713, us",,,,,,wi,53713,Dane
+348,McDonald,"4020 milwaukee st, madison, wi, 53714, us",,,,,,wi,53714,Dane
+349,McDonald,"2901 dryden dr, madison, wi, 53704, us",,,,,,wi,53704,Dane
+350,McDonald,"1614 e north ave, milwaukee, wi, 53202, us",,,,,,wi,53202,Milwaukee
+351,McDonald,"830 e potter ave, milwaukee, wi, 53207, us",,,,,,wi,53207,Milwaukee
+352,McDonald,"6262 south 13th street, milwaukee, wi, 53221, us",,,,,,wi,53221,Milwaukee
+353,McDonald,"707 s 1st st, milwaukee, wi, 53204, us",,,,,,wi,53204,Milwaukee
+354,McDonald,"1635 e main st, waukesha, wi, 53186, us",,,,,,wi,53186,Waukesha
+355,McDonald,"300 n moorland rd, brookfield, wi, 53005, us",,,,,,wi,53005,Waukesha
+356,Wendy,"371 s greeno road, fairhope, al, 36532, us",6.58,2.92,2.67,,,al,36532,Baldwin
+357,Wendy,"30500 state hwy 181, spanish fort, al, 36527, us",6.58,2.92,2.67,,,al,36527,Baldwin
+358,Wendy,"3957 cottage hill road, mobile, al, 36693, us",5.39,2.29,2.19,,,al,36693,Mobile
+359,Wendy,"2727 highway 280, birmingham, al, 35223, us",7.19,2.92,2.31,,,al,35223,Jefferson
+360,Wendy,"2327 7th avenue s., birmingham, al, 35233, us",7.55,3.16,2.43,,,al,35233,Jefferson
+361,Wendy,"345 valley ave, birmingham, al, 35209, us",7.55,3.16,2.43,,,al,35209,Jefferson
+362,Wendy,"2080 sparkman drive, huntsville, al, 35810, us",7.06,2.43,1.94,,,al,35810,Madison
+363,Wendy,"6102 university dr nw, huntsville, al, 35806, us",7.06,2.43,1.94,,,al,35806,Madison
+364,Wendy,"7782 highway 72 west, madison, al, 35758, us",7.06,2.43,1.94,,,al,35758,Madison
+365,Wendy,"8814 hwy 20 w, madison, al, 35758, us",7.06,2.43,1.94,,,al,35758,Madison
+366,Wendy,"2800 s memorial pkwy, huntsville, al, 35801, us",7.06,2.43,1.94,,,al,35801,Madison
+367,Wendy,"959 government blvd, mobile, al, 36604, us",6.58,2.92,2.67,,,al,36604,Mobile
+368,Wendy,"3113 airport blvd., mobile, al, 36606, us",6.58,2.92,2.67,,,al,36606,Mobile
+369,Wendy,"3464 springhill ave, mobile, al, 36608, us",6.58,2.92,2.67,,,al,36608,Mobile
+370,Wendy,"615 martin luther king jr. blvd, savannah, ga, 31401, us",6.94,2.92,2.43,,,ga,31401,Chatham
+371,Wendy,"427 moreland s.e., atlanta, ga, 30316, us",6.94,2.92,2.43,,,ga,30316,DeKalb
+372,Wendy,"1025 ralph david abernathy rd, atlanta, ga, 30310, us",6.94,2.92,2.43,,,ga,30310,Fulton
+373,Wendy,"2570 candler road, decatur, ga, 30032, us",6.94,2.92,2.43,,,ga,30032,DeKalb
+374,Wendy,"3015 panola road, lithonia, ga, 30038, us",6.94,2.92,2.43,,,ga,30038,DeKalb
+375,Wendy,"6156 covington hwy., lithonia, ga, 30058, us",6.94,2.92,2.43,,,ga,30058,DeKalb
+376,Wendy,"2605 bouldercrest road, atlanta, ga, 30316, us",7.67,1.57,1.57,,,ga,30316,DeKalb
+377,Wendy,"800 forrest st nw, atlanta, ga, 30318, us",,,,,,ga,30318,Fulton
+378,Wendy,"1185, san leandro, ca, 94577, us",8.28,2.79,2.18,,,ca,94577,Alameda
+379,Wendy,"189 98th avenue, oakland, ca, 94603, us",8.04,3.77,2.31,,,ca,94603,Alameda
+380,Wendy,"5211 broadway, oakland, ca, 94618, us",7.92,3.04,2.67,,,ca,94618,Alameda
+381,Wendy,"3680 west state street, boise, id, 83703, us",7.06,2.79,2.43,,,id,83703,Ada
+382,Wendy,"8100 west franklin road, boise, id, 83709, us",7.06,2.79,2.43,,,id,83709,Ada
+383,Wendy,"8921 east 116th street, fishers, in, 46038, us",5.39,1.99,1.79,,,in,46038,Hamilton
+384,Wendy,"1844 165th st, hammond, in, 46320, us",6.45,2.67,2.31,,,in,46320,Lake
+385,Wendy,"7790 corinne dr, hammond, in, 46323, us",6.45,2.67,2.31,,,in,46323,Lake
+386,Wendy,"2120 e columbus dr., east chicago, in, 46312, us",6.45,2.67,2.31,,,in,46312,Lake
+387,Wendy,"9703 kennedy avenue, highland, in, 46322, us",6.45,2.67,2.31,,,in,46322,Lake
+388,Wendy,"101 east ridge road, griffith, in, 46319, us",6.45,3.28,2.79,,,in,46319,Lake
+389,Wendy,"6351 e. 82nd street, indianapolis, in, 46250, us",6.58,2.43,2.18,,,in,46250,Marion
+390,Wendy,"2245 n. meridian st, indianapolis, in, 46208, us",6.58,2.43,2.18,,,in,46208,Marion
+391,Wendy,"1450 w. morris street, indianapolis, in, 46221, us",6.58,2.43,2.18,,,in,46221,Marion
+392,Wendy,"3323 e. washington st, indianapolis, in, 46201, us",6.58,2.43,2.18,,,in,46201,Marion
+393,Wendy,"3640 south keystone avenue, indianapolis, in, 46227, us",7.06,2.67,2.43,,,in,46227,Marion
+394,Wendy,"4935 merle hay road, des moines, ia, 50322, us",7.31,2.67,2.06,,,ia,50322,Polk
+395,Wendy,"9161 metcalf avenue, overland park, ks, 66212, us",5.99,2.29,1.89,,,ks,66212,Johnson
+396,Wendy,"555 s. broadway, wichita, ks, 67202, us",6.94,2.79,2.43,,,ks,67202,Sedgwick
+397,Wendy,"1705 w. 21st street north, wichita, ks, 67203, us",6.94,2.79,2.43,,,ks,67203,Sedgwick
+398,Wendy,"9489 westport rd, louisville, ky, 40241, us",6.33,2.67,2.31,,,ky,40241,Jefferson
+399,Wendy,"2374 college drive, baton rouge, la, 70808, us",6.94,3.04,2.67,,,la,70808,East Baton Rouge
+400,Wendy,"101 gateway center lane, baton rouge, la, 70802, us",6.94,3.04,2.67,,,la,70802,East Baton Rouge
+401,Wendy,"214 lobdell highway south, port allen, la, 70767, us",6.94,3.04,2.67,,,la,70767,West Baton Rouge
+402,Wendy,"636 west lee drive, baton rouge, la, 70820, us",6.94,3.04,2.67,,,la,70820,East Baton Rouge
+403,Wendy,"4605 chef menteur hwy., new orleans, la, 70126, us",6.94,3.04,2.67,,,la,70126,Orleans
+404,Wendy,"6020 bullard avenue, new orleans, la, 70128, us",5.69,2.49,2.19,,,la,70128,Orleans
+405,Wendy,"13211 hwy 90, boutte, la, 70039, us",5.69,2.49,2.19,,,la,70039,St. Charles
+406,Wendy,"3705, jefferson, la, 70121, us",5.69,2.49,2.19,,,la,70121,Jefferson
+407,Wendy,"4801 airline dr., metairie, la, 70001, us",5.69,2.49,2.19,,,la,70001,Jefferson
+408,Wendy,"3236 ne evangeline trwy, lafayette, la, 70507, us",6.94,3.04,2.67,,,la,70507,Lafayette
+409,Wendy,"1916 rees street, breaux bridge, la, 70517, us",6.94,3.04,2.67,,,la,70517,St. Martin
+410,Wendy,"208 ambassador caffery pkwy, scott, la, 70583, us",6.94,3.04,2.67,,,la,70583,Lafayette
+411,Wendy,"3144 ambassador caffrey, lafayette, la, 70506, us",6.94,3.04,2.67,,,la,70506,Lafayette
+412,Wendy,"3601 gen. degaulle dr., new orleans, la, 70114, us",5.69,2.49,2.19,,,la,70114,Orleans
+413,Wendy,"1301 st. charles ave., new orleans, la, 70130, us",5.69,2.49,2.19,,,la,70130,Orleans
+414,Wendy,"22 pass rd., gulfport, ms, 39507, us",6.82,2.79,2.43,,,ms,39507,Harrison
+415,Wendy,"722 second st, manchester, nh, 03102, us",7.31,2.18,1.7,,,nh,3102,Hillsborough
+416,Wendy,"1465 woodbury ave, portsmouth, nh, 03801, us",8.41,2.92,2.31,,,nh,3801,Rockingham
+417,Wendy,"909 central ave., dover, nh, 03820, us",7.31,2.18,1.7,,,nh,3820,Strafford
+418,Wendy,"570 lafayette rd unit, seabrook, nh, 03874, us",8.41,2.92,2.31,,,nh,3874,Rockingham
+419,Wendy,"95 calef highway, lee, nh, 03861, us",7.19,2.43,2.18,,,nh,3861,Strafford
+420,Wendy,"585 merrimon ave, asheville, nc, 28804, us",6.58,2.18,1.82,,,nc,28804,Buncombe
+421,Wendy,"776 biltmore ave., asheville, nc, 28803, us",6.58,2.18,1.82,,,nc,28803,Buncombe
+422,Wendy,"532 grove st., fayetteville, nc, 28301, us",6.33,2.43,2.18,,,nc,28301,Cumberland
+423,Wendy,"3000 owen drive, fayetteville, nc, 28306, us",6.33,2.43,2.18,,,nc,28306,Cumberland
+424,Wendy,"3527 hillsborough rd., durham, nc, 27705, us",6.58,3.16,2.67,,,nc,27705,Durham
+425,Wendy,"3107 shannon road, durham, nc, 27707, us",6.58,3.16,2.67,,,nc,27707,Durham
+426,Wendy,"1821 n pointe dr, durham, nc, 27705, us",,,,,,nc,27705,Durham
+427,Wendy,"1821 n pointe drive, durham, nc, 27705, us",,,,,,nc,27705,Durham
+428,Wendy,"201 e franklin st, chapel hill, nc, 27514, us",,,,,,nc,27514,Orange
+429,Wendy,"2218 cloverdale avenue, winston salem, nc, 27103, us",6.58,3.16,2.67,,,nc,27103,Forsyth
+430,Wendy,"538 akron dr, winston salem, nc, 27105, us",6.58,3.16,2.67,,,nc,27105,Forsyth
+431,Wendy,"715, charlotte, nc, 28204, us",5.29,1.99,1.69,,,nc,28204,Mecklenburg
+432,Wendy,"14139 statesville rd, huntersville, nc, 28078, us",6.7,2.43,2.06,,,nc,28078,Mecklenburg
+433,Wendy,"9905 northlake centre pkwy, charlotte, nc, 28216, us",6.45,2.43,2.06,,,nc,28216,Mecklenburg
+434,Wendy,"10210 berkeley place drive, 120, charlotte, nc, 28262, us",,,,,,nc,28262,Mecklenburg
+435,Wendy,"ocean highway east, leland, nc, 28451, us",6.33,2.43,2.18,,,nc,28451,Brunswick
+436,Wendy,"3715 western blvd., raleigh, nc, 27606, us",6.33,2.79,2.43,,,nc,27606,Wake
+437,Wendy,"1908 w. main street, norman, ok, 73069, us",5.69,2.69,2.29,,,ok,73069,Cleveland
+438,Wendy,"1581 fitzgerald drive, pinole, ca, 94564, us",6.94,3.53,2.31,,,ca,94564,Contra Costa
+439,Wendy,"5943, pacheco, ca, 94553, us",9.02,3.77,3.4,,,ca,94553,Contra Costa
+440,Wendy,"7221 e. admiral, tulsa, ok, 74115, us",6.94,2.79,2.43,,,ok,74115,Tulsa
+441,Wendy,"1209 east pine street, tulsa, ok, 74106, us",6.94,2.79,2.43,,,ok,74106,Tulsa
+442,Wendy,"1432 s peoria ave, tulsa, ok, 74120, us",,,,,3.01,ok,74120,Tulsa
+443,Wendy,"1533 n. peoria, tulsa, ok, 74106, us",,,,,,ok,74106,Tulsa
+444,Wendy,"4840 s yale ave, tulsa, ok, 74135, us",,,,,,ok,74135,Tulsa
+445,Wendy,"725 allegheny ave., pittsburgh, pa, 15233, us",7.19,2.79,2.31,,,pa,15233,Allegheny
+446,Wendy,"4001 butler street, pittsburgh, pa, 15201, us",7.19,2.79,2.31,,,pa,15201,Allegheny
+447,Wendy,"4656 browns hill rd, pittsburgh, pa, 15217, us",,8.49,,,4.99,pa,15217,Allegheny
+448,Wendy,"5055 library rd., bethel park, pa, 15102, us",7.19,2.79,2.31,,,pa,15102,Allegheny
+449,Wendy,"712 penn avenue, w.reading, pa, 19611, us",7.19,3.04,2.43,,,pa,19611,Berks
+450,Wendy,"3111 e. 14th street, oakland, ca, 94601, us",7.92,2.79,2.18,,,ca,94601,Alameda
+451,Wendy,"700 east gay street, w.chester, pa, 19380, us",7.55,2.79,2.18,,,pa,19380,Chester
+452,Wendy,"3521 edgemont avenue, brookhaven, pa, 19015, us",7.92,2.79,2.18,,,pa,19015,Delaware
+453,Wendy,"1117 harrisburg pike, lancaster, pa, 17603, us",7.06,3.04,2.43,,,pa,17603,Lancaster
+454,Wendy,"2001 state road, lancaster, pa, 17601, us",7.55,2.79,2.18,,,pa,17601,Lancaster
+455,Wendy,"757 union blvd, allentown, pa, 18109, us",7.19,3.04,2.43,,,pa,18109,Lehigh
+456,Wendy,"1980 s 4th st, allentown, pa, 18103, us",7.19,3.04,2.43,,,pa,18103,Lehigh
+457,Wendy,"1313 tilghman st, allentown, pa, 18102, us",,,,,,pa,18102,Lehigh
+458,Wendy,"1013 ridge pike, conshohocken, pa, 19428, us",8.04,2.79,2.31,,,pa,19428,Montgomery
+459,Wendy,"2815 dekalb pike, norristown, pa, 19401, us",8.04,2.79,2.31,,,pa,19401,Montgomery
+460,Wendy,"1515 chestnut street, philadelphia, pa, 19102, us",7.92,2.79,2.18,,,pa,19102,Philadelphia
+461,Wendy,"1708 n broad st., philadelphia, pa, 19121, us",7.92,2.79,2.18,,,pa,19121,Philadelphia
+462,Wendy,"1037 chestnut st, philadelphia, pa, 19107, us",,,,,,pa,19107,Philadelphia
+463,Wendy,"4301 market st, philadelphia, pa, 19104, us",,,,,,pa,19104,Philadelphia
+464,Wendy,"5076 william penn hwy, monroeville, pa, 15146, us",7.19,2.79,2.31,,,pa,15146,Allegheny
+465,Wendy,"3990 william penn highway, monroeville, pa, 15146, us",7.06,2.79,2.18,,,pa,15146,Allegheny
+466,Wendy,"3980 william penn highway, monroeville, pa, 15146, us",,6.12,,,,pa,15146,Allegheny
+467,Wendy,"60 w. 11th ave, york, pa, 17404, us",7.06,3.04,2.43,,,pa,17404,York
+468,Wendy,"1201 carlisle rd, york, pa, 17404, us",7.06,3.04,2.43,,,pa,17404,York
+469,Wendy,"1450 kenneth road, york, pa, 17408, us",,,,,,pa,17408,York
+470,Wendy,"1199 louck road, york, pa, 17404, us",,6.74,,,,pa,17404,York
+471,Wendy,"222 arsenal road, york, pa, 17402, us",,,,,3.99,pa,17402,York
+472,Wendy,"343 folly rd., james island, sc, 29412, us",7.67,2.43,2.06,,,sc,29412,Charleston
+473,Wendy,"361 johnnie dodds boulevard, mount pleasant, sc, 29464, us",7.67,2.43,2.06,,,sc,29464,Charleston
+474,Wendy,"30 henrydale avenue, greenville, sc, 29605, us",6.7,2.18,1.57,,,sc,29605,Greenville
+475,Wendy,"3201 n kings hwy, myrtle beach, sc, 29577, us",6.45,2.43,2.06,,,sc,29577,Horry
+476,Wendy,"804 assembly, columbia, sc, 29201, us",6.45,2.18,1.82,,,sc,29201,Richland
+477,Wendy,"823 knox abbott dr., cayce, sc, 29033, us",6.45,2.18,1.82,,,sc,29033,Lexington
+478,Wendy,"2514 sunset blvd, west columbia, sc, 29169, us",,,,,3.25,sc,29169,Lexington
+479,Wendy,"1031 assembly st, columbia, sc, 29201, us",,8.74,,,2.86,sc,29201,Richland
+480,Wendy,"1874 highway 101 south, greer, sc, 29651, us",6.7,2.18,1.57,,,sc,29651,Greenville
+481,Wendy,"960 east liberty street, york, sc, 29745, us",6.45,2.43,2.06,,,sc,29745,York
+482,Wendy,"1375 east main street, rock hill, sc, 29730, us",6.45,2.43,2.06,,,sc,29730,York
+483,Wendy,"802 vantage way court, nashville, tn, 37228, us",5.89,1.99,1.59,,,tn,37228,Davidson
+484,Wendy,"418 cumberland street, chattanooga, tn, 37404, us",6.58,2.43,2.06,,,tn,37404,Hamilton
+485,Wendy,"3104 s. broad st., chattanooga, tn, 37408, us",7.31,1.94,1.7,,,tn,37408,Hamilton
+486,Wendy,"4535 highway 58, chattanooga, tn, 37416, us",,,,,,tn,37416,Hamilton
+487,Wendy,"1315 memorial blvd., murfreesboro, tn, 37129, us",7.19,2.43,1.94,,,tn,37129,Rutherford
+488,Wendy,"1905 s church street, murfreesboro, tn, 37130, us",7.19,2.43,1.94,,,tn,37130,Rutherford
+489,Wendy,"1702 memorial blvd, murfreesboro, tn, 37129, us",,,,,,tn,37129,Rutherford
+490,Wendy,"1621 middle tennessee boulevard, murfreesboro, tn, 37130, us",,,,,,tn,37130,Rutherford
+491,Wendy,"123 forks of the river pkwy, sevierville, tn, 37862, us",7.31,1.94,1.7,,,tn,37862,Sevier
+492,Wendy,"928 dolly parton parkway, sevierville, tn, 37862, us",7.31,1.94,1.7,,,tn,37862,Sevier
+493,Wendy,"315 washington street, memphis, tn, 38103, us",6.58,3.28,2.79,,,tn,38103,Shelby
+494,Wendy,"1313 murfreesboro road, franklin, tn, 37067, us",7.31,2.79,2.06,,,tn,37067,Williamson
+495,Wendy,"12201 san pablo avenue, richmond, ca, 94805, us",7.67,2.92,2.43,,,ca,94805,Contra Costa
+496,Wendy,"2422 east southcross blvd., san antonio, tx, 78223, us",6.82,3.16,2.67,,,tx,78223,Bexar
+497,Wendy,"1810, pearland, tx, 77581, us",6.94,3.04,2.67,,,tx,77581,Brazoria
+498,Wendy,"1722 north main, pearland, tx, 77581, us",6.94,3.04,2.67,,,tx,77581,Brazoria
+499,Wendy,"2406 s main st, pearland, tx, 77581, us",,,,,2.89,tx,77581,Brazoria
+500,Wendy,"3426 main st ste 102, pearland, tx, 77581, us",,,,,,tx,77581,Brazoria
+501,Wendy,"2829 broadway st, pearland, tx, 77581, us",,7.49,,,3.74,tx,77581,Brazoria
+502,Wendy,"19212 gulf fwy, friendswood, tx, 77546, us",,6.74,,,,tx,77546,Galveston
+503,Wendy,"202 southwest pkwy e., college station, tx, 77840, us",6.94,3.04,2.67,,,tx,77840,Brazos
+504,Wendy,"891 earl rudder freeway, bryan, tx, 77802, us",6.94,3.04,2.67,,,tx,77802,Brazos
+505,Wendy,"1001 main street, brownsville, tx, 78526, us",5.79,1.89,1.59,,,tx,78526,Cameron
+506,Wendy,"3521 cu, richardson, tx, 75080, us",7.19,3.28,2.79,,,tx,75080,Dallas
+507,Wendy,"3200 cu, plano, tx, 75075, us",7.19,3.28,2.79,,,tx,75075,Collin
+508,Wendy,"2548 k avenue, plano, tx, 75074, us",,,,,3.01,tx,75074,Collin
+509,Wendy,"7020 coit road, plano, tx, 75025, us",,,,,,tx,75025,Collin
+510,Wendy,"933 north central expressway, plano, tx, 75075, us",,8.74,,,4.11,tx,75075,Collin
+511,Wendy,"4018 lemmon ave., dallas, tx, 75219, us",7.31,3.4,3.04,,,tx,75219,Dallas
+512,Wendy,"1725 n. beltline road, irving, tx, 75061, us",6.7,2.67,2.18,,,tx,75061,Dallas
+513,Wendy,"963 n beach st, ft.worth, tx, 76111, us",6.7,2.67,2.18,,,tx,76111,Tarrant
+514,Wendy,"2800 e berry st, ft.worth, tx, 76119, us",6.7,2.92,2.67,,,tx,76119,Tarrant
+515,Wendy,"3701 west fwy, fort worth, tx, 76107, us",,,,,3.01,tx,76107,Tarrant
+516,Wendy,"515 s henderson st, fort worth, tx, 76104, us",,,,,,tx,76104,Tarrant
+517,Wendy,"3112 e berry st, fort worth, tx, 76119, us",,,,,,tx,76119,Tarrant
+518,Wendy,"4200 south freeway, fort worth, tx, 76115, us",,8.74,,,4.11,tx,76115,Tarrant
+519,Wendy,"2015 antonio street, anthony, tx, 79821, us",6.89,1.39,1.39,,,tx,79821,El Paso
+520,Wendy,"210 patton street, houston, tx, 77009, us",7.67,3.65,3.04,,,tx,77009,Harris
+521,Wendy,"2007 durham, houston, tx, 77007, us",6.94,3.04,2.67,,,tx,77007,Harris
+522,Wendy,"3415 navigation blvd, houston, tx, 77003, us",,,,,,tx,77003,Harris
+523,Wendy,"5850 gulf fwy, houston, tx, 77023, us",,,,,,tx,77023,Harris
+524,Wendy,"94 e. crosstimbers st, houston, tx, 77022, us",,,,,,tx,77022,Harris
+525,Wendy,"2901 airline dr, houston, tx, 77009, us",,,,,,tx,77009,Harris
+526,Wendy,"1750 west main, league city, tx, 77573, us",6.94,3.04,2.67,,,tx,77573,Galveston
+527,Wendy,"2535 e., league city, tx, 77573, us",7.19,3.04,2.55,,,tx,77573,Galveston
+528,Wendy,"2212 e main st, league city, tx, 77573, us",,,,,2.89,tx,77573,Galveston
+529,Wendy,"1503 w, league city, tx, 77573, us",,,,,,tx,77573,Galveston
+530,Wendy,"2940 gulf freeway, league city, tx, 77573, us",,5.18,,,,tx,77573,Galveston
+531,Wendy,"1400 nasa rd. 1, nassau bay, tx, 77058, us",,,,,,tx,77058,Harris
+532,Wendy,"301 w. southmore ave, pasadena, tx, 77502, us",6.94,3.04,2.67,,,tx,77502,Harris
+533,Wendy,"1108 east jackson avenue, mcallen, tx, 78503, us",7.06,2.31,1.94,,,tx,78503,Hidalgo
+534,Wendy,"2507 e expressway 83, mission, tx, 78572, us",7.06,2.31,1.94,,,tx,78572,Hidalgo
+535,Wendy,"1419 s 10th street, mcallen, tx, 78501, us",,,,,2.89,tx,78501,Hidalgo
+536,Wendy,"1901 s 10th st, mcallen, tx, 78503, us",,,,,,tx,78503,Hidalgo
+537,Wendy,"1700 s 10th street 105, mcallen, tx, 78503, us",,,,,,tx,78503,Hidalgo
+538,Wendy,"2825 west nolana avenue, suite 10, mcallen, tx, 78504, us",,,,,,tx,78504,Hidalgo
+539,Wendy,"735 s. 11th street, beaumont, tx, 77701, us",6.94,3.04,2.67,,,tx,77701,Jefferson
+540,Wendy,"70 s aspen ave, new deal, tx, 79350, us",7.8,2.79,2.43,,,tx,79350,Lubbock
+541,Wendy,"212 university ave, lubbock, tx, 79415, us",6.58,3.28,2.79,,,tx,79415,Lubbock
+542,Wendy,"1702 19th st, lubbock, tx, 79401, us",,,,,3.25,tx,79401,Lubbock
+543,Wendy,"1109 university ave, lubbock, tx, 79401, us",,,,,,tx,79401,Lubbock
+544,Wendy,"1627 university ave, lubbock, tx, 79401, us",,8.11,,,4.11,tx,79401,Lubbock
+545,Wendy,"2414 mac davis lane, lubbock, tx, 79401, us",,,,,,tx,79401,Lubbock
+546,Wendy,"4105 ayers, corpus christi, tx, 78415, us",6.45,1.94,1.57,,,tx,78415,Nueces
+547,Wendy,"4123 south staples, corpus christi, tx, 78411, us",6.45,1.94,1.57,,,tx,78411,Nueces
+548,Wendy,"3155 s padre island dr, corpus christi, tx, 78415, us",,,,,,tx,78415,Nueces
+549,Wendy,"409 west abram, arlington, tx, 76010, us",6.33,2.67,2.31,,,tx,76010,Tarrant
+550,Wendy,"1311 north collins, arlington, tx, 76011, us",6.33,2.67,2.31,,,tx,76011,Tarrant
+551,Wendy,"2214 n collins st, arlington, tx, 76011, us",,,,,3.01,tx,76011,Tarrant
+552,Wendy,"700 w division st, arlington, tx, 76012, us",,,,,,tx,76012,Tarrant
+553,Wendy,"2815 ne green oaks blvd, grand prairie, tx, 75050, us",,,,,,tx,75050,Dallas
+554,Wendy,"2200 airport fwy ste 500-a, bedford, tx, 76022, us",,,,,,tx,76022,Tarrant
+555,Wendy,"619 n ih 35, austin, tx, 78702, us",,,,,,tx,78702,Travis
+556,Wendy,"4115 s. congress, austin, tx, 78745, us",,,,,,tx,78745,Travis
+557,Wendy,"6210 east ben white, austin, tx, 78741, us",,,,,,tx,78741,Travis
+558,Wendy,"607 louis henna blvd, round rock, tx, 78664, us",,,,,,tx,78664,Williamson
+559,Wendy,"1910 west braker lane, austin, tx, 78758, us",,,,,,tx,78758,Travis
+560,Wendy,"17560 rr -620, round rock, tx, 78681, us",6.94,3.16,2.79,,,tx,78681,Williamson
+561,Wendy,"1105 n 400 west, layton, ut, 84041, us",6.94,2.67,2.31,,,ut,84041,Davis
+562,Wendy,"353 west 200 north, kaysville, ut, 84037, us",6.7,2.79,2.31,,,ut,84037,Davis
+563,Wendy,"1726 bluff ridge drive, syracuse, ut, 84075, us",,,,,,ut,84075,Davis
+564,Wendy,"2011 north hillfield road, layton, ut, 84041, us",,,,,,ut,84041,Davis
+565,Wendy,"737 n. main street, layton, ut, 84041, us",,,,,,ut,84041,Davis
+566,Wendy,"562 east 400 south, salt lake city, ut, 84102, us",5.49,2.09,1.89,,,ut,84102,Salt Lake
+567,Wendy,"1066 s. university ave., provo, ut, 84601, us",6.58,2.67,2.18,,,ut,84601,Utah
+568,Wendy,"1100 radisson street, green bay, wi, 54302, us",7.31,2.67,2.43,,,wi,54302,Brown
+569,Wendy,"901 hansen road, ashwaubenon, wi, 54304, us",7.31,2.67,2.43,,,wi,54304,Brown
+570,Wendy,"2421 s. stoughton, madison, wi, 53718, us",,,,,,wi,53718,Dane
+571,Wendy,"633 w. north avenue, milwaukee, wi, 53212, us",7.19,2.67,2.43,,,wi,53212,Milwaukee
+572,Wendy,"914 n. 27th street, milwaukee, wi, 53233, us",7.19,2.67,2.43,,,wi,53233,Milwaukee
+573,Wendy,"544 east ogden avenue east pointe commons ste 500, milwaukee, wi, 53202, us",,,,,,wi,53202,Milwaukee
+574,Wendy,"3801 s 27th street, milwaukee, wi, 53221, us",,6.33,,,,wi,53221,Milwaukee
+575,Wendy,"600 east ogden avenue, milwaukee, wi, 53202, us",,,,,,wi,53202,Milwaukee
+576,Wendy,"2050 silvernail, pewaukee, wi, 53072, us",7.31,2.67,2.43,,,wi,53072,Waukesha
+577,Burger King,"659 government st, mobile, al, 36602, us",6.59,2.79,3.89,11.79,3.39,al,36602,Mobile
+578,Burger King,"1524 6th avenue s, birmingham, al, 35233, us",6.89,2.49,3.39,12.79,3.69,al,35233,Jefferson
+579,Burger King,"2700 university blvd, birmingham, al, 35233, us",6.89,2.49,3.39,12.79,3.69,al,35233,Jefferson
+580,Burger King,"801 3rd avenue west, birmingham, al, 35204, us",6.89,2.49,3.39,12.79,3.69,al,35204,Jefferson
+581,Burger King,"2116 whitesburg drive, huntsville, al, 35801, us",6.89,2.49,3.69,12.79,3.69,al,35801,Madison
+582,Burger King,"1004 north memorial parkway, huntsville, al, 35801, us",6.89,2.49,3.69,12.79,3.69,al,35801,Madison
+583,Burger King,"308 jordan lane, huntsville, al, 35805, us",6.89,2.49,3.69,12.79,3.69,al,35805,Madison
+584,Burger King,"3949 government boulevard, mobile, al, 36693, us",6.49,2.79,3.89,11.69,3.39,al,36693,Mobile
+585,Burger King,"2915 saint stephens rd, mobile, al, 36612, us",6.59,2.79,3.89,11.79,3.39,al,36612,Mobile
+586,Burger King,"3875 airport boulevard, mobile, al, 36609, us",6.49,2.79,3.89,11.69,3.39,al,36609,Mobile
+587,Burger King,"7050, theodore, al, 36582, us",6.49,2.79,3.89,11.69,3.39,al,36582,Mobile
+588,Burger King,"3004 airport boulevard, mobile, al, 36606, us",6.49,2.79,3.89,11.69,3.39,al,36606,Mobile
+589,Burger King,"601 martin luther king blvd, savannah, ga, 31401, us",6.89,2.49,3.39,12.79,3.69,ga,31401,Chatham
+590,Burger King,"14 w de renne ave, savannah, ga, 31405, us",6.89,2.49,3.39,12.79,3.69,ga,31405,Chatham
+591,Burger King,"4241 augusta rd, garden city, ga, 31408, us",6.89,2.49,3.39,12.79,3.69,ga,31408,Chatham
+592,Burger King,"11711 abercorn st., savannah, ga, 31419, us",6.89,2.49,3.39,12.79,3.69,ga,31419,Chatham
+593,Burger King,"415 east highway 80, pooler, ga, 31322, us",6.89,2.49,3.39,12.79,3.69,ga,31322,Chatham
+594,Burger King,"199 sw northside dr, atlanta, ga, 30313, us",6.89,2.49,3.79,12.79,3.69,ga,30313,Fulton
+595,Burger King,"2230 salem road, conyers, ga, 30013, us",6.89,2.49,3.79,12.79,3.69,ga,30013,Rockdale
+596,Burger King,"2807 panola road, lithonia, ga, 30035, us",6.89,2.49,3.79,12.79,3.69,ga,30035,DeKalb
+597,Burger King,"2773 evans mill rd, lithonia, ga, 30058, us",6.59,2.79,3.89,11.79,3.39,ga,30058,DeKalb
+598,Burger King,"5068 old national highway, college park, ga, 30349, us",6.89,2.49,3.79,12.79,3.69,ga,30349,Fulton
+599,Burger King,"2701 stewart avenue s. w., atlanta, ga, 30315, us",6.89,2.49,3.79,12.79,3.69,ga,30315,Fulton
+600,Burger King,"1541 east 12th street, oakland, ca, 94606, us",8.99,3.59,5.39,15.49,4.69,ca,94606,Alameda
+601,Burger King,"8378 w overland rd., boise, id, 83709, us",7.59,2.99,4.29,13.19,4.29,id,83709,Ada
+602,Burger King,"6971 west 38th street, indianapolis, in, 46214, us",7.09,2.39,4.99,11.39,3.49,in,46214,Marion
+603,Burger King,"6904 kennedy ave., hammond, in, 46323, us",8.95,2.98,5.18,15.59,4.28,in,46323,Lake
+604,Burger King,"621 west chicago avenue, east chicago, in, 46312, us",7.39,2.49,3.49,12.69,3.49,in,46312,Lake
+605,Burger King,"7938 calumet avenue, munster, in, 46321, us",7.09,2.49,3.49,12.49,3.39,in,46321,Lake
+606,Burger King,"1817 indianapolis boulevard, whiting, in, 46394, us",7.19,2.49,3.49,12.49,3.49,in,46394,Lake
+607,Burger King,"1801 45th avenue, griffith, in, 46319, us",7.19,2.49,3.49,12.49,3.49,in,46319,Lake
+608,Burger King,"6337 crawfordsville rd, speedway, in, 46224, us",7.09,2.39,4.99,11.39,3.49,in,46224,Marion
+609,Burger King,"6003 gateway drive, plainfield, in, 46168, us",7.09,2.39,4.99,11.39,3.49,in,46168,Hendricks
+610,Burger King,"410 east morris street, indianapolis, in, 46225, us",6.99,2.69,4.4,9.55,3.79,in,46225,Marion
+611,Burger King,"2122 e. 10th street, indianapolis, in, 46201, us",6.99,2.69,4.4,9.55,3.79,in,46201,Marion
+612,Burger King,"2502 east raymond street, indianapolis, in, 46203, us",6.99,2.69,4.4,9.55,3.79,in,46203,Marion
+613,Burger King,"205 university avenue, des moines, ia, 50314, us",7.79,3.24,3.89,14.81,4.15,ia,50314,Polk
+614,Burger King,"1405 east court avenue, des moines, ia, 50316, us",7.79,3.24,3.89,14.81,4.15,ia,50316,Polk
+615,Burger King,"2222 m. l. king jr. parkway, des moines, ia, 50310, us",7.79,3.24,3.89,14.81,4.15,ia,50310,Polk
+616,Burger King,"4600 fleur dr, des moines, ia, 50321, us",7.79,3.24,3.89,14.81,4.15,ia,50321,Polk
+617,Burger King,"1107 73rd street, windsor heights, ia, 50324, us",7.79,3.24,3.89,14.81,4.15,ia,50324,Polk
+618,Burger King,"5401 e. university ave, pleasant hill, ia, 50327, us",7.79,3.24,3.89,14.81,4.15,ia,50327,Polk
+619,Burger King,"4004 rainbow boulevard, kansas city, ks, 66103, us",8.29,3.19,4.79,14.19,4.69,ks,66103,Wyandotte
+620,Burger King,"1104 north broadway, wichita, ks, 67214, us",8.19,3.19,4.69,13.69,4.69,ks,67214,Sedgwick
+621,Burger King,"1909 east pawnee, wichita, ks, 67211, us",8.19,3.19,4.69,13.69,4.69,ks,67211,Sedgwick
+622,Burger King,"3500 south meridian avenue, wichita, ks, 67217, us",8.19,3.19,4.69,13.69,4.69,ks,67217,Sedgwick
+623,Burger King,"451 w. new circle road, lexington, ky, 40511, us",6.64,2.55,3.57,11.76,3.83,ky,40511,Fayette
+624,Burger King,"730 lane allen rd, lexington, ky, 40504, us",6.64,2.55,3.57,11.76,3.83,ky,40504,Fayette
+625,Burger King,"2548 richmond road, lexington, ky, 40517, us",6.64,2.55,3.57,11.76,3.83,ky,40517,Fayette
+626,Burger King,"3348 clays mill road, lexington, ky, 40503, us",6.64,2.55,3.57,11.76,3.83,ky,40503,Fayette
+627,Burger King,"4200 saron road, lexington, ky, 40515, us",6.64,2.55,3.57,11.76,3.83,ky,40515,Fayette
+628,Burger King,"1131 lexington road, georgetown, ky, 40324, us",6.64,2.55,3.57,11.76,3.83,ky,40324,Scott
+629,Burger King,"1434 east tenth street, jeffersonville, in, 47130, us",7.09,2.69,4.15,9.69,3.79,in,47130,Clark
+630,Burger King,"3100 highland road, baton rouge, la, 70802, us",6.49,2.79,3.89,11.69,3.39,la,70802,East Baton Rouge
+631,Burger King,"7638 perkins road, baton rouge, la, 70810, us",6.49,2.79,3.89,11.69,3.39,la,70810,East Baton Rouge
+632,Burger King,"2100 clearview parkway, metairie, la, 70001, us",6.49,2.79,3.89,11.69,3.39,la,70001,Jefferson
+633,Burger King,"176 north university avenue, lafayette, la, 70507, us",6.59,2.79,3.89,11.79,3.39,la,70507,Lafayette
+634,Burger King,"2429 west pinhook road, lafayette, la, 70508, us",6.49,2.79,3.89,11.69,3.39,la,70508,Lafayette
+635,Burger King,"2256 ambassador caffrey pkway, lafayette, la, 70506, us",6.49,2.79,3.89,11.69,3.39,la,70506,Lafayette
+636,Burger King,"3801 moss street, lafayette, la, 70507, us",6.49,2.79,3.89,11.69,3.39,la,70507,Lafayette
+637,Burger King,"5301 johnston st, lafayette, la, 70503, us",6.49,2.79,3.89,11.69,3.39,la,70503,Lafayette
+638,Burger King,"2713 south claiborne st, new orleans, la, 70125, us",6.59,2.79,3.89,11.79,3.39,la,70125,Orleans
+639,Burger King,"185 gause blvd., slidell, la, 70458, us",6.49,2.79,3.89,11.69,3.39,la,70458,St. Tammany
+640,Burger King,"120 brownswitch road, slidell, la, 70458, us",6.49,2.79,3.89,11.69,3.39,la,70458,St. Tammany
+641,Burger King,"141 north shore boulevard, slidell, la, 70460, us",6.49,2.79,3.89,11.69,3.39,la,70460,St. Tammany
+642,Burger King,"2509 25th avenue, gulfport, ms, 39501, us",6.95,2.99,3.95,12.1,3.47,ms,39501,Harrison
+643,Burger King,"310 east beach boulevard, long beach, ms, 39560, us",6.49,2.79,3.89,11.69,3.39,ms,39560,Harrison
+644,Burger King,"623 second street, manchester, nh, 03102, us",8.59,2.49,3.69,13.69,3.99,nh,3102,Hillsborough
+645,Burger King,"28 portsmouth ave, stratham, nh, 03885, us",8.19,2.79,4.59,13.09,4.29,nh,3885,Rockingham
+646,Burger King,"85 tunnel road, asheville, nc, 28805, us",6.6,2.45,3.79,9.3,3.79,nc,28805,Buncombe
+647,Burger King,"344 eastern blvd, fayetteville, nc, 28301, us",6.6,2.45,3.79,9.3,3.79,nc,28301,Cumberland
+648,Burger King,"2820 bragg boulevard, fayetteville, nc, 28303, us",6.6,2.45,3.79,9.3,3.79,nc,28303,Cumberland
+649,Burger King,"1200 west club boulevard, durham, nc, 27701, us",7.39,2.59,4.49,13.09,3.69,nc,27701,Durham
+650,Burger King,"1601 hwy 55, durham, nc, 27707, us",6.99,3.49,3.2,11.39,2.63,nc,27707,Durham
+651,Burger King,"1821 n pointe dr, durham, nc, 27705, us",,,,,,nc,27705,Durham
+652,Burger King,"1821 n pointe drive, durham, nc, 27705, us",,,,,,nc,27705,Durham
+653,Burger King,"201 e franklin st, chapel hill, nc, 27514, us",,,,,,nc,27514,Orange
+654,Burger King,"2100 peters creek pkwy, winston salem, nc, 27127, us",6.99,2.69,4.4,9.55,3.79,nc,27127,Forsyth
+655,Burger King,"696 hanes mall blvd, winston salem, nc, 27103, us",6.99,2.69,4.4,9.55,3.79,nc,27103,Forsyth
+656,Burger King,"310 east trade street, charlotte, nc, 28202, us",6.2,2.29,4.65,13.89,3.49,nc,28202,Mecklenburg
+657,Burger King,"16800 caldwell creek drive, huntersville, nc, 28078, us",6.6,2.45,3.79,9.3,3.79,nc,28078,Mecklenburg
+658,Burger King,"819 south 3rd street, wilmington, nc, 28401, us",6.99,2.69,4.4,9.55,3.79,nc,28401,New Hanover
+659,Burger King,"2241 avent ferry road, raleigh, nc, 27606, us",7.39,2.59,4.49,13.09,3.69,nc,27606,Wake
+660,Burger King,"1828 rock quarry road, raleigh, nc, 27610, us",6.89,2.39,3.89,12.59,3.59,nc,27610,Wake
+661,Burger King,"3215 wake forest rd, raleigh, nc, 27609, us",,,,,3.38,nc,27609,Wake
+662,Burger King,"191 north east twelfth street, norman, ok, 73071, us",6.89,2.69,3.39,11.79,3.69,ok,73071,Cleveland
+663,Burger King,"245 bayshore blvd., san francisco, ca, 94124, us",8.29,4.09,5.29,15.29,4.19,ca,94124,San Francisco
+664,Burger King,"3900 geary boulevard, san francisco, ca, 94118, us",10.26,2.89,4.89,17.93,5.97,ca,94118,San Francisco
+665,Burger King,"1563 n peoria avenue, tulsa, ok, 74106, us",6.29,2.39,3.29,10.99,3.29,ok,74106,Tulsa
+666,Burger King,"3242 east 11th street, tulsa, ok, 74104, us",6.29,2.39,3.29,10.99,3.29,ok,74104,Tulsa
+667,Burger King,"1432 s peoria ave, tulsa, ok, 74120, us",,,,,3.01,ok,74120,Tulsa
+668,Burger King,"1533 n. peoria, tulsa, ok, 74106, us",,,,,,ok,74106,Tulsa
+669,Burger King,"3130 south memorial drive, tulsa, ok, 74145, us",,,,,2.49,ok,74145,Tulsa
+670,Burger King,"121 walmart drive, north versailles, pa, 15137, us",7.19,2.79,4.19,13.29,,pa,15137,Allegheny
+671,Burger King,"3220 library rd., castle shannon, pa, 15234, us",6.74,2.49,3.99,12.48,3.74,pa,15234,Allegheny
+672,Burger King,"2900 brownsville road, pittsburgh, pa, 15227, us",6.74,2.49,3.99,12.48,3.74,pa,15227,Allegheny
+673,Burger King,"2200 lebanon church road, west mifflin, pa, 15122, us",,,,,,pa,15122,Allegheny
+674,Burger King,"4656 browns hill rd, pittsburgh, pa, 15217, us",,,,,4.99,pa,15217,Allegheny
+675,Burger King,"1197 berkshire blvd, reading, pa, 19610, us",6.99,2.99,3.99,12.19,3.49,pa,19610,Berks
+676,Burger King,"3419 north 5th street highway, reading, pa, 19605, us",7.45,2.8,4.4,10.05,4.29,pa,19605,Berks
+677,Burger King,"7200 bancroft road, oakland, ca, 94605, us",9.49,2.73,4.86,16.24,4.61,ca,94605,Alameda
+678,Burger King,"6021 central avenue, el cerrito, ca, 94530, us",10.09,4.29,5.69,17.79,5.49,ca,94530,Contra Costa
+679,Burger King,"2855 north main street, walnut creek, ca, 94597, us",10.09,4.29,5.69,17.79,5.49,ca,94597,Contra Costa
+680,Burger King,"1502, west chester, pa, 19382, us",8.09,2.99,5.39,13.19,4.09,pa,19382,Chester
+681,Burger King,"4701 edgmont ave, brookhaven, pa, 19015, us",8.99,3.49,5.99,14.49,4.49,pa,19015,Delaware
+682,Burger King,"501 macdade blvd, holmes, pa, 19036, us",7.45,2.8,4.4,10.05,4.29,pa,19036,Delaware
+683,Burger King,"47 industrial hwy, tinicum township, pa, 19029, us",,,,,,pa,19029,Delaware
+684,Burger King,"1408 lititz pike, lancaster, pa, 17601, us",6.83,2.39,3.59,10.91,3.23,pa,17601,Lancaster
+685,Burger King,"1738 w tilghman street, allentown, pa, 18104, us",6.99,2.99,3.99,12.19,3.49,pa,18104,Lehigh
+686,Burger King,"1958 south 4th street, allentown, pa, 18103, us",6.99,2.99,3.99,12.19,3.49,pa,18103,Lehigh
+687,Burger King,"1313 tilghman st, allentown, pa, 18102, us",,,,,,pa,18102,Lehigh
+688,Burger King,"568 west dekalb pike, king of prussia, pa, 19406, us",7.16,3.19,3.83,12.9,3.83,pa,19406,Montgomery
+689,Burger King,"409 west ridge pike, conshohocken, pa, 19428, us",7.16,3.19,3.83,12.9,3.83,pa,19428,Montgomery
+690,Burger King,"1521 columbus boulevard, philadelphia, pa, 19147, us",9.35,3.11,5.58,14.55,4.8,pa,19147,Philadelphia
+691,Burger King,"1901 route 286, pittsburgh, pa, 15239, us",7.09,2.69,4.15,9.8,4.05,pa,15239,Allegheny
+692,Burger King,"4490 broadway boulevard, monroeville, pa, 15146, us",7.09,2.69,4.15,9.8,4.05,pa,15146,Allegheny
+693,Burger King,"3980 william penn highway, monroeville, pa, 15146, us",,,,,,pa,15146,Allegheny
+694,Burger King,"490 loucks road, york, pa, 17404, us",6.99,2.99,3.99,12.19,3.49,pa,17404,York
+695,Burger King,"101 commerce piace west, okatie, sc, 29909, us",6.89,2.49,3.39,12.79,3.69,sc,29909,Beaufort
+696,Burger King,"4709 dorchester road, n charleston, sc, 29405, us",,,,,5.2,sc,29405,Charleston
+697,Burger King,"6000 rivers ave, north charleston, sc, 29406, us",,,,,5.2,sc,29406,Charleston
+698,Burger King,"974 south academy street, greenville, sc, 29601, us",6.6,2.45,3.79,9.3,3.79,sc,29601,Greenville
+699,Burger King,"501 south king's highway, myrtle beach, sc, 29577, us",,,,,5.2,sc,29577,Horry
+700,Burger King,"2216 bush river road, columbia, sc, 29210, us",7.81,3.59,4.26,13.79,,sc,29210,Richland
+701,Burger King,"3403 north main street, columbia, sc, 29203, us",7.81,3.59,4.26,13.79,,sc,29203,Richland
+702,Burger King,"1212 west main street, lexington, sc, 29072, us",7.81,3.59,4.26,13.79,3.76,sc,29072,Lexington
+703,Burger King,"226 longs pond road, lexington, sc, 29072, us",7.81,3.59,4.26,13.79,3.76,sc,29072,Lexington
+704,Burger King,"2514 sunset blvd, west columbia, sc, 29169, us",,,,,,sc,29169,Lexington
+705,Burger King,"2902 two notch road, columbia, sc, 29204, us",7.81,3.59,4.26,13.79,3.76,sc,29204,Richland
+706,Burger King,"2022 bluff road, columbia, sc, 29201, us",7.81,3.59,4.26,13.79,3.76,sc,29201,Richland
+707,Burger King,"6029 wade hampton boulevard, taylors, sc, 29687, us",6.6,2.45,3.79,9.3,3.79,sc,29687,Greenville
+708,Burger King,"1599 highway 101 south, greer, sc, 29651, us",6.6,2.45,3.79,9.3,3.79,sc,29651,Greenville
+709,Burger King,"1371 saluda street, rock hill, sc, 29730, us",6.6,2.45,3.79,9.3,3.79,sc,29730,York
+710,Burger King,"2430 north cherry road, rock hill, sc, 29732, us",6.6,2.45,3.79,9.3,3.79,sc,29732,York
+711,Burger King,"1501 charlotte avenue, nashville, tn, 37203, us",6.99,2.69,4.4,9.55,4.05,tn,37203,Davidson
+712,Burger King,"2119 east 23rd street, chattanooga, tn, 37404, us",6.59,2.79,3.89,11.79,3.39,tn,37404,Hamilton
+713,Burger King,"3401 amnicola highway, chattanooga, tn, 37406, us",6.59,2.79,3.89,11.79,3.39,tn,37406,Hamilton
+714,Burger King,"4535 highway 58, chattanooga, tn, 37416, us",,,,,,tn,37416,Hamilton
+715,Burger King,"2806 north broadway, knoxville, tn, 37917, us",6.99,3.49,4.99,11.99,3.49,tn,37917,Knox
+716,Burger King,"819 memorial blvd, murfreesboro, tn, 37129, us",6.99,2.69,4.4,9.55,4.05,tn,37129,Rutherford
+717,Burger King,"1661 middle tennessee blvd, murfreesboro, tn, 37130, us",6.99,2.69,4.4,9.55,4.05,tn,37130,Rutherford
+718,Burger King,"1702 memorial blvd, murfreesboro, tn, 37129, us",,,,,,tn,37129,Rutherford
+719,Burger King,"1621 middle tennessee boulevard, murfreesboro, tn, 37130, us",,,,,,tn,37130,Rutherford
+720,Burger King,"412 forks of the river, sevierville, tn, 37862, us",6.6,2.69,4.4,9.45,4.29,tn,37862,Sevier
+721,Burger King,"1231 dolly parton pkwy, sevierville, tn, 37862, us",6.6,2.69,4.4,9.45,4.29,tn,37862,Sevier
+722,Burger King,"1027 union ave, memphis, tn, 38104, us",6.85,2.69,4.15,9.45,3.79,tn,38104,Shelby
+723,Burger King,"1330 poplar avenue, memphis, tn, 38104, us",6.85,2.69,4.15,9.45,3.79,tn,38104,Shelby
+724,Burger King,"3227 poplar ave, memphis, tn, 38111, us",,,,,,tn,38111,Shelby
+725,Burger King,"2391 airways boulevard, memphis, tn, 38114, us",,4.79,,,,tn,38114,Shelby
+726,Burger King,"1911 mallory lane, franklin, tn, 37067, us",6.99,2.69,4.4,9.55,4.05,tn,37067,Williamson
+727,Burger King,"7116 highway 70 south, nashville, tn, 37221, us",6.99,2.69,4.4,9.55,4.05,tn,37221,Davidson
+728,Burger King,"493 old hickory blvd, brentwood, tn, 37027, us",,12.99,,,,tn,37027,Williamson
+729,Burger King,"677 contra costa boulevard, pleasant hill, ca, 94523, us",10.09,4.29,5.69,17.79,5.49,ca,94523,Contra Costa
+730,Burger King,"4520 west commerce, san antonio, tx, 78237, us",7.69,2.79,3.59,12.59,3.59,tx,78237,Bexar
+731,Burger King,"8131 pat booker rd, live oak, tx, 78233, us",7.84,2.05,4.29,12.26,3.43,tx,78233,Bexar
+732,Burger King,"11001a fuqua, houston, tx, 77089, us",6.89,2.39,3.19,11.59,,tx,77089,Harris
+733,Burger King,"2910 airport boulevard, houston, tx, 77051, us",6.89,2.39,3.19,11.59,,tx,77051,Harris
+734,Burger King,"2902 richey street, houston, tx, 77017, us",6.89,2.39,3.39,11.69,,tx,77017,Harris
+735,Burger King,"925 north frontage road, brownsville, tx, 78521, us",5.27,,2.41,7.92,,tx,78521,Cameron
+736,Burger King,"11404 east northwest highway, dallas, tx, 75218, us",7.74,2.36,3.74,12.74,,tx,75218,Dallas
+737,Burger King,"3112 e berry st, fort worth, tx, 76119, us",7.74,2.36,3.74,12.74,,tx,76119,Tarrant
+738,Burger King,"2542 ne 30th street, ft. worth, tx, 76106, us",7.74,2.36,3.74,12.74,3.49,tx,76106,Tarrant
+739,Burger King,"2605 jacksboro hwy, river oaks, tx, 76114, us",7.74,2.36,3.74,12.74,3.49,tx,76114,Tarrant
+740,Burger King,"4200 south freeway, fort worth, tx, 76115, us",,,,,4.11,tx,76115,Tarrant
+741,Burger King,"425 south, el paso, tx, 79901, us",6.9,2.93,3.83,12.28,3.57,tx,79901,El Paso
+742,Burger King,"4639 irvington, houston, tx, 77009, us",6.89,2.39,3.19,11.59,,tx,77009,Harris
+743,Burger King,"3009 collingsworth st, houston, tx, 77026, us",6.89,2.39,3.19,11.59,,tx,77026,Harris
+744,Burger King,"7011 gulf freeway, houston, tx, 77087, us",6.89,2.39,3.19,11.59,,tx,77087,Harris
+745,Burger King,"10205 e. freeway, houston, tx, 77013, us",6.89,2.39,3.19,11.59,,tx,77013,Harris
+746,Burger King,"1094 federal road, houston, tx, 77015, us",6.89,2.39,3.19,11.59,,tx,77015,Harris
+747,Burger King,"6220 east freeway, houston, tx, 77020, us",6.89,2.39,3.19,11.59,,tx,77020,Harris
+748,Burger King,"1620 south loop west, houston, tx, 77054, us",6.89,2.39,3.19,11.59,,tx,77054,Harris
+749,Burger King,"9009 clinton drive, houston, tx, 77029, us",6.89,2.39,3.19,11.59,,tx,77029,Harris
+750,Burger King,"4676 bellfort avenue, houston, tx, 77051, us",6.89,2.39,3.39,11.69,,tx,77051,Harris
+751,Burger King,"2414 east expressway 83, mission, tx, 78572, us",7.74,2.36,3.74,12.74,,tx,78572,Hidalgo
+752,Burger King,"6135 eastex freeway #2, beaumont, tx, 77706, us",6.89,2.39,3.39,11.89,,tx,77706,Jefferson
+753,Burger King,"6425 phelan boulevard, beaumont, tx, 77706, us",6.89,2.39,3.39,11.89,,tx,77706,Jefferson
+754,Burger King,"1804 4th street, lubbock, tx, 79415, us",7.74,2.36,3.74,12.74,3.49,tx,79415,Lubbock
+755,Burger King,"2002 50th street, lubbock, tx, 79412, us",7.74,2.36,3.74,12.74,3.49,tx,79412,Lubbock
+756,Burger King,"1702 19th st, lubbock, tx, 79401, us",,,,,3.25,tx,79401,Lubbock
+757,Burger King,"1109 university ave, lubbock, tx, 79401, us",,,,,,tx,79401,Lubbock
+758,Burger King,"1627 university ave, lubbock, tx, 79401, us",,,,,4.11,tx,79401,Lubbock
+759,Burger King,"2414 mac davis lane, lubbock, tx, 79401, us",,,,,,tx,79401,Lubbock
+760,Burger King,"3399 port chicago hwy, concord, ca, 94520, us",10.09,4.29,5.69,17.79,5.49,ca,94520,Contra Costa
+761,Burger King,"309 ih 37, corpus christi, tx, 78401, us",6.89,2.49,3.39,11.89,3.19,tx,78401,Nueces
+762,Burger King,"3941 crosstown expressway, corpus christi, tx, 78416, us",6.89,2.49,3.39,11.89,3.19,tx,78416,Nueces
+763,Burger King,"3155 s padre island dr, corpus christi, tx, 78415, us",,,,,,tx,78415,Nueces
+764,Burger King,"2037 s padre island drive, corpus christi, tx, 78417, us",,,,,6.24,tx,78417,Nueces
+765,Burger King,"2021 morgan ave, corpus christi, tx, 78405-1541, us",,,,,,tx,78405,Nueces
+766,Burger King,"3204 southeast loop 820, forest hill, tx, 76140, us",7.74,2.36,3.74,12.74,,tx,76140,Tarrant
+767,Burger King,"2500 e riverside dr, austin, tx, 78741, us",7.39,2.69,3.59,12.19,3.39,tx,78741,Travis
+768,Burger King,"1001 east ben white boulevard, austin, tx, 78704, us",7.39,2.69,3.59,12.19,3.39,tx,78704,Travis
+769,Burger King,"303 e oltorf st, austin, tx, 78704, us",,,,,,tx,78704,Travis
+770,Burger King,"619 n ih 35, austin, tx, 78702, us",,,,,,tx,78702,Travis
+771,Burger King,"301 west 3rd street, austin, tx, 78701, us",,,,,,tx,78701,Travis
+772,Burger King,"4905 airport blvd, austin, tx, 78751, us",,,,,,tx,78751,Travis
+773,Burger King,"2500 s i h 35, round rock, tx, 78681, us",7.39,2.69,3.59,12.19,3.39,tx,78681,Williamson
+774,Burger King,"4410 sunrise rd, round rock, tx, 78665, us",6.87,2.05,4.29,10.74,3.15,tx,78665,Williamson
+775,Burger King,"17000 n rm 620, round rock, tx, 78681, us",,,,,3.13,tx,78681,Williamson
+776,Burger King,"607 louis henna blvd, round rock, tx, 78664, us",,,,,,tx,78664,Williamson
+777,Burger King,"1121 e palm valley blvd, round rock, tx, 78664, us",,,,,,tx,78664,Williamson
+778,Burger King,"110 north ih 35, round rock, tx, 78681, us",,,,,,tx,78681,Williamson
+779,Burger King,"100 river oaks cove, georgetown, tx, 78626, us",7.39,2.69,3.59,12.19,3.39,tx,78626,Williamson
+780,Burger King,"803 n. main, layton, ut, 84041, us",7.79,2.49,4.49,13.59,3.99,ut,84041,Davis
+781,Burger King,"2025 north main, layton, ut, 84041, us",7.79,2.49,4.49,13.59,3.99,ut,84041,Davis
+782,Burger King,"1726 bluff ridge drive, syracuse, ut, 84075, us",,,,,,ut,84075,Davis
+783,Burger King,"2011 north hillfield road, layton, ut, 84041, us",,,,,,ut,84041,Davis
+784,Burger King,"4029, riverdale, ut, 84405, us",,,,,,ut,84405,Weber
+785,Burger King,"737 n. main street, layton, ut, 84041, us",,,,,,ut,84041,Davis
+786,Burger King,"575 east 400 south street, salt lake city, ut, 84102, us",7.59,2.99,4.29,12.89,,ut,84102,Salt Lake
+787,Burger King,"11 west center street, orem, ut, 84057, us",7.59,2.99,4.29,12.89,,ut,84057,Utah
+788,Burger King,"1080 south university avenue, provo, ut, 84601, us",7.79,2.49,4.49,13.59,3.99,ut,84601,Utah
+789,Burger King,"1075 south state street, orem, ut, 84097, us",7.59,2.99,4.29,12.89,4.29,ut,84097,Utah
+790,Burger King,"1680 n freedom blvd, provo, ut, 84604, us",,,,,,ut,84604,Utah
+791,Burger King,"2328 university ave, green bay, wi, 54302, us",8.95,2.98,5.18,15.59,4.28,wi,54302,Brown
+792,Burger King,"2655 east washington avenue, madison, wi, 53704, us",8.95,2.98,5.18,15.59,,wi,53704,Dane
+793,Burger King,"6909 odana road, madison, wi, 53719, us",9.22,3.24,5.31,15.85,,wi,53719,Dane
+794,Burger King,"810 north main street, oregon, wi, 53575, us",8.95,2.98,5.18,15.59,4.28,wi,53575,Dane
+795,Burger King,"3219 s 27th st, milwaukee, wi, 53215, us",8.95,2.98,5.18,15.59,,wi,53215,Milwaukee
+796,Burger King,"2862 n. martin luther king dr., milwaukee, wi, 53212, us",8.95,2.98,5.18,15.59,4.28,wi,53212,Milwaukee
+797,Burger King,"1841 south 14th street, milwaukee, wi, 53204, us",,,,,,wi,53204,Milwaukee
+798,Burger King,"1190 west sunset drive, waukesha, wi, 53189, us",8.95,2.98,5.18,15.59,4.28,wi,53189,Waukesha
+799,Sonic,"1461 springhill avenue, mobile, al, 36604, us",,4.38,,,,al,36604,Mobile
+800,Sonic,"313 valley avenue, birmingham, al, 35209, us",,4.5,,,,al,35209,Jefferson
+801,Sonic,"9829 parkway e, birmingham, al, 35215, us",,4.5,,,,al,35215,Jefferson
+802,Sonic,"907 jordan ln nw, huntsville, al, 35816, us",,3.89,,,,al,35816,Madison
+803,Sonic,"396 canebrake road, savannah, ga, 31419, us",,3.83,,,,ga,31419,Chatham
+804,Sonic,"5903 roswell road, atlanta, ga, 30328, us",,4.01,,,,ga,30328,Fulton
+805,Sonic,"3900 flat shoals pkwy, decatur, ga, 30034, us",,4.01,,,,ga,30034,DeKalb
+806,Sonic,"1463 moreland ave se, atlanta, ga, 30316, us",,4.01,,,,ga,30316,DeKalb
+807,Sonic,"580 thornton rd, lithia springs, ga, 30122, us",,4.01,,,,ga,30122,Douglas
+808,Sonic,"6055 main street, american canyon, ca, 94503, us",,4.79,,,,ca,94503,Napa
+809,Sonic,"851 n. orchard, boise, id, 83706, us",,4.26,,,,id,83706,Ada
+810,Sonic,"188 east spring mill pointe drive, westfield, in, 46074, us",,4.75,,,,in,46074,Hamilton
+811,Sonic,"896 north superior drive, crown point, in, 46307, us",,4.62,,,,in,46307,Lake
+812,Sonic,"1262 north emerson avenue, greenwood, in, 46143, us",,4.67,,,,in,46143,Johnson
+813,Sonic,"5350 merle hay road, johnston, ia, 50131, us",,4.26,,,,ia,50131,Polk
+814,Sonic,"1451 n, ankeny, ia, 50021, us",,4.26,,,,ia,50021,Polk
+815,Sonic,"10075 w. 75th street, overland park, ks, 66204, us",,4.75,,,,ks,66204,Johnson
+816,Sonic,"504 south broadway, wichita, ks, 67202, us",,4.26,,,,ks,67202,Sedgwick
+817,Sonic,"110 s. west street, wichita, ks, 67213, us",,4.26,,,,ks,67213,Sedgwick
+818,Sonic,"2939 e. 21st street north, wichita, ks, 67214, us",,4.26,,,,ks,67214,Sedgwick
+819,Sonic,"1026 s broadway, lexington, ky, 40504, us",,,,,,ky,40504,Fayette
+820,Sonic,"120 bellerive blvd, nicholasville, ky, 40356, us",,,,,,ky,40356,Jessamine
+821,Sonic,"8600 ambrosse lane, louisville, ky, 40299, us",,4.5,,,,ky,40299,Jefferson
+822,Sonic,"3641 springhurst blvd, louisville, ky, 40241, us",,4.5,,,,ky,40241,Jefferson
+823,Sonic,"11810 standiford plaza drive, louisville, ky, 40229, us",,4.5,,,,ky,40229,Jefferson
+824,Sonic,"505 east boyd drive, baton rouge, la, 70808, us",,4.87,,,,la,70808,East Baton Rouge
+825,Sonic,"5725 airline drive, metairie, la, 70003, us",,4.14,,,,la,70003,Jefferson
+826,Sonic,"616 west pinhook road, lafayette, la, 70503, us",,4.26,,,,la,70503,Lafayette
+827,Sonic,"231 west willow street, lafayette, la, 70501, us",,4.26,,,,la,70501,Lafayette
+828,Sonic,"940 ambassador caffery parkway, lafayette, la, 70506, us",,4.26,,,,la,70506,Lafayette
+829,Sonic,"3913 veterans memorial blvd, metairie, la, 70002, us",,4.26,,,,la,70002,Jefferson
+830,Sonic,"1249 gause blvd., slidell, la, 70458, us",,4.75,,,,la,70458,St. Tammany
+831,Sonic,"3225 pontchartrain dr, slidell, la, 70458, us",,4.75,,,,la,70458,St. Tammany
+832,Sonic,"1968 gause blvd e, slidell, la, 70461, us",,4.75,,,,la,70461,St. Tammany
+833,Sonic,"2505 17th st, gulfport, ms, 39501, us",,4.75,,,,ms,39501,Harrison
+834,Sonic,"1001 tunnel road, asheville, nc, 28805, us",,2.59,,,1.29,nc,28805,Buncombe
+835,Sonic,"1489 skibo road, fayetteville, nc, 28303, us",,4.26,,,,nc,28303,Cumberland
+836,Sonic,"5938 cliffdale rd, fayetteville, nc, 28314, us",,4.26,,,,nc,28314,Cumberland
+837,Sonic,"109 jones franklin road, raleigh, nc, 27606, us",,4.38,,,,nc,27606,Wake
+838,Sonic,"4648 atlantic ave, raleigh, nc, 27604, us",,4.14,,,,nc,27604,Wake
+839,Sonic,"12508 capital blvd, wakeforest, nc, 27587, us",,4.38,,,,nc,27587,Wake
+840,Sonic,"304 south main street, rolesville, nc, 27571, us",,4.38,,,,nc,27571,Wake
+841,Sonic,"2005 silas creek parkway, winston salem, nc, 27103, us",,4.26,,,,nc,27103,Forsyth
+842,Sonic,"2615 lewisville, clemmons, nc, 27012, us",,,,,2.39,nc,27012,Forsyth
+843,Sonic,"7820 forest point blvd, charlotte, nc, 28217, us",,4.01,,,,nc,28217,Mecklenburg
+844,Sonic,"7761 gateway lane nw, concord, nc, 28027, us",,4.5,,,,nc,28027,Cabarrus
+845,Sonic,"4206 market st, wilmington, nc, 28403, us",,4.01,,,,nc,28403,New Hanover
+846,Sonic,"700 cayman ave, holly springs, nc, 27540, us",,4.14,,,,nc,27540,Wake
+847,Sonic,"705 n. porter, norman, ok, 73071, us",,4.01,,,,ok,73071,Cleveland
+848,Sonic,"1627 n. peoria ave, tulsa, ok, 74106, us",,3.89,,,,ok,74106,Tulsa
+849,Sonic,"1547 south lewis, tulsa, ok, 74104, us",,3.89,,,,ok,74104,Tulsa
+850,Sonic,"1432 s peoria ave, tulsa, ok, 74120, us",,,,,,ok,74120,Tulsa
+851,Sonic,"1533 n. peoria, tulsa, ok, 74106, us",,,,,,ok,74106,Tulsa
+852,Sonic,"4840 s yale ave, tulsa, ok, 74135, us",,,,,,ok,74135,Tulsa
+853,Sonic,"3130 south memorial drive, tulsa, ok, 74145, us",,,,,,ok,74145,Tulsa
+854,Sonic,"4515 perkiomen avenue, reading, pa, 19606, us",,4.26,,,,pa,19606,Berks
+855,Sonic,"850 crossings boulevard, morgantown, pa, 19520, us",,4.26,,,,pa,19520,Chester
+856,Sonic,"2610 east macdade boulevard, holmes, pa, 19043, us",,4.26,,,,pa,19043,Delaware
+857,Sonic,"37 west ridge pike, royersford, pa, 19468, us",,4.26,,,,pa,19468,Montgomery
+858,Sonic,"2901 swede rd, norristown, pa, 19401, us",,4.26,,,,pa,19401,Montgomery
+859,Sonic,"2405 easton road, willow grove, pa, 19090, us",,4.26,,,,pa,19090,Montgomery
+860,Sonic,"2223 lincoln hwy e, lancaster, pa, 17602, us",,4.26,,,,pa,17602,Lancaster
+861,Sonic,"4247 oregon pike, ephrata, pa, 17522, us",,4.26,,,,pa,17522,Lancaster
+862,Sonic,"1753 airport road, allentown, pa, 18109, us",,4.38,,,,pa,18109,Lehigh
+863,Sonic,"931 folly road, james island, sc, 29412, us",,4.26,,,,sc,29412,Charleston
+864,Sonic,"119 buncombe road, greer, sc, 29650, us",,4.26,,,,sc,29650,Greenville
+865,Sonic,"6398 calhoun memorial hwy, easley, sc, 29640, us",,4.07,,,,sc,29640,Pickens
+866,Sonic,"1930 mr. joe white ave, myrtle beach, sc, 29577, us",,4.26,,,,sc,29577,Horry
+867,Sonic,"3782 renee dr, myrtle beach, sc, 29579, us",,4.26,,,,sc,29579,Horry
+868,Sonic,"800 s. kings hwy, myrtle beach, sc, 29577, us",,,,,,sc,29577,Horry
+869,Sonic,"201 74th avenue north, myrtle beach, sc, 29572-3832, us",,,,,,sc,29572,Horry
+870,Sonic,"1857 southlake drive, lexington, sc, 29073, us",,,,,,sc,29073,Lexington
+871,Sonic,"5417 forest drive, columbia, sc, 29206, us",,4.5,,,,sc,29206,Richland
+872,Sonic,"3036 broad river road, columbia, sc, 29210, us",,4.5,,,,sc,29210,Richland
+873,Sonic,"2149 e. main, duncan, sc, 29334, us",,4.62,,,,sc,29334,Spartanburg
+874,Sonic,"1648 celanese road, rock hill, sc, 29732, us",,3.89,,,,sc,29732,York
+875,Sonic,"1906 charlotte ave, nashville, tn, 37203, us",,3.89,,,,tn,37203,Davidson
+876,Sonic,"3907 brainerd road, chattanooga, tn, 37411, us",,4.01,,,,tn,37411,Hamilton
+877,Sonic,"4348 ringgold rd, chattanooga, tn, 37412, us",,4.2,,,,tn,37412,Hamilton
+878,Sonic,"5238 highway 153, hixson, tn, 37343, us",,,,,,tn,37343,Hamilton
+879,Sonic,"4535 highway 58, chattanooga, tn, 37416, us",,,,,,tn,37416,Hamilton
+880,Sonic,"4515 chapman hwy, knoxville, tn, 37920, us",,3.89,,,,tn,37920,Knox
+881,Sonic,"3307 n broadway, knoxville, tn, 37917, us",,3.89,,,,tn,37917,Knox
+882,Sonic,"3813 north broadway, knoxville, tn, 37917, us",,,,,,tn,37917,Knox
+883,Sonic,"2021 cumberland avenue, knoxville, tn, 37916, us",,,,,,tn,37916,Knox
+884,Sonic,"1650 middle tennessee blvd., murfreesboro, tn, 37130, us",,3.59,,,,tn,37130,Rutherford
+885,Sonic,"308 e main st, sevierville, tn, 37862, us",,4.01,,,,tn,37862,Sevier
+886,Sonic,"2246 parkway, pigeon forge, tn, 37863, us",,4.01,,,,tn,37863,Sevier
+887,Sonic,"401 hillsboro road, franklin, tn, 37064, us",,4.26,,,,tn,37064,Williamson
+888,Sonic,"5510 babcock rd, san antonio, tx, 78240, us",,4.26,,,,tx,78240,Bexar
+889,Sonic,"422 s zorzamora, san antonio, tx, 78207, us",,4.26,,,,tx,78207,Bexar
+890,Sonic,"320 fm 78, schertz, tx, 78154, us",,4.26,,,,tx,78154,Bexar
+891,Sonic,"749 fm 1103, cibolo, tx, 78108, us",,4.14,,,,tx,78108,Guadalupe
+892,Sonic,"6950 n loop 1604 e, san antonio, tx, 78247, us",,,,,,tx,78247,Bexar
+893,Sonic,"17220 interstate highway 35 north, schertz, tx, 78154, us",,,,,,tx,78154,Bexar
+894,Sonic,"17455 ih 35 n, schertz, tx, 78154, us",,,,,,tx,78154,Bexar
+895,Sonic,"2815 east broadway street, pearland, tx, 77581, us",,4.01,,,,tx,77581,Brazoria
+896,Sonic,"11390 monroe blvd, houston, tx, 77075, us",,4.01,,,,tx,77075,Harris
+897,Sonic,"2406 s main st, pearland, tx, 77581, us",,,,,,tx,77581,Brazoria
+898,Sonic,"3426 main st ste 102, pearland, tx, 77581, us",,,,,,tx,77581,Brazoria
+899,Sonic,"2829 broadway st, pearland, tx, 77581, us",,,,,,tx,77581,Brazoria
+900,Sonic,"19212 gulf fwy, friendswood, tx, 77546, us",,,,,,tx,77546,Galveston
+901,Sonic,"512 harvey rd, college station, tx, 77840, us",,4.5,,,,tx,77840,Brazos
+902,Sonic,"401 texas ave, college station, tx, 77840, us",,4.5,,,,tx,77840,Brazos
+903,Sonic,"2900 texas avenue south, college station, tx, 77845, us",,4.5,,,,tx,77845,Brazos
+904,Sonic,"1504 texas ave. s, college station, tx, 77840, us",,,,,,tx,77840,Brazos
+905,Sonic,"12061 fm 2154, college station, tx, 77845, us",,,,,,tx,77845,Brazos
+906,Sonic,"607 texas ave, college station, tx, 77840, us",,,,,,tx,77840,Brazos
+907,Sonic,"721 jupiter rd, plano, tx, 75074, us",,4.26,,,,tx,75074,Collin
+908,Sonic,"1601 custer rd, plano, tx, 75075, us",,4.26,,,,tx,75075,Collin
+909,Sonic,"2548 k avenue, plano, tx, 75074, us",,,,,,tx,75074,Collin
+910,Sonic,"7020 coit road, plano, tx, 75025, us",,,,,,tx,75025,Collin
+911,Sonic,"1205 jupiter rd, plano, tx, 75074, us",,,,,,tx,75074,Collin
+912,Sonic,"933 north central expressway, plano, tx, 75075, us",,,,,,tx,75075,Collin
+913,Sonic,"1005 south riverfront, dallas, tx, 75207, us",,4.26,,,,tx,75207,Dallas
+914,Sonic,"4801 ross avenue, dallas, tx, 75204, us",,2.99,,10.19,2.99,tx,75204,Dallas
+915,Sonic,"3023 inwood rd, dallas, tx, 75235, us",,4.01,,,,tx,75235,Dallas
+916,Sonic,"2030 market center, dallas, tx, 75207, us",,,,,,tx,75207,Dallas
+917,Sonic,"ihop, dallas, tx, 75235, us",,,,,,tx,75235,Dallas
+918,Sonic,"2327 w. shady grove, irving, tx, 75060, us",,4.26,,,,tx,75060,Dallas
+919,Sonic,"3431 west walnut hill, irving, tx, 75038, us",,4.01,,,,tx,75038,Dallas
+920,Sonic,"410 s loop 12, irving, tx, 75060, us",,,,,,tx,75060,Dallas
+921,Sonic,"1025 west airport freeway, irving, tx, 75062, us",,,,,,tx,75062,Dallas
+922,Sonic,"502 n. o'connor rd, irving, tx, 75061, us",,,,,,tx,75061,Dallas
+923,Sonic,"4115 w. airport frwy., irving, tx, 75062, us",,,,,,tx,75062,Dallas
+924,Sonic,"100 n nichols st, fort worth, tx, 76102, us",,3.59,,,,tx,76102,Tarrant
+925,Sonic,"301 university dr, fort worth, tx, 76107, us",,4.26,,,,tx,76107,Tarrant
+926,Sonic,"3701 west fwy, fort worth, tx, 76107, us",,,,,,tx,76107,Tarrant
+927,Sonic,"515 s henderson st, fort worth, tx, 76104, us",,,,,,tx,76104,Tarrant
+928,Sonic,"3112 e berry st, fort worth, tx, 76119, us",,,,,,tx,76119,Tarrant
+929,Sonic,"4200 south freeway, fort worth, tx, 76115, us",,,,,,tx,76115,Tarrant
+930,Sonic,"5930 cromo drive, el paso, tx, 79912, us",,4.01,,,,tx,79912,El Paso
+931,Sonic,"2720 washington ave, houston, tx, 77007, us",,4.01,,,,tx,77007,Harris
+932,Sonic,"3626 old spanish trail, houston, tx, 77021, us",,4.26,,,,tx,77021,Harris
+933,Sonic,"3639 westheimer rd, houston, tx, 77027, us",,,,,,tx,77027,Harris
+934,Sonic,"4639 irvington, houston, tx, 77009, us",,,,,,tx,77009,Harris
+935,Sonic,"1801 durham, houston, tx, 77007, us",,,,,,tx,77007,Harris
+936,Sonic,"3110 w dallas st, houston, tx, 77019, us",,,,,,tx,77019,Harris
+937,Sonic,"5445 east fwy, houston, tx, 77020, us",,,,,,tx,77020,Harris
+938,Sonic,"1159 w main st, league city, tx, 77573, us",,4.26,,,,tx,77573,Galveston
+939,Sonic,"2311 fm rd 518 east, league city, tx, 77573, us",,4.26,,,,tx,77573,Galveston
+940,Sonic,"2212 e main st, league city, tx, 77573, us",,,,,,tx,77573,Galveston
+941,Sonic,"1503 w, league city, tx, 77573, us",,,,,,tx,77573,Galveston
+942,Sonic,"2940 gulf freeway, league city, tx, 77573, us",,,,,,tx,77573,Galveston
+943,Sonic,"1400 nasa rd. 1, nassau bay, tx, 77058, us",,,,,,tx,77058,Harris
+944,Sonic,"3107 red bluff rd, pasadena, tx, 77503, us",,,,,,tx,77503,Harris
+945,Sonic,"2616 spencer highway, pasadena, tx, 77504, us",,4.38,,,,tx,77504,Harris
+946,Sonic,"10802 hughes road, houston, tx, 77089, us",,,,,,tx,77089,Harris
+947,Sonic,"701 s jackson rd, pharr, tx, 78577, us",,4.26,,,,tx,78577,Hidalgo
+948,Sonic,"1040 s 11th st, beaumont, tx, 77701, us",,4.26,,,,tx,77701,Jefferson
+949,Sonic,"425 n 23rd st, beaumont, tx, 77707, us",,4.26,,,,tx,77707,Jefferson
+950,Sonic,"6425 phelan boulevard, beaumont, tx, 77706, us",,,,,,tx,77706,Jefferson
+951,Sonic,"3830 college st, beaumont, tx, 77701, us",,,,,,tx,77701,Jefferson
+952,Sonic,"1550 interstate 10 e, beaumont, tx, 77703, us",,,,,,tx,77703,Jefferson
+953,Sonic,"3850 college street, beaumont, tx, 77701, us",,,,,,tx,77701,Jefferson
+954,Sonic,"1901 34th st, lubbock, tx, 79412, us",,4.79,,,,tx,79412,Lubbock
+955,Sonic,"101 n. university, lubbock, tx, 79415, us",,4.79,,,,tx,79415,Lubbock
+956,Sonic,"1702 19th st, lubbock, tx, 79401, us",,,,,,tx,79401,Lubbock
+957,Sonic,"1109 university ave, lubbock, tx, 79401, us",,,,,,tx,79401,Lubbock
+958,Sonic,"1627 university ave, lubbock, tx, 79401, us",,,,,,tx,79401,Lubbock
+959,Sonic,"2414 mac davis lane, lubbock, tx, 79401, us",,,,,,tx,79401,Lubbock
+960,Sonic,"3500 ayers street, corpus christi, tx, 78415, us",,4.26,,,,tx,78415,Nueces
+961,Sonic,"4801 s staples, corpus christi, tx, 78411, us",,4.26,,,,tx,78411,Nueces
+962,Sonic,"3155 s padre island dr, corpus christi, tx, 78415, us",,,,,,tx,78415,Nueces
+963,Sonic,"2037 s padre island drive, corpus christi, tx, 78417, us",,,,,,tx,78417,Nueces
+964,Sonic,"2021 morgan ave, corpus christi, tx, 78405-1541, us",,,,,,tx,78405,Nueces
+965,Sonic,"409 w randol mill rd, arlington, tx, 76011, us",,4.26,,,,tx,76011,Tarrant
+966,Sonic,"1201 s bowen rd, arlington, tx, 76013, us",,4.26,,,,tx,76013,Tarrant
+967,Sonic,"2214 n collins st, arlington, tx, 76011, us",,,,,,tx,76011,Tarrant
+968,Sonic,"700 w division st, arlington, tx, 76012, us",,,,,,tx,76012,Tarrant
+969,Sonic,"2815 ne green oaks blvd, grand prairie, tx, 75050, us",,,,,,tx,75050,Dallas
+970,Sonic,"2200 airport fwy ste 500-a, bedford, tx, 76022, us",,,,,,tx,76022,Tarrant
+971,Sonic,"2632 s lamar, austin, tx, 78704, us",,4.01,,,,tx,78704,Travis
+972,Sonic,"1901 montopolis drive, austin, tx, 78741, us",,4.01,,,,tx,78741,Travis
+973,Sonic,"303 e oltorf st, austin, tx, 78704, us",,,,,,tx,78704,Travis
+974,Sonic,"619 n ih 35, austin, tx, 78702, us",,,,,,tx,78702,Travis
+975,Sonic,"301 west 3rd street, austin, tx, 78701, us",,,,,,tx,78701,Travis
+976,Sonic,"4905 airport blvd, austin, tx, 78751, us",,,,,,tx,78751,Travis
+977,Sonic,"1320, round rock, tx, 78681, us",,4.01,,,,tx,78681,Williamson
+978,Sonic,"1805 n mays st, round rock, tx, 78664, us",,4.14,,,,tx,78664,Williamson
+979,Sonic,"17000 n rm 620, round rock, tx, 78681, us",,,,,,tx,78681,Williamson
+980,Sonic,"607 louis henna blvd, round rock, tx, 78664, us",,,,,,tx,78664,Williamson
+981,Sonic,"1121 e palm valley blvd, round rock, tx, 78664, us",,,,,,tx,78664,Williamson
+982,Sonic,"110 north ih 35, round rock, tx, 78681, us",,,,,,tx,78681,Williamson
+983,Sonic,"6816 mcneil rd, austin, tx, 78729, us",,4.01,,,,tx,78729,Williamson
+984,Sonic,"796 w antelope dr, layton, ut, 84041, us",,3.5,,,,ut,84041,Davis
+985,Sonic,"1296 n state st, provo, ut, 84604, us",,3.5,,,,ut,84604,Utah
+986,Sonic,"406 w 800 n, orem, ut, 84057, us",,3.5,,,,ut,84057,Utah
+987,Sonic,"1055 s. state street, orem, ut, 84097, us",,,,,,ut,84097,Utah
+988,Sonic,"11 west center street, orem, ut, 84057, us",,,,,,ut,84057,Utah
+989,Sonic,"2564 ironwood drive, sun prairie, wi, 53590, us",,4.99,,,,wi,53590,Dane
+990,Sonic,"2080 miller park way, west milwaukee, wi, 53219, us",,,,,,wi,53219,Milwaukee
+991,Five Guys,"54 shell street, suite 100, saraland, al, 36571, us",13.31,10.55,9.71,,8.39,al,36571,Mobile
+992,Five Guys,"585 brookwood village, birmingham, al, 35209, us",13.67,10.67,9.35,,7.55,al,35209,Jefferson
+993,Five Guys,"3345 lowery pkwy, fultondale, al, 35068, us",13.67,10.67,9.35,,7.55,al,35068,Jefferson
+994,Five Guys,"4730 chace lake circle, suite 128, hoover, al, 35244, us",13.67,10.67,9.35,,7.55,al,35244,Shelby
+995,Five Guys,"springs at trussville street, center point, al, 35235, us",13.67,10.67,9.35,,7.55,al,35235,Jefferson
+996,Five Guys,"1221 memorial pkwy nw, huntsville, al, 35801, us",11.15,8.63,8.03,,5.99,al,35801,Madison
+997,Five Guys,"2724-c carl t. jones dr., huntsville, al, 35802, us",11.15,8.63,8.03,,5.99,al,35802,Madison
+998,Five Guys,"1395 enterprise way, huntsville, al, 35806, us",11.15,8.63,8.03,,5.99,al,35806,Madison
+999,Five Guys,"100 moon shot dr suite 110, madison, al, 35758, us",11.15,8.63,8.03,,5.99,al,35758,Madison
+1000,Five Guys,"8334 highway 72 west suite c, madison, al, 35758, us",11.15,8.63,8.03,,5.99,al,35758,Madison
+1001,Five Guys,"175 w. bay st., savannah, ga, 31401, us",14.15,11.15,9.83,,8.03,ga,31401,Chatham
+1002,Five Guys,"5500 abercorn st., suite #38, savannah, ga, 31405, us",13.55,10.55,9.23,,7.43,ga,31405,Chatham
+1003,Five Guys,"4690 hwy 80 east, savannah, ga, 31410, us",13.55,10.55,9.23,,7.43,ga,31410,Chatham
+1004,Five Guys,"6 mill creek cir., suite b, pooler, ga, 31322, us",13.67,10.67,9.35,,7.55,ga,31322,Chatham
+1005,Five Guys,"2120, pooler, ga, 31322, us",13.67,10.67,9.35,,7.55,ga,31322,Chatham
+1006,Five Guys,"860 peachtree rd ne, atlanta, ga, 30308",13.31,10.43,9.11,,7.19,ga,30308,Fulton
+1007,Five Guys,"1253 caroline st ne, atlanta, ga, 30307, us",13.31,10.43,9.11,,7.19,ga,30307,DeKalb
+1008,Five Guys,"1052 northside dr. nw, atlanta, ga, 30318",13.91,10.91,9.59,,7.79,ga,30318,Fulton
+1009,Five Guys,"3393 peachtree road northeast, atlanta, ga, 30326, us",13.67,10.67,9.35,,7.55,ga,30326,Fulton
+1010,Five Guys,"1201 marina blvd., san leandro, ca, 94577, us",13.79,10.31,9.83,,7.19,ca,94577,Alameda
+1011,Five Guys,"321 s 8th st, boise, id, 83702, us",12.23,10.19,8.99,,7.19,id,83702,Ada
+1012,Five Guys,"1587 n. milwaukee st., boise, id, 83704, us",12.23,10.19,8.99,,7.19,id,83704,Ada
+1013,Five Guys,"2830 north eagle rd, meridian, id, 83646, us",12.23,10.19,8.99,,7.19,id,83646,Ada
+1014,Five Guys,"8231 calumet ave., munster, in, 46321, us",11.34,8.94,8.1,,7.02,in,46321,Lake
+1015,Five Guys,"2325 se delaware ave, ankeny, ia, 50021, us",13.67,11.03,9.83,,7.31,ia,50021,Polk
+1016,Five Guys,"2467 nicholasville rd, lexington, usa, lexington-fayette, ky, 40503, us",11.39,8.87,7.91,,5.99,ky,40503,Fayette
+1017,Five Guys,"3090 helmsdale pl, lexington, usa, lexington-fayette, ky, 40509, us",11.39,8.87,7.91,,5.99,ky,40509,Fayette
+1018,Five Guys,"1500 veterans pkwy., jeffersonville, in, 47130, us",11.63,8.87,7.91,,6.83,in,47130,Clark
+1019,Five Guys,"2221 state street, new albany, in, 47150, us",11.63,8.87,7.91,,6.83,in,47150,Floyd
+1020,Five Guys,"4226 shelbyville road, louisville, ky, 40207, us",11.63,8.87,7.91,,6.83,ky,40207,Jefferson
+1021,Five Guys,"7415 corporate boulevard, baton rouge, la, 70809, us",11.51,8.75,7.79,,6.35,la,70809,East Baton Rouge
+1022,Five Guys,"14385 grand settlement boulevard suite a, central, la, 70818, us",11.51,8.75,7.79,,6.35,la,70818,East Baton Rouge
+1023,Five Guys,"14640 village market st, baton rouge, la, 70817, us",11.51,8.75,7.79,,6.35,la,70817,East Baton Rouge
+1024,Five Guys,"1212 south clearview parkway, harahan, la, 70123, us",11.51,8.75,7.79,,6.35,la,70123,Jefferson
+1025,Five Guys,"4302 ambassador caffery parkway, lafayette, la, 70508, us",11.51,8.75,7.79,,6.35,la,70508,Lafayette
+1026,Five Guys,"1523 manhattan blvd., harvey, la, 70058, us",11.51,8.75,7.79,,6.35,la,70058,Jefferson
+1027,Five Guys,"116 north town center blvd., slidell, la, 70458, us",11.51,8.75,7.79,,6.35,la,70458,St. Tammany
+1028,Five Guys,"10495 highway 49, gulfport, ms, 39503, us",11.82,9.42,8.58,,7.02,ms,39503,Harrison
+1029,Five Guys,"3840 promenade parkway, d'iberville, ms, 39540, us",11.82,9.42,8.58,,7.02,ms,39540,Harrison
+1030,Five Guys,"1111 south willow street, manchester, nh, 03103, us",11.82,9.42,8.58,,7.02,nh,3103,Hillsborough
+1031,Five Guys,"15 webb place, dover, nh, 03820, us",11.82,9.42,8.58,,7.02,nh,3820,Strafford
+1032,Five Guys,"182 merrimon ave, asheville, nc, 28801, us",13.31,10.31,8.99,,7.31,nc,28801,Buncombe
+1033,Five Guys,"1838 hendersonville rd., asheville, nc, 28803, us",13.31,10.31,8.99,,7.31,nc,28803,Buncombe
+1034,Five Guys,"2844 freedom parkway suite 5, fayetteville, nc, 28314, us",13.55,10.55,9.23,,7.43,nc,28314,Cumberland
+1035,Five Guys,"3718 north roxboro street, durham, nc, 27704, us",12.74,9.37,8.05,,7.18,nc,27704,Durham
+1036,Five Guys,"5332 mcfarland drive, durham, nc, 27707, us",12.74,9.37,8.05,,7.18,nc,27707,Durham
+1037,Five Guys,"1821 n pointe dr, durham, nc, 27705, us",,,,,,nc,27705,Durham
+1038,Five Guys,"1821 n pointe drive, durham, nc, 27705, us",,,,,,nc,27705,Durham
+1039,Five Guys,"201 e franklin st, chapel hill, nc, 27514, us",,,,,,nc,27514,Orange
+1040,Five Guys,"3273 robinhood road, winston salem, nc, 27106, us",13.55,10.55,9.23,,7.43,nc,27106,Forsyth
+1041,Five Guys,"3792 creekshire ct., winston salem, nc, 27103, us",13.55,10.55,9.23,,7.43,nc,27103,Forsyth
+1042,Five Guys,"9826 gilead rd., suite c-106, huntersville, nc, 28078, us",13.07,10.07,8.87,,7.19,nc,28078,Mecklenburg
+1043,Five Guys,"2028 olde regent way ste. 110, leland, nc, 28451, us",13.31,10.31,8.99,,7.31,nc,28451,Brunswick
+1044,Five Guys,"6801 parker farm dr, wilmington, nc, 28405, us",13.31,10.31,8.99,,7.31,nc,28405,New Hanover
+1045,Five Guys,"4120 main at north hills st, raleigh, nc, 27609, us",12.74,9.37,8.05,,7.18,nc,27609,Wake
+1046,Five Guys,"3722 s peoria, suite 400, tulsa, ok, 74105, us",13.79,10.79,9.47,,7.67,ok,74105,Tulsa
+1047,Five Guys,"3 ppg pl., pittsburgh, pa, 15222, us",13.07,10.43,9.23,,7.43,pa,15222,Allegheny
+1048,Five Guys,"117 s. bouquet st., pittsburgh, pa, 15213, us",13.07,10.43,9.23,,7.43,pa,15213,Allegheny
+1049,Five Guys,"4656 browns hill rd, pittsburgh, pa, 15217, us",,,,,,pa,15217,Allegheny
+1050,Five Guys,"160 millers run rd., bridgeville, pa, 15017, us",13.07,10.43,9.23,,7.43,pa,15017,Allegheny
+1051,Five Guys,"2200 lebanon church road, west mifflin, pa, 15122, us",,,,,,pa,15122,Allegheny
+1052,Five Guys,"4619 perkiomen ave., reading, pa, 19606, us",13.91,11.27,9.71,,7.19,pa,19606,Berks
+1053,Five Guys,"3580 penn ave., suite #7, sinking springs, pa, 19608, us",13.91,11.27,9.71,,7.19,pa,19608,Berks
+1054,Five Guys,"2804 s eagle rd, newton, pa, 18940, us",13.67,10.43,9.35,,7.31,pa,18940,Bucks
+1055,Five Guys,"125 e street rd., feasterville, pa, 19053, us",13.67,10.43,9.35,,7.31,pa,19053,Bucks
+1056,Five Guys,"2552 grant avenue, philadelphia, pa, 19114, us",13.67,10.43,9.35,,7.31,pa,19114,Philadelphia
+1057,Five Guys,"864 west street road, warminster, pa, 18974, us",13.67,10.43,9.35,,7.31,pa,18974,Bucks
+1058,Five Guys,"1000 easton rd., wyncote, pa, 19095, us",13.67,10.43,9.35,,7.31,pa,19095,Montgomery
+1059,Five Guys,"1090 e. lancaster ave., downingtown, pa, 19335, us",13.67,10.43,9.35,,7.31,pa,19335,Chester
+1060,Five Guys,"1075 w baltimore pike, media, usa, middletown, pa, 19063, us",13.67,10.43,9.35,,7.31,pa,19063,Delaware
+1061,Five Guys,"1991 sproul rd., #19, broomall, pa, 19008, us",13.67,10.43,9.35,,7.31,pa,19008,Delaware
+1062,Five Guys,"47 industrial hwy, tinicum township, pa, 19029, us",,,,,,pa,19029,Delaware
+1063,Five Guys,"1962 fruitville pike, lancaster, pa, 17601, us",13.91,11.27,9.71,,7.19,pa,17601,Lancaster
+1064,Five Guys,"east town center, lincoln hwy. east, lancaster, pa, 17602, us",13.91,11.27,9.71,,7.19,pa,17602,Lancaster
+1065,Five Guys,"914 airport center dr., allentown, pa, 18109, us",13.91,11.27,9.71,,7.19,pa,18109,Lehigh
+1066,Five Guys,"200 west ridge pike, conshohocken, pa, 19428, us",13.67,10.43,9.35,,7.31,pa,19428,Montgomery
+1067,Five Guys,"1527 chestnut st., philladelphia, pa, 19102, us",13.67,10.43,9.35,,7.31,pa,19102,Philadelphia
+1068,Five Guys,"1717 n. 12th st., philadelphia, pa, 19122, us",13.67,10.43,9.35,,7.31,pa,19122,Philadelphia
+1069,Five Guys,"1037 chestnut st, philadelphia, pa, 19107, us",,,,,,pa,19107,Philadelphia
+1070,Five Guys,"4301 market st, philadelphia, pa, 19104, us",,,,,,pa,19104,Philadelphia
+1071,Five Guys,"3845 northern pike, monroeville, pa, 15146, us",13.07,10.43,9.23,,7.43,pa,15146,Allegheny
+1072,Five Guys,"8957 rt. 30, north huntington, pa, 15642, us",13.79,11.15,9.71,,7.43,pa,15642,Westmoreland
+1073,Five Guys,"3980 william penn highway, monroeville, pa, 15146, us",,,,,,pa,15146,Allegheny
+1074,Five Guys,"96 sofia dr., shrewsbury, pa, 17361, us",13.79,11.15,9.71,,7.43,pa,17361,York
+1075,Five Guys,"141 wilson avenue, penn, pa, 17331, us",13.79,11.15,9.71,,7.43,pa,17331,York
+1076,Five Guys,"1019 fording island rd., suite 101g, bluffton, sc, 29910, us",13.55,10.55,9.23,,7.43,sc,29910,Beaufort
+1077,Five Guys,"11 palmetto bay rd., #106a, hilton head island, sc, 29928, us",14.15,11.15,9.83,,8.03,sc,29928,Beaufort
+1078,Five Guys,"364 king st, charleston, sc, 29401, us",12.74,9.37,8.05,,7.18,sc,29401,Charleston
+1079,Five Guys,"1795 hwy. 17 north, mount pleasant, sc, 29464, us",12.74,9.37,8.05,,7.18,sc,29464,Charleston
+1080,Five Guys,"3281 n. pleasantburg road, greenville, sc, 29609, us",12.59,9.71,8.63,,7.07,sc,29609,Greenville
+1081,Five Guys,"586 haywood road, greenville, sc, 29607, us",12.59,9.71,8.63,,7.07,sc,29607,Greenville
+1082,Five Guys,"1772 pine island rd, myrtle beach, sc, 29577, us",13.31,10.31,8.99,,7.31,sc,29577,Horry
+1083,Five Guys,"8715 highway 17 bypass south, myrtle beach, sc, 29575, us",13.31,10.31,8.99,,7.31,sc,29575,Horry
+1084,Five Guys,"800 s. kings hwy, myrtle beach, sc, 29577, us",,,,,,sc,29577,Horry
+1085,Five Guys,"5135 sunset blvd., lexington, sc, 29072, us",12.74,9.37,8.05,,7.18,sc,29072,Lexington
+1086,Five Guys,"285, columbia, sc, 29212, us",12.74,9.37,8.05,,7.18,sc,29212,Lexington
+1087,Five Guys,"2514 sunset blvd, west columbia, sc, 29169, us",,,,,,sc,29169,Lexington
+1088,Five Guys,"931 senate st, columbia, sc, 29201, us",12.74,9.37,8.05,,7.18,sc,29201,Richland
+1089,Five Guys,"1488 w. wade hampton blvd, greer, sc, 29650, us",12.59,9.71,8.63,,7.07,sc,29650,Greenville
+1090,Five Guys,"3935 pelham rd., greenville, sc, 29615, us",12.59,9.71,8.63,,7.07,sc,29615,Greenville
+1091,Five Guys,"1460 meeting blvd, rock hill, sc, 29730, us",13.07,10.43,9.23,,7.43,sc,29730,York
+1092,Five Guys,"1852 south carolina 160, fort mill, sc, 29708, us",13.07,10.43,9.23,,7.43,sc,29708,York
+1093,Five Guys,"401 broad street, chattanooga, tn, 37402, us",13.07,10.55,9.23,,7.19,tn,37402,Hamilton
+1094,Five Guys,"234 brookview center, knoxville, tn, 37919, us",13.07,10.55,9.35,,7.19,tn,37919,Knox
+1095,Five Guys,"536 n. thompson lane, murfreesboro, tn, 37129, us",13.79,10.79,9.47,,7.19,tn,37129,Rutherford
+1096,Five Guys,"2525 parkway, pigeon forge, tn, 37863, us",14.27,11.63,10.19,,7.43,tn,37863,Sevier
+1097,Five Guys,"2100 union ave, memphis, tn, 38104, us",11.82,9.42,8.58,,7.02,tn,38104,Shelby
+1098,Five Guys,"1315 ridgeway rd, memphis, tn, 38119, us",11.82,9.42,8.58,,7.02,tn,38119,Shelby
+1099,Five Guys,"3227 poplar ave, memphis, tn, 38111, us",,,,,,tn,38111,Shelby
+1100,Five Guys,"3021 mallory lane, franklin, tn, 37067, us",13.79,10.79,9.47,,7.55,tn,37067,Williamson
+1101,Five Guys,"330 franklin rd, brentwood, tn, 37027, us",13.79,10.79,9.47,,7.55,tn,37027,Williamson
+1102,Five Guys,"493 old hickory blvd, brentwood, tn, 37027, us",12.99,,,,,tn,37027,Williamson
+1103,Five Guys,"260 e basse st suite 107, san antonio, tx, 78209, us",13.55,10.55,9.23,,7.55,tx,78209,Bexar
+1104,Five Guys,"8222 agora pkwy, live oak, tx, 78154, us",13.55,10.55,9.23,,7.55,tx,78154,Bexar
+1105,Five Guys,"195 creekside crossing, new braunfels, tx, 78130, us",13.55,10.55,9.23,,7.55,tx,78130,Guadalupe
+1106,Five Guys,"5215 dezavala rd, san antonio, tx, 78249, us",13.55,10.55,9.23,,7.55,tx,78249,Bexar
+1107,Five Guys,"1333 w. bay area blvd., webster, tx, 77598, us",13.45,10.51,9.17,,7.33,tx,77598,Harris
+1108,Five Guys,"711 university drive east, college station, tx, 77840, us",13.45,10.31,9.17,,7.33,tx,77840,Brazos
+1109,Five Guys,"8445 north belt line road, irving, tx, 75063, us",13.79,10.79,9.47,,7.67,tx,75063,Dallas
+1110,Five Guys,"1201 e spring creek parkway suite 110, plano, tx, 75074, us",13.55,10.55,9.23,,7.43,tx,75074,Collin
+1111,Five Guys,"6451 east nw highway, suite 100, dallas, tx, 75231, us",13.91,10.91,9.59,,7.79,tx,75231,Dallas
+1112,Five Guys,"5406 harry hines boulevard, 150, dallas, tx, 75235, us",,,,,,tx,75235,Dallas
+1113,Five Guys,"2030 market center, dallas, tx, 75207, us",,,,,,tx,75207,Dallas
+1114,Five Guys,"ihop, dallas, tx, 75235, us",,,,,,tx,75235,Dallas
+1115,Five Guys,"6440 north macarthur blvd suite 110, iriving, tx, 75039, us",13.55,10.55,9.23,,7.43,tx,75039,Dallas
+1116,Five Guys,"410 s loop 12, irving, tx, 75060, us",,,,,,tx,75060,Dallas
+1117,Five Guys,"1025 west airport freeway, irving, tx, 75062, us",,,,,,tx,75062,Dallas
+1118,Five Guys,"502 n. o'connor rd, irving, tx, 75061, us",,,,,,tx,75061,Dallas
+1119,Five Guys,"4115 w. airport frwy., irving, tx, 75062, us",,,,,,tx,75062,Dallas
+1120,Five Guys,"4833 s hulen st, fort worth, tx, 76132, us",13.55,10.55,9.23,,7.43,tx,76132,Tarrant
+1121,Five Guys,"1304 w pipeline rd, hurst, tx, 76053, us",13.55,10.55,9.23,,7.43,tx,76053,Tarrant
+1122,Five Guys,"3701 west fwy, fort worth, tx, 76107, us",,,,,,tx,76107,Tarrant
+1123,Five Guys,"515 s henderson st, fort worth, tx, 76104, us",,,,,,tx,76104,Tarrant
+1124,Five Guys,"3112 e berry st, fort worth, tx, 76119, us",2.36,,,,,tx,76119,Tarrant
+1125,Five Guys,"4200 south freeway, fort worth, tx, 76115, us",,,,,,tx,76115,Tarrant
+1126,Five Guys,"3939 washington ave., ste h, houston, tx, 77007, us",13.55,10.55,9.23,,7.43,tx,77007,Harris
+1127,Five Guys,"2902 n. shepherd dr. ste d, houston, tx, 77018, us",13.55,10.55,9.23,,7.43,tx,77018,Harris
+1128,Five Guys,"3639 westheimer rd, houston, tx, 77027, us",,,,,,tx,77027,Harris
+1129,Five Guys,"4639 irvington, houston, tx, 77009, us",2.39,,,,,tx,77009,Harris
+1130,Five Guys,"1801 durham, houston, tx, 77007, us",,,,,,tx,77007,Harris
+1131,Five Guys,"3110 w dallas st, houston, tx, 77019, us",,,,,,tx,77019,Harris
+1132,Five Guys,"5445 east fwy, houston, tx, 77020, us",,,,,,tx,77020,Harris
+1133,Five Guys,"1615 n, fm646, league city, tx, 77573, us",13.45,10.51,9.17,,7.33,tx,77573,Galveston
+1134,Five Guys,"1760 nasa pkwy., nassau bay, tx, 77058, us",13.45,10.51,9.17,,7.33,tx,77058,Harris
+1135,Five Guys,"10802 hughes road, houston, tx, 77089, us",,,,,,tx,77089,Harris
+1136,Five Guys,"3701 expressway 83, mcallen, tx, 78503, us",13.55,10.55,9.23,,7.55,tx,78503,Hidalgo
+1137,Five Guys,"4410 19th street, lubbock, tx, 79407, us",13.19,10.31,9.59,,6.47,tx,79407,Hockley
+1138,Five Guys,"6076 marsha sharp freeway, lubbock, tx, 79407, us",13.19,10.31,9.59,,6.47,tx,79407,Hockley
+1139,Five Guys,"1702 19th st, lubbock, tx, 79401, us",,,,,,tx,79401,Lubbock
+1140,Five Guys,"5425 south padre island dr, corpus christi, tx, 78411, us",13.67,10.67,9.35,,7.67,tx,78411,Nueces
+1141,Five Guys,"4301 w william cannon bldg e suite 200, austin, tx, 78749, us",13.55,10.55,9.23,,7.55,tx,78749,Travis
+1142,Five Guys,"10000 research blvd, austin, tx, 78759, us",13.67,10.67,9.35,,7.67,tx,78759,Travis
+1143,Five Guys,"303 e oltorf st, austin, tx, 78704, us",,,,,,tx,78704,Travis
+1144,Five Guys,"619 n ih 35, austin, tx, 78702, us",,,,,,tx,78702,Travis
+1145,Five Guys,"301 west 3rd street, austin, tx, 78701, us",,,,,,tx,78701,Travis
+1146,Five Guys,"4905 airport blvd, austin, tx, 78751, us",,,,,,tx,78751,Travis
+1147,Five Guys,"3107 s ih-35 suite 750, round rock, tx, 78664, us",13.55,10.55,9.23,,7.55,tx,78664,Williamson
+1148,Five Guys,"2424 fm 685 ste 200, pflugerville, tx, 78660, us",13.55,10.55,9.23,,7.55,tx,78660,Travis
+1149,Five Guys,"17000 n rm 620, round rock, tx, 78681, us",,,,,,tx,78681,Williamson
+1150,Five Guys,"607 louis henna blvd, round rock, tx, 78664, us",,,,,,tx,78664,Williamson
+1151,Five Guys,"1121 e palm valley blvd, round rock, tx, 78664, us",,,,,,tx,78664,Williamson
+1152,Five Guys,"2065 n. harris blvd., layton, ut, 84041, us",12.23,10.19,8.99,,7.19,ut,84041,Davis
+1153,Five Guys,"2321 washington blvd., ogden, ut, 84401, us",12.35,10.19,8.99,,7.19,ut,84401,Weber
+1154,Five Guys,"1726 bluff ridge drive, syracuse, ut, 84075, us",,,,,,ut,84075,Davis
+1155,Five Guys,"1051 south 750 east, orem, ut, 84097, us",12.23,10.19,8.99,,7.19,ut,84097,Utah
+1156,Five Guys,"2883 oneida street, ashwaubenon, wi, 54304, us",13.19,10.79,9.59,,7.31,wi,54304,Brown
+1157,Five Guys,"2253 zeier rd, madison, wi, 53704, us",13.67,11.03,9.83,,7.31,wi,53704,Dane
+1158,Five Guys,"16730 west bluemound road, brookfield, wi, 53005, us",13.67,11.03,9.83,,7.31,wi,53005,Waukesha
+1159,Five Guys,"2900 golf rd., delafield, wi, 53018, us",13.67,11.03,9.83,,7.31,wi,53018,Waukesha
+1160,Five Guys,"801 w moreland blvd, waukesha, wi, 53188, us",,,,,,wi,53188,Waukesha
+1161,Five Guys,"804 w sunset dr, waukesha, wi, 53189, us",,,,,,wi,53189,Waukesha
+1162,Five Guys,"1170 w sunset drive, waukesha, wi, 53189, us",,,,,,wi,53189,Waukesha
+1163,Shake Shack,"200 summit blvd., birmingham, al, 35243, us",7.89,7.59,7.19,,4.19,al,35243,Jefferson
+1164,Shake Shack,"11780 haynes bridge road, alpharetta, ga, 30009, us",8.39,8.19,7.89,,5.19,ga,30009,Fulton
+1165,Shake Shack,"670 dekalb avenue northeast, atlanta, ga, 30312, us",8.39,8.19,7.89,,5.19,ga,30312,Fulton
+1166,Shake Shack,"1168 howell mill road, atlanta, ga, 30318, us",8.39,8.19,7.89,,5.19,ga,30318,Fulton
+1167,Shake Shack,"1954 telegraph avenue, oakland, ca, 94612, us",9.59,9.39,8.99,,5.49,ca,94612,Alameda
+1168,Shake Shack,"3060 fillmore street, san francisco, ca, 94123, us",9.59,9.39,8.99,,5.79,ca,94123,San Francisco
+1169,Shake Shack,"1604 mount diablo boulevard, walnut creek, ca, 94596, us",9.59,9.39,8.99,,5.79,ca,94596,Contra Costa
+1170,Shake Shack,"167 e new york st, indianapolis, in, 46204-2325, us",8.19,7.89,7.59,,4.79,in,46204,Marion
+1171,Shake Shack,"5200 w 119th street, leawood, ks, 66211, us",7.89,7.59,7.19,,4.19,ks,66211,Johnson
+1172,Shake Shack,"115 summit at fritz farm, lexington, ky, 40517, us",7.89,7.59,7.19,,4.19,ky,40517,Fayette
+1173,Shake Shack,"6651 bluebonnet boulevard, baton rouge, la, 70836, us",7.89,7.59,7.19,,4.19,la,70836,East Baton Rouge
+1174,Shake Shack,"3501 veterans memorial blvd, metairie, la, 70002, us",7.89,7.59,7.19,,4.19,la,70002,Jefferson
+1175,Shake Shack,"333 canal street, new orleans, la, 70130, us",8.19,7.89,7.59,,4.79,la,70130,Orleans
+1176,Shake Shack,"14 south village drive, salem, nh, 03079, us",8.39,8.19,7.89,,5.19,nh,3079,Rockingham
+1177,Shake Shack,"1800 east franklin street, chapel hill, nc, 27514, us",8.19,7.89,7.59,,4.79,nc,27514,Orange
+1178,Shake Shack,"310 colonades way, cary, nc, 27518, us",8.19,7.89,7.59,,4.79,nc,27518,Wake
+1179,Shake Shack,"1930 camden rd, charlotte, nc, 28203, us",8.19,7.89,7.59,,4.79,nc,28203,Mecklenburg
+1180,Shake Shack,"16633 birkdale commons parkway, huntersville, nc, 28078, us",8.19,7.89,7.59,,4.79,nc,28078,Mecklenburg
+1181,Shake Shack,"1605 east woodlawn rd., charlotte, nc, 28209, us",8.19,7.89,7.59,,4.79,nc,28209,Mecklenburg
+1182,Shake Shack,"2010 clark avenue, raleigh, nc, 27605, us",8.99,8.79,8.39,,5.49,nc,27605,Wake
+1183,Shake Shack,"160 n. gulph road, king of prussia, pa, 19406, us",8.99,8.79,8.39,,5.49,pa,19406,Montgomery
+1184,Shake Shack,"950 baltimore pike, springfield, pa, 19064, us",8.39,8.19,7.89,,5.19,pa,19064,Delaware
+1185,Shake Shack,"40 coulter avenue, ardmore, pa, 19003, us",8.39,8.19,7.89,,5.19,pa,19003,Delaware
+1186,Shake Shack,"460 west germantown pike, plymouth, pa, 19462, us",8.39,8.19,7.89,,5.19,pa,19462,Montgomery
+1187,Shake Shack,"3200 chestnut street, philadelphia, pa, 19104, us",8.39,8.19,7.89,,5.19,pa,19104,Philadelphia
+1188,Shake Shack,"47 industrial hwy, tinicum township, pa, 19029, us",,,,,,pa,19029,Delaware
+1189,Shake Shack,"1100 christopher place bldg. g, lancaster, pa, 17601, us",8.39,8.19,7.89,,5.19,pa,17601,Lancaster
+1190,Shake Shack,"1457 macarthur road, whitehall, pa, 18052, us",8.39,8.19,7.89,,5.19,pa,18052,Lehigh
+1191,Shake Shack,"north valley forge road &amp; south valley forge road, lansdale, pa, 19446, us",,8.5,7.5,,,pa,19446,Montgomery
+1192,Shake Shack,"105 s 12th st., philadelphia, pa, 19107, us",8.99,8.79,8.39,,5.49,pa,19107,Philadelphia
+1193,Shake Shack,"9824 rea road, charlotte, nc, 28277, us",8.19,7.89,7.59,,4.79,nc,28277,Mecklenburg
+1194,Shake Shack,"5002 broadway place, nashville, tn, 37219, us",8.99,8.79,8.39,,5.49,tn,37219,Davidson
+1195,Shake Shack,"4060 cane ridge parkway, nashville, tn, 37013, us",7.89,7.59,7.19,,4.19,tn,37013,Davidson
+1196,Shake Shack,"5027 aspen grove drive, franklin, tn, 37067, us",8.19,7.89,7.59,,4.79,tn,37067,Williamson
+1197,Shake Shack,"3003 broadway street, san antonio, tx, 78209, us",8.19,7.89,7.59,,4.79,tx,78209,Bexar
+1198,Shake Shack,"7411 san pedro avenue, san antonio, tx, 78216, us",8.19,7.89,7.59,,4.79,tx,78216,Bexar
+1199,Shake Shack,"19677 gulf freeway, webster, tx, 77598, us",8.19,7.89,7.59,,4.79,tx,77598,Harris
+1200,Shake Shack,"702 main street, houston, tx, 77002, us",8.19,7.89,7.59,,4.79,tx,77002,Harris
+1201,Shake Shack,"5015 westheimer rd., houston, tx, 77056, us",8.39,8.19,7.89,,5.19,tx,77056,Harris
+1202,Shake Shack,"2515 town center blvd n, sugar land, tx, 77479, us",8.19,7.89,7.59,,4.79,tx,77479,Fort Bend
+1203,Shake Shack,"5009 west park boulevard, plano, tx, 75093, us",8.19,7.89,7.59,,4.79,tx,75093,Collin
+1204,Shake Shack,"5290 belt line road, addison, tx, 75254, us",8.19,7.89,7.59,,4.79,tx,75254,Dallas
+1205,Shake Shack,"2548 k avenue, plano, tx, 75074, us",,,,,,tx,75074,Collin
+1206,Shake Shack,"7020 coit road, plano, tx, 75025, us",,,,,,tx,75025,Collin
+1207,Shake Shack,"1205 jupiter rd, plano, tx, 75074, us",,,,,,tx,75074,Collin
+1208,Shake Shack,"933 north central expressway, plano, tx, 75075, us",,,,,,tx,75075,Collin
+1209,Shake Shack,"2500 n pearl st, dallas, tx, 75201, us",8.19,7.89,7.59,,4.79,tx,75201,Dallas
+1210,Shake Shack,"5500 greenville ave., dallas, tx, 75206, us",8.19,7.89,7.59,,4.79,tx,75206,Dallas
+1211,Shake Shack,"5406 harry hines boulevard, 150, dallas, tx, 75235, us",,,,,,tx,75235,Dallas
+1212,Shake Shack,"2030 market center, dallas, tx, 75207, us",,,,,,tx,75207,Dallas
+1213,Shake Shack,"ihop, dallas, tx, 75235, us",,,,,,tx,75235,Dallas
+1214,Shake Shack,"7170 n. state highway 161, irving, tx, 75039, us",8.19,7.89,7.59,,4.79,tx,75039,Dallas
+1215,Shake Shack,"410 s loop 12, irving, tx, 75060, us",,,,,,tx,75060,Dallas
+1216,Shake Shack,"1025 west airport freeway, irving, tx, 75062, us",,,,,,tx,75062,Dallas
+1217,Shake Shack,"502 n. o'connor rd, irving, tx, 75061, us",,,,,,tx,75061,Dallas
+1218,Shake Shack,"4115 w. airport frwy., irving, tx, 75062, us",,,,,,tx,75062,Dallas
+1219,Shake Shack,"1601 south university drive, fort worth, tx, 76107, us",8.19,7.89,7.59,,4.79,tx,76107,Tarrant
+1220,Shake Shack,"122 e. exchange ave., fort worth, tx, 76164, us",8.19,7.89,7.59,,4.79,tx,76164,Tarrant
+1221,Shake Shack,"3701 west fwy, fort worth, tx, 76107, us",,,,,,tx,76107,Tarrant
+1222,Shake Shack,"515 s henderson st, fort worth, tx, 76104, us",,,,,,tx,76104,Tarrant
+1223,Shake Shack,"1002 westheimer rd., houston, tx, 77006, us",8.19,7.89,7.59,,4.79,tx,77006,Harris
+1224,Shake Shack,"3639 westheimer rd, houston, tx, 77027, us",,,,,,tx,77027,Harris
+1225,Shake Shack,"4639 irvington, houston, tx, 77009, us",,2.39,,,,tx,77009,Harris
+1226,Shake Shack,"1801 durham, houston, tx, 77007, us",,,,,,tx,77007,Harris
+1227,Shake Shack,"3110 w dallas st, houston, tx, 77019, us",,,,,,tx,77019,Harris
+1228,Shake Shack,"5445 east fwy, houston, tx, 77020, us",,,,,,tx,77020,Harris
+1229,Shake Shack,"6205 kirby drive, houston, tx, 77005, us",8.19,7.89,7.59,,4.79,tx,77005,Harris
+1230,Shake Shack,"10802 hughes road, houston, tx, 77089, us",,,,,,tx,77089,Harris
+1231,Shake Shack,"1550 mayfield road, grand prairie, tx, 75052, us",8.19,7.89,7.59,,4.79,tx,75052,Dallas
+1232,Shake Shack,"125 central avenue, southlake, tx, 76092, us",8.19,7.89,7.59,,4.79,tx,76092,Tarrant
+1233,Shake Shack,"1100 south lamar blvd, austin, tx, 78704, us",8.19,7.89,7.59,,4.79,tx,78704,Travis
+1234,Shake Shack,"11228 domain drive, austin, tx, 78758, us",8.19,7.89,7.59,,4.79,tx,78758,Travis
+1235,Shake Shack,"303 e oltorf st, austin, tx, 78704, us",,,,,,tx,78704,Travis
+1236,Shake Shack,"619 n ih 35, austin, tx, 78702, us",,,,,,tx,78702,Travis
+1237,Shake Shack,"1402 n interstate hwy 35, round rock, tx, 78681, us",8.19,7.89,7.59,,4.79,tx,78681,Williamson
+1238,Shake Shack,"1905 east whitestone boulevard, cedar park, tx, 78613, us",8.39,8.19,7.89,,5.19,tx,78613,Williamson
+1239,Shake Shack,"17000 n rm 620, round rock, tx, 78681, us",,,,,,tx,78681,Williamson
+1240,Shake Shack,"607 louis henna blvd, round rock, tx, 78664, us",,,,,,tx,78664,Williamson
+1241,Shake Shack,"4142 riverdale road, ogden, ut, 84405, us",8.39,8.19,7.89,,5.19,ut,84405,Weber
+1242,Shake Shack,"6123 south state street, murray, ut, 84107, us",8.19,7.89,7.59,,4.79,ut,84107,Salt Lake
+1243,Shake Shack,"558 north midvale boulevard, madison, wi, 53705, us",8.19,7.89,7.59,,4.79,wi,53705,Dane
+1244,Shake Shack,"220 e buffalo street, milwaukee, wi, 53202, us",8.19,7.89,7.59,,4.79,wi,53202,Milwaukee
+1245,Shake Shack,"585 north barker road, brookfield, wi, 53045, us",8.19,7.89,7.59,,4.79,wi,53045,Waukesha
+1246,Jack in the Box,"4425 telegraph ave, oakland, ca, 94609, us",6.49,,,12.6,,ca,94609,Alameda
+1247,Jack in the Box,"5920 cutting blvd, el-cerrito, ca, 94530, us",7.11,,,13.98,,ca,94530,Contra Costa
+1248,Jack in the Box,"1826 webster st, alameda, ca, 94501, us",6.86,,,13.73,,ca,94501,Alameda
+1249,Jack in the Box,"3407 mt diablo blvd, lafayette, ca, 94549, us",4.86,,,11.6,,ca,94549,Contra Costa
+1250,Jack in the Box,"1124 s vista ave, boise, id, 83705, us",6.86,,,12.49,,id,83705,Ada
+1251,Jack in the Box,"3220 w state st, boise, id, 83703, us",6.86,,,12.49,,id,83703,Ada
+1252,Jack in the Box,"1302 s orchard st, boise, id, 83705, us",6.86,,,12.49,,id,83705,Ada
+1253,Jack in the Box,"2130 n post rd, indianapolis, in, 46219, us",7.11,,,13.98,,in,46219,Marion
+1254,Jack in the Box,"8950 s 31, indianapolis, in, 46227, us",7.11,,,13.98,,in,46227,Marion
+1255,Jack in the Box,"5613 west 38th street, indianapolis, in, 46254, us",7.11,,,13.98,,in,46254,Marion
+1256,Jack in the Box,"9101 johnson dr, merriam, ks, 66202, us",5.49,,,10.85,,ks,66202,Johnson
+1257,Jack in the Box,"17820 w 119th st, olathe, ks, 66061, us",5.49,,,10.85,,ks,66061,Johnson
+1258,Jack in the Box,"808 north 7 highway, blue springs, mo, 64014, us",5.36,,,10.6,,mo,64014,Jackson
+1259,Jack in the Box,"10317 metcalf ave, overland park, ks, 66212, us",5.49,,,10.85,,ks,66212,Johnson
+1260,Jack in the Box,"3232 bardstown road, louisville, ky, 40205, us",4.99,,,9.98,,ky,40205,Jefferson
+1261,Jack in the Box,"10700 dixie highway, louisville, ky, 40272, us",4.99,,,9.98,,ky,40272,Jefferson
+1262,Jack in the Box,"2805 scenic highway, baton rouge, la, 70805, us",5.86,,,11.23,,la,70805,East Baton Rouge
+1263,Jack in the Box,"8008 scenic hwy, baton rouge, la, 70807, us",5.86,,,11.23,,la,70807,East Baton Rouge
+1264,Jack in the Box,"2181 s sherwood forest blvd, baton rouge, la, 70816, us",5.86,,,11.23,,la,70816,East Baton Rouge
+1265,Jack in the Box,"76 highlands square dr, hendersonville, nc, 28792, us",5.86,,,11.23,,nc,28792,Henderson
+1266,Jack in the Box,"2424 east international boulevard, oakland, ca, 94601, us",6.49,,,12.6,,ca,94601,Alameda
+1267,Jack in the Box,"10121 n tryon st, charlotte, nc, 28262, us",5.86,,,11.23,,nc,28262,Mecklenburg
+1268,Jack in the Box,"220 n hoskins rd, charlotte, nc, 28216, us",5.86,,,11.23,,nc,28216,Mecklenburg
+1269,Jack in the Box,"943, concord, nc, 28027, us",5.86,,,11.23,,nc,28027,Cabarrus
+1270,Jack in the Box,"4505 randolph rd, charlotte, nc, 28211, us",5.86,,,11.23,,nc,28211,Mecklenburg
+1271,Jack in the Box,"615 12th avenue ne, norman, ok, 73070, us",5.99,,,11.1,,ok,73070,Cleveland
+1272,Jack in the Box,"690 sw 19th st, moore, ok, 73160, us",5.99,,,11.1,,ok,73160,Cleveland
+1273,Jack in the Box,"1301 se 44th st, oklahoma city, ok, 73129, us",5.99,,,11.1,,ok,73129,Oklahoma
+1274,Jack in the Box,"540 s macarthur blvd, oklahoma city, ok, 73128, us",5.99,,,11.1,,ok,73128,Oklahoma
+1275,Jack in the Box,"7100 s may ave, oklahoma city, ok, 73159, us",5.99,,,11.1,,ok,73159,Oklahoma
+1276,Jack in the Box,"4840 s yale ave, tulsa, ok, 74135, us",4.49,,,9.35,,ok,74135,Tulsa
+1277,Jack in the Box,"8112 east 11th street, tulsa, ok, 74112, us",4.49,,,9.35,,ok,74112,Tulsa
+1278,Jack in the Box,"2221 w kenosha st, broken arrow, ok, 74012, us",4.49,,,9.35,,ok,74012,Tulsa
+1279,Jack in the Box,"10014 s memorial dr e, tulsa, ok, 74133, us",4.49,,,9.35,,ok,74133,Tulsa
+1280,Jack in the Box,"1257 park st, alameda, ca, 94501, us",6.86,,,13.73,,ca,94501,Alameda
+1281,Jack in the Box,"1343 s pleasantburg dr, greenville, sc, 29605, us",5.86,,,11.23,,sc,29605,Greenville
+1282,Jack in the Box,"895 heckle blvd, rock hill, sc, 29730, us",5.86,,,11.23,,sc,29730,York
+1283,Jack in the Box,"5615 charlotte pike, nashville, tn, 37209, us",5.99,,,10.85,,tn,37209,Davidson
+1284,Jack in the Box,"5656 old hickory blvd, hermitage, tn, 37076, us",5.86,,,10.73,,tn,37076,Davidson
+1285,Jack in the Box,"3900 dickerson pike, nashville, tn, 37207, us",5.86,,,10.73,,tn,37207,Davidson
+1286,Jack in the Box,"718 s zarzamora st., san antonio, tx, 78207, us",5.61,,,11.73,,tx,78207,Bexar
+1287,Jack in the Box,"903 probandt st., san antonio, tx, 78204, us",5.61,,,11.73,,tx,78204,Bexar
+1288,Jack in the Box,"4626 fredericksburg rd., san antonio, tx, 78201, us",5.61,,,11.73,,tx,78201,Bexar
+1289,Jack in the Box,"15037 nacogdoches road, san antonio, tx, 78247, us",5.61,,,11.73,,tx,78247,Bexar
+1290,Jack in the Box,"7720 fm 78, san antonio, tx, 78244, us",5.61,,,11.73,,tx,78244,Bexar
+1291,Jack in the Box,"1818 n foster rd., san antonio, tx, 78244, us",5.61,,,11.73,,tx,78244,Bexar
+1292,Jack in the Box,"3426 main st ste 102, pearland, tx, 77581, us",5.24,,,10.36,,tx,77581,Brazoria
+1293,Jack in the Box,"8497 s sam, houston, tx, 77075, us",6.29,,,10.81,,tx,77075,Harris
+1294,Jack in the Box,"11605 s sam, houston, tx, 77089, us",5.49,,,10.73,,tx,77089,Harris
+1295,Jack in the Box,"2702 reid blvd, pearland, tx, 77581, us",5.24,,,10.36,,tx,77581,Brazoria
+1296,Jack in the Box,"10004 telephone rd, houston, tx, 77075, us",6.29,,,10.81,,tx,77075,Harris
+1297,Jack in the Box,"1504 texas ave. s, college station, tx, 77840, us",5.24,,,10.36,,tx,77840,Brazos
+1298,Jack in the Box,"2906 s. texas ave., bryan, tx, 77802, us",5.24,,,10.36,,tx,77802,Brazos
+1299,Jack in the Box,"900 north earl rudder freeway, bryan, tx, 77802, us",5.24,,,10.36,,tx,77802,Brazos
+1300,Jack in the Box,"916 n expressway, brownsville, tx, 78521, us",5.36,,,10.23,,tx,78521,Cameron
+1301,Jack in the Box,"5120 s padre island hwy, brownsville, tx, 78521, us",5.36,,,10.23,,tx,78521,Cameron
+1302,Jack in the Box,"4250 north expressway 77, brownsville, tx, 78526, us",5.36,,,10.23,,tx,78526,Cameron
+1303,Jack in the Box,"1205 jupiter rd, plano, tx, 75074, us",5.61,,,9.98,,tx,75074,Collin
+1304,Jack in the Box,"905 legacy dr, plano, tx, 75023, us",5.36,,,8.98,,tx,75023,Collin
+1305,Jack in the Box,"804 w mcdermott dr, allen, tx, 75013, us",5.36,,,8.98,,tx,75013,Collin
+1306,Jack in the Box,"190 continental ave, dallas, tx, 75207, us",5.49,,,10.86,,tx,75207,Dallas
+1307,Jack in the Box,"3811 live oak st, dallas, tx, 75204, us",5.99,,,11.23,,tx,75204,Dallas
+1308,Jack in the Box,"721 s r l thornton fwy, dallas, tx, 75203, us",5.36,,,10.74,,tx,75203,Dallas
+1309,Jack in the Box,"4402 maple avenue, dallas, tx, 75219, us",5.36,,,10.74,,tx,75219,Dallas
+1310,Jack in the Box,"4210 north central expy, dallas, tx, 75206, us",5.49,,,10.86,,tx,75206,Dallas
+1311,Jack in the Box,"5336 philip ave, dallas, tx, 75223, us",5.99,,,11.23,,tx,75223,Dallas
+1312,Jack in the Box,"502 n. o'connor rd, irving, tx, 75061, us",5.49,,,11.48,,tx,75061,Dallas
+1313,Jack in the Box,"2500 w., irving, tx, 75061, us",5.49,,,11.48,,tx,75061,Dallas
+1314,Jack in the Box,"925 n loop 12, irving, tx, 75061, us",4.99,,,10.61,,tx,75061,Dallas
+1315,Jack in the Box,"5340 macarthur boulevard, irving, tx, 75038, us",5.74,,,10.99,,tx,75038,Dallas
+1316,Jack in the Box,"2204 west northwest highway, dallas, tx, 75220, us",5.49,,,10.99,,tx,75220,Dallas
+1317,Jack in the Box,"515 s henderson st, fort worth, tx, 76104, us",4.99,,,9.85,,tx,76104,Tarrant
+1318,Jack in the Box,"1001 south fwy, fort worth, tx, 76104, us",4.99,,,9.98,,tx,76104,Tarrant
+1319,Jack in the Box,"2851 w berry st, fort worth, tx, 76109, us",5.49,,,10.48,,tx,76109,Tarrant
+1320,Jack in the Box,"2220 jacksboro highway, ft. worth, tx, 76106, us",4.99,,,10.61,,tx,76106,Tarrant
+1321,Jack in the Box,"3209 east belknap street, fort worth, tx, 76111, us",4.11,,,10.99,,tx,76111,Tarrant
+1322,Jack in the Box,"2802 n main st, fort worth, tx, 76106, us",4.99,,,9.98,,tx,76106,Tarrant
+1323,Jack in the Box,"5519 w alameda ave, el paso, tx, 79905, us",5.84,,,10.37,,tx,79905,El Paso
+1324,Jack in the Box,"6700 montana ave, el paso, tx, 79925, us",5.84,,,10.37,,tx,79925,El Paso
+1325,Jack in the Box,"3110 w dallas st, houston, tx, 77019, us",5.24,,,10.36,,tx,77019,Harris
+1326,Jack in the Box,"7525 east freeway, houston, tx, 77020, us",5.24,,,10.36,,tx,77020,Harris
+1327,Jack in the Box,"2901 airline dr, houston, tx, 77009, us",6.39,,,12.01,,tx,77009,Harris
+1328,Jack in the Box,"5850 gulf fwy, houston, tx, 77023, us",5.45,,,10.78,,tx,77023,Harris
+1329,Jack in the Box,"3415 navigation blvd, houston, tx, 77003, us",5.45,,,10.78,,tx,77003,Harris
+1330,Jack in the Box,"94 e. crosstimbers st, houston, tx, 77022, us",5.24,,,10.36,,tx,77022,Harris
+1331,Jack in the Box,"801 telephone rd., houston, tx, 77023, us",5.24,,,10.36,,tx,77023,Harris
+1332,Jack in the Box,"3601 old spanish trail, houston, tx, 77021, us",5.28,,,10.45,,tx,77021,Harris
+1333,Jack in the Box,"1503 w, league city, tx, 77573, us",5.19,,,10.63,,tx,77573,Galveston
+1334,Jack in the Box,"1665 west fm 646 road, league city, tx, 77573, us",5.19,,,10.63,,tx,77573,Galveston
+1335,Jack in the Box,"3134 fm 528 rd, webster, tx, 77598, us",5.19,,,10.63,,tx,77598,Harris
+1336,Jack in the Box,"4457 nasa parkway 1, seabrook, tx, 77586, us",4.99,,,10.23,,tx,77586,Harris
+1337,Jack in the Box,"221 richey st, pasadena, tx, 77506, us",5.24,,,10.36,,tx,77506,Harris
+1338,Jack in the Box,"1503 spencer hwy, south houston, tx, 77587, us",5.36,,,10.61,,tx,77587,Harris
+1339,Jack in the Box,"1202 college ave, south houston, tx, 77587, us",5.45,,,10.78,,tx,77587,Harris
+1340,Jack in the Box,"7447 spencer highway, pasadena, tx, 77505, us",5.24,,,10.36,,tx,77505,Harris
+1341,Jack in the Box,"703 s jackson rd, pharr, tx, 78577, us",5.36,,,10.23,,tx,78577,Hidalgo
+1342,Jack in the Box,"902 raul longoria rd, san juan, tx, 78589, us",5.36,,,10.23,,tx,78589,Hidalgo
+1343,Jack in the Box,"1602 w university dr, edinburg, tx, 78539, us",5.36,,,10.23,,tx,78539,Hidalgo
+1344,Jack in the Box,"1550 interstate 10 e, beaumont, tx, 77703, us",4.99,,,10.23,,tx,77703,Jefferson
+1345,Jack in the Box,"7380 highway 105, beaumont, tx, 77713, us",4.99,,,10.23,,tx,77713,Jefferson
+1346,Jack in the Box,"3155 s padre island dr, corpus christi, tx, 78415, us",5.36,,,9.98,,tx,78415,Nueces
+1347,Jack in the Box,"1502 airline road ste 302, corpus christi, tx, 78412, us",5.36,,,9.98,,tx,78412,Nueces
+1348,Jack in the Box,"700 w division st, arlington, tx, 76012, us",6.24,,,11.85,,tx,76012,Tarrant
+1349,Jack in the Box,"712 e pioneer pkwy, arlington, tx, 76010, us",4.99,,,9.98,,tx,76010,Tarrant
+1350,Jack in the Box,"2501 w pioneer pkwy, pantego, tx, 76013, us",4.99,,,9.73,,tx,76013,Tarrant
+1351,Jack in the Box,"2085 n. highway 360, grand prairie, tx, 75050, us",5.49,,,11.48,,tx,75050,Dallas
+1352,Jack in the Box,"1936 e oltorf st, austin, tx, 78741, us",6.24,,,12.35,,tx,78741,Travis
+1353,Jack in the Box,"1000 east 41st street unit k, austin, tx, 78751, us",6.11,,,12.35,,tx,78751,Travis
+1354,Jack in the Box,"1151 airport blvd, austin, tx, 78702, us",6.24,,,12.35,,tx,78702,Travis
+1355,Jack in the Box,"1121 e palm valley blvd, round rock, tx, 78664, us",6.24,,,12.35,,tx,78664,Williamson
+1356,Jack in the Box,"1700 fm 685, pflugerville, tx, 78660, us",6.24,,,12.35,,tx,78660,Travis
+1357,Jack in the Box,"2120 south interstate 35, round rock, tx, 78681, us",6.24,,,12.35,,tx,78681,Williamson
+1358,Jack in the Box,"1001 leander rd, georgetown, tx, 78628, us",6.11,,,12.35,,tx,78628,Williamson
+1359,Jack in the Box,"16330 r r 620, round rock, tx, 78681, us",6.11,,,12.35,,tx,78681,Williamson
+1360,Jack in the Box,"1726 bluff ridge drive, syracuse, ut, 84075, us",4.61,,,10.73,,ut,84075,Davis
+1361,Jack in the Box,"61 e 2100 s st, salt lake city, ut, 84115, us",4.61,,,10.73,,ut,84115,Salt Lake
+1362,Carls Jr,"871 marina village pkwy, alameda, ca, 94501, us",,6.16,,,4.99,ca,94501,Alameda
+1363,Carls Jr,"10770 macarthur blvd, oakland, ca, 94605, us",,5.75,,,4.65,ca,94605,Alameda
+1364,Carls Jr,"1550 fitzgerald drive, pinole, ca, 94564, us",,6.0,,,4.2,ca,94564,Contra Costa
+1365,Carls Jr,"1700 w state st, boise, id, 83702, us",6.29,4.99,,,3.79,id,83702,Ada
+1366,Carls Jr,"493 n milwaukee st, boise, id, 83704, us",6.29,4.99,,,3.79,id,83704,Ada
+1367,Carls Jr,"4994 e 41st, tulsa, ok, 74135, us",,5.11,,,3.11,ok,74135,Tulsa
+1368,Carls Jr,"1432 s peoria ave, tulsa, ok, 74120, us",,,,,,ok,74120,Tulsa
+1369,Carls Jr,"1533 n. peoria, tulsa, ok, 74106, us",,,,,,ok,74106,Tulsa
+1370,Carls Jr,"4840 s yale ave, tulsa, ok, 74135, us",,,,,,ok,74135,Tulsa
+1371,Carls Jr,"1 hallidie plaza, san francisco, ca, 94102, us",,7.02,,,5.7,ca,94102,San Francisco
+1372,Carls Jr,"1039 w university ave, georgetown, tx, 78628, us",,4.55,,,3.5,tx,78628,Williamson
+1373,Carls Jr,"925 w antelope drive, layton, ut, 84041, us",,5.09,,,3.79,ut,84041,Davis
+1374,Carls Jr,"1726 bluff ridge drive, syracuse, ut, 84075, us",,,,,,ut,84075,Davis
+1375,Carls Jr,"2011 north hillfield road, layton, ut, 84041, us",,,,,,ut,84041,Davis
+1376,Carls Jr,"4029, riverdale, ut, 84405, us",,,,,,ut,84405,Weber
+1377,Carls Jr,"737 n. main street, layton, ut, 84041, us",,,,,,ut,84041,Davis
+1378,The Habit,"1080 monroe st, albany, ca, 94706, us",9.74,8.61,7.49,18.24,4.74,ca,94706,Alameda
+1379,The Habit,"2640 5th st, alameda, ca, 94501, us",9.74,8.61,7.49,18.24,4.74,ca,94501,Alameda
+1380,The Habit,"1412, pinole, ca, 94564, us",9.74,8.61,7.49,18.24,4.74,ca,94564,Contra Costa
+1381,The Habit,"1255 s california blvd, walnut creek, ca, 94596, us",9.74,8.61,7.49,18.24,4.74,ca,94596,Contra Costa
+1382,The Habit,"2206 n eagle rd, meridian, id, 83646, us",8.74,7.86,6.74,15.87,3.74,id,83646,Ada
+1383,The Habit,"16291 n marketplace blvd, nampa, id, 83687, us",8.74,7.86,6.74,16.24,4.11,id,83687,Canyon
+1384,The Habit,"2050 skibo rd, fayetteville, nc, 28314, us",9.24,8.11,6.99,17.24,4.36,nc,28314,Cumberland
+1385,The Habit,"3703 battleground avenue, greensboro, nc, 27410, us",8.74,7.86,6.74,15.87,3.74,nc,27410,Guilford
+1386,The Habit,"7266 north carolina 73, denver, nc, 28037, us",8.74,7.86,6.74,15.87,3.74,nc,28037,Lincoln
+1387,The Habit,"120 village drive, king of prussia, usa, upper merion, pa, 19406, us",8.74,7.86,6.74,15.87,3.74,pa,19406,Montgomery
+1388,The Habit,"1122 west wade hampton boulevard, greer, sc, 29650, us",8.74,7.86,6.74,15.87,3.74,sc,29650,Greenville
+1389,The Habit,"1489 w. o. ezell boulevard, spartanburg, sc, 29301, us",8.74,7.86,6.74,15.87,3.74,sc,29301,Spartanburg
+1390,The Habit,"6210 calhoun memorial highway, easley, sc, 29640, us",8.74,7.86,6.74,15.87,3.74,sc,29640,Pickens
+1391,The Habit,"5304 sunset boulevard, lexington, sc, 29072, us",8.74,7.86,6.74,15.87,3.74,sc,29072,Lexington
+1392,The Habit,"7740 charlotte highway, indian land, sc, 29707, us",9.24,8.11,6.99,17.24,4.36,sc,29707,Lancaster
+1393,The Habit,"508 antelope dr, layton, ut, 84041, us",8.74,7.86,6.74,15.87,3.74,ut,84041,Davis
+1394,The Habit,"260 w union ave, farmington, ut, 84025, us",8.74,7.86,6.74,16.24,4.11,ut,84025,Davis
+1395,The Habit,"1726 bluff ridge drive, syracuse, ut, 84075, us",,,,,,ut,84075,Davis
+1396,The Habit,"2011 north hillfield road, layton, ut, 84041, us",,,,,,ut,84041,Davis
+1397,The Habit,"6993 park centre dr, cottonwood heights, ut, 84121, us",8.74,7.86,6.74,16.24,4.11,ut,84121,Salt Lake
+1398,The Habit,"2245 n university pkwy, provo, ut, 84604, us",8.74,7.86,6.74,15.87,3.74,ut,84604,Utah
